@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="date" label="Date of action" language="en" table="x_ipegh_copyright_qc">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>date</element>
+            <help/>
+            <hint/>
+            <label>Date of action</label>
+            <language>en</language>
+            <name>x_ipegh_copyright_qc</name>
+            <plural>Date of actions</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-06-20 11:41:05</sys_created_on>
+            <sys_id>bc4431dbdb8e3b00b26388805b96198a</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Date of action</sys_name>
+            <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
+            <sys_update_name>sys_documentation_x_ipegh_copyright_qc_date_en</sys_update_name>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-06-20 13:11:34</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="area" table="x_ipegh_copyright_qc" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>area</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cases</label>
+            <language>en</language>
+            <name>x_ipegh_copyright_qc</name>
+            <sequence>0</sequence>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-06-20 13:11:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8ef88e9fdbce3b00b26388805b9619e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-06-20 13:11:34</sys_updated_on>
+            <u_customer_visible>false</u_customer_visible>
+            <value>cases</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>area</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Service Requests</label>
+            <language>en</language>
+            <name>x_ipegh_copyright_qc</name>
+            <sequence>1</sequence>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-06-20 13:11:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c2f88e9fdbce3b00b26388805b9619e7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-06-20 13:11:34</sys_updated_on>
+            <u_customer_visible>false</u_customer_visible>
+            <value>service requests</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>area</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>High Earnings</label>
+            <language>en</language>
+            <name>x_ipegh_copyright_qc</name>
+            <sequence>2</sequence>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-06-20 13:11:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>06f88e9fdbce3b00b26388805b9619e9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-06-20 13:11:34</sys_updated_on>
+            <u_customer_visible>false</u_customer_visible>
+            <value>high earnings</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>area</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Agreements</label>
+            <language>en</language>
+            <name>x_ipegh_copyright_qc</name>
+            <sequence>3</sequence>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-06-20 13:11:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>46f88e9fdbce3b00b26388805b9619eb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-06-20 13:11:34</sys_updated_on>
+            <u_customer_visible>false</u_customer_visible>
+            <value>agreements</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>area</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Counterclaims</label>
+            <language>en</language>
+            <name>x_ipegh_copyright_qc</name>
+            <sequence>4</sequence>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-06-20 13:11:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4ef88e9fdbce3b00b26388805b9619f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-06-20 13:11:34</sys_updated_on>
+            <u_customer_visible>false</u_customer_visible>
+            <value>counterclaims</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>area</element>
+            <name>x_ipegh_copyright_qc</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-06-20 13:11:34</sys_created_on>
+            <sys_id>0af88e9fdbce3b00b26388805b9619e5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>area</sys_name>
+            <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
+            <sys_update_name>sys_choice_x_ipegh_copyright_qc_area</sys_update_name>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-06-20 13:11:34</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
