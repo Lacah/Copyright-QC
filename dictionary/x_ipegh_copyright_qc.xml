@@ -1,15 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element audit="true" extends="task" label="Copyright QC task" max_length="40" name="x_ipegh_copyright_qc" sizeclass="3" type="collection">
-        <element choice="1" label="Area" max_length="40" name="area" type="choice">
+        <element choice="1" label="Area" max_length="40" name="area" read_only="true" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Cases" sequence="0" value="cases"/>
-                <element inactive_on_update="false" label="Service Requests" sequence="1" value="service requests"/>
-                <element inactive_on_update="false" label="High Earnings" sequence="2" value="high earnings"/>
+                <element inactive_on_update="false" label="Update requests" sequence="1" value="service requests"/>
+                <element inactive_on_update="false" label="High Earning" sequence="2" value="high earning"/>
                 <element inactive_on_update="false" label="Agreements" sequence="3" value="agreements"/>
                 <element inactive_on_update="false" label="Counterclaims" sequence="4" value="counterclaims"/>
+                <element inactive_on_update="false" label="Counterclaim Case Created" sequence="5" value="counterclaim case created"/>
+                <element inactive_on_update="false" label="Resolved" sequence="6" value="resolved"/>
             </choice>
         </element>
-        <element label="Counterclaim ID" max_length="40" name="counterclaim_id" type="string"/>
+        <element label="Counterclaim ID" max_length="40" name="counterclaim_id" read_only="true" type="string"/>
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" choice="1" label="Customer" max_length="40" name="customer" read_only="true" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Buma/Stemra" value="BUMA"/>
+                <element inactive_on_update="false" label="Polaris" value="Polaris"/>
+                <element inactive_on_update="false" label="PRS" value="PRS"/>
+                <element inactive_on_update="false" label="PRS APT" value="PRS APT"/>
+                <element inactive_on_update="false" label="PRS counterclaims" value="PRS_Counterclaims"/>
+                <element inactive_on_update="false" label="Sabam" value="SABAM"/>
+                <element inactive_on_update="false" label="STIM" value="STIM"/>
+            </choice>
+        </element>
         <element label="Date of action" max_length="40" name="date" read_only="true" type="glide_date"/>
         <element label="Link to UR" max_length="1024" name="link_to_ur" type="url"/>
         <element label="Number of checked items" max_length="40" name="number_of_checked_items" read_only="true" type="integer"/>
@@ -35,12 +48,12 @@
                 <element inactive_on_update="false" label="Service Request error" sequence="17" value="Service Request error"/>
             </choice>
         </element>
-        <element label="User" max_length="32" name="user" reference="sys_user" type="reference"/>
+        <element label="User" max_length="32" name="user" read_only="true" reference="sys_user" type="reference"/>
         <element label="Items copyright / reporting errors" max_length="40" name="u_items_errors" type="integer"/>
         <element attributes="edge_encryption_enabled=true" label="Reporting period" max_length="40" name="u_reporting_period" read_only="true" type="glide_date"/>
         <element attributes="edge_encryption_enabled=true" label="Link to work" max_length="1024" name="u_rok_url" type="url"/>
         <element label="Items SR errors" max_length="40" name="u_sr_error" type="integer"/>
-        <element label="Week" max_length="2" name="week" type="integer"/>
-        <element label="Workkey" max_length="40" name="workkey" type="string"/>
+        <element label="Week" max_length="2" name="week" read_only="true" type="integer"/>
+        <element label="Workkey" max_length="40" name="workkey" read_only="true" type="string"/>
     </element>
 </database>

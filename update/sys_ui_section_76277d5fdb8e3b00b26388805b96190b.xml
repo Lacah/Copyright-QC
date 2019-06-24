@@ -4,209 +4,209 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>LasBal</sys_created_by>
-            <sys_created_on>2019-06-21 15:36:13</sys_created_on>
-            <sys_id>36a3b3a7db06bb00b26388805b961945</sys_id>
+            <sys_created_on>2019-06-24 15:06:05</sys_created_on>
+            <sys_id>ee890f64db5a7f00a8088edf4b961968</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Core information" display_value="Core information" name="x_ipegh_copyright_qc" sys_domain="global" view="Default view">76277d5fdb8e3b00b26388805b96190b</sys_ui_section>
             <sys_updated_by>LasBal</sys_updated_by>
-            <sys_updated_on>2019-06-21 15:36:13</sys_updated_on>
+            <sys_updated_on>2019-06-24 15:06:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>week</element>
+            <element>customer</element>
             <position>1</position>
             <sys_created_by>LasBal</sys_created_by>
-            <sys_created_on>2019-06-21 15:36:13</sys_created_on>
-            <sys_id>baa3b3a7db06bb00b26388805b961945</sys_id>
+            <sys_created_on>2019-06-24 15:06:05</sys_created_on>
+            <sys_id>6a890f64db5a7f00a8088edf4b961969</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Core information" display_value="Core information" name="x_ipegh_copyright_qc" sys_domain="global" view="Default view">76277d5fdb8e3b00b26388805b96190b</sys_ui_section>
             <sys_updated_by>LasBal</sys_updated_by>
-            <sys_updated_on>2019-06-21 15:36:13</sys_updated_on>
+            <sys_updated_on>2019-06-24 15:06:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>area</element>
+            <position>2</position>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-06-24 15:06:05</sys_created_on>
+            <sys_id>ee890f64db5a7f00a8088edf4b961969</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Core information" display_value="Core information" name="x_ipegh_copyright_qc" sys_domain="global" view="Default view">76277d5fdb8e3b00b26388805b96190b</sys_ui_section>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-06-24 15:06:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_reporting_period</element>
-            <position>2</position>
+            <position>3</position>
             <sys_created_by>LasBal</sys_created_by>
-            <sys_created_on>2019-06-21 15:36:13</sys_created_on>
-            <sys_id>32a3b3a7db06bb00b26388805b961946</sys_id>
+            <sys_created_on>2019-06-24 15:06:05</sys_created_on>
+            <sys_id>66890f64db5a7f00a8088edf4b96196a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Core information" display_value="Core information" name="x_ipegh_copyright_qc" sys_domain="global" view="Default view">76277d5fdb8e3b00b26388805b96190b</sys_ui_section>
             <sys_updated_by>LasBal</sys_updated_by>
-            <sys_updated_on>2019-06-21 15:36:13</sys_updated_on>
+            <sys_updated_on>2019-06-24 15:06:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>week</element>
+            <position>4</position>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-06-24 15:06:05</sys_created_on>
+            <sys_id>ea890f64db5a7f00a8088edf4b96196a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Core information" display_value="Core information" name="x_ipegh_copyright_qc" sys_domain="global" view="Default view">76277d5fdb8e3b00b26388805b96190b</sys_ui_section>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-06-24 15:06:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>date</element>
-            <position>3</position>
+            <position>5</position>
             <sys_created_by>LasBal</sys_created_by>
-            <sys_created_on>2019-06-21 15:36:13</sys_created_on>
-            <sys_id>b6a3b3a7db06bb00b26388805b961946</sys_id>
+            <sys_created_on>2019-06-24 15:06:05</sys_created_on>
+            <sys_id>62890f64db5a7f00a8088edf4b96196b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Core information" display_value="Core information" name="x_ipegh_copyright_qc" sys_domain="global" view="Default view">76277d5fdb8e3b00b26388805b96190b</sys_ui_section>
             <sys_updated_by>LasBal</sys_updated_by>
-            <sys_updated_on>2019-06-21 15:36:13</sys_updated_on>
+            <sys_updated_on>2019-06-24 15:06:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>user</element>
+            <position>6</position>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-06-24 15:06:05</sys_created_on>
+            <sys_id>e6890f64db5a7f00a8088edf4b96196b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Core information" display_value="Core information" name="x_ipegh_copyright_qc" sys_domain="global" view="Default view">76277d5fdb8e3b00b26388805b96190b</sys_ui_section>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-06-24 15:06:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>workkey</element>
-            <position>4</position>
+            <position>7</position>
             <sys_created_by>LasBal</sys_created_by>
-            <sys_created_on>2019-06-21 15:36:13</sys_created_on>
-            <sys_id>3ea3b3a7db06bb00b26388805b961946</sys_id>
+            <sys_created_on>2019-06-24 15:06:05</sys_created_on>
+            <sys_id>6e890f64db5a7f00a8088edf4b96196b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Core information" display_value="Core information" name="x_ipegh_copyright_qc" sys_domain="global" view="Default view">76277d5fdb8e3b00b26388805b96190b</sys_ui_section>
             <sys_updated_by>LasBal</sys_updated_by>
-            <sys_updated_on>2019-06-21 15:36:13</sys_updated_on>
+            <sys_updated_on>2019-06-24 15:06:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_rok_url</element>
-            <position>5</position>
+            <position>8</position>
             <sys_created_by>LasBal</sys_created_by>
-            <sys_created_on>2019-06-21 15:36:13</sys_created_on>
-            <sys_id>b2a3b3a7db06bb00b26388805b961947</sys_id>
+            <sys_created_on>2019-06-24 15:06:05</sys_created_on>
+            <sys_id>e2890f64db5a7f00a8088edf4b96196c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Core information" display_value="Core information" name="x_ipegh_copyright_qc" sys_domain="global" view="Default view">76277d5fdb8e3b00b26388805b96190b</sys_ui_section>
             <sys_updated_by>LasBal</sys_updated_by>
-            <sys_updated_on>2019-06-21 15:36:13</sys_updated_on>
+            <sys_updated_on>2019-06-24 15:06:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>counterclaim_id</element>
-            <position>6</position>
+            <position>9</position>
             <sys_created_by>LasBal</sys_created_by>
-            <sys_created_on>2019-06-21 15:36:13</sys_created_on>
-            <sys_id>3aa3b3a7db06bb00b26388805b961947</sys_id>
+            <sys_created_on>2019-06-24 15:06:05</sys_created_on>
+            <sys_id>6a890f64db5a7f00a8088edf4b96196c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Core information" display_value="Core information" name="x_ipegh_copyright_qc" sys_domain="global" view="Default view">76277d5fdb8e3b00b26388805b96190b</sys_ui_section>
             <sys_updated_by>LasBal</sys_updated_by>
-            <sys_updated_on>2019-06-21 15:36:13</sys_updated_on>
+            <sys_updated_on>2019-06-24 15:06:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_1st_external_ref_code</element>
-            <position>7</position>
+            <position>10</position>
             <sys_created_by>LasBal</sys_created_by>
-            <sys_created_on>2019-06-21 15:36:13</sys_created_on>
-            <sys_id>bea3b3a7db06bb00b26388805b961947</sys_id>
+            <sys_created_on>2019-06-24 15:06:05</sys_created_on>
+            <sys_id>ee890f64db5a7f00a8088edf4b96196c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Core information" display_value="Core information" name="x_ipegh_copyright_qc" sys_domain="global" view="Default view">76277d5fdb8e3b00b26388805b96190b</sys_ui_section>
             <sys_updated_by>LasBal</sys_updated_by>
-            <sys_updated_on>2019-06-21 15:36:13</sys_updated_on>
+            <sys_updated_on>2019-06-24 15:06:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>link_to_ur</element>
-            <position>8</position>
+            <position>11</position>
             <sys_created_by>LasBal</sys_created_by>
-            <sys_created_on>2019-06-21 15:36:13</sys_created_on>
-            <sys_id>b2a3b3a7db06bb00b26388805b961961</sys_id>
+            <sys_created_on>2019-06-24 15:06:05</sys_created_on>
+            <sys_id>66890f64db5a7f00a8088edf4b96196d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Core information" display_value="Core information" name="x_ipegh_copyright_qc" sys_domain="global" view="Default view">76277d5fdb8e3b00b26388805b96190b</sys_ui_section>
             <sys_updated_by>LasBal</sys_updated_by>
-            <sys_updated_on>2019-06-21 15:36:13</sys_updated_on>
+            <sys_updated_on>2019-06-24 15:06:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>number_of_checked_items</element>
-            <position>9</position>
+            <position>12</position>
             <sys_created_by>LasBal</sys_created_by>
-            <sys_created_on>2019-06-21 15:36:13</sys_created_on>
-            <sys_id>3aa3b3a7db06bb00b26388805b961961</sys_id>
+            <sys_created_on>2019-06-24 15:06:05</sys_created_on>
+            <sys_id>ea890f64db5a7f00a8088edf4b96196d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Core information" display_value="Core information" name="x_ipegh_copyright_qc" sys_domain="global" view="Default view">76277d5fdb8e3b00b26388805b96190b</sys_ui_section>
             <sys_updated_by>LasBal</sys_updated_by>
-            <sys_updated_on>2019-06-21 15:36:13</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_items_errors</element>
-            <position>10</position>
-            <sys_created_by>LasBal</sys_created_by>
-            <sys_created_on>2019-06-21 15:36:13</sys_created_on>
-            <sys_id>bea3b3a7db06bb00b26388805b961961</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Core information" display_value="Core information" name="x_ipegh_copyright_qc" sys_domain="global" view="Default view">76277d5fdb8e3b00b26388805b96190b</sys_ui_section>
-            <sys_updated_by>LasBal</sys_updated_by>
-            <sys_updated_on>2019-06-21 15:36:13</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_sr_error</element>
-            <position>11</position>
-            <sys_created_by>LasBal</sys_created_by>
-            <sys_created_on>2019-06-21 15:36:13</sys_created_on>
-            <sys_id>36a3b3a7db06bb00b26388805b961962</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Core information" display_value="Core information" name="x_ipegh_copyright_qc" sys_domain="global" view="Default view">76277d5fdb8e3b00b26388805b96190b</sys_ui_section>
-            <sys_updated_by>LasBal</sys_updated_by>
-            <sys_updated_on>2019-06-21 15:36:13</sys_updated_on>
+            <sys_updated_on>2019-06-24 15:06:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>12</position>
-            <sys_created_by>LasBal</sys_created_by>
-            <sys_created_on>2019-06-21 15:36:13</sys_created_on>
-            <sys_id>baa3b3a7db06bb00b26388805b961962</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Core information" display_value="Core information" name="x_ipegh_copyright_qc" sys_domain="global" view="Default view">76277d5fdb8e3b00b26388805b96190b</sys_ui_section>
-            <sys_updated_by>LasBal</sys_updated_by>
-            <sys_updated_on>2019-06-21 15:36:13</sys_updated_on>
-            <sys_user/>
-            <type>.split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>area</element>
             <position>13</position>
             <sys_created_by>LasBal</sys_created_by>
-            <sys_created_on>2019-06-21 15:36:13</sys_created_on>
-            <sys_id>32a3b3a7db06bb00b26388805b961963</sys_id>
+            <sys_created_on>2019-06-24 15:06:05</sys_created_on>
+            <sys_id>62890f64db5a7f00a8088edf4b96196e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Core information" display_value="Core information" name="x_ipegh_copyright_qc" sys_domain="global" view="Default view">76277d5fdb8e3b00b26388805b96190b</sys_ui_section>
             <sys_updated_by>LasBal</sys_updated_by>
-            <sys_updated_on>2019-06-21 15:36:13</sys_updated_on>
+            <sys_updated_on>2019-06-24 15:06:05</sys_updated_on>
             <sys_user/>
-            <type/>
+            <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>assignment_group</element>
             <position>14</position>
             <sys_created_by>LasBal</sys_created_by>
-            <sys_created_on>2019-06-21 15:36:13</sys_created_on>
-            <sys_id>b6a3b3a7db06bb00b26388805b961963</sys_id>
+            <sys_created_on>2019-06-24 15:06:05</sys_created_on>
+            <sys_id>e6890f64db5a7f00a8088edf4b96196e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Core information" display_value="Core information" name="x_ipegh_copyright_qc" sys_domain="global" view="Default view">76277d5fdb8e3b00b26388805b96190b</sys_ui_section>
             <sys_updated_by>LasBal</sys_updated_by>
-            <sys_updated_on>2019-06-21 15:36:13</sys_updated_on>
+            <sys_updated_on>2019-06-24 15:06:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -214,83 +214,83 @@
             <element>assigned_to</element>
             <position>15</position>
             <sys_created_by>LasBal</sys_created_by>
-            <sys_created_on>2019-06-21 15:36:13</sys_created_on>
-            <sys_id>3ea3b3a7db06bb00b26388805b961963</sys_id>
+            <sys_created_on>2019-06-24 15:06:05</sys_created_on>
+            <sys_id>6e890f64db5a7f00a8088edf4b96196e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Core information" display_value="Core information" name="x_ipegh_copyright_qc" sys_domain="global" view="Default view">76277d5fdb8e3b00b26388805b96190b</sys_ui_section>
             <sys_updated_by>LasBal</sys_updated_by>
-            <sys_updated_on>2019-06-21 15:36:13</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>user</element>
-            <position>16</position>
-            <sys_created_by>LasBal</sys_created_by>
-            <sys_created_on>2019-06-21 15:36:13</sys_created_on>
-            <sys_id>b2a3b3a7db06bb00b26388805b961964</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Core information" display_value="Core information" name="x_ipegh_copyright_qc" sys_domain="global" view="Default view">76277d5fdb8e3b00b26388805b96190b</sys_ui_section>
-            <sys_updated_by>LasBal</sys_updated_by>
-            <sys_updated_on>2019-06-21 15:36:13</sys_updated_on>
+            <sys_updated_on>2019-06-24 15:06:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>state</element>
-            <position>17</position>
+            <position>16</position>
             <sys_created_by>LasBal</sys_created_by>
-            <sys_created_on>2019-06-21 15:36:13</sys_created_on>
-            <sys_id>3aa3b3a7db06bb00b26388805b961964</sys_id>
+            <sys_created_on>2019-06-24 15:06:05</sys_created_on>
+            <sys_id>e2890f64db5a7f00a8088edf4b96196f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Core information" display_value="Core information" name="x_ipegh_copyright_qc" sys_domain="global" view="Default view">76277d5fdb8e3b00b26388805b96190b</sys_ui_section>
             <sys_updated_by>LasBal</sys_updated_by>
-            <sys_updated_on>2019-06-21 15:36:13</sys_updated_on>
+            <sys_updated_on>2019-06-24 15:06:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>type</element>
-            <position>18</position>
+            <position>17</position>
             <sys_created_by>LasBal</sys_created_by>
-            <sys_created_on>2019-06-21 15:36:13</sys_created_on>
-            <sys_id>bea3b3a7db06bb00b26388805b961964</sys_id>
+            <sys_created_on>2019-06-24 15:06:05</sys_created_on>
+            <sys_id>6a890f64db5a7f00a8088edf4b96196f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Core information" display_value="Core information" name="x_ipegh_copyright_qc" sys_domain="global" view="Default view">76277d5fdb8e3b00b26388805b96190b</sys_ui_section>
             <sys_updated_by>LasBal</sys_updated_by>
-            <sys_updated_on>2019-06-21 15:36:13</sys_updated_on>
+            <sys_updated_on>2019-06-24 15:06:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_items_errors</element>
+            <position>18</position>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-06-24 15:06:05</sys_created_on>
+            <sys_id>ee890f64db5a7f00a8088edf4b96196f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Core information" display_value="Core information" name="x_ipegh_copyright_qc" sys_domain="global" view="Default view">76277d5fdb8e3b00b26388805b96190b</sys_ui_section>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-06-24 15:06:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_sr_error</element>
+            <position>19</position>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-06-24 15:06:05</sys_created_on>
+            <sys_id>66890f64db5a7f00a8088edf4b961970</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Core information" display_value="Core information" name="x_ipegh_copyright_qc" sys_domain="global" view="Default view">76277d5fdb8e3b00b26388805b96190b</sys_ui_section>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-06-24 15:06:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>closed_at</element>
-            <position>19</position>
-            <sys_created_by>LasBal</sys_created_by>
-            <sys_created_on>2019-06-21 15:36:13</sys_created_on>
-            <sys_id>36a3b3a7db06bb00b26388805b961965</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Core information" display_value="Core information" name="x_ipegh_copyright_qc" sys_domain="global" view="Default view">76277d5fdb8e3b00b26388805b96190b</sys_ui_section>
-            <sys_updated_by>LasBal</sys_updated_by>
-            <sys_updated_on>2019-06-21 15:36:13</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>update_request</element>
             <position>20</position>
             <sys_created_by>LasBal</sys_created_by>
-            <sys_created_on>2019-06-21 15:50:47</sys_created_on>
-            <sys_id>54073f6bdb06bb00b26388805b961966</sys_id>
+            <sys_created_on>2019-06-24 15:06:05</sys_created_on>
+            <sys_id>ea890f64db5a7f00a8088edf4b961970</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Core information" display_value="Core information" name="x_ipegh_copyright_qc" sys_domain="global" view="Default view">76277d5fdb8e3b00b26388805b96190b</sys_ui_section>
             <sys_updated_by>LasBal</sys_updated_by>
-            <sys_updated_on>2019-06-21 15:50:47</sys_updated_on>
+            <sys_updated_on>2019-06-24 15:06:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

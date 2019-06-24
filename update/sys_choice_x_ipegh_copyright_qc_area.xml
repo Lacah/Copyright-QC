@@ -25,7 +25,7 @@
             <element>area</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Service Requests</label>
+            <label>Update requests</label>
             <language>en</language>
             <name>x_ipegh_copyright_qc</name>
             <sequence>1</sequence>
@@ -34,9 +34,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>c2f88e9fdbce3b00b26388805b9619e7</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>LasBal</sys_updated_by>
-            <sys_updated_on>2019-06-20 13:11:34</sys_updated_on>
+            <sys_updated_on>2019-06-24 15:11:11</sys_updated_on>
             <u_customer_visible>false</u_customer_visible>
             <value>service requests</value>
         </sys_choice>
@@ -45,20 +45,20 @@
             <element>area</element>
             <hint/>
             <inactive>false</inactive>
-            <label>High Earnings</label>
+            <label>High Earning</label>
             <language>en</language>
             <name>x_ipegh_copyright_qc</name>
             <sequence>2</sequence>
             <sys_created_by>LasBal</sys_created_by>
-            <sys_created_on>2019-06-20 13:11:34</sys_created_on>
+            <sys_created_on>2019-06-24 09:00:30</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>06f88e9fdbce3b00b26388805b9619e9</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_id>dbd539e4dbd27f00a8088edf4b9619dd</sys_id>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>LasBal</sys_updated_by>
-            <sys_updated_on>2019-06-20 13:11:34</sys_updated_on>
+            <sys_updated_on>2019-06-24 09:13:55</sys_updated_on>
             <u_customer_visible>false</u_customer_visible>
-            <value>high earnings</value>
+            <value>high earning</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -99,6 +99,46 @@
             <sys_updated_on>2019-06-20 13:11:34</sys_updated_on>
             <u_customer_visible>false</u_customer_visible>
             <value>counterclaims</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>area</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Counterclaim Case Created</label>
+            <language>en</language>
+            <name>x_ipegh_copyright_qc</name>
+            <sequence>5</sequence>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-06-24 09:00:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f5e53de4dbd27f00a8088edf4b96193a</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-06-24 09:14:52</sys_updated_on>
+            <u_customer_visible>false</u_customer_visible>
+            <value>counterclaim case created</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>area</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Resolved</label>
+            <language>en</language>
+            <name>x_ipegh_copyright_qc</name>
+            <sequence>6</sequence>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-06-24 09:00:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>35e53de4dbd27f00a8088edf4b961949</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-06-24 09:14:55</sys_updated_on>
+            <u_customer_visible>false</u_customer_visible>
+            <value>resolved</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
             <element>area</element>
