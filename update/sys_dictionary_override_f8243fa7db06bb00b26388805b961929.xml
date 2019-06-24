@@ -10,25 +10,25 @@
         <dependent/>
         <dependent_override>false</dependent_override>
         <display_override>false</display_override>
-        <element>u_1st_external_ref_code</element>
+        <element>assignment_group</element>
         <mandatory>false</mandatory>
-        <mandatory_override>false</mandatory_override>
+        <mandatory_override>true</mandatory_override>
         <name>x_ipegh_copyright_qc</name>
-        <read_only>true</read_only>
-        <read_only_override>true</read_only_override>
+        <read_only>false</read_only>
+        <read_only_override>false</read_only_override>
         <reference_qual/>
         <reference_qual_override>false</reference_qual_override>
         <sys_class_name>sys_dictionary_override</sys_class_name>
         <sys_created_by>LasBal</sys_created_by>
-        <sys_created_on>2019-06-20 13:11:35</sys_created_on>
-        <sys_id>56f8ce9fdbce3b00b26388805b961944</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>u_1st_external_ref_code</sys_name>
+        <sys_created_on>2019-06-21 15:38:31</sys_created_on>
+        <sys_id>f8243fa7db06bb00b26388805b961929</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>assignment_group</sys_name>
         <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
         <sys_policy/>
         <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
-        <sys_update_name>sys_dictionary_override_56f8ce9fdbce3b00b26388805b961944</sys_update_name>
+        <sys_update_name>sys_dictionary_override_f8243fa7db06bb00b26388805b961929</sys_update_name>
         <sys_updated_by>LasBal</sys_updated_by>
-        <sys_updated_on>2019-06-20 13:11:35</sys_updated_on>
+        <sys_updated_on>2019-06-21 15:38:31</sys_updated_on>
     </sys_dictionary_override>
 </record_update>

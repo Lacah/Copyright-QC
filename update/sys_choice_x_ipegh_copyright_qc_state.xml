@@ -5,26 +5,6 @@
             <element>state</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Pending</label>
-            <language>en</language>
-            <name>x_ipegh_copyright_qc</name>
-            <sequence>0</sequence>
-            <sys_created_by>LasBal</sys_created_by>
-            <sys_created_on>2019-06-20 14:27:52</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>bb6ad653db427b00b26388805b961950</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>LasBal</sys_updated_by>
-            <sys_updated_on>2019-06-20 14:27:52</sys_updated_on>
-            <u_customer_visible>false</u_customer_visible>
-            <value>-5</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>state</element>
-            <hint/>
-            <inactive>true</inactive>
             <label>To be checked</label>
             <language>en</language>
             <name>x_ipegh_copyright_qc</name>
@@ -34,37 +14,17 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>fda71a9fdb027b00b26388805b961914</sys_id>
-            <sys_mod_count>2</sys_mod_count>
+            <sys_mod_count>5</sys_mod_count>
             <sys_updated_by>LasBal</sys_updated_by>
-            <sys_updated_on>2019-06-20 14:27:52</sys_updated_on>
+            <sys_updated_on>2019-06-21 14:10:09</sys_updated_on>
             <u_customer_visible>false</u_customer_visible>
-            <value>50</value>
+            <value>-1</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
             <element>state</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Open</label>
-            <language>en</language>
-            <name>x_ipegh_copyright_qc</name>
-            <sequence>1</sequence>
-            <sys_created_by>LasBal</sys_created_by>
-            <sys_created_on>2019-06-20 14:27:52</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>fb6ad653db427b00b26388805b961952</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>LasBal</sys_updated_by>
-            <sys_updated_on>2019-06-20 14:27:52</sys_updated_on>
-            <u_customer_visible>false</u_customer_visible>
-            <value>1</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>state</element>
-            <hint/>
-            <inactive>true</inactive>
             <label>Correct</label>
             <language>en</language>
             <name>x_ipegh_copyright_qc</name>
@@ -74,37 +34,17 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>78961e5fdb027b00b26388805b9619cc</sys_id>
-            <sys_mod_count>2</sys_mod_count>
+            <sys_mod_count>5</sys_mod_count>
             <sys_updated_by>LasBal</sys_updated_by>
-            <sys_updated_on>2019-06-20 14:27:52</sys_updated_on>
+            <sys_updated_on>2019-06-21 14:11:15</sys_updated_on>
             <u_customer_visible>false</u_customer_visible>
-            <value>100</value>
+            <value>8</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
             <element>state</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Work in Progress</label>
-            <language>en</language>
-            <name>x_ipegh_copyright_qc</name>
-            <sequence>2</sequence>
-            <sys_created_by>LasBal</sys_created_by>
-            <sys_created_on>2019-06-20 14:27:52</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>3f6ad653db427b00b26388805b961954</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>LasBal</sys_updated_by>
-            <sys_updated_on>2019-06-20 14:27:52</sys_updated_on>
-            <u_customer_visible>false</u_customer_visible>
-            <value>2</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>state</element>
-            <hint/>
-            <inactive>true</inactive>
             <label>Reporting error</label>
             <language>en</language>
             <name>x_ipegh_copyright_qc</name>
@@ -114,37 +54,17 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>71f65a5fdb027b00b26388805b961975</sys_id>
-            <sys_mod_count>2</sys_mod_count>
+            <sys_mod_count>5</sys_mod_count>
             <sys_updated_by>LasBal</sys_updated_by>
-            <sys_updated_on>2019-06-20 14:27:52</sys_updated_on>
+            <sys_updated_on>2019-06-21 14:10:56</sys_updated_on>
             <u_customer_visible>false</u_customer_visible>
-            <value>200</value>
+            <value>-2</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
             <element>state</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Closed Complete</label>
-            <language>en</language>
-            <name>x_ipegh_copyright_qc</name>
-            <sequence>3</sequence>
-            <sys_created_by>LasBal</sys_created_by>
-            <sys_created_on>2019-06-20 14:27:52</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>7f6ad653db427b00b26388805b961956</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>LasBal</sys_updated_by>
-            <sys_updated_on>2019-06-20 14:27:52</sys_updated_on>
-            <u_customer_visible>false</u_customer_visible>
-            <value>3</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>state</element>
-            <hint/>
-            <inactive>true</inactive>
             <label>Major internal</label>
             <language>en</language>
             <name>x_ipegh_copyright_qc</name>
@@ -154,37 +74,17 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>e117da1fdb027b00b26388805b961979</sys_id>
-            <sys_mod_count>2</sys_mod_count>
+            <sys_mod_count>5</sys_mod_count>
             <sys_updated_by>LasBal</sys_updated_by>
-            <sys_updated_on>2019-06-20 14:27:52</sys_updated_on>
+            <sys_updated_on>2019-06-21 14:10:44</sys_updated_on>
             <u_customer_visible>false</u_customer_visible>
-            <value>300</value>
+            <value>-3</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
             <element>state</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Closed Incomplete</label>
-            <language>en</language>
-            <name>x_ipegh_copyright_qc</name>
-            <sequence>4</sequence>
-            <sys_created_by>LasBal</sys_created_by>
-            <sys_created_on>2019-06-20 14:27:52</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>bf6ad653db427b00b26388805b961958</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>LasBal</sys_updated_by>
-            <sys_updated_on>2019-06-20 14:27:52</sys_updated_on>
-            <u_customer_visible>false</u_customer_visible>
-            <value>4</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>state</element>
-            <hint/>
-            <inactive>true</inactive>
             <label>Minor internal</label>
             <language>en</language>
             <name>x_ipegh_copyright_qc</name>
@@ -194,31 +94,11 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>e627da5fdb027b00b26388805b96194c</sys_id>
-            <sys_mod_count>2</sys_mod_count>
+            <sys_mod_count>6</sys_mod_count>
             <sys_updated_by>LasBal</sys_updated_by>
-            <sys_updated_on>2019-06-20 14:27:52</sys_updated_on>
+            <sys_updated_on>2019-06-21 14:10:51</sys_updated_on>
             <u_customer_visible>false</u_customer_visible>
-            <value>400</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>state</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Closed Skipped</label>
-            <language>en</language>
-            <name>x_ipegh_copyright_qc</name>
-            <sequence>5</sequence>
-            <sys_created_by>LasBal</sys_created_by>
-            <sys_created_on>2019-06-20 14:27:52</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>ff6ad653db427b00b26388805b96195a</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>LasBal</sys_updated_by>
-            <sys_updated_on>2019-06-20 14:27:52</sys_updated_on>
-            <u_customer_visible>false</u_customer_visible>
-            <value>7</value>
+            <value>-4</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
             <element>state</element>

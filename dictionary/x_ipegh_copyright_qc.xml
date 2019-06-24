@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element audit="true" extends="task" label="Copyright Qc" max_length="40" name="x_ipegh_copyright_qc" sizeclass="1" type="collection">
+    <element audit="true" extends="task" label="Copyright QC task" max_length="40" name="x_ipegh_copyright_qc" sizeclass="3" type="collection">
         <element choice="1" label="Area" max_length="40" name="area" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Cases" sequence="0" value="cases"/>
@@ -9,8 +9,9 @@
                 <element inactive_on_update="false" label="Counterclaims" sequence="4" value="counterclaims"/>
             </choice>
         </element>
-        <element label="Counterclaim ID" max_length="40" name="counterclaim_id" read_only="true" type="integer"/>
+        <element label="Counterclaim ID" max_length="40" name="counterclaim_id" type="string"/>
         <element label="Date of action" max_length="40" name="date" read_only="true" type="glide_date"/>
+        <element label="Link to UR" max_length="1024" name="link_to_ur" type="url"/>
         <element label="Number of checked items" max_length="40" name="number_of_checked_items" read_only="true" type="integer"/>
         <element choice="1" label="Error type" max_length="40" name="type" type="choice">
             <choice>
@@ -37,9 +38,9 @@
         <element label="User" max_length="32" name="user" reference="sys_user" type="reference"/>
         <element label="Items copyright / reporting errors" max_length="40" name="u_items_errors" type="integer"/>
         <element attributes="edge_encryption_enabled=true" label="Reporting period" max_length="40" name="u_reporting_period" read_only="true" type="glide_date"/>
-        <element attributes="edge_encryption_enabled=true" label="Work URL" max_length="1024" name="u_rok_url" read_only="true" type="url"/>
+        <element attributes="edge_encryption_enabled=true" label="Link to work" max_length="1024" name="u_rok_url" type="url"/>
         <element label="Items SR errors" max_length="40" name="u_sr_error" type="integer"/>
         <element label="Week" max_length="2" name="week" type="integer"/>
-        <element label="Workkey" max_length="40" name="workkey" type="integer"/>
+        <element label="Workkey" max_length="40" name="workkey" type="string"/>
     </element>
 </database>
