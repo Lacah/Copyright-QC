@@ -25,6 +25,26 @@
             <element>customer</element>
             <hint/>
             <inactive>false</inactive>
+            <label>Koda</label>
+            <language>en</language>
+            <name>x_ipegh_copyright_qc</name>
+            <sequence/>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-06-25 08:03:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dd527a3cdb16bf00a8088edf4b961904</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-06-25 08:03:19</sys_updated_on>
+            <u_customer_visible>false</u_customer_visible>
+            <value>KODA</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>customer</element>
+            <hint/>
+            <inactive>false</inactive>
             <label>Polaris</label>
             <language>en</language>
             <name>x_ipegh_copyright_qc</name>
@@ -139,6 +159,46 @@
             <sys_updated_on>2019-06-24 09:29:09</sys_updated_on>
             <u_customer_visible>false</u_customer_visible>
             <value>STIM</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>customer</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Teosto</label>
+            <language>en</language>
+            <name>x_ipegh_copyright_qc</name>
+            <sequence/>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-06-25 08:03:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>59423a3cdb16bf00a8088edf4b96190f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-06-25 08:03:06</sys_updated_on>
+            <u_customer_visible>false</u_customer_visible>
+            <value>TEOSTO</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>customer</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Tono</label>
+            <language>en</language>
+            <name>x_ipegh_copyright_qc</name>
+            <sequence/>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-06-25 08:03:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c572be38db16bf00a8088edf4b9619a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-06-25 08:03:48</sys_updated_on>
+            <u_customer_visible>false</u_customer_visible>
+            <value>TONO</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
             <element>customer</element>
