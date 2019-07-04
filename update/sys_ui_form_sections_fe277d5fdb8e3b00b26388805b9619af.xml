@@ -3,16 +3,16 @@
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>0</position>
             <sys_created_by>LasBal</sys_created_by>
-            <sys_created_on>2019-06-20 11:53:48</sys_created_on>
+            <sys_created_on>2019-07-04 15:23:59</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>3a277d5fdb8e3b00b26388805b9619b2</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_id>9a8daafbdb5ef740a8088edf4b9619fe</sys_id>
+            <sys_mod_count>1</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_ipegh_copyright_qc" name="x_ipegh_copyright_qc" sys_domain="global" view="Default view">fe277d5fdb8e3b00b26388805b9619af</sys_ui_form>
-            <sys_ui_section caption="Core information" display_value="Core information" name="x_ipegh_copyright_qc" sys_domain="global" view="Default view">76277d5fdb8e3b00b26388805b96190b</sys_ui_section>
+            <sys_ui_section caption="Process flow" display_value="Process flow" name="x_ipegh_copyright_qc" sys_domain="global" view="Default view">c28daafbdb5ef740a8088edf4b961941</sys_ui_section>
             <sys_updated_by>LasBal</sys_updated_by>
-            <sys_updated_on>2019-06-20 11:53:48</sys_updated_on>
+            <sys_updated_on>2019-07-04 15:23:59</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>1</position>
@@ -20,13 +20,27 @@
             <sys_created_on>2019-06-20 11:53:48</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
+            <sys_id>3a277d5fdb8e3b00b26388805b9619b2</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_ipegh_copyright_qc" name="x_ipegh_copyright_qc" sys_domain="global" view="Default view">fe277d5fdb8e3b00b26388805b9619af</sys_ui_form>
+            <sys_ui_section caption="Core information" display_value="Core information" name="x_ipegh_copyright_qc" sys_domain="global" view="Default view">76277d5fdb8e3b00b26388805b96190b</sys_ui_section>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-07-04 15:23:59</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-06-20 11:53:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>76277d5fdb8e3b00b26388805b9619b7</sys_id>
-            <sys_mod_count>1</sys_mod_count>
+            <sys_mod_count>4</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_ipegh_copyright_qc" name="x_ipegh_copyright_qc" sys_domain="global" view="Default view">fe277d5fdb8e3b00b26388805b9619af</sys_ui_form>
             <sys_ui_section caption="Comments" display_value="Comments" name="x_ipegh_copyright_qc" sys_domain="global" view="Default view">72277d5fdb8e3b00b26388805b96190d</sys_ui_section>
             <sys_updated_by>LasBal</sys_updated_by>
-            <sys_updated_on>2019-06-20 13:52:37</sys_updated_on>
+            <sys_updated_on>2019-07-04 15:23:59</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_ipegh_copyright_qc</name>
