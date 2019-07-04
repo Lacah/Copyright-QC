@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <api_name>x_ipegh_copyright.MyDateTimeAjax</api_name>
+        <client_callable>true</client_callable>
+        <description/>
+        <name>MyDateTimeAjax</name>
+        <script><![CDATA[var MyDateTimeAjax = Class.create(); 
+MyDateTimeAjax.prototype = Object.extendsObject(global.AbstractAjaxProcessor, { 
+nowDateTime: function () { 
+return gs.nowDateTime();}});]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2019-07-04 13:38:47</sys_created_on>
+        <sys_id>c345da77db1ef740a8088edf4b961951</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>MyDateTimeAjax</sys_name>
+        <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
+        <sys_update_name>sys_script_include_c345da77db1ef740a8088edf4b961951</sys_update_name>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2019-07-04 14:16:57</sys_updated_on>
+    </sys_script_include>
+</record_update>

@@ -13,6 +13,7 @@
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Datecorreted" label="Datecorreted" max_length="40" name="u_datecorreted" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Date_corrected" max_length="40" name="u_date_corrected" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Description" label="Description" max_length="40" name="u_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="field_1" max_length="40" name="u_field_1" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=items" label="items" max_length="40" name="u_items" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Items_Copyright_Reporting_Errors" max_length="40" name="u_items_copyri_porting_errors" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Items_SR_Errors" max_length="40" name="u_items_sr_errors" type="string"/>
@@ -27,6 +28,7 @@
         <element attributes="edge_encryption_enabled=true,import_attribute_name=team" label="team" max_length="40" name="u_team" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Type" label="Type" max_length="40" name="u_type" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=User" label="User" max_length="40" name="u_user" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="User;team;CounterclaimID;WORKKEY;Status;Type;Description;Checkedby;Datecorreted;" max_length="40" name="u_user_team_co_ngperiod_count" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=WEEK" label="WEEK" max_length="40" name="u_week" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=WORKKEY" label="WORKKEY" max_length="40" name="u_workkey" type="string"/>
     </element>
