@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="qc" section_id="1e11fb5adbe2b380b26388805b961932" sys_domain="global" table="sys_ui_formatter" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>0</position>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-07-12 14:44:12</sys_created_on>
+            <sys_id>e921f75adbe2b380b26388805b9619f5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="qc" display_value="qc" name="sys_ui_formatter" sys_domain="global" view="Default view">1e11fb5adbe2b380b26388805b961932</sys_ui_section>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-07-12 14:44:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>angular_module</element>
+            <position>1</position>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-07-12 14:44:12</sys_created_on>
+            <sys_id>6521f75adbe2b380b26388805b9619f6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="qc" display_value="qc" name="sys_ui_formatter" sys_domain="global" view="Default view">1e11fb5adbe2b380b26388805b961932</sys_ui_section>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-07-12 14:44:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_scope</element>
+            <position>2</position>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-07-12 14:44:12</sys_created_on>
+            <sys_id>e921f75adbe2b380b26388805b9619f6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="qc" display_value="qc" name="sys_ui_formatter" sys_domain="global" view="Default view">1e11fb5adbe2b380b26388805b961932</sys_ui_section>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-07-12 14:44:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_class_name</element>
+            <position>3</position>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-07-12 14:44:12</sys_created_on>
+            <sys_id>6121f75adbe2b380b26388805b9619f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="qc" display_value="qc" name="sys_ui_formatter" sys_domain="global" view="Default view">1e11fb5adbe2b380b26388805b961932</sys_ui_section>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-07-12 14:44:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_on</element>
+            <position>4</position>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-07-12 14:44:12</sys_created_on>
+            <sys_id>e521f75adbe2b380b26388805b9619f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="qc" display_value="qc" name="sys_ui_formatter" sys_domain="global" view="Default view">1e11fb5adbe2b380b26388805b961932</sys_ui_section>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-07-12 14:44:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_by</element>
+            <position>5</position>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-07-12 14:44:12</sys_created_on>
+            <sys_id>6d21f75adbe2b380b26388805b9619f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="qc" display_value="qc" name="sys_ui_formatter" sys_domain="global" view="Default view">1e11fb5adbe2b380b26388805b961932</sys_ui_section>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-07-12 14:44:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_name</element>
+            <position>6</position>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-07-12 14:44:12</sys_created_on>
+            <sys_id>e121f75adbe2b380b26388805b9619f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="qc" display_value="qc" name="sys_ui_formatter" sys_domain="global" view="Default view">1e11fb5adbe2b380b26388805b961932</sys_ui_section>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-07-12 14:44:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>formatter</element>
+            <position>7</position>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-07-12 14:44:12</sys_created_on>
+            <sys_id>6921f75adbe2b380b26388805b9619f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="qc" display_value="qc" name="sys_ui_formatter" sys_domain="global" view="Default view">1e11fb5adbe2b380b26388805b961932</sys_ui_section>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-07-12 14:44:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>8</position>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-07-12 14:44:12</sys_created_on>
+            <sys_id>ed21f75adbe2b380b26388805b9619f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="qc" display_value="qc" name="sys_ui_formatter" sys_domain="global" view="Default view">1e11fb5adbe2b380b26388805b961932</sys_ui_section>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-07-12 14:44:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_package</element>
+            <position>9</position>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-07-12 14:44:12</sys_created_on>
+            <sys_id>6521f75adbe2b380b26388805b9619f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="qc" display_value="qc" name="sys_ui_formatter" sys_domain="global" view="Default view">1e11fb5adbe2b380b26388805b961932</sys_ui_section>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-07-12 14:44:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_policy</element>
+            <position>10</position>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-07-12 14:44:12</sys_created_on>
+            <sys_id>e921f75adbe2b380b26388805b9619f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="qc" display_value="qc" name="sys_ui_formatter" sys_domain="global" view="Default view">1e11fb5adbe2b380b26388805b961932</sys_ui_section>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-07-12 14:44:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>table</element>
+            <position>11</position>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-07-12 14:44:12</sys_created_on>
+            <sys_id>6121f75adbe2b380b26388805b9619fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="qc" display_value="qc" name="sys_ui_formatter" sys_domain="global" view="Default view">1e11fb5adbe2b380b26388805b961932</sys_ui_section>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-07-12 14:44:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>type</element>
+            <position>12</position>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-07-12 14:44:12</sys_created_on>
+            <sys_id>e521f75adbe2b380b26388805b9619fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="qc" display_value="qc" name="sys_ui_formatter" sys_domain="global" view="Default view">1e11fb5adbe2b380b26388805b961932</sys_ui_section>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-07-12 14:44:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_update_name</element>
+            <position>13</position>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-07-12 14:44:12</sys_created_on>
+            <sys_id>6d21f75adbe2b380b26388805b9619fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="qc" display_value="qc" name="sys_ui_formatter" sys_domain="global" view="Default view">1e11fb5adbe2b380b26388805b961932</sys_ui_section>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-07-12 14:44:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_on</element>
+            <position>14</position>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-07-12 14:44:12</sys_created_on>
+            <sys_id>e121f75adbe2b380b26388805b9619fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="qc" display_value="qc" name="sys_ui_formatter" sys_domain="global" view="Default view">1e11fb5adbe2b380b26388805b961932</sys_ui_section>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-07-12 14:44:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_by</element>
+            <position>15</position>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-07-12 14:44:12</sys_created_on>
+            <sys_id>6921f75adbe2b380b26388805b9619fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="qc" display_value="qc" name="sys_ui_formatter" sys_domain="global" view="Default view">1e11fb5adbe2b380b26388805b961932</sys_ui_section>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-07-12 14:44:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_mod_count</element>
+            <position>16</position>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-07-12 14:44:12</sys_created_on>
+            <sys_id>ed21f75adbe2b380b26388805b9619fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="qc" display_value="qc" name="sys_ui_formatter" sys_domain="global" view="Default view">1e11fb5adbe2b380b26388805b961932</sys_ui_section>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-07-12 14:44:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>17</position>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-07-12 14:44:12</sys_created_on>
+            <sys_id>a121fb5adbe2b380b26388805b9619a1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="qc" display_value="qc" name="sys_ui_formatter" sys_domain="global" view="Default view">1e11fb5adbe2b380b26388805b961932</sys_ui_section>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-07-12 14:44:12</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>18</position>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-07-12 14:44:12</sys_created_on>
+            <sys_id>2921fb5adbe2b380b26388805b9619a1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="qc" display_value="qc" name="sys_ui_formatter" sys_domain="global" view="Default view">1e11fb5adbe2b380b26388805b961932</sys_ui_section>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-07-12 14:44:12</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>19</position>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-07-12 14:44:12</sys_created_on>
+            <sys_id>ad21fb5adbe2b380b26388805b9619a1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="qc" display_value="qc" name="sys_ui_formatter" sys_domain="global" view="Default view">1e11fb5adbe2b380b26388805b961932</sys_ui_section>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-07-12 14:44:12</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>6121f75adbe2b380b26388805b9619f5</element>
+            <position>20</position>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-07-12 14:44:12</sys_created_on>
+            <sys_id>2521fb5adbe2b380b26388805b9619a2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="qc" display_value="qc" name="sys_ui_formatter" sys_domain="global" view="Default view">1e11fb5adbe2b380b26388805b961932</sys_ui_section>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-07-12 14:44:12</sys_updated_on>
+            <sys_user/>
+            <type>chart</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity.xml</element>
+            <position>21</position>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-07-12 14:44:12</sys_created_on>
+            <sys_id>a921fb5adbe2b380b26388805b9619a2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
+            <sys_ui_section caption="qc" display_value="qc" name="sys_ui_formatter" sys_domain="global" view="Default view">1e11fb5adbe2b380b26388805b961932</sys_ui_section>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-07-12 14:44:12</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>REL.sys_ui_formatter.REL:b9edf0ca0a0a0b010035de2d6b579a03</element>
+            <position>22</position>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-07-12 14:44:12</sys_created_on>
+            <sys_id>6d21fb5adbe2b380b26388805b9619aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="qc" display_value="qc" name="sys_ui_formatter" sys_domain="global" view="Default view">1e11fb5adbe2b380b26388805b961932</sys_ui_section>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-07-12 14:44:12</sys_updated_on>
+            <sys_user/>
+            <type>list</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>REL.sys_ui_formatter.REL:ba7b26680a000704003b34b0bde03834</element>
+            <position>23</position>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-07-12 14:44:12</sys_created_on>
+            <sys_id>e121fb5adbe2b380b26388805b9619ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="qc" display_value="qc" name="sys_ui_formatter" sys_domain="global" view="Default view">1e11fb5adbe2b380b26388805b961932</sys_ui_section>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-07-12 14:44:12</sys_updated_on>
+            <sys_user/>
+            <type>list</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cxs_table_search.xml</element>
+            <position>24</position>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-07-12 14:44:12</sys_created_on>
+            <sys_id>6921fb5adbe2b380b26388805b9619ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Contextual Search Results">11eb1622eb1121003623666cd206fe56</sys_ui_formatter>
+            <sys_ui_section caption="qc" display_value="qc" name="sys_ui_formatter" sys_domain="global" view="Default view">1e11fb5adbe2b380b26388805b961932</sys_ui_section>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-07-12 14:44:12</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>12M.sys_ui_formatter.sys_delete_recovery.initiating_metadata</element>
+            <position>25</position>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-07-12 14:44:12</sys_created_on>
+            <sys_id>2121fb5adbe2b380b26388805b9619ac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="qc" display_value="qc" name="sys_ui_formatter" sys_domain="global" view="Default view">1e11fb5adbe2b380b26388805b961932</sys_ui_section>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-07-12 14:44:12</sys_updated_on>
+            <sys_user/>
+            <type>list</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>12M.sys_ui_formatter.sys_metadata_delete.sys_parent</element>
+            <position>26</position>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-07-12 14:44:12</sys_created_on>
+            <sys_id>a521fb5adbe2b380b26388805b9619ac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="qc" display_value="qc" name="sys_ui_formatter" sys_domain="global" view="Default view">1e11fb5adbe2b380b26388805b961932</sys_ui_section>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-07-12 14:44:12</sys_updated_on>
+            <sys_user/>
+            <type>list</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>12M.sys_ui_formatter.sys_metadata_delete_related.sys_parent</element>
+            <position>27</position>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-07-12 14:44:12</sys_created_on>
+            <sys_id>2d21fb5adbe2b380b26388805b9619ac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="qc" display_value="qc" name="sys_ui_formatter" sys_domain="global" view="Default view">1e11fb5adbe2b380b26388805b961932</sys_ui_section>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-07-12 14:44:12</sys_updated_on>
+            <sys_user/>
+            <type>list</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>REL.sys_ui_formatter.REL:b5596613bf1021000ba9dc2ecf0739c5</element>
+            <position>28</position>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-07-12 14:44:12</sys_created_on>
+            <sys_id>a121fb5adbe2b380b26388805b9619ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="qc" display_value="qc" name="sys_ui_formatter" sys_domain="global" view="Default view">1e11fb5adbe2b380b26388805b961932</sys_ui_section>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-07-12 14:44:12</sys_updated_on>
+            <sys_user/>
+            <type>list</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ratings.xml</element>
+            <position>29</position>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-07-12 14:44:12</sys_created_on>
+            <sys_id>2921fb5adbe2b380b26388805b9619ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Ratings">a3340f6bd7111100158ba6859e610331</sys_ui_formatter>
+            <sys_ui_section caption="qc" display_value="qc" name="sys_ui_formatter" sys_domain="global" view="Default view">1e11fb5adbe2b380b26388805b961932</sys_ui_section>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-07-12 14:44:12</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>12M.sys_ui_formatter.sys_ui_element.sys_ui_formatter</element>
+            <position>30</position>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-07-12 14:44:12</sys_created_on>
+            <sys_id>ed21fb5adbe2b380b26388805b9619ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="qc" display_value="qc" name="sys_ui_formatter" sys_domain="global" view="Default view">1e11fb5adbe2b380b26388805b961932</sys_ui_section>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-07-12 14:44:12</sys_updated_on>
+            <sys_user/>
+            <type>list</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>REL.sys_ui_formatter.REL:df364130c3110100bac1addbdfba8f78</element>
+            <position>31</position>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-07-12 14:44:12</sys_created_on>
+            <sys_id>6521fb5adbe2b380b26388805b9619ae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="qc" display_value="qc" name="sys_ui_formatter" sys_domain="global" view="Default view">1e11fb5adbe2b380b26388805b961932</sys_ui_section>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-07-12 14:44:12</sys_updated_on>
+            <sys_user/>
+            <type>list</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>REL.sys_ui_formatter.REL:67bdac52374010008687ddb1967334ee</element>
+            <position>32</position>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-07-12 14:44:12</sys_created_on>
+            <sys_id>e921fb5adbe2b380b26388805b9619ae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="qc" display_value="qc" name="sys_ui_formatter" sys_domain="global" view="Default view">1e11fb5adbe2b380b26388805b961932</sys_ui_section>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-07-12 14:44:12</sys_updated_on>
+            <sys_user/>
+            <type>list</type>
+        </sys_ui_element>
+        <sys_ui_chart action="INSERT_OR_UPDATE">
+            <form_field/>
+            <height>300</height>
+            <label/>
+            <report/>
+            <report_field/>
+            <report_qual/>
+            <section caption="qc" display_value="qc" name="sys_ui_formatter" sys_domain="global" view="Default view">1e11fb5adbe2b380b26388805b961932</section>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-07-12 14:44:12</sys_created_on>
+            <sys_id>6121f75adbe2b380b26388805b9619f5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-07-12 14:44:12</sys_updated_on>
+        </sys_ui_chart>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>qc</caption>
+            <header>false</header>
+            <name>sys_ui_formatter</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-07-12 14:43:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1e11fb5adbe2b380b26388805b961932</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>qc</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
+            <sys_update_name>sys_ui_section_1e11fb5adbe2b380b26388805b961932</sys_update_name>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-07-12 14:43:59</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
