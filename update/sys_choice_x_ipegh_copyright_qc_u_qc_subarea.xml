@@ -5,6 +5,126 @@
             <element>u_qc_subarea</element>
             <hint/>
             <inactive>false</inactive>
+            <label>-</label>
+            <language>en</language>
+            <name>x_ipegh_copyright_qc</name>
+            <sequence>0</sequence>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-07-16 14:53:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>39b9547bdb22f300a8088edf4b9619f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-07-16 14:53:50</sys_updated_on>
+            <u_customer_visible>false</u_customer_visible>
+            <value>-</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_qc_subarea</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Buma/Stemra</label>
+            <language>en</language>
+            <name>x_ipegh_copyright_qc</name>
+            <sequence>0</sequence>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-07-16 14:53:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>29b9547bdb22f300a8088edf4b9619b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-07-16 14:53:50</sys_updated_on>
+            <u_customer_visible>false</u_customer_visible>
+            <value>Buma/Stemra</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_qc_subarea</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Counterclaim</label>
+            <language>en</language>
+            <name>x_ipegh_copyright_qc</name>
+            <sequence>0</sequence>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-07-16 14:53:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b2b9d47bdb22f300a8088edf4b9619c0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-07-16 14:53:55</sys_updated_on>
+            <u_customer_visible>false</u_customer_visible>
+            <value>Counterclaim</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_qc_subarea</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PRS</label>
+            <language>en</language>
+            <name>x_ipegh_copyright_qc</name>
+            <sequence>0</sequence>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-07-16 14:53:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b9b9947bdb22f300a8088edf4b961911</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-07-16 14:53:51</sys_updated_on>
+            <u_customer_visible>false</u_customer_visible>
+            <value>PRS</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_qc_subarea</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>STIM</label>
+            <language>en</language>
+            <name>x_ipegh_copyright_qc</name>
+            <sequence>0</sequence>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-07-16 14:53:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5eb9947bdb22f300a8088edf4b9619d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-07-16 14:53:53</sys_updated_on>
+            <u_customer_visible>false</u_customer_visible>
+            <value>STIM</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_qc_subarea</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>STIM Members</label>
+            <language>en</language>
+            <name>x_ipegh_copyright_qc</name>
+            <sequence>0</sequence>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-07-16 14:53:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>06b9947bdb22f300a8088edf4b96192b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-07-16 14:53:51</sys_updated_on>
+            <u_customer_visible>false</u_customer_visible>
+            <value>STIM Members</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_qc_subarea</element>
+            <hint/>
+            <inactive>false</inactive>
             <label>Amend agreement</label>
             <language>en</language>
             <name>x_ipegh_copyright_qc</name>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_comments_and_work_notes" label="Comments and Work notes" language="en" table="u_imp_tmpl_x_ipegh_copyright_qc">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_comments_and_work_notes</element>
+            <help/>
+            <hint/>
+            <label>Comments and Work notes</label>
+            <language>en</language>
+            <name>u_imp_tmpl_x_ipegh_copyright_qc</name>
+            <plural>Comments and Work notes</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-07-16 12:36:50</sys_created_on>
+            <sys_id>fe5a772fdbaeb300a8088edf4b9619f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Comments and Work notes</sys_name>
+            <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
+            <sys_update_name>sys_documentation_u_imp_tmpl_x_ipegh_copyright_qc_u_comments_and_work_notes_en</sys_update_name>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-07-16 12:36:50</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

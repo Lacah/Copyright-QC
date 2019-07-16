@@ -7,6 +7,7 @@
         <csv_delimiter>,</csv_delimiter>
         <database_name/>
         <database_port/>
+        <discard_arrays>true</discard_arrays>
         <expand_node_children>false</expand_node_children>
         <file_path>qc_agree/qc_agree.csv</file_path>
         <file_retrieval_method>FTP</file_retrieval_method>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element extends="sys_import_set_row" label="QC import" max_length="40" name="x_ipegh_copyright_qc_import" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="assignment_group" max_length="40" name="u_assignment_group" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=BUMAusagesonSTIM_PRSworks" label="BUMAusagesonSTIM_PRSworks" max_length="40" name="u_bumausagesonstim_prsworks" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="BUMA_usages_on_STIM_PRS_works" max_length="40" name="u_buma_usages__stim_prs_works" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Checkedby" label="Checkedby" max_length="40" name="u_checkedby" type="string"/>
@@ -14,6 +15,7 @@
         <element attributes="edge_encryption_enabled=true" label="Date_corrected" max_length="40" name="u_date_corrected" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Description" label="Description" max_length="40" name="u_description" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="field_1" max_length="40" name="u_field_1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="item" max_length="40" name="u_item" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=items" label="items" max_length="40" name="u_items" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Items_Copyright_Reporting_Errors" max_length="40" name="u_items_copyri_porting_errors" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Items_SR_Errors" max_length="40" name="u_items_sr_errors" type="string"/>
@@ -22,6 +24,7 @@
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Reportingperiod" label="Reportingperiod" max_length="40" name="u_reportingperiod" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Reporting_period" max_length="40" name="u_reporting_period" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=SocietyTaskDepartment" label="SocietyTaskDepartment" max_length="40" name="u_societytaskdepartment" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="srerrors" max_length="40" name="u_srerrors" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Srs" label="Srs" max_length="40" name="u_srs" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=srserrors" label="srserrors" max_length="40" name="u_srserrors" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Status" label="Status" max_length="40" name="u_status" type="string"/>

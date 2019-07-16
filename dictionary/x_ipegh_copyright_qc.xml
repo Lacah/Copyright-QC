@@ -56,6 +56,12 @@
         <element label="Items copyright / reporting errors" max_length="40" name="u_items_errors" type="integer"/>
         <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" choice="1" label="Subarea" max_length="40" name="u_qc_subarea" read_only="true" type="choice">
             <choice>
+                <element inactive_on_update="false" label="-" sequence="0" value="-"/>
+                <element inactive_on_update="false" label="Buma/Stemra" sequence="0" value="Buma/Stemra"/>
+                <element inactive_on_update="false" label="Counterclaim" sequence="0" value="Counterclaim"/>
+                <element inactive_on_update="false" label="PRS" sequence="0" value="PRS"/>
+                <element inactive_on_update="false" label="STIM" sequence="0" value="STIM"/>
+                <element inactive_on_update="false" label="STIM Members" sequence="0" value="STIM Members"/>
                 <element inactive_on_update="false" label="Amend agreement" sequence="10" value="Amend Agreement"/>
                 <element inactive_on_update="false" label="New agreement" sequence="20" value="New Agreement"/>
                 <element inactive_on_update="false" label="Terminate agreement" sequence="30" value="Terminate Agreement"/>
