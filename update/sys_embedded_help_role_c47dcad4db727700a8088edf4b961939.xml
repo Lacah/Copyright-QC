@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="sn_dd_copyrightqc_flowdesigner" name="sn_dd_copyrightqc_flowdesigner">087dcad4db727700a8088edf4b961937</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2019-07-18 12:36:24</sys_created_on>
+        <sys_id>c47dcad4db727700a8088edf4b961939</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>087dcad4db727700a8088edf4b961937</sys_name>
+        <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
+        <sys_update_name>sys_embedded_help_role_c47dcad4db727700a8088edf4b961939</sys_update_name>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2019-07-18 12:36:24</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

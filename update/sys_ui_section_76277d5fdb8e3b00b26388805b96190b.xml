@@ -336,6 +336,20 @@
             <sys_user/>
             <type/>
         </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_error_found_at</element>
+            <position>24</position>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-07-18 12:45:42</sys_created_on>
+            <sys_id>1c9fc658db727700a8088edf4b96198a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Core information" display_value="Core information" name="x_ipegh_copyright_qc" sys_domain="global" view="Default view">76277d5fdb8e3b00b26388805b96190b</sys_ui_section>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-07-18 12:45:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption>Core information</caption>
             <header>false</header>
