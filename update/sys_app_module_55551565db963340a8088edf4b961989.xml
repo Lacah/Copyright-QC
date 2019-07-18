@@ -27,7 +27,7 @@
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
-        <roles>x_ipegh_copyright.admin,x_ipegh_copyright.qc,x_ipegh_copyright.dispatch</roles>
+        <roles>x_ipegh_copyright.admin,x_ipegh_copyright.dispatch</roles>
         <survey/>
         <survey_overwrite>true</survey_overwrite>
         <sys_class_name>sys_app_module</sys_class_name>
@@ -36,7 +36,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>55551565db963340a8088edf4b961989</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>My works to check</sys_name>
         <sys_overrides/>
         <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
@@ -44,7 +44,7 @@
         <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
         <sys_update_name>sys_app_module_55551565db963340a8088edf4b961989</sys_update_name>
         <sys_updated_by>LasBal</sys_updated_by>
-        <sys_updated_on>2019-07-17 09:19:28</sys_updated_on>
+        <sys_updated_on>2019-07-17 14:09:40</sys_updated_on>
         <timeline_page/>
         <title>My works to check</title>
         <uncancelable>false</uncancelable>

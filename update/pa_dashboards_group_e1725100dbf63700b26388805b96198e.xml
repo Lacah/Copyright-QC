@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="pa_dashboards_group">
+    <pa_dashboards_group action="INSERT_OR_UPDATE">
+        <groups name="QC - User">3255422ddb1a3340a8088edf4b96196f</groups>
+        <name>Copyright</name>
+        <order/>
+        <role_override>true</role_override>
+        <roles/>
+        <sys_class_name>pa_dashboards_group</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2019-07-17 13:41:15</sys_created_on>
+        <sys_id>e1725100dbf63700b26388805b96198e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Copyright</sys_name>
+        <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
+        <sys_update_name>pa_dashboards_group_e1725100dbf63700b26388805b96198e</sys_update_name>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2019-07-17 13:41:15</sys_updated_on>
+        <users/>
+        <visible_to>3</visible_to>
+    </pa_dashboards_group>
+</record_update>
