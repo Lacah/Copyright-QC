@@ -48,15 +48,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>LasBal</sys_created_by>
         <sys_created_on>2019-07-04 12:29:34</sys_created_on>
-        <sys_id>9f9586b7dbdaf740a8088edf4b961966</sys_id>
+        <sys_id>eb241d7cdb9bfb00b26388805b9619c5</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>field_1</sys_name>
         <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
         <sys_policy/>
         <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
         <sys_update_name>sys_dictionary_x_ipegh_copyright_qc_import_u_field_1</sys_update_name>
-        <sys_updated_by>LasBal</sys_updated_by>
-        <sys_updated_on>2019-07-04 12:29:34</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-08-13 18:14:55</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
