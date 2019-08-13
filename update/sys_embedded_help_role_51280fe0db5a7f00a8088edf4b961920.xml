@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
     <sys_embedded_help_role action="INSERT_OR_UPDATE">
         <order>1000</order>
-        <role display_value="x_ipegh_copyright.dispatch" name="x_ipegh_copyright.dispatch">32f7cfe0db5a7f00a8088edf4b9619a5</role>
+        <role/>
         <sys_class_name>sys_embedded_help_role</sys_class_name>
         <sys_created_by>LasBal</sys_created_by>
         <sys_created_on>2019-06-24 15:00:00</sys_created_on>

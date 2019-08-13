@@ -27,7 +27,7 @@
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
-        <roles>x_ipegh_copyright.admin,x_ipegh_copyright.dispatch</roles>
+        <roles>x_ipegh_copyright.admin</roles>
         <survey/>
         <survey_overwrite>true</survey_overwrite>
         <sys_class_name>sys_app_module</sys_class_name>

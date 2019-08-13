@@ -17,6 +17,7 @@
             <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>LasBal</sys_updated_by>
             <sys_updated_on>2019-06-24 13:56:54</sys_updated_on>
+            <u_core_customer_selectable>false</u_core_customer_selectable>
             <u_customer_visible>false</u_customer_visible>
             <value>BUMA</value>
         </sys_choice>
@@ -37,6 +38,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>LasBal</sys_updated_by>
             <sys_updated_on>2019-06-25 08:03:19</sys_updated_on>
+            <u_core_customer_selectable>false</u_core_customer_selectable>
             <u_customer_visible>false</u_customer_visible>
             <value>KODA</value>
         </sys_choice>
@@ -57,6 +59,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>LasBal</sys_updated_by>
             <sys_updated_on>2019-06-24 09:29:19</sys_updated_on>
+            <u_core_customer_selectable>false</u_core_customer_selectable>
             <u_customer_visible>false</u_customer_visible>
             <value>Polaris</value>
         </sys_choice>
@@ -77,6 +80,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>LasBal</sys_updated_by>
             <sys_updated_on>2019-06-24 09:29:37</sys_updated_on>
+            <u_core_customer_selectable>false</u_core_customer_selectable>
             <u_customer_visible>false</u_customer_visible>
             <value>PRS</value>
         </sys_choice>
@@ -97,6 +101,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>LasBal</sys_updated_by>
             <sys_updated_on>2019-06-24 09:29:52</sys_updated_on>
+            <u_core_customer_selectable>false</u_core_customer_selectable>
             <u_customer_visible>false</u_customer_visible>
             <value>PRS APT</value>
         </sys_choice>
@@ -117,6 +122,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>LasBal</sys_updated_by>
             <sys_updated_on>2019-06-24 09:30:32</sys_updated_on>
+            <u_core_customer_selectable>false</u_core_customer_selectable>
             <u_customer_visible>false</u_customer_visible>
             <value>PRS_Counterclaims</value>
         </sys_choice>
@@ -137,6 +143,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>LasBal</sys_updated_by>
             <sys_updated_on>2019-06-24 09:28:44</sys_updated_on>
+            <u_core_customer_selectable>false</u_core_customer_selectable>
             <u_customer_visible>false</u_customer_visible>
             <value>SABAM</value>
         </sys_choice>
@@ -157,6 +164,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>LasBal</sys_updated_by>
             <sys_updated_on>2019-06-24 09:29:09</sys_updated_on>
+            <u_core_customer_selectable>false</u_core_customer_selectable>
             <u_customer_visible>false</u_customer_visible>
             <value>STIM</value>
         </sys_choice>
@@ -177,6 +185,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>LasBal</sys_updated_by>
             <sys_updated_on>2019-06-25 08:03:06</sys_updated_on>
+            <u_core_customer_selectable>false</u_core_customer_selectable>
             <u_customer_visible>false</u_customer_visible>
             <value>TEOSTO</value>
         </sys_choice>
@@ -197,6 +206,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>LasBal</sys_updated_by>
             <sys_updated_on>2019-06-25 08:03:48</sys_updated_on>
+            <u_core_customer_selectable>false</u_core_customer_selectable>
             <u_customer_visible>false</u_customer_visible>
             <value>TONO</value>
         </sys_choice>
