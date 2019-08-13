@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="gsw_change_log">
+    <gsw_change_log action="INSERT_OR_UPDATE">
+        <change_date>2019-07-29 13:30:52</change_date>
+        <changed_by display_value="Annika Aaltonen">61889f15db1593005e5783305b96192b</changed_by>
+        <content display_value="Agent Workspace Guided Setup">a869052fdb081300c47f5f135e961910</content>
+        <related_change_log_entry/>
+        <related_task_entry/>
+        <sys_class_name>gsw_change_log</sys_class_name>
+        <sys_created_by>AnnAal</sys_created_by>
+        <sys_created_on>2019-07-29 13:30:52</sys_created_on>
+        <sys_id>dd638777db7e3340a8088edf4b961974</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2019-07-29 13:30:52</sys_name>
+        <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
+        <sys_update_name>gsw_change_log_dd638777db7e3340a8088edf4b961974</sys_update_name>
+        <sys_updated_by>AnnAal</sys_updated_by>
+        <sys_updated_on>2019-07-29 13:30:52</sys_updated_on>
+        <type>1</type>
+    </gsw_change_log>
+</record_update>

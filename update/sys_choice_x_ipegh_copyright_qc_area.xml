@@ -17,6 +17,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>LasBal</sys_updated_by>
             <sys_updated_on>2019-06-20 13:11:34</sys_updated_on>
+            <u_core_customer_selectable>false</u_core_customer_selectable>
             <u_customer_visible>false</u_customer_visible>
             <value>cases</value>
         </sys_choice>
@@ -37,6 +38,7 @@
             <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>LasBal</sys_updated_by>
             <sys_updated_on>2019-06-24 15:11:11</sys_updated_on>
+            <u_core_customer_selectable>false</u_core_customer_selectable>
             <u_customer_visible>false</u_customer_visible>
             <value>service requests</value>
         </sys_choice>
@@ -57,6 +59,7 @@
             <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>LasBal</sys_updated_by>
             <sys_updated_on>2019-06-24 09:13:55</sys_updated_on>
+            <u_core_customer_selectable>false</u_core_customer_selectable>
             <u_customer_visible>false</u_customer_visible>
             <value>high earning</value>
         </sys_choice>
@@ -77,6 +80,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>LasBal</sys_updated_by>
             <sys_updated_on>2019-06-20 13:11:34</sys_updated_on>
+            <u_core_customer_selectable>false</u_core_customer_selectable>
             <u_customer_visible>false</u_customer_visible>
             <value>agreements</value>
         </sys_choice>
@@ -97,6 +101,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>LasBal</sys_updated_by>
             <sys_updated_on>2019-06-20 13:11:34</sys_updated_on>
+            <u_core_customer_selectable>false</u_core_customer_selectable>
             <u_customer_visible>false</u_customer_visible>
             <value>counterclaims</value>
         </sys_choice>
@@ -117,6 +122,7 @@
             <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>LasBal</sys_updated_by>
             <sys_updated_on>2019-06-24 09:14:52</sys_updated_on>
+            <u_core_customer_selectable>false</u_core_customer_selectable>
             <u_customer_visible>false</u_customer_visible>
             <value>counterclaim case created</value>
         </sys_choice>
@@ -137,6 +143,7 @@
             <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>LasBal</sys_updated_by>
             <sys_updated_on>2019-06-24 09:14:55</sys_updated_on>
+            <u_core_customer_selectable>false</u_core_customer_selectable>
             <u_customer_visible>false</u_customer_visible>
             <value>resolved</value>
         </sys_choice>
