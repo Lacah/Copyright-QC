@@ -48,7 +48,7 @@
                 <element inactive_on_update="false" label="Claim lost" sequence="14" value="Claim lost"/>
                 <element inactive_on_update="false" label="Other" sequence="15" value="Other"/>
                 <element inactive_on_update="false" label="Fixed shares" sequence="16" value="Fixed shares"/>
-                <element inactive_on_update="false" label="Service Request error" sequence="17" value="Service Request error"/>
+                <element inactive_on_update="false" label="Update Request error" sequence="17" value="Update Request error"/>
             </choice>
         </element>
         <element label="User" max_length="32" name="user" reference="sys_user" type="reference"/>

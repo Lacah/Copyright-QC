@@ -362,7 +362,7 @@
             <element>type</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Service Request error</label>
+            <label>Update Request error</label>
             <language>en</language>
             <name>x_ipegh_copyright_qc</name>
             <sequence>17</sequence>
@@ -371,12 +371,12 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>172e4e17db027b00b26388805b961989</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>LasBal</sys_updated_by>
-            <sys_updated_on>2019-06-20 13:34:19</sys_updated_on>
+            <sys_updated_on>2019-08-13 17:40:01</sys_updated_on>
             <u_core_customer_selectable>false</u_core_customer_selectable>
             <u_customer_visible>false</u_customer_visible>
-            <value>Service Request error</value>
+            <value>Update Request error</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
             <element>type</element>
