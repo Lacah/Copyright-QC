@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_flow_cat_variable_model">
+    <sys_flow_cat_variable_model action="INSERT_OR_UPDATE">
+        <id>099bd549db9b3f00b26388805b961949</id>
+        <name>Primary QC flow</name>
+        <sys_class_name>sys_flow_cat_variable_model</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2019-08-14 13:25:24</sys_created_on>
+        <sys_id>459bd549db9b3f00b26388805b96194a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Primary QC flow</sys_name>
+        <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
+        <sys_update_name>sys_flow_cat_variable_model_459bd549db9b3f00b26388805b96194a</sys_update_name>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2019-08-14 13:25:24</sys_updated_on>
+    </sys_flow_cat_variable_model>
+</record_update>

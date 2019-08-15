@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow_snapshot">
+    <sys_hub_flow_snapshot action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>true</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <internal_name>qc_correction_approval</internal_name>
+        <label_cache>[{"name":"1effdf68-3a0c-4e0d-9f36-c994f5edf526.table_name","label":"3.1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"1effdf68-3a0c-4e0d-9f36-c994f5edf526.record","label":"3.1➛Record","reference_display":"Record","type":"document_id","base_type":"document_id"},{"name":"85752f5d-fb1a-4f80-b539-4f9421a5f013.table_name","label":"2.1➛Copyright QC task Table","reference":"x_ipegh_copyright_qc","reference_display":"Copyright QC task","type":"table_name","base_type":"table_name"},{"name":"85752f5d-fb1a-4f80-b539-4f9421a5f013.record","label":"2.1➛Copyright QC task Record","reference":"x_ipegh_copyright_qc","reference_display":"Copyright QC task","type":"reference","base_type":"reference"},{"name":"44852e64-dac7-4aa6-aa07-5f182838d3aa.table_name","label":"2.1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"44852e64-dac7-4aa6-aa07-5f182838d3aa.record","label":"2.1➛Record","reference_display":"Record","type":"document_id","base_type":"document_id"},{"name":"Updated_1.current.closed_at","label":"Trigger➛Copyright QC task Record➛Date corrected","reference":"","reference_display":"Date corrected","type":"glide_date_time","base_type":"glide_date_time","parent_table_name":"x_ipegh_copyright_qc","column_name":"closed_at"},{"name":"Updated_1.current.assigned_to","label":"Trigger➛Copyright QC task Record➛Assigned to","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference","parent_table_name":"x_ipegh_copyright_qc","column_name":"assigned_to"},{"name":"c497978a-c372-4455-b051-dd117cf4d3f4.approval_state","label":"1➛Approval State","reference_display":"Approval State","type":"choice","base_type":"choice"},{"name":"9cf0ff25-08e8-4f44-affe-be507d0b27d4.record","label":"1➛Record","reference_display":"Record","type":"document_id","base_type":"document_id"},{"name":"9cf0ff25-08e8-4f44-affe-be507d0b27d4.table_name","label":"1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"a11fa679-dd89-4c91-9da7-131341754962.record","label":"1➛Copyright QC task Record","reference":"x_ipegh_copyright_qc","reference_display":"Copyright QC task","type":"reference","base_type":"reference"},{"name":"a11fa679-dd89-4c91-9da7-131341754962.table_name","label":"1➛Copyright QC task Table","reference":"x_ipegh_copyright_qc","reference_display":"Copyright QC task","type":"table_name","base_type":"table_name"},{"name":"Updated_1.current","label":"Trigger➛Copyright QC task Record","reference":"x_ipegh_copyright_qc","reference_display":"Copyright QC task","type":"reference","base_type":"reference"},{"name":"Updated_1.current.user.name","label":"Trigger➛Copyright QC task Record➛User➛Name","reference":"","reference_display":"Name","type":"string","base_type":"string","parent_table_name":"sys_user","column_name":"name"},{"name":"f6c33b90-69ba-4ed6-b99d-1f02a5506446.email","label":"2➛email","reference":"sys_email","reference_display":"Email","type":"reference","base_type":"reference"},{"name":"Updated_1.current.user.email","label":"Trigger➛Copyright QC task Record➛User➛Email","reference":"","reference_display":"Email","type":"email","base_type":"email","parent_table_name":"sys_user","column_name":"email"}]</label_cache>
+        <master>true</master>
+        <name>QC correction approval</name>
+        <outputs/>
+        <parent_flow display_value="QC correction approval">4d9755c1db9b3f00b26388805b9619f9</parent_flow>
+        <remote_trigger_id/>
+        <run_as>user</run_as>
+        <sc_callable>false</sc_callable>
+        <status>published</status>
+        <sys_class_name>sys_hub_flow_snapshot</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2019-08-15 08:17:45</sys_created_on>
+        <sys_id>24ce9d11db5b7f00b26388805b96197c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>QC correction approval</sys_name>
+        <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
+        <sys_update_name>sys_hub_flow_snapshot_24ce9d11db5b7f00b26388805b96197c</sys_update_name>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2019-08-15 08:17:45</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow_snapshot>
+    <sys_variable_value action="delete_multiple" query="document_key=24ce9d11db5b7f00b26388805b96197c"/>
+</record_update>

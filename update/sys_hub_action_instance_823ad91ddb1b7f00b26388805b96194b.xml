@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Ask For Approval">f8f2e9920b10030085c083eb37673abd</action_type>
+        <action_type_parent/>
+        <comment/>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="QC correction approval">4d9755c1db9b3f00b26388805b9619f9</flow>
+        <order>1</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2019-08-15 07:57:57</sys_created_on>
+        <sys_id>823ad91ddb1b7f00b26388805b96194b</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
+        <sys_update_name>sys_hub_action_instance_823ad91ddb1b7f00b26388805b96194b</sys_update_name>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2019-08-15 08:17:48</sys_updated_on>
+        <ui_id>c497978a-c372-4455-b051-dd117cf4d3f4</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=823ad91ddb1b7f00b26388805b96194b"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>823ad91ddb1b7f00b26388805b96194b</document_key>
+        <order>2</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2019-08-15 07:57:57</sys_created_on>
+        <sys_id>123ad91ddb1b7f00b26388805b961953</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2019-08-15 07:57:57</sys_updated_on>
+        <value>approval</value>
+        <variable display_value="">1ed2a9920b10030085c083eb37673ab7</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>823ad91ddb1b7f00b26388805b96194b</document_key>
+        <order>1</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2019-08-15 08:17:45</sys_created_on>
+        <sys_id>14ce9d11db5b7f00b26388805b96193a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2019-08-15 08:17:45</sys_updated_on>
+        <value>x_ipegh_copyright_qc</value>
+        <variable display_value="">bcf2e9920b10030085c083eb37673acc</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>823ad91ddb1b7f00b26388805b96194b</document_key>
+        <order>5</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2019-08-15 08:17:45</sys_created_on>
+        <sys_id>50ce9d11db5b7f00b26388805b96193a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2019-08-15 08:17:45</sys_updated_on>
+        <value/>
+        <variable display_value="">c5f2e9920b10030085c083eb37673af9</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>823ad91ddb1b7f00b26388805b96194b</document_key>
+        <order>1</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2019-08-15 07:57:57</sys_created_on>
+        <sys_id>5e3ad91ddb1b7f00b26388805b961953</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2019-08-15 07:57:57</sys_updated_on>
+        <value>x_ipegh_copyright_qc</value>
+        <variable display_value="">d2d2a9920b10030085c083eb37673aa0</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>823ad91ddb1b7f00b26388805b96194b</document_key>
+        <order>5</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2019-08-15 07:57:57</sys_created_on>
+        <sys_id>9a3ad91ddb1b7f00b26388805b961953</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2019-08-15 07:57:57</sys_updated_on>
+        <value/>
+        <variable display_value="">26d2a9920b10030085c083eb37673ad9</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>823ad91ddb1b7f00b26388805b96194b</document_key>
+        <order>3</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2019-08-15 08:17:45</sys_created_on>
+        <sys_id>9cce9d11db5b7f00b26388805b961939</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2019-08-15 08:17:45</sys_updated_on>
+        <value>approval_history</value>
+        <variable display_value="">c1f2e9920b10030085c083eb37673ae3</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>823ad91ddb1b7f00b26388805b96194b</document_key>
+        <order>2</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2019-08-15 08:17:45</sys_created_on>
+        <sys_id>d4ce9d11db5b7f00b26388805b961939</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2019-08-15 08:17:45</sys_updated_on>
+        <value>approval</value>
+        <variable display_value="">01f2e9920b10030085c083eb37673ad8</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>823ad91ddb1b7f00b26388805b96194b</document_key>
+        <order>3</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2019-08-15 07:57:57</sys_created_on>
+        <sys_id>d63ad91ddb1b7f00b26388805b961953</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2019-08-15 07:57:57</sys_updated_on>
+        <value>approval_history</value>
+        <variable display_value="">22d2a9920b10030085c083eb37673ac3</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=823ad91ddb1b7f00b26388805b96194b"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>approval_conditions</field>
+        <id>823ad91ddb1b7f00b26388805b96194b</id>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2019-08-15 08:17:45</sys_created_on>
+        <sys_id>90ce9d11db5b7f00b26388805b961939</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2019-08-15 08:17:45</sys_updated_on>
+        <table>var__m_sys_hub_action_input_f8f2e9920b10030085c083eb37673abd</table>
+        <value>ApprovesAnyU[{{Updated_1.current.assigned_to}}]</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>approval_conditions</field>
+        <id>823ad91ddb1b7f00b26388805b96194b</id>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2019-08-15 07:57:57</sys_created_on>
+        <sys_id>da3ad91ddb1b7f00b26388805b961952</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2019-08-15 07:57:57</sys_updated_on>
+        <table>var__m_sys_hub_action_input_bae0a1120b10030085c083eb37673a92</table>
+        <value>ApprovesAnyU[{{Updated_1.current.assigned_to}}]</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>approval_field</field>
+        <id>823ad91ddb1b7f00b26388805b96194b</id>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2019-08-15 08:17:45</sys_created_on>
+        <sys_id>90ce9d11db5b7f00b26388805b961938</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2019-08-15 08:17:45</sys_updated_on>
+        <table>var__m_sys_hub_action_input_f8f2e9920b10030085c083eb37673abd</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>approval_field</field>
+        <id>823ad91ddb1b7f00b26388805b96194b</id>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2019-08-15 07:57:57</sys_created_on>
+        <sys_id>da3ad91ddb1b7f00b26388805b961951</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2019-08-15 07:57:57</sys_updated_on>
+        <table>var__m_sys_hub_action_input_bae0a1120b10030085c083eb37673a92</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>due_date</field>
+        <id>823ad91ddb1b7f00b26388805b96194b</id>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2019-08-15 07:57:57</sys_created_on>
+        <sys_id>1a3ad91ddb1b7f00b26388805b961952</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2019-08-15 07:57:57</sys_updated_on>
+        <table>var__m_sys_hub_action_input_bae0a1120b10030085c083eb37673a92</table>
+        <value>{"action":"approve","date_type":"relative","date":"{{Updated_1.current.closed_at}}","duration":"7","duration_type":"days","schedule":"fef684a3dbdf1b00b26388805b9619ec","schedule_label":"ICE Working Hours - Germany"}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>due_date</field>
+        <id>823ad91ddb1b7f00b26388805b96194b</id>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2019-08-15 08:17:45</sys_created_on>
+        <sys_id>dcce9d11db5b7f00b26388805b961938</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2019-08-15 08:17:45</sys_updated_on>
+        <table>var__m_sys_hub_action_input_f8f2e9920b10030085c083eb37673abd</table>
+        <value>{"action":"approve","date_type":"relative","date":"{{Updated_1.current.closed_at}}","duration":"7","duration_type":"days","schedule":"fef684a3dbdf1b00b26388805b9619ec","schedule_label":"ICE Working Hours - Germany"}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>journal_field</field>
+        <id>823ad91ddb1b7f00b26388805b96194b</id>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2019-08-15 08:17:45</sys_created_on>
+        <sys_id>58ce9d11db5b7f00b26388805b961938</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2019-08-15 08:17:45</sys_updated_on>
+        <table>var__m_sys_hub_action_input_f8f2e9920b10030085c083eb37673abd</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>journal_field</field>
+        <id>823ad91ddb1b7f00b26388805b96194b</id>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2019-08-15 07:57:57</sys_created_on>
+        <sys_id>923ad91ddb1b7f00b26388805b961952</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2019-08-15 07:57:57</sys_updated_on>
+        <table>var__m_sys_hub_action_input_bae0a1120b10030085c083eb37673a92</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>record</field>
+        <id>823ad91ddb1b7f00b26388805b96194b</id>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2019-08-15 08:17:45</sys_created_on>
+        <sys_id>1cce9d11db5b7f00b26388805b961938</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2019-08-15 08:17:45</sys_updated_on>
+        <table>var__m_sys_hub_action_input_f8f2e9920b10030085c083eb37673abd</table>
+        <value>{{Updated_1.current}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>record</field>
+        <id>823ad91ddb1b7f00b26388805b96194b</id>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2019-08-15 07:57:57</sys_created_on>
+        <sys_id>563ad91ddb1b7f00b26388805b961952</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2019-08-15 07:57:57</sys_updated_on>
+        <table>var__m_sys_hub_action_input_bae0a1120b10030085c083eb37673a92</table>
+        <value>{{Updated_1.current}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table</field>
+        <id>823ad91ddb1b7f00b26388805b96194b</id>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2019-08-15 08:17:45</sys_created_on>
+        <sys_id>54ce9d11db5b7f00b26388805b961939</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2019-08-15 08:17:45</sys_updated_on>
+        <table>var__m_sys_hub_action_input_f8f2e9920b10030085c083eb37673abd</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table</field>
+        <id>823ad91ddb1b7f00b26388805b96194b</id>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2019-08-15 07:57:57</sys_created_on>
+        <sys_id>9e3ad91ddb1b7f00b26388805b961952</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2019-08-15 07:57:57</sys_updated_on>
+        <table>var__m_sys_hub_action_input_bae0a1120b10030085c083eb37673a92</table>
+        <value/>
+    </sys_element_mapping>
+</record_update>
