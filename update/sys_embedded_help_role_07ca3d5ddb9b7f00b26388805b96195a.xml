@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
     <sys_embedded_help_role action="INSERT_OR_UPDATE">
         <order>1000</order>
-        <role display_value="x_ipegh_copyright.qc_works" name="x_ipegh_copyright.qc_works">33978be0db5a7f00a8088edf4b961909</role>
+        <role display_value="x_ipegh_copyright.qc_enq" name="x_ipegh_copyright.qc_enq">4ccaf1dddb9b7f00b26388805b96198b</role>
         <sys_class_name>sys_embedded_help_role</sys_class_name>
         <sys_created_by>LasBal</sys_created_by>
-        <sys_created_on>2019-06-24 14:58:44</sys_created_on>
-        <sys_id>32d7c7e0db5a7f00a8088edf4b9619c1</sys_id>
+        <sys_created_on>2019-08-15 10:20:16</sys_created_on>
+        <sys_id>07ca3d5ddb9b7f00b26388805b96195a</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>33978be0db5a7f00a8088edf4b961909</sys_name>
+        <sys_name>4ccaf1dddb9b7f00b26388805b96198b</sys_name>
         <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
         <sys_policy/>
         <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
-        <sys_update_name>sys_embedded_help_role_32d7c7e0db5a7f00a8088edf4b9619c1</sys_update_name>
+        <sys_update_name>sys_embedded_help_role_07ca3d5ddb9b7f00b26388805b96195a</sys_update_name>
         <sys_updated_by>LasBal</sys_updated_by>
-        <sys_updated_on>2019-06-24 14:58:44</sys_updated_on>
+        <sys_updated_on>2019-08-15 10:20:16</sys_updated_on>
     </sys_embedded_help_role>
 </record_update>

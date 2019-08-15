@@ -13,7 +13,7 @@
         <sys_update_name>sys_security_acl_role_fef499c0dbf63700b26388805b9619c5</sys_update_name>
         <sys_updated_by>LasBal</sys_updated_by>
         <sys_updated_on>2019-07-17 13:51:28</sys_updated_on>
-        <sys_user_role display_value="x_ipegh_copyright.qc" name="x_ipegh_copyright.qc">33978be0db5a7f00a8088edf4b961909</sys_user_role>
+        <sys_user_role display_value="x_ipegh_copyright.qc_works" name="x_ipegh_copyright.qc_works">33978be0db5a7f00a8088edf4b961909</sys_user_role>
         <transaction_id/>
     </sys_security_acl_role>
 </record_update>
