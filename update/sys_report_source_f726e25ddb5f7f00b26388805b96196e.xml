@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_source">
+    <sys_report_source action="INSERT_OR_UPDATE">
+        <description/>
+        <display>QC pending assignment (Copyright QC task)</display>
+        <filter table="x_ipegh_copyright_qc">active=true^state=-1^assigned_toISEMPTY<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="-1"/>
+            <item endquery="false" field="assigned_to" goto="false" newquery="false" operator="ISEMPTY" or="false" value=""/>
+        </filter>
+        <name>QC pending assignment</name>
+        <sys_class_name>sys_report_source</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2019-08-15 13:31:08</sys_created_on>
+        <sys_id>f726e25ddb5f7f00b26388805b96196e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>QC pending assignment (Copyright QC task)</sys_name>
+        <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
+        <sys_update_name>sys_report_source_f726e25ddb5f7f00b26388805b96196e</sys_update_name>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2019-08-15 13:31:08</sys_updated_on>
+        <table>x_ipegh_copyright_qc</table>
+    </sys_report_source>
+</record_update>

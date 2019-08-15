@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_source">
+    <sys_report_source action="INSERT_OR_UPDATE">
+        <description/>
+        <display>My qc to be checked (Copyright QC task)</display>
+        <filter table="x_ipegh_copyright_qc">active=true^assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe^state=-1<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="false" field="assigned_to" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
+            <item endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="-1"/>
+        </filter>
+        <name>My qc to be checked</name>
+        <sys_class_name>sys_report_source</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2019-08-15 13:26:30</sys_created_on>
+        <sys_id>023ede55db5f7f00b26388805b9619bc</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>My qc to be checked (Copyright QC task)</sys_name>
+        <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
+        <sys_update_name>sys_report_source_023ede55db5f7f00b26388805b9619bc</sys_update_name>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2019-08-15 13:27:43</sys_updated_on>
+        <table>x_ipegh_copyright_qc</table>
+    </sys_report_source>
+</record_update>

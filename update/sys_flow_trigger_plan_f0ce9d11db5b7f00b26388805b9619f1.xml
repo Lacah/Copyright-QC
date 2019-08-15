@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_flow_trigger_plan">
     <sys_flow_trigger_plan action="INSERT_OR_UPDATE">
         <binding_strategy>com.snc.process_flow.engine.binding.RunAlways</binding_strategy>
-        <plan/>
+        <plan>{"persistor":{"@class":".ChunkingPlanPersistor","table":"sys_flow_trigger_plan","id":"f0ce9d11db5b7f00b26388805b9619f1","name":"plan"}}</plan>
         <plan_id>4d9755c1db9b3f00b26388805b9619f9</plan_id>
-        <snapshot>24ce9d11db5b7f00b26388805b96197c</snapshot>
+        <snapshot>caad4f99dbd73f00a8088edf4b961933</snapshot>
         <sys_class_name>sys_flow_trigger_plan</sys_class_name>
         <sys_created_by>LasBal</sys_created_by>
         <sys_created_on>2019-08-15 08:17:47</sys_created_on>
