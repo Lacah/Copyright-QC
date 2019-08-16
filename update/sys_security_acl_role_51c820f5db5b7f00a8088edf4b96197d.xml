@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2019-08-16 17:39:12</sys_created_on>
+        <sys_id>51c820f5db5b7f00a8088edf4b96197d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_ipegh_copyright_qc.assigned_to.x_ipegh_copyright.qc_high_earning</sys_name>
+        <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
+        <sys_security_acl display_value="x_ipegh_copyright_qc.assigned_to">d8d80364db5a7f00a8088edf4b961980</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_51c820f5db5b7f00a8088edf4b96197d</sys_update_name>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2019-08-16 17:39:12</sys_updated_on>
+        <sys_user_role display_value="x_ipegh_copyright.qc_high_earning" name="x_ipegh_copyright.qc_high_earning">583a7d9ddb9b7f00b26388805b961955</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
