@@ -15,11 +15,12 @@
         <condition/>
         <description/>
         <execute_function>false</execute_function>
-        <filter_condition table="x_ipegh_copyright_qc">stateCHANGESTO8^NQstate=-2^ORstate=-3^ORstate=-4^u_correctedCHANGESTOtrue^EQ<item endquery="false" field="state" goto="false" newquery="false" operator="CHANGESTO" or="false" value="8"/>
+        <filter_condition table="x_ipegh_copyright_qc">stateCHANGESTO8^NQstate=-2^ORstate=-3^ORstate=-4^u_corrected=true^approval=approved^EQ<item endquery="false" field="state" goto="false" newquery="false" operator="CHANGESTO" or="false" value="8"/>
             <item endquery="false" field="state" goto="false" newquery="true" operator="=" or="false" value="-2"/>
             <item endquery="false" field="state" goto="false" newquery="false" operator="=" or="true" value="-3"/>
             <item endquery="false" field="state" goto="false" newquery="false" operator="=" or="true" value="-4"/>
-            <item endquery="false" field="u_corrected" goto="false" newquery="false" operator="CHANGESTO" or="false" value="true"/>
+            <item endquery="false" field="u_corrected" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="false" field="approval" goto="false" newquery="false" operator="=" or="false" value="approved"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </filter_condition>
         <is_rest>false</is_rest>
@@ -44,7 +45,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>b24cd888dbf23700b26388805b9619c7</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>Set qc task to inactive</sys_name>
         <sys_overrides/>
         <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
@@ -52,7 +53,7 @@
         <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
         <sys_update_name>sys_script_b24cd888dbf23700b26388805b9619c7</sys_update_name>
         <sys_updated_by>LasBal</sys_updated_by>
-        <sys_updated_on>2019-07-17 09:51:46</sys_updated_on>
+        <sys_updated_on>2019-08-16 13:17:47</sys_updated_on>
         <template>active=false^EQ</template>
         <when>before</when>
     </sys_script>

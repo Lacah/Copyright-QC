@@ -38,7 +38,7 @@
         <label>Record</label>
         <mandatory>true</mandatory>
         <max_length>200</max_length>
-        <model display_value="QC correction approval">4d9755c1db9b3f00b26388805b9619f9</model>
+        <model/>
         <model_id>4d9755c1db9b3f00b26388805b9619f9</model_id>
         <model_table>sys_hub_flow</model_table>
         <name>var__m_sys_hub_flow_input_4d9755c1db9b3f00b26388805b9619f9</name>
