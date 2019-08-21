@@ -35,12 +35,12 @@
         <sys_created_by>AnnAal</sys_created_by>
         <sys_created_on>2019-08-21 08:15:33</sys_created_on>
         <sys_id>56c79853db97b340a8088edf4b96196a</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_updated_by>AnnAal</sys_updated_by>
-        <sys_updated_on>2019-08-21 08:16:21</sys_updated_on>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2019-08-21 11:53:02</sys_updated_on>
         <table>x_ipegh_copyright_qc</table>
         <timezone/>
-        <validated>false</validated>
+        <validated>true</validated>
         <workflow display_value="QC app reminder wf">a8daaf7adbd7f340b26388805b961974</workflow>
     </wf_workflow_version>
     <wf_workflow action="INSERT_OR_UPDATE">
