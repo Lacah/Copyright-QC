@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_email">
+    <sys_script_email action="INSERT_OR_UPDATE">
+        <name>qc_record_link_button</name>
+        <new_lines_to_html>false</new_lines_to_html>
+        <script><![CDATA[(function runMailScript(current, template, email, email_action, event) {
+	var link = current.getLink();
+		//template.print('<p><font size="3" color="#808080" face="helvetica">');
+		//template.print(gs.getMessage('You can view all the details of the QC record by following the link below') + ':');
+		//template.print('</font></p>');
+	
+	template.print('<font face="helvetica">');
+	
+	var backgroundColor = 'background-color: #278efc;';
+	var border = 'border: 1px solid #0368d4;';
+	var color = 'color: #ffffff;';
+	var fontSize = 'font-size: 16px;';
+	var fontFamily = 'font-family: Helvetica, Arial, sans-serif;';
+	var textDecoration = 'text-decoration: none; border-radius: 3px;';
+	var webKitBorder = '-webkit-border-radius: 3px;';
+	var mozBorder = '-moz-border-radius: 3px;';
+	var display = 'display: inline-block;';
+	var padding = 'padding: 5px;';
+	
+	
+	template.print('<a href="' + link + '"');
+	template.print('style="' + backgroundColor + border + color + fontSize + fontFamily + textDecoration + webKitBorder + mozBorder + display + padding);
+	template.print('">');
+	template.print(gs.getMessage('Take me to the QC record'));
+	template.print('</a>');
+	template.print('</font>');
+	template.print('<br><br>');
+	//template.print('<p><font size="3" color="#808080" face="helvetica">');
+	//template.print('Thank you.');
+	//template.print('</font></p>');
+})(current, template, email, email_action, event);]]></script>
+        <sys_class_name>sys_script_email</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2019-08-21 10:38:43</sys_created_on>
+        <sys_id>9828f89bdb5b3300b26388805b9619f9</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>qc_record_link_button</sys_name>
+        <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
+        <sys_update_name>sys_script_email_9828f89bdb5b3300b26388805b9619f9</sys_update_name>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2019-08-21 10:51:22</sys_updated_on>
+    </sys_script_email>
+</record_update>
