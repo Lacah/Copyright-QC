@@ -4,7 +4,7 @@
         <connection_timeout>0</connection_timeout>
         <connection_url>ftp://internal_report_snow:${scp_password}@ftp.iceaccess.com/qc/QC.csv</connection_url>
         <connection_url_parameters/>
-        <csv_delimiter>,</csv_delimiter>
+        <csv_delimiter>;</csv_delimiter>
         <database_name/>
         <database_port/>
         <discard_arrays>true</discard_arrays>
@@ -44,14 +44,14 @@
         <sys_created_by>LasBal</sys_created_by>
         <sys_created_on>2019-07-04 12:36:59</sys_created_on>
         <sys_id>1306ceb7dbdaf740a8088edf4b961908</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>QC sample - weekly</sys_name>
         <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
         <sys_policy/>
         <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
         <sys_update_name>sys_data_source_1306ceb7dbdaf740a8088edf4b961908</sys_update_name>
         <sys_updated_by>LasBal</sys_updated_by>
-        <sys_updated_on>2019-08-15 15:15:06</sys_updated_on>
+        <sys_updated_on>2019-08-21 09:34:06</sys_updated_on>
         <table_name/>
         <type>File</type>
         <use_integrated_authentication>false</use_integrated_authentication>

@@ -2,20 +2,20 @@
     <sys_ui_policy_action action="INSERT_OR_UPDATE">
         <cleared>false</cleared>
         <disabled>ignore</disabled>
-        <field>u_corrected</field>
-        <mandatory>ignore</mandatory>
+        <field>description</field>
+        <mandatory>true</mandatory>
         <sys_class_name>sys_ui_policy_action</sys_class_name>
-        <sys_created_by>LasBal</sys_created_by>
-        <sys_created_on>2019-07-04 10:36:56</sys_created_on>
-        <sys_id>b5cb6573db9af740a8088edf4b9619e5</sys_id>
+        <sys_created_by>AnnAal</sys_created_by>
+        <sys_created_on>2019-08-21 08:06:58</sys_created_on>
+        <sys_id>70c55cdfdb57b340a8088edf4b96192c</sys_id>
         <sys_mod_count>2</sys_mod_count>
-        <sys_name>u_corrected</sys_name>
+        <sys_name>description</sys_name>
         <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
         <sys_policy/>
         <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
-        <sys_update_name>sys_ui_policy_action_b5cb6573db9af740a8088edf4b9619e5</sys_update_name>
+        <sys_update_name>sys_ui_policy_action_70c55cdfdb57b340a8088edf4b96192c</sys_update_name>
         <sys_updated_by>AnnAal</sys_updated_by>
-        <sys_updated_on>2019-08-21 08:45:47</sys_updated_on>
+        <sys_updated_on>2019-08-21 08:45:41</sys_updated_on>
         <table>x_ipegh_copyright_qc</table>
         <ui_policy display_value="corrected box">939be173db9af740a8088edf4b961912</ui_policy>
         <visible>true</visible>

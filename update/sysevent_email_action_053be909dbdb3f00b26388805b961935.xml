@@ -40,11 +40,11 @@
         <message_html><![CDATA[<p>${mail_script:incident_comments}</p>]]></message_html>
         <message_list/>
         <message_text/>
-        <name>A new comment on your QC case</name>
+        <name>A new comment on QC case</name>
         <omit_watermark>false</omit_watermark>
         <order>100</order>
         <push_message_only>false</push_message_only>
-        <recipient_fields>assigned_to,watch_list,additional_assignee_list</recipient_fields>
+        <recipient_fields>assigned_to,watch_list,user</recipient_fields>
         <recipient_groups/>
         <recipient_users/>
         <reply_to/>
@@ -59,15 +59,15 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>053be909dbdb3f00b26388805b961935</sys_id>
-        <sys_mod_count>4</sys_mod_count>
-        <sys_name>A new comment on your QC case</sys_name>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>A new comment on QC case</sys_name>
         <sys_overrides/>
         <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
         <sys_policy/>
         <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
         <sys_update_name>sysevent_email_action_053be909dbdb3f00b26388805b961935</sys_update_name>
         <sys_updated_by>AnnAal</sys_updated_by>
-        <sys_updated_on>2019-08-14 14:40:47</sys_updated_on>
+        <sys_updated_on>2019-08-21 06:17:33</sys_updated_on>
         <sys_version>2</sys_version>
         <template display_value="Unsubscribe and Preferences">7ed0481f3b0b2200c869c2c703efc487</template>
         <type>email</type>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="description" label="Error description" language="en" table="x_ipegh_copyright_qc">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <help/>
+            <hint/>
+            <label>Error description</label>
+            <language>en</language>
+            <name>x_ipegh_copyright_qc</name>
+            <plural>Error descriptions</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>AnnAal</sys_created_by>
+            <sys_created_on>2019-08-21 06:23:23</sys_created_on>
+            <sys_id>270eff0fdb17b340a8088edf4b96195c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Error description</sys_name>
+            <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
+            <sys_update_name>sys_documentation_x_ipegh_copyright_qc_description_en</sys_update_name>
+            <sys_updated_by>AnnAal</sys_updated_by>
+            <sys_updated_on>2019-08-21 06:23:23</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
