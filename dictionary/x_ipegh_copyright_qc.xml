@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element attributes="live_feed=true" audit="true" extends="task" label="Copyright QC task" max_length="40" name="x_ipegh_copyright_qc" sizeclass="1056" type="collection">
+    <element attributes="live_feed=true" audit="true" extends="task" label="Copyright QC task" max_length="40" name="x_ipegh_copyright_qc" sizeclass="1179" type="collection">
         <element choice="1" label="Area" max_length="40" name="area" read_only="true" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Cases" sequence="0" value="cases"/>
@@ -13,18 +13,18 @@
             </choice>
         </element>
         <element label="Counterclaim ID" max_length="40" name="counterclaim_id" read_only="true" type="string"/>
-        <element choice="1" label="Customer" max_length="40" name="customer" read_only="true" type="choice">
+        <element choice="3" default="not defined" label="Customer" max_length="40" name="customer" read_only="true" type="choice">
             <choice>
-                <element inactive_on_update="false" label="Buma/Stemra" value="BUMA"/>
-                <element inactive_on_update="false" label="Koda" value="KODA"/>
-                <element inactive_on_update="false" label="Polaris" value="Polaris"/>
-                <element inactive_on_update="false" label="PRS" value="PRS"/>
-                <element inactive_on_update="false" label="PRS APT" value="PRS APT"/>
-                <element inactive_on_update="false" label="PRS counterclaims" value="PRS_Counterclaims"/>
-                <element inactive_on_update="false" label="Sabam" value="SABAM"/>
-                <element inactive_on_update="false" label="STIM" value="STIM"/>
-                <element inactive_on_update="false" label="Teosto" value="TEOSTO"/>
-                <element inactive_on_update="false" label="Tono" value="TONO"/>
+                <element inactive_on_update="false" label="Buma/Stemra" sequence="0" value="BUMA"/>
+                <element inactive="true" inactive_on_update="true" label="Koda" sequence="0" value="KODA"/>
+                <element inactive_on_update="false" label="Polaris" sequence="1" value="Polaris"/>
+                <element inactive="true" inactive_on_update="true" label="Teosto" sequence="1" value="TEOSTO"/>
+                <element inactive_on_update="false" label="PRS" sequence="2" value="PRS"/>
+                <element inactive="true" inactive_on_update="true" label="Tono" sequence="2" value="TONO"/>
+                <element inactive_on_update="false" label="PRS APT" sequence="3" value="PRS APT"/>
+                <element inactive_on_update="false" label="PRS counterclaims" sequence="4" value="PRS_Counterclaims"/>
+                <element inactive_on_update="false" label="Sabam" sequence="5" value="SABAM"/>
+                <element inactive_on_update="false" label="STIM" sequence="6" value="STIM"/>
             </choice>
         </element>
         <element label="Date of action" max_length="40" name="date" type="glide_date"/>

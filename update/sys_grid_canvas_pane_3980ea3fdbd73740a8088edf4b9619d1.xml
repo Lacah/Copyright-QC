@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
     <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
         <grid_canvas display_value="PA New Tab">1d044699dbdb7f00b26388805b9619da</grid_canvas>
-        <height>6</height>
-        <portal_widget display_value="Created 2019-08-15 13:14:59">ac570a9ddbdb7f00b26388805b961900</portal_widget>
-        <posx>8</posx>
-        <posy>5</posy>
+        <height>5</height>
+        <portal_widget display_value="Created 2019-08-23 09:29:56">b580263fdbd73740a8088edf4b961946</portal_widget>
+        <posx>0</posx>
+        <posy>0</posy>
         <sys_class_name>sys_grid_canvas_pane</sys_class_name>
         <sys_created_by>LasBal</sys_created_by>
-        <sys_created_on>2019-08-15 11:15:00</sys_created_on>
-        <sys_id>ec570a9ddbdb7f00b26388805b9619f2</sys_id>
-        <sys_mod_count>34</sys_mod_count>
+        <sys_created_on>2019-08-23 07:29:56</sys_created_on>
+        <sys_id>3980ea3fdbd73740a8088edf4b9619d1</sys_id>
+        <sys_mod_count>13</sys_mod_count>
         <sys_name>1d044699dbdb7f00b26388805b9619da</sys_name>
         <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
         <sys_policy/>
         <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
-        <sys_update_name>sys_grid_canvas_pane_ec570a9ddbdb7f00b26388805b9619f2</sys_update_name>
+        <sys_update_name>sys_grid_canvas_pane_3980ea3fdbd73740a8088edf4b9619d1</sys_update_name>
         <sys_updated_by>LasBal</sys_updated_by>
-        <sys_updated_on>2019-08-23 09:52:51</sys_updated_on>
-        <width>4</width>
+        <sys_updated_on>2019-08-23 09:52:32</sys_updated_on>
+        <width>12</width>
     </sys_grid_canvas_pane>
 </record_update>
