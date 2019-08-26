@@ -9,14 +9,14 @@
         <sys_created_by>LasBal</sys_created_by>
         <sys_created_on>2019-08-15 12:00:30</sys_created_on>
         <sys_id>97b15659db1f7f00b26388805b9619d7</sys_id>
-        <sys_mod_count>24</sys_mod_count>
+        <sys_mod_count>26</sys_mod_count>
         <sys_name>c78b8a91db1f7f00b26388805b9619f4</sys_name>
         <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
         <sys_policy/>
         <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
         <sys_update_name>sys_grid_canvas_pane_97b15659db1f7f00b26388805b9619d7</sys_update_name>
-        <sys_updated_by>LasBal</sys_updated_by>
-        <sys_updated_on>2019-08-15 12:48:24</sys_updated_on>
+        <sys_updated_by>AnnAal</sys_updated_by>
+        <sys_updated_on>2019-08-26 14:33:04</sys_updated_on>
         <width>4</width>
     </sys_grid_canvas_pane>
 </record_update>

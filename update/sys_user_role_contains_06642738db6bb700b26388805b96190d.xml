@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="x_ipegh_copyright.qc_cc" name="x_ipegh_copyright.qc_cc">416afd9ddb9b7f00b26388805b96196c</contains>
+        <role display_value="x_ipegh_copyright.qc" name="x_ipegh_copyright.qc">07346338db6bb700b26388805b961911</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2019-08-26 15:00:26</sys_created_on>
+        <sys_id>06642738db6bb700b26388805b96190d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_ipegh_copyright.qc_cc.x_ipegh_copyright.qc</sys_name>
+        <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
+        <sys_update_name>sys_user_role_contains_06642738db6bb700b26388805b96190d</sys_update_name>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2019-08-26 15:00:26</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

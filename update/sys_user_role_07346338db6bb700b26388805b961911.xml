@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by display_value="x_ipegh_copyright.admin" name="x_ipegh_copyright.admin">c33787e0db5a7f00a8088edf4b961928</assignable_by>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_ipegh_copyright.qc</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>qc</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2019-08-26 15:00:08</sys_created_on>
+        <sys_id>07346338db6bb700b26388805b961911</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_ipegh_copyright.qc</sys_name>
+        <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
+        <sys_update_name>sys_user_role_07346338db6bb700b26388805b961911</sys_update_name>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2019-08-26 15:00:08</sys_updated_on>
+    </sys_user_role>
+</record_update>

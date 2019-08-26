@@ -39,12 +39,12 @@
         <item_table/>
         <mandatory>false</mandatory>
         <message/>
-        <message_html><![CDATA[<p>Handling officer: ${user}</p>
-<p>Amended on: ${closed_at}</p>
+        <message_html><![CDATA[<p>Hi ${assigned_to.first_name},</p>
+<p>${closed_by} has now amended the Minor Internal error&nbsp;found on QC Case&nbsp;${number}.</p>
 <p>&nbsp;</p>
+<p>Amended on: ${closed_at}</p>
 <p>Customer: ${customer}</p>
-<p>Area: ${area}</p>
-<p>Subarea: ${u_qc_subarea}<br /><br />Error type: ${type}&nbsp;</p>
+<p>Area: ${area}<br /><br />Error type: ${type}&nbsp;</p>
 <p>${mail_script:qc_record_link_button}</p>
 <p><span style="color: #ff0000;">Please do not reply to this email.</span></p>
 <p>&nbsp;</p>]]></message_html>
@@ -69,7 +69,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>1eb90007db5bf340b26388805b96198c</sys_id>
-        <sys_mod_count>13</sys_mod_count>
+        <sys_mod_count>19</sys_mod_count>
         <sys_name>Error has been amended</sys_name>
         <sys_overrides/>
         <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
@@ -77,7 +77,7 @@
         <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
         <sys_update_name>sysevent_email_action_1eb90007db5bf340b26388805b96198c</sys_update_name>
         <sys_updated_by>AnnAal</sys_updated_by>
-        <sys_updated_on>2019-08-22 09:00:28</sys_updated_on>
+        <sys_updated_on>2019-08-23 13:14:43</sys_updated_on>
         <sys_version>2</sys_version>
         <template display_value="Unsubscribe and Preferences">7ed0481f3b0b2200c869c2c703efc487</template>
         <type>email</type>

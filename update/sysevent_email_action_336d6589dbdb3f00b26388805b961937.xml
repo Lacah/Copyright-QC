@@ -38,11 +38,13 @@
         <item_table/>
         <mandatory>false</mandatory>
         <message/>
-        <message_html><![CDATA[<p>Number: ${number}</p>
+        <message_html><![CDATA[<p>Hi ${assigned_to.first_name},</p>
+<p>A new QC case ${number} has been assigned to you for checking.</p>
+<p>Number: ${number}</p>
+<p>Current status: ${state}</p>
 <p>Customer: ${customer}</p>
 <p>Handling officer: ${user}</p>
 <p>Area: ${area}</p>
-<p>Subarea: ${u_qc_subarea}</p>
 <p>${mail_script:qc_record_link_button}</p>
 <p><span style="color: #ff0000;">Please do not reply to this email.</span></p>
 <p>&nbsp;</p>
@@ -68,7 +70,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>336d6589dbdb3f00b26388805b961937</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>14</sys_mod_count>
         <sys_name>New Case assigned to you</sys_name>
         <sys_overrides/>
         <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
@@ -76,7 +78,7 @@
         <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
         <sys_update_name>sysevent_email_action_336d6589dbdb3f00b26388805b961937</sys_update_name>
         <sys_updated_by>AnnAal</sys_updated_by>
-        <sys_updated_on>2019-08-22 09:02:33</sys_updated_on>
+        <sys_updated_on>2019-08-23 13:08:45</sys_updated_on>
         <sys_version>2</sys_version>
         <template display_value="Unsubscribe and Preferences">7ed0481f3b0b2200c869c2c703efc487</template>
         <type>email</type>

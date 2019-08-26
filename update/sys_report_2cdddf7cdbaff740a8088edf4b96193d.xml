@@ -16,7 +16,7 @@
         <chart_subtitle_color/>
         <chart_subtitle_size>14</chart_subtitle_size>
         <chart_subtitle_style>normal</chart_subtitle_style>
-        <chart_title>Errors this month per error type</chart_title>
+        <chart_title>Errors this month per customer</chart_title>
         <chart_title_color display_value="Black">65b30218a9fe3dba0120df8611520d97</chart_title_color>
         <chart_title_size>16</chart_title_size>
         <chart_title_style>normal</chart_title_style>
@@ -29,7 +29,7 @@
         <column/>
         <compute_percent>aggregate</compute_percent>
         <content/>
-        <created_by_user display_value="Laszlo Balla">fd889f15db1593005e5783305b961999</created_by_user>
+        <created_by_user display_value="Annika Aaltonen">61889f15db1593005e5783305b96192b</created_by_user>
         <custom_chart_size>false</custom_chart_size>
         <custom_chart_title_position>false</custom_chart_title_position>
         <custom_config>{"transforms":[{"transform":{"transform":"Reference","name":"chart-subjects"}}]}</custom_config>
@@ -42,11 +42,11 @@
         <donut_width_percent>50</donut_width_percent>
         <end_time/>
         <exp_report_attrs>true</exp_report_attrs>
-        <field>type</field>
+        <field>company</field>
         <field_list>number,opened_at,short_description,caller_id,caller_id.company,priority,state,u_product_category,assignment_group,assigned_to,sys_updated_on</field_list>
-        <filter table="x_ipegh_copyright_qc">area=cases^stateNOT IN-1,8^sys_created_onONThis quarter@javascript:gs.beginningOfThisQuarter()@javascript:gs.endOfThisQuarter()<item endquery="false" field="area" goto="false" newquery="false" operator="=" or="false" value="cases"/>
+        <filter table="x_ipegh_copyright_qc">area=cases^stateNOT IN-1,8^sys_created_onONThis month@javascript:gs.beginningOfThisMonth()@javascript:gs.endOfThisMonth()<item endquery="false" field="area" goto="false" newquery="false" operator="=" or="false" value="cases"/>
             <item endquery="false" field="state" goto="false" newquery="false" operator="NOT IN" or="false" value="-1,8"/>
-            <item endquery="false" field="sys_created_on" goto="false" newquery="false" operator="ON" or="false" value="This quarter@javascript:gs.beginningOfThisQuarter()@javascript:gs.endOfThisQuarter()"/>
+            <item endquery="false" field="sys_created_on" goto="false" newquery="false" operator="ON" or="false" value="This month@javascript:gs.beginningOfThisMonth()@javascript:gs.endOfThisMonth()"/>
         </filter>
         <from/>
         <funnel_neck_percent>30</funnel_neck_percent>
@@ -54,7 +54,7 @@
         <group/>
         <import_table/>
         <interval>year</interval>
-        <is_published>true</is_published>
+        <is_published>false</is_published>
         <is_real_time>false</is_real_time>
         <is_scheduled>false</is_scheduled>
         <legend_align_columns>true</legend_align_columns>
@@ -77,7 +77,7 @@
         <pivot_expanded>true</pivot_expanded>
         <report_drilldown/>
         <report_source/>
-        <roles>public</roles>
+        <roles/>
         <row/>
         <sc_groupby_item_id/>
         <sc_groupby_variable_id/>
@@ -102,19 +102,19 @@
         <style_config/>
         <sumfield/>
         <sys_class_name>sys_report</sys_class_name>
-        <sys_created_by>LasBal</sys_created_by>
-        <sys_created_on>2019-08-15 12:43:50</sys_created_on>
-        <sys_id>4eab1a91db5f7f00b26388805b9619fd</sys_id>
+        <sys_created_by>AnnAal</sys_created_by>
+        <sys_created_on>2019-08-26 14:31:39</sys_created_on>
+        <sys_id>2cdddf7cdbaff740a8088edf4b96193d</sys_id>
         <sys_mod_count>5</sys_mod_count>
-        <sys_name>qc cases errors this quarter</sys_name>
+        <sys_name>Errors this month per customer</sys_name>
         <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
         <sys_policy/>
         <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
-        <sys_update_name>sys_report_4eab1a91db5f7f00b26388805b9619fd</sys_update_name>
+        <sys_update_name>sys_report_2cdddf7cdbaff740a8088edf4b96193d</sys_update_name>
         <sys_updated_by>AnnAal</sys_updated_by>
-        <sys_updated_on>2019-08-26 14:38:01</sys_updated_on>
+        <sys_updated_on>2019-08-26 14:38:58</sys_updated_on>
         <table>x_ipegh_copyright_qc</table>
-        <title>qc cases errors this quarter</title>
+        <title>Errors this month per customer</title>
         <title_horizontal_alignment>center</title_horizontal_alignment>
         <title_vertical_alignment>top</title_vertical_alignment>
         <to/>
