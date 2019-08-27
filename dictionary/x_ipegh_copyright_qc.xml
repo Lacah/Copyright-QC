@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element attributes="live_feed=true" audit="true" extends="task" label="Copyright QC task" max_length="40" name="x_ipegh_copyright_qc" sizeclass="1179" type="collection">
+    <element attributes="live_feed=true" audit="true" extends="task" label="Copyright QC task" max_length="40" name="x_ipegh_copyright_qc" sizeclass="1463" type="collection">
         <element choice="1" label="Area" max_length="40" name="area" read_only="true" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Cases" sequence="0" value="cases"/>
