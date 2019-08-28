@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
     <sys_report_users_groups action="INSERT_OR_UPDATE">
         <group_id display_value="QC - Cases" name="QC - Cases">8f94cea5db1a3340a8088edf4b961997</group_id>
-        <report_id display_value="QC cases - This year's statistics">c7889adddb1f7f00b26388805b9619ff</report_id>
+        <report_id display_value="Works  - This year's statistics">c7889adddb1f7f00b26388805b9619ff</report_id>
         <sys_class_name>sys_report_users_groups</sys_class_name>
         <sys_created_by>LasBal</sys_created_by>
         <sys_created_on>2019-08-15 12:30:15</sys_created_on>

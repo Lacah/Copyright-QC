@@ -16,7 +16,7 @@
         <chart_subtitle_color/>
         <chart_subtitle_size>14</chart_subtitle_size>
         <chart_subtitle_style>normal</chart_subtitle_style>
-        <chart_title>Waiting for me to check</chart_title>
+        <chart_title>Assigned to me to check</chart_title>
         <chart_title_color display_value="Black">65b30218a9fe3dba0120df8611520d97</chart_title_color>
         <chart_title_size>16</chart_title_size>
         <chart_title_style>normal</chart_title_style>
@@ -103,16 +103,16 @@
         <sys_created_by>LasBal</sys_created_by>
         <sys_created_on>2019-08-15 11:49:47</sys_created_on>
         <sys_id>8a4fc255db1f7f00b26388805b96196c</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_name>Works QC waiting for me</sys_name>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Works - QC waiting for me</sys_name>
         <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
         <sys_policy/>
         <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
         <sys_update_name>sys_report_8a4fc255db1f7f00b26388805b96196c</sys_update_name>
-        <sys_updated_by>LasBal</sys_updated_by>
-        <sys_updated_on>2019-08-15 13:29:08</sys_updated_on>
+        <sys_updated_by>annaal</sys_updated_by>
+        <sys_updated_on>2019-08-28 07:13:37</sys_updated_on>
         <table>x_ipegh_copyright_qc</table>
-        <title>Works QC waiting for me</title>
+        <title>Works - QC waiting for me</title>
         <title_horizontal_alignment>center</title_horizontal_alignment>
         <title_vertical_alignment>top</title_vertical_alignment>
         <to/>

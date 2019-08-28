@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
     <sys_report_users_groups action="INSERT_OR_UPDATE">
         <group_id/>
-        <report_id display_value="qc cases errors this quarter">4eab1a91db5f7f00b26388805b9619fd</report_id>
+        <report_id display_value="Works - errors this month">4eab1a91db5f7f00b26388805b9619fd</report_id>
         <sys_class_name>sys_report_users_groups</sys_class_name>
         <sys_created_by>LasBal</sys_created_by>
         <sys_created_on>2019-08-15 12:43:50</sys_created_on>

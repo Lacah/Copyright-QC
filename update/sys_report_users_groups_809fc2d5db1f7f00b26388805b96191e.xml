@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
     <sys_report_users_groups action="INSERT_OR_UPDATE">
         <group_id/>
-        <report_id display_value="Works QC assigned to be checked">0c9fc2d5db1f7f00b26388805b96191d</report_id>
+        <report_id display_value="Works - QC assigned to someone else">0c9fc2d5db1f7f00b26388805b96191d</report_id>
         <sys_class_name>sys_report_users_groups</sys_class_name>
         <sys_created_by>LasBal</sys_created_by>
         <sys_created_on>2019-08-15 11:51:00</sys_created_on>
