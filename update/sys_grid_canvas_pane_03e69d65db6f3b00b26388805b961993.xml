@@ -4,19 +4,19 @@
         <height>8</height>
         <portal_widget display_value="Created 2019-08-28 14:37:43">c3e69d65db6f3b00b26388805b961991</portal_widget>
         <posx>0</posx>
-        <posy>22</posy>
+        <posy>46</posy>
         <sys_class_name>sys_grid_canvas_pane</sys_class_name>
         <sys_created_by>AnnAal</sys_created_by>
         <sys_created_on>2019-08-28 12:37:43</sys_created_on>
         <sys_id>03e69d65db6f3b00b26388805b961993</sys_id>
-        <sys_mod_count>10</sys_mod_count>
+        <sys_mod_count>13</sys_mod_count>
         <sys_name>0b5c8ed1db1f7f00b26388805b961910</sys_name>
         <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
         <sys_policy/>
         <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
         <sys_update_name>sys_grid_canvas_pane_03e69d65db6f3b00b26388805b961993</sys_update_name>
         <sys_updated_by>AnnAal</sys_updated_by>
-        <sys_updated_on>2019-08-28 12:39:14</sys_updated_on>
-        <width>8</width>
+        <sys_updated_on>2019-08-28 13:31:37</sys_updated_on>
+        <width>12</width>
     </sys_grid_canvas_pane>
 </record_update>

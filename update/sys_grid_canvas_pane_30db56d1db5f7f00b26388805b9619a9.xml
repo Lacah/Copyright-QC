@@ -3,20 +3,20 @@
         <grid_canvas display_value="PA New Tab 2">c78b8a91db1f7f00b26388805b9619f4</grid_canvas>
         <height>13</height>
         <portal_widget display_value="Created 2019-08-15 14:44:34">b4db52d1db5f7f00b26388805b9619f9</portal_widget>
-        <posx>8</posx>
+        <posx>0</posx>
         <posy>17</posy>
         <sys_class_name>sys_grid_canvas_pane</sys_class_name>
         <sys_created_by>LasBal</sys_created_by>
         <sys_created_on>2019-08-15 12:44:35</sys_created_on>
         <sys_id>30db56d1db5f7f00b26388805b9619a9</sys_id>
-        <sys_mod_count>32</sys_mod_count>
+        <sys_mod_count>34</sys_mod_count>
         <sys_name>c78b8a91db1f7f00b26388805b9619f4</sys_name>
         <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
         <sys_policy/>
         <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
         <sys_update_name>sys_grid_canvas_pane_30db56d1db5f7f00b26388805b9619a9</sys_update_name>
-        <sys_updated_by>annaal</sys_updated_by>
-        <sys_updated_on>2019-08-28 08:13:56</sys_updated_on>
-        <width>4</width>
+        <sys_updated_by>AnnAal</sys_updated_by>
+        <sys_updated_on>2019-08-28 13:37:41</sys_updated_on>
+        <width>12</width>
     </sys_grid_canvas_pane>
 </record_update>

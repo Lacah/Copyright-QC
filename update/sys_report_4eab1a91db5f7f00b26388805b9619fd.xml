@@ -87,7 +87,7 @@
         <series_name_text/>
         <set_color>color_palette</set_color>
         <show_chart_border>false</show_chart_border>
-        <show_chart_data_label>false</show_chart_data_label>
+        <show_chart_data_label>true</show_chart_data_label>
         <show_chart_title>report</show_chart_title>
         <show_chart_total>false</show_chart_total>
         <show_data_label_position_middle>false</show_data_label_position_middle>
@@ -105,14 +105,14 @@
         <sys_created_by>LasBal</sys_created_by>
         <sys_created_on>2019-08-15 12:43:50</sys_created_on>
         <sys_id>4eab1a91db5f7f00b26388805b9619fd</sys_id>
-        <sys_mod_count>11</sys_mod_count>
+        <sys_mod_count>13</sys_mod_count>
         <sys_name>Works - errors this month</sys_name>
         <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
         <sys_policy/>
         <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
         <sys_update_name>sys_report_4eab1a91db5f7f00b26388805b9619fd</sys_update_name>
-        <sys_updated_by>annaal</sys_updated_by>
-        <sys_updated_on>2019-08-28 07:33:56</sys_updated_on>
+        <sys_updated_by>AnnAal</sys_updated_by>
+        <sys_updated_on>2019-08-28 13:53:43</sys_updated_on>
         <table>x_ipegh_copyright_qc</table>
         <title>Works - errors this month</title>
         <title_horizontal_alignment>center</title_horizontal_alignment>
@@ -123,7 +123,7 @@
         <upper_limit/>
         <use_color_heatmap>false</use_color_heatmap>
         <use_null_in_trend>false</use_null_in_trend>
-        <user>group</user>
+        <user>GLOBAL</user>
         <x_axis_allow_decimals>true</x_axis_allow_decimals>
         <x_axis_display_grid>false</x_axis_display_grid>
         <x_axis_grid_color display_value="LightGrey">65b30308a9fe3dba01ebaa03e87e7cd3</x_axis_grid_color>

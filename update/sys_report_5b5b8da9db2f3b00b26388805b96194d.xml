@@ -86,7 +86,7 @@
         <series_name_text/>
         <set_color>color_palette</set_color>
         <show_chart_border>false</show_chart_border>
-        <show_chart_data_label>false</show_chart_data_label>
+        <show_chart_data_label>true</show_chart_data_label>
         <show_chart_title>report</show_chart_title>
         <show_chart_total>false</show_chart_total>
         <show_data_label_position_middle>false</show_data_label_position_middle>
@@ -104,14 +104,14 @@
         <sys_created_by>AnnAal</sys_created_by>
         <sys_created_on>2019-08-28 11:47:14</sys_created_on>
         <sys_id>5b5b8da9db2f3b00b26388805b96194d</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>UR - All states, customer breakdown</sys_name>
         <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
         <sys_policy/>
         <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
         <sys_update_name>sys_report_5b5b8da9db2f3b00b26388805b96194d</sys_update_name>
         <sys_updated_by>AnnAal</sys_updated_by>
-        <sys_updated_on>2019-08-28 11:47:14</sys_updated_on>
+        <sys_updated_on>2019-08-28 13:34:04</sys_updated_on>
         <table>x_ipegh_copyright_qc</table>
         <title>UR - All states, customer breakdown</title>
         <title_horizontal_alignment>center</title_horizontal_alignment>

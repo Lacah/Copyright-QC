@@ -105,14 +105,14 @@
         <sys_created_by>LasBal</sys_created_by>
         <sys_created_on>2019-08-15 11:51:00</sys_created_on>
         <sys_id>0c9fc2d5db1f7f00b26388805b96191d</sys_id>
-        <sys_mod_count>11</sys_mod_count>
+        <sys_mod_count>12</sys_mod_count>
         <sys_name>Works - QC assigned to someone else</sys_name>
         <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
         <sys_policy/>
         <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
         <sys_update_name>sys_report_0c9fc2d5db1f7f00b26388805b96191d</sys_update_name>
-        <sys_updated_by>LasBal</sys_updated_by>
-        <sys_updated_on>2019-08-28 07:27:27</sys_updated_on>
+        <sys_updated_by>AnnAal</sys_updated_by>
+        <sys_updated_on>2019-08-28 13:52:46</sys_updated_on>
         <table>x_ipegh_copyright_qc</table>
         <title>Works - QC assigned to someone else</title>
         <title_horizontal_alignment>center</title_horizontal_alignment>
@@ -123,7 +123,7 @@
         <upper_limit/>
         <use_color_heatmap>false</use_color_heatmap>
         <use_null_in_trend>false</use_null_in_trend>
-        <user>group</user>
+        <user>GLOBAL</user>
         <x_axis_allow_decimals>true</x_axis_allow_decimals>
         <x_axis_display_grid>false</x_axis_display_grid>
         <x_axis_grid_color display_value="LightGrey">65b30308a9fe3dba01ebaa03e87e7cd3</x_axis_grid_color>
