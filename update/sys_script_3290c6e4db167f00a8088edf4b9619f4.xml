@@ -15,10 +15,9 @@
         <condition/>
         <description/>
         <execute_function>false</execute_function>
-        <filter_condition table="x_ipegh_copyright_qc">customer=PRS^ORcustomer=PRS APT^ORcustomer=PRS_Counterclaims^NQcustomerNOT INBUMA,Polaris,PRS,PRS APT,PRS_Counterclaims,SABAM,STIM^area=high earning^EQ<item endquery="false" field="customer" goto="false" newquery="false" operator="=" or="false" value="PRS"/>
+        <filter_condition table="x_ipegh_copyright_qc">customer=PRS^ORcustomer=PRS APT^NQcustomerNOT INBUMA,Polaris,PRS,PRS APT,SABAM,STIM^area=high earning^EQ<item endquery="false" field="customer" goto="false" newquery="false" operator="=" or="false" value="PRS"/>
             <item endquery="false" field="customer" goto="false" newquery="false" operator="=" or="true" value="PRS APT"/>
-            <item endquery="false" field="customer" goto="false" newquery="false" operator="=" or="true" value="PRS_Counterclaims"/>
-            <item endquery="false" field="customer" goto="false" newquery="true" operator="NOT IN" or="false" value="BUMA,Polaris,PRS,PRS APT,PRS_Counterclaims,SABAM,STIM"/>
+            <item endquery="false" field="customer" goto="false" newquery="true" operator="NOT IN" or="false" value="BUMA,Polaris,PRS,PRS APT,SABAM,STIM"/>
             <item endquery="false" field="area" goto="false" newquery="false" operator="=" or="false" value="high earning"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </filter_condition>
@@ -44,7 +43,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>3290c6e4db167f00a8088edf4b9619f4</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>Set company PRS</sys_name>
         <sys_overrides/>
         <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
@@ -52,7 +51,7 @@
         <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
         <sys_update_name>sys_script_3290c6e4db167f00a8088edf4b9619f4</sys_update_name>
         <sys_updated_by>LasBal</sys_updated_by>
-        <sys_updated_on>2019-06-24 09:56:49</sys_updated_on>
+        <sys_updated_on>2019-08-28 10:56:27</sys_updated_on>
         <template>company=182d7650db4783006ff762eb0b96192d^EQ</template>
         <when>before</when>
     </sys_script>

@@ -26,27 +26,6 @@
             <element>area</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Updated</label>
-            <language>en</language>
-            <name>x_ipegh_copyright_qc</name>
-            <sequence>0</sequence>
-            <sys_created_by>LasBal</sys_created_by>
-            <sys_created_on>2019-08-21 09:34:56</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>d9f9241fdb1b3300b26388805b9619dc</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>LasBal</sys_updated_by>
-            <sys_updated_on>2019-08-21 09:34:56</sys_updated_on>
-            <u_core_customer_selectable>false</u_core_customer_selectable>
-            <u_customer_visible>false</u_customer_visible>
-            <value>Updated</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>area</element>
-            <hint/>
-            <inactive>false</inactive>
             <label>Update requests</label>
             <language>en</language>
             <name>x_ipegh_copyright_qc</name>

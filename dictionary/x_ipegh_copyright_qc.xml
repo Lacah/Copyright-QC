@@ -3,7 +3,6 @@
         <element choice="1" label="Area" max_length="40" name="area" read_only="true" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Cases" sequence="0" value="cases"/>
-                <element inactive_on_update="false" label="Updated" sequence="0" value="Updated"/>
                 <element inactive_on_update="false" label="Update requests" sequence="1" value="service requests"/>
                 <element inactive_on_update="false" label="High Earning" sequence="2" value="high earning"/>
                 <element inactive_on_update="false" label="Agreements" sequence="3" value="agreements"/>
@@ -22,7 +21,7 @@
                 <element inactive_on_update="false" label="PRS" sequence="2" value="PRS"/>
                 <element inactive="true" inactive_on_update="true" label="Tono" sequence="2" value="TONO"/>
                 <element inactive_on_update="false" label="PRS APT" sequence="3" value="PRS APT"/>
-                <element inactive_on_update="false" label="PRS counterclaims" sequence="4" value="PRS_Counterclaims"/>
+                <element inactive="true" inactive_on_update="true" label="PRS counterclaims" sequence="4" value="PRS_Counterclaims"/>
                 <element inactive_on_update="false" label="Sabam" sequence="5" value="SABAM"/>
                 <element inactive_on_update="false" label="STIM" sequence="6" value="STIM"/>
             </choice>
