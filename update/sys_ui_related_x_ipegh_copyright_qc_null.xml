@@ -2,17 +2,45 @@
     <sys_ui_related sys_domain="global" table="x_ipegh_copyright_qc" version="2" view="">
         <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
             <filter/>
-            <list_id display_value="Copyright QC task - Default view" name="x_ipegh_copyright_qc" related_list="NULL" sys_domain="global" view="Default view">938fd551db5b7f00b26388805b961969</list_id>
+            <list_id display_value="Copyright QC task - Default view" name="x_ipegh_copyright_qc" related_list="NULL" sys_domain="global" view="Default view">a5708a35dbefbb40a8088edf4b9619cb</list_id>
             <order_by/>
             <position>0</position>
             <related_list>sysapproval_approver.sysapproval</related_list>
             <sys_class_name>sys_ui_related_list_entry</sys_class_name>
             <sys_created_by>LasBal</sys_created_by>
-            <sys_created_on>2019-08-15 08:21:14</sys_created_on>
-            <sys_id>9b8f9951db5b7f00b26388805b961992</sys_id>
+            <sys_created_on>2019-08-29 10:17:41</sys_created_on>
+            <sys_id>25708a35dbefbb40a8088edf4b9619cc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>LasBal</sys_updated_by>
-            <sys_updated_on>2019-08-15 08:21:14</sys_updated_on>
+            <sys_updated_on>2019-08-29 10:17:41</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Copyright QC task - Default view" name="x_ipegh_copyright_qc" related_list="NULL" sys_domain="global" view="Default view">a5708a35dbefbb40a8088edf4b9619cb</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>REL:90547d79dbafbb40a8088edf4b961947</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-08-29 10:17:41</sys_created_on>
+            <sys_id>ad708a35dbefbb40a8088edf4b9619cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-08-29 10:17:41</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Copyright QC task - Default view" name="x_ipegh_copyright_qc" related_list="NULL" sys_domain="global" view="Default view">a5708a35dbefbb40a8088edf4b9619cb</list_id>
+            <order_by/>
+            <position>2</position>
+            <related_list>REL:df6fb9b1dbefbb40a8088edf4b961948</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-08-29 10:17:41</sys_created_on>
+            <sys_id>25708a35dbefbb40a8088edf4b9619cd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-08-29 10:17:41</sys_updated_on>
         </sys_ui_related_list_entry>
         <sys_ui_related_list action="INSERT_OR_UPDATE">
             <calculated_name>Copyright QC task - Default view</calculated_name>
@@ -23,10 +51,10 @@
             <related_list/>
             <sys_class_name>sys_ui_related_list</sys_class_name>
             <sys_created_by>LasBal</sys_created_by>
-            <sys_created_on>2019-08-15 08:21:14</sys_created_on>
+            <sys_created_on>2019-08-29 10:17:41</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>938fd551db5b7f00b26388805b961969</sys_id>
+            <sys_id>a5708a35dbefbb40a8088edf4b9619cb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>Copyright QC task - Default view</sys_name>
             <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
@@ -34,7 +62,7 @@
             <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
             <sys_update_name>sys_ui_related_x_ipegh_copyright_qc_null</sys_update_name>
             <sys_updated_by>LasBal</sys_updated_by>
-            <sys_updated_on>2019-08-15 08:21:14</sys_updated_on>
+            <sys_updated_on>2019-08-29 10:17:41</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>

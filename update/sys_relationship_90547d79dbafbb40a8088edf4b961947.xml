@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_relationship">
+    <sys_relationship action="INSERT_OR_UPDATE">
+        <advanced>false</advanced>
+        <apply_to/>
+        <basic_apply_to>x_ipegh_copyright_qc</basic_apply_to>
+        <basic_query_from>x_ipegh_copyright_qc</basic_query_from>
+        <insert_callback/>
+        <name>Duplicate works</name>
+        <query_from/>
+        <query_with><![CDATA[(function refineQuery(current, parent) {
+
+	current.addQuery('workkey',parent.workkey);
+	current.addQuery('sys_id','!=',parent.sys_id);
+	current.addNotNullQuery('workkey');
+
+})(current, parent);]]></query_with>
+        <reference_field>assigned_to</reference_field>
+        <related_list/>
+        <simple_reference>false</simple_reference>
+        <sys_class_name>sys_relationship</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2019-08-29 09:32:57</sys_created_on>
+        <sys_id>90547d79dbafbb40a8088edf4b961947</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>Duplicate works</sys_name>
+        <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
+        <sys_update_name>sys_relationship_90547d79dbafbb40a8088edf4b961947</sys_update_name>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2019-08-29 10:19:12</sys_updated_on>
+    </sys_relationship>
+    <sys_translated_text action="delete_multiple" query="documentkey=90547d79dbafbb40a8088edf4b961947"/>
+</record_update>
