@@ -44,7 +44,8 @@
         <exp_report_attrs>true</exp_report_attrs>
         <field>state</field>
         <field_list>number,opened_at,short_description,caller_id,caller_id.company,priority,state,u_product_category,assignment_group,assigned_to,sys_updated_on</field_list>
-        <filter table="x_ipegh_copyright_qc">sys_created_onONThis quarter@javascript:gs.beginningOfThisQuarter()@javascript:gs.endOfThisQuarter()<item endquery="false" field="sys_created_on" goto="false" newquery="false" operator="ON" or="false" value="This quarter@javascript:gs.beginningOfThisQuarter()@javascript:gs.endOfThisQuarter()"/>
+        <filter table="x_ipegh_copyright_qc">sys_created_onONThis quarter@javascript:gs.beginningOfThisQuarter()@javascript:gs.endOfThisQuarter()^sys_tags.c473c6f5dbefbb40a8088edf4b9619a6=c473c6f5dbefbb40a8088edf4b9619a6<item endquery="false" field="sys_created_on" goto="false" newquery="false" operator="ON" or="false" value="This quarter@javascript:gs.beginningOfThisQuarter()@javascript:gs.endOfThisQuarter()"/>
+            <item display_table="label" display_value="OnMusic" endquery="false" field="sys_tags.c473c6f5dbefbb40a8088edf4b9619a6" goto="false" newquery="false" operator="=" or="false" value="c473c6f5dbefbb40a8088edf4b9619a6"/>
         </filter>
         <from/>
         <funnel_neck_percent>30</funnel_neck_percent>
@@ -103,14 +104,14 @@
         <sys_created_by>AnnAal</sys_created_by>
         <sys_created_on>2019-08-28 13:06:01</sys_created_on>
         <sys_id>d16d99addb6f3b00b26388805b9619c7</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>OM - This q's statistics</sys_name>
         <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
         <sys_policy/>
         <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
         <sys_update_name>sys_report_d16d99addb6f3b00b26388805b9619c7</sys_update_name>
         <sys_updated_by>AnnAal</sys_updated_by>
-        <sys_updated_on>2019-08-28 14:09:30</sys_updated_on>
+        <sys_updated_on>2019-08-29 13:02:29</sys_updated_on>
         <table>x_ipegh_copyright_qc</table>
         <title>OM - This q's statistics</title>
         <title_horizontal_alignment>center</title_horizontal_alignment>

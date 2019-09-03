@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas">
     <sys_grid_canvas action="INSERT_OR_UPDATE">
-        <legacy_page display_value="PA High Earnings">c9cb8291db1f7f00b26388805b9619b2</legacy_page>
+        <legacy_page display_value="PA High Earning">c9cb8291db1f7f00b26388805b9619b2</legacy_page>
         <name>PA New Tab 3</name>
         <sys_class_name>sys_grid_canvas</sys_class_name>
         <sys_created_by>LasBal</sys_created_by>

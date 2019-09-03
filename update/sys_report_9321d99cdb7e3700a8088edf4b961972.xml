@@ -16,7 +16,7 @@
         <chart_subtitle_color/>
         <chart_subtitle_size>14</chart_subtitle_size>
         <chart_subtitle_style>normal</chart_subtitle_style>
-        <chart_title/>
+        <chart_title>My QC errors this month, breakdown by type</chart_title>
         <chart_title_color display_value="Black">65b30218a9fe3dba0120df8611520d97</chart_title_color>
         <chart_title_size>16</chart_title_size>
         <chart_title_style>normal</chart_title_style>
@@ -105,25 +105,25 @@
         <sys_created_by>LasBal</sys_created_by>
         <sys_created_on>2019-07-18 08:13:07</sys_created_on>
         <sys_id>9321d99cdb7e3700a8088edf4b961972</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>9</sys_mod_count>
         <sys_name>Breakdown by error type</sys_name>
         <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
         <sys_policy/>
         <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
         <sys_update_name>sys_report_9321d99cdb7e3700a8088edf4b961972</sys_update_name>
-        <sys_updated_by>LasBal</sys_updated_by>
-        <sys_updated_on>2019-07-18 08:14:18</sys_updated_on>
+        <sys_updated_by>AnnAal</sys_updated_by>
+        <sys_updated_on>2019-09-03 06:16:20</sys_updated_on>
         <table>x_ipegh_copyright_qc</table>
         <title>Breakdown by error type</title>
         <title_horizontal_alignment>center</title_horizontal_alignment>
         <title_vertical_alignment>top</title_vertical_alignment>
         <to/>
-        <trend_field/>
-        <type>pie</type>
+        <trend_field>state</trend_field>
+        <type>bar</type>
         <upper_limit/>
         <use_color_heatmap>false</use_color_heatmap>
         <use_null_in_trend>false</use_null_in_trend>
-        <user>group</user>
+        <user>GLOBAL</user>
         <x_axis_allow_decimals>true</x_axis_allow_decimals>
         <x_axis_display_grid>false</x_axis_display_grid>
         <x_axis_grid_color display_value="LightGrey">65b30308a9fe3dba01ebaa03e87e7cd3</x_axis_grid_color>

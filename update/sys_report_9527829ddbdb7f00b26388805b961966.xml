@@ -16,7 +16,7 @@
         <chart_subtitle_color/>
         <chart_subtitle_size>14</chart_subtitle_size>
         <chart_subtitle_style>normal</chart_subtitle_style>
-        <chart_title/>
+        <chart_title>All High Earning Works to be checked</chart_title>
         <chart_title_color display_value="Black">65b30218a9fe3dba0120df8611520d97</chart_title_color>
         <chart_title_size>16</chart_title_size>
         <chart_title_style>normal</chart_title_style>
@@ -44,10 +44,11 @@
         <exp_report_attrs>true</exp_report_attrs>
         <field/>
         <field_list>number,opened_at,short_description,caller_id,caller_id.company,priority,state,u_product_category,assignment_group,assigned_to,sys_updated_on</field_list>
-        <filter table="x_ipegh_copyright_qc">state=-1^area=high earning^assigned_toISEMPTY^active=true<item endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="-1"/>
+        <filter table="x_ipegh_copyright_qc">state=-1^area=high earning^active=true^sys_tags.=^EQ<item endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="-1"/>
             <item endquery="false" field="area" goto="false" newquery="false" operator="=" or="false" value="high earning"/>
-            <item endquery="false" field="assigned_to" goto="false" newquery="false" operator="ISEMPTY" or="false" value=""/>
             <item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="false" field="sys_tags." goto="false" newquery="false" operator="=" or="false" value=""/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </filter>
         <from/>
         <funnel_neck_percent>30</funnel_neck_percent>
@@ -106,16 +107,16 @@
         <sys_created_by>LasBal</sys_created_by>
         <sys_created_on>2019-08-15 11:14:14</sys_created_on>
         <sys_id>9527829ddbdb7f00b26388805b961966</sys_id>
-        <sys_mod_count>6</sys_mod_count>
-        <sys_name>High Earnings sample to be checked</sys_name>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_name>HE- all QC cases to be checked</sys_name>
         <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
         <sys_policy/>
         <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
         <sys_update_name>sys_report_9527829ddbdb7f00b26388805b961966</sys_update_name>
-        <sys_updated_by>LasBal</sys_updated_by>
-        <sys_updated_on>2019-08-15 11:15:54</sys_updated_on>
+        <sys_updated_by>AnnAal</sys_updated_by>
+        <sys_updated_on>2019-08-30 11:04:22</sys_updated_on>
         <table>x_ipegh_copyright_qc</table>
-        <title>High Earnings sample to be checked</title>
+        <title>HE- all QC cases to be checked</title>
         <title_horizontal_alignment>center</title_horizontal_alignment>
         <title_vertical_alignment>top</title_vertical_alignment>
         <to/>

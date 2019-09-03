@@ -4,22 +4,22 @@
         <admin_overrides>true</admin_overrides>
         <advanced>false</advanced>
         <condition/>
-        <description/>
-        <name>x_ipegh_copyright_qc.comments_and_work_notes</name>
+        <description>Allow write for comments in x_ipegh_copyright_qc, for users with role x_ipegh_copyright.user.</description>
+        <name>x_ipegh_copyright_qc.comments</name>
         <operation display_value="write">write</operation>
         <script/>
         <sys_class_name>sys_security_acl</sys_class_name>
         <sys_created_by>LasBal</sys_created_by>
         <sys_created_on>2019-08-16 17:49:46</sys_created_on>
         <sys_id>a3c9a439db5b7f00a8088edf4b9619f0</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_ipegh_copyright_qc.comments_and_work_notes</sys_name>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_ipegh_copyright_qc.comments</sys_name>
         <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
         <sys_policy/>
         <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
         <sys_update_name>sys_security_acl_a3c9a439db5b7f00a8088edf4b9619f0</sys_update_name>
-        <sys_updated_by>LasBal</sys_updated_by>
-        <sys_updated_on>2019-08-16 17:49:46</sys_updated_on>
+        <sys_updated_by>AnnAal</sys_updated_by>
+        <sys_updated_on>2019-09-02 10:59:06</sys_updated_on>
         <type display_value="record">record</type>
     </sys_security_acl>
 </record_update>
