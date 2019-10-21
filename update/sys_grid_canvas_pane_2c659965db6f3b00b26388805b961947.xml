@@ -3,20 +3,20 @@
         <grid_canvas display_value="PA New Tab 6">0b5c8ed1db1f7f00b26388805b961910</grid_canvas>
         <height>6</height>
         <portal_widget display_value="Created 2019-08-28 14:31:00">24659165db6f3b00b26388805b961902</portal_widget>
-        <posx>0</posx>
+        <posx>3</posx>
         <posy>0</posy>
         <sys_class_name>sys_grid_canvas_pane</sys_class_name>
         <sys_created_by>AnnAal</sys_created_by>
         <sys_created_on>2019-08-28 12:31:00</sys_created_on>
         <sys_id>2c659965db6f3b00b26388805b961947</sys_id>
-        <sys_mod_count>27</sys_mod_count>
+        <sys_mod_count>29</sys_mod_count>
         <sys_name>0b5c8ed1db1f7f00b26388805b961910</sys_name>
         <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
         <sys_policy/>
         <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
         <sys_update_name>sys_grid_canvas_pane_2c659965db6f3b00b26388805b961947</sys_update_name>
         <sys_updated_by>AnnAal</sys_updated_by>
-        <sys_updated_on>2019-08-30 13:09:03</sys_updated_on>
+        <sys_updated_on>2019-09-10 11:25:26</sys_updated_on>
         <width>3</width>
     </sys_grid_canvas_pane>
 </record_update>

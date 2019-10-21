@@ -31,6 +31,7 @@
         <element attributes="edge_encryption_enabled=true,import_attribute_name=team" label="team" max_length="40" name="u_team" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Type" label="Type" max_length="40" name="u_type" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=User" label="User" max_length="40" name="u_user" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="username,team,counterclaim_id,workkey,status,type,description,checkedby,date_cor" max_length="40" name="u_username_tea_rpose_loaddate" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="User;team;CounterclaimID;WORKKEY;Status;Type;Description;Checkedby;Datecorreted;" max_length="40" name="u_user_team_co_ngperiod_count" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=WEEK" label="WEEK" max_length="40" name="u_week" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=WORKKEY" label="WORKKEY" max_length="40" name="u_workkey" type="string"/>
