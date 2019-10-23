@@ -44,7 +44,7 @@
         <exp_report_attrs>true</exp_report_attrs>
         <field>user</field>
         <field_list>number,opened_at,short_description,caller_id,caller_id.company,priority,state,u_product_category,assignment_group,assigned_to,sys_updated_on</field_list>
-        <filter table="x_ipegh_copyright_qc">user.company=40828977dbebb300a8088edf4b96199f^sys_created_onONLast 12 months@javascript:gs.beginningOfLast12Months()@javascript:gs.endOfLast12Months()^user.active=true<item display_table="core_company" display_value="OnMusic" endquery="false" field="user.company" goto="false" newquery="false" operator="=" or="false" value="40828977dbebb300a8088edf4b96199f"/>
+        <filter table="x_ipegh_copyright_qc">user.company=40828977dbebb300a8088edf4b96199f^sys_created_onONLast 12 months@javascript:gs.beginningOfLast12Months()@javascript:gs.endOfLast12Months()^user.active=true<item display_table="core_company" display_value="OnMusic old" endquery="false" field="user.company" goto="false" newquery="false" operator="=" or="false" value="40828977dbebb300a8088edf4b96199f"/>
             <item endquery="false" field="sys_created_on" goto="false" newquery="false" operator="ON" or="false" value="Last 12 months@javascript:gs.beginningOfLast12Months()@javascript:gs.endOfLast12Months()"/>
             <item endquery="false" field="user.active" goto="false" newquery="false" operator="=" or="false" value="true"/>
         </filter>

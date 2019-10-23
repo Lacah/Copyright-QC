@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="number_of_checked_items" label="Number of checked items" language="en" table="x_ipegh_copyright_qc">
+    <sys_documentation element="number_of_checked_items" label="Number of items to be checked" language="en" table="x_ipegh_copyright_qc">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element>number_of_checked_items</element>
             <help/>
             <hint/>
-            <label>Number of checked items</label>
+            <label>Number of items to be checked</label>
             <language>en</language>
             <name>x_ipegh_copyright_qc</name>
-            <plural>Number of checked items</plural>
+            <plural>Number of items to be checked</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>LasBal</sys_created_by>
             <sys_created_on>2019-06-20 11:41:05</sys_created_on>
             <sys_id>bf241d7cdb9bfb00b26388805b9619fe</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_name>Number of checked items</sys_name>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_name>Number of items to be checked</sys_name>
             <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
             <sys_policy/>
             <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
             <sys_update_name>sys_documentation_x_ipegh_copyright_qc_number_of_checked_items_en</sys_update_name>
-            <sys_updated_by>LasBal</sys_updated_by>
-            <sys_updated_on>2019-06-20 11:41:05</sys_updated_on>
+            <sys_updated_by>AnnAal</sys_updated_by>
+            <sys_updated_on>2019-10-23 08:22:43</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
