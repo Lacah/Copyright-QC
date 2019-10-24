@@ -48,7 +48,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>LasBal</sys_created_by>
         <sys_created_on>2019-06-20 14:06:15</sys_created_on>
-        <sys_id>b3245d7cdb9bfb00b26388805b961912</sys_id>
+        <sys_id>c95d833bdb644450b26388805b9619f9</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Reporting period</sys_name>
         <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
@@ -56,7 +56,7 @@
         <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
         <sys_update_name>sys_dictionary_x_ipegh_copyright_qc_u_reporting_period</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2019-08-13 18:14:58</sys_updated_on>
+        <sys_updated_on>2019-10-24 14:04:21</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

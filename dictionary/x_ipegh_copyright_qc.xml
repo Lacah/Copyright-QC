@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element attributes="hasLabels=true,live_feed=true" audit="true" extends="task" label="Copyright QC task" max_length="40" name="x_ipegh_copyright_qc" sizeclass="3785" type="collection">
-        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="Agreement Key" max_length="70" name="agreement_key" type="string"/>
+    <element attributes="hasLabels=true,live_feed=true" audit="true" extends="task" label="Copyright QC task" max_length="40" name="x_ipegh_copyright_qc" type="collection">
+        <element label="Agreement Key" max_length="70" name="agreement_key" type="string"/>
         <element choice="1" label="Area" max_length="40" name="area" read_only="true" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Cases" sequence="0" value="cases"/>
@@ -14,7 +14,7 @@
             </choice>
         </element>
         <element label="Counterclaim ID" max_length="40" name="counterclaim_id" read_only="true" type="string"/>
-        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="Cue work" max_length="50" name="cue_work" read_only="true" type="boolean"/>
+        <element label="Cue work" max_length="50" name="cue_work" read_only="true" type="boolean"/>
         <element choice="3" default="not defined" label="Customer" max_length="40" name="customer" read_only="true" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Buma/Stemra" sequence="0" value="BUMA"/>
