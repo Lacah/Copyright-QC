@@ -392,6 +392,34 @@
             <sys_user/>
             <type/>
         </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cue_work</element>
+            <position>28</position>
+            <sys_created_by>AnnAal</sys_created_by>
+            <sys_created_on>2019-10-24 11:40:19</sys_created_on>
+            <sys_id>356c2e33db28c050a8088edf4b961956</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Core information" display_value="Core information" name="x_ipegh_copyright_qc" sys_domain="global" view="Default view">76277d5fdb8e3b00b26388805b96190b</sys_ui_section>
+            <sys_updated_by>AnnAal</sys_updated_by>
+            <sys_updated_on>2019-10-24 11:40:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>email</element>
+            <position>29</position>
+            <sys_created_by>AnnAal</sys_created_by>
+            <sys_created_on>2019-10-24 11:45:16</sys_created_on>
+            <sys_id>6a8d6e73db28c050a8088edf4b961971</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Core information" display_value="Core information" name="x_ipegh_copyright_qc" sys_domain="global" view="Default view">76277d5fdb8e3b00b26388805b96190b</sys_ui_section>
+            <sys_updated_by>AnnAal</sys_updated_by>
+            <sys_updated_on>2019-10-24 11:45:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption>Core information</caption>
             <header>false</header>

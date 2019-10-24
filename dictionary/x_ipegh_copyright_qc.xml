@@ -14,6 +14,7 @@
             </choice>
         </element>
         <element label="Counterclaim ID" max_length="40" name="counterclaim_id" read_only="true" type="string"/>
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="Cue work" max_length="50" name="cue_work" read_only="true" type="boolean"/>
         <element choice="3" default="not defined" label="Customer" max_length="40" name="customer" read_only="true" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Buma/Stemra" sequence="0" value="BUMA"/>
