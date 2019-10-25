@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element attributes="hasLabels=true,live_feed=true" audit="true" extends="task" label="Copyright QC task" max_length="40" name="x_ipegh_copyright_qc" type="collection">
+    <element attributes="hasLabels=true,live_feed=true" audit="true" extends="task" label="Copyright QC task" max_length="40" name="x_ipegh_copyright_qc" sizeclass="476" type="collection">
         <element label="Agreement Key" max_length="70" name="agreement_key" type="string"/>
         <element choice="1" label="Area" max_length="40" name="area" read_only="true" type="choice">
             <choice>
@@ -30,6 +30,7 @@
             </choice>
         </element>
         <element label="Date of action" max_length="40" name="date" type="glide_date"/>
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="Email" max_length="32" name="email" read_only="true" reference="sys_user" type="reference"/>
         <element label="Link to UR" max_length="1024" name="link_to_ur" type="url"/>
         <element label="Number of items to be checked" max_length="40" name="number_of_checked_items" read_only="true" type="integer"/>
         <element attributes="ORDERBYLabel" choice="1" label="Error type" max_length="40" name="type" type="choice">
