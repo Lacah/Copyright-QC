@@ -15,10 +15,10 @@
       return;
 }
 
-var corrected = g_form.getValue('u_corrected');
+// var corrected = g_form.getValue('u_corrected');
 
  {
-         if (corrected == 'true')     
+         if (newValue == 'true')     
    
    {
 var ajax = new GlideAjax('global.MyDateTimeAjax');
@@ -29,7 +29,9 @@ ajax.getXML(function(){
 }
 );
      }
-
+else{
+	return;
+}
  } 
 }
 ]]></script>
@@ -39,7 +41,7 @@ ajax.getXML(function(){
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>a6ff2d37db9af740a8088edf4b96195c</sys_id>
-        <sys_mod_count>18</sys_mod_count>
+        <sys_mod_count>19</sys_mod_count>
         <sys_name>Set correction date and user</sys_name>
         <sys_overrides/>
         <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
@@ -47,7 +49,7 @@ ajax.getXML(function(){
         <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
         <sys_update_name>sys_script_client_a6ff2d37db9af740a8088edf4b96195c</sys_update_name>
         <sys_updated_by>LasBal</sys_updated_by>
-        <sys_updated_on>2019-07-04 15:10:06</sys_updated_on>
+        <sys_updated_on>2019-10-25 10:11:29</sys_updated_on>
         <table>x_ipegh_copyright_qc</table>
         <type>onChange</type>
         <ui_type>10</ui_type>
