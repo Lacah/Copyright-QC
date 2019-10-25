@@ -1,20 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="cue_work" table="x_ipegh_copyright_qc">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="u_society_task_dept" table="x_ipegh_copyright_qc_import">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes/>
+        <attributes>edge_encryption_enabled=true</attributes>
         <audit>false</audit>
-        <calculation><![CDATA[(function calculatedFieldValue(current) {
-
-	// Add your code here
-	return '';  // return the calculated value
-
-})(current);]]></calculation>
-        <choice>1</choice>
+        <calculation/>
+        <choice>0</choice>
         <choice_field/>
         <choice_table/>
-        <column_label>Cue Work</column_label>
+        <column_label>society_task_dept</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -27,15 +22,15 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>cue_work</element>
+        <element>u_society_task_dept</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="Choice">choice</internal_type>
+        <internal_type display_value="String">string</internal_type>
         <mandatory>false</mandatory>
-        <max_length>50</max_length>
-        <name>x_ipegh_copyright_qc</name>
+        <max_length>40</max_length>
+        <name>x_ipegh_copyright_qc_import</name>
         <next_element/>
         <primary>false</primary>
         <read_only>false</read_only>
@@ -52,16 +47,16 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>AnnAal</sys_created_by>
-        <sys_created_on>2019-10-25 11:54:34</sys_created_on>
-        <sys_id>3529338cdbb48450b26388805b961906</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>Cue Work</sys_name>
+        <sys_created_on>2019-10-25 11:16:41</sys_created_on>
+        <sys_id>95907b04dbb48450b26388805b9619fc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>society_task_dept</sys_name>
         <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
         <sys_policy/>
         <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
-        <sys_update_name>sys_dictionary_x_ipegh_copyright_qc_cue_work</sys_update_name>
+        <sys_update_name>sys_dictionary_x_ipegh_copyright_qc_import_u_society_task_dept</sys_update_name>
         <sys_updated_by>AnnAal</sys_updated_by>
-        <sys_updated_on>2019-10-25 12:11:31</sys_updated_on>
+        <sys_updated_on>2019-10-25 11:16:41</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

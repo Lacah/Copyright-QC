@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="cue_work" label="Cue Work" language="en" table="x_ipegh_copyright_qc">
+    <sys_documentation element="u_loaddate" label="loaddate" language="en" table="x_ipegh_copyright_qc_import">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>cue_work</element>
+            <element>u_loaddate</element>
             <help/>
             <hint/>
-            <label>Cue Work</label>
+            <label>loaddate</label>
             <language>en</language>
-            <name>x_ipegh_copyright_qc</name>
-            <plural>Cue Works</plural>
+            <name>x_ipegh_copyright_qc_import</name>
+            <plural>loaddates</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>AnnAal</sys_created_by>
-            <sys_created_on>2019-10-25 11:54:34</sys_created_on>
-            <sys_id>a449738cdbb48450b26388805b9619b0</sys_id>
+            <sys_created_on>2019-10-25 11:16:42</sys_created_on>
+            <sys_id>7190bb04dbb48450b26388805b961981</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>Cue Work</sys_name>
+            <sys_name>loaddate</sys_name>
             <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
             <sys_policy/>
             <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
-            <sys_update_name>sys_documentation_x_ipegh_copyright_qc_cue_work_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_ipegh_copyright_qc_import_u_loaddate_en</sys_update_name>
             <sys_updated_by>AnnAal</sys_updated_by>
-            <sys_updated_on>2019-10-25 11:54:34</sys_updated_on>
+            <sys_updated_on>2019-10-25 11:16:42</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

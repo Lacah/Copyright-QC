@@ -14,7 +14,31 @@
             </choice>
         </element>
         <element label="Counterclaim ID" max_length="40" name="counterclaim_id" read_only="true" type="string"/>
-        <element label="Cue work" max_length="50" name="cue_work" read_only="true" type="boolean"/>
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" choice="1" label="Cue Work" max_length="50" name="cue_work" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="False" sequence="50" value="'NULL'"/>
+                <element inactive_on_update="false" label="False" sequence="100" value="RAD"/>
+                <element inactive_on_update="false" label="False" sequence="200" value="AUD"/>
+                <element inactive_on_update="false" label="False" sequence="300" value="LIB"/>
+                <element inactive_on_update="false" label="False" sequence="400" value="COM"/>
+                <element inactive_on_update="false" label="False" sequence="500" value="GEN"/>
+                <element inactive_on_update="false" label="True" sequence="600" value="FIL"/>
+                <element inactive_on_update="false" label="True" sequence="700" value="FIR"/>
+                <element inactive_on_update="false" label="True" sequence="800" value="FIT"/>
+                <element inactive_on_update="false" label="True" sequence="900" value="FIV"/>
+                <element inactive_on_update="false" label="True" sequence="1000" value="VID"/>
+                <element inactive_on_update="false" label="True" sequence="1100" value="MUL"/>
+                <element inactive_on_update="false" label="True" sequence="1200" value="TEL"/>
+                <element inactive_on_update="false" label="True" sequence="1300" value="TEV"/>
+                <element inactive_on_update="false" label="True" sequence="1400" value="TLL"/>
+                <element inactive_on_update="false" label="True" sequence="1500" value="THR"/>
+                <element inactive_on_update="false" label="True" sequence="1600" value="TER"/>
+                <element inactive_on_update="false" label="True" sequence="1700" value="TEB"/>
+                <element inactive_on_update="false" label="True" sequence="1800" value="TET"/>
+                <element inactive_on_update="false" label="True" sequence="1900" value="FIB"/>
+                <element inactive_on_update="false" label="True" sequence="2000" value="FLL"/>
+            </choice>
+        </element>
         <element choice="3" default="not defined" label="Customer" max_length="40" name="customer" read_only="true" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Buma/Stemra" sequence="0" value="BUMA"/>
