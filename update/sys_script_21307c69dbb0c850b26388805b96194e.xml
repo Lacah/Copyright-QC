@@ -29,7 +29,7 @@
         <role_conditions/>
         <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
 
-if(!gs.hasRole('x_ipegh_copyright.qc_agr')){
+if(gs.hasRole('x_ipegh_copyright.qc_agr')&&current.area=='agreements'){
 current.addEncodedQuery('assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe^NQuserDYNAMIC90d1921e5f510100a9ad2572f2b477fe^state!=-1');
 }
 
@@ -40,7 +40,7 @@ current.addEncodedQuery('assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe^NQus
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>21307c69dbb0c850b26388805b96194e</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Agreements filter</sys_name>
         <sys_overrides/>
         <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
@@ -48,7 +48,7 @@ current.addEncodedQuery('assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe^NQus
         <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
         <sys_update_name>sys_script_21307c69dbb0c850b26388805b96194e</sys_update_name>
         <sys_updated_by>LasBal</sys_updated_by>
-        <sys_updated_on>2019-10-29 13:08:51</sys_updated_on>
+        <sys_updated_on>2019-10-29 13:17:43</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>

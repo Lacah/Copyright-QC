@@ -7,7 +7,7 @@
 
 }]]></client_script_v2>
         <comments/>
-        <condition>current.canWrite()&amp;&amp;current.assigned_to!=gs.getUserID()</condition>
+        <condition>current.canWrite()&amp;&amp;current.assigned_to!=gs.getUserID()&amp;&amp;gs.hasRole('x_ipegh_copyright.qc,x_ipegh_copyright.qc_agr')</condition>
         <form_action>true</form_action>
         <form_button>true</form_button>
         <form_button_v2>false</form_button_v2>
@@ -42,7 +42,7 @@ if (! current.isActionAborted())
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>e402e039dbd3ff00b26388805b961967</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Assign to me</sys_name>
         <sys_overrides/>
         <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
@@ -50,7 +50,7 @@ if (! current.isActionAborted())
         <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
         <sys_update_name>sys_ui_action_e402e039dbd3ff00b26388805b961967</sys_update_name>
         <sys_updated_by>LasBal</sys_updated_by>
-        <sys_updated_on>2019-08-16 18:34:59</sys_updated_on>
+        <sys_updated_on>2019-10-29 13:22:19</sys_updated_on>
         <table>x_ipegh_copyright_qc</table>
         <ui11_compatible>false</ui11_compatible>
         <ui16_compatible>false</ui16_compatible>
