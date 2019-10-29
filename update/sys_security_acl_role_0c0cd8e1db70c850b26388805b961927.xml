@@ -2,17 +2,17 @@
     <sys_security_acl_role action="INSERT_OR_UPDATE">
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>LasBal</sys_created_by>
-        <sys_created_on>2019-10-29 09:27:12</sys_created_on>
-        <sys_id>a4ed7b11dbfc8850b26388805b9619e9</sys_id>
+        <sys_created_on>2019-10-29 11:52:30</sys_created_on>
+        <sys_id>0c0cd8e1db70c850b26388805b961927</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>.x_ipegh_copyright.qc_agr</sys_name>
+        <sys_name>x_ipegh_copyright_qc.watch_list.x_ipegh_copyright.qc_agr</sys_name>
         <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
         <sys_policy/>
         <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
-        <sys_security_acl display_value="x_ipegh_copyright_qc.assigned_to">20ed7b11dbfc8850b26388805b9619e9</sys_security_acl>
-        <sys_update_name>sys_security_acl_role_a4ed7b11dbfc8850b26388805b9619e9</sys_update_name>
+        <sys_security_acl display_value="x_ipegh_copyright_qc.watch_list">5a10f0fddb5b7f00a8088edf4b9619a6</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_0c0cd8e1db70c850b26388805b961927</sys_update_name>
         <sys_updated_by>LasBal</sys_updated_by>
-        <sys_updated_on>2019-10-29 09:27:12</sys_updated_on>
+        <sys_updated_on>2019-10-29 11:52:30</sys_updated_on>
         <sys_user_role display_value="x_ipegh_copyright.qc_agr" name="x_ipegh_copyright.qc_agr">654fbe0ddb3c4850b26388805b961953</sys_user_role>
         <transaction_id/>
     </sys_security_acl_role>

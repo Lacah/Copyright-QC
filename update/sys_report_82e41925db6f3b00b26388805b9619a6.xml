@@ -106,14 +106,14 @@
         <sys_created_by>AnnAal</sys_created_by>
         <sys_created_on>2019-08-28 12:28:55</sys_created_on>
         <sys_id>82e41925db6f3b00b26388805b9619a6</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>AG - This year's statistics</sys_name>
         <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
         <sys_policy/>
         <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
         <sys_update_name>sys_report_82e41925db6f3b00b26388805b9619a6</sys_update_name>
-        <sys_updated_by>AnnAal</sys_updated_by>
-        <sys_updated_on>2019-08-30 09:54:03</sys_updated_on>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2019-10-29 10:07:10</sys_updated_on>
         <table>x_ipegh_copyright_qc</table>
         <title>AG - This year's statistics</title>
         <title_horizontal_alignment>center</title_horizontal_alignment>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_embedded_tour_guide">
+    <sys_embedded_tour_guide action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <additional_parameters/>
+        <autolaunch_order>0</autolaunch_order>
+        <context>x_ipegh_copyright_qc</context>
+        <description/>
+        <has_concl>false</has_concl>
+        <has_intro>false</has_intro>
+        <name>QC Case Form guided tour</name>
+        <options/>
+        <roles>x_ipegh_copyright.user</roles>
+        <sp_page/>
+        <sp_portal/>
+        <status>draft</status>
+        <sys_class_name>sys_embedded_tour_guide</sys_class_name>
+        <sys_created_by>AnnAal</sys_created_by>
+        <sys_created_on>2019-10-29 10:27:43</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>4fbb40eddbfc8850b26388805b961993</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>QC Case Form guided tour</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
+        <sys_update_name>sys_embedded_tour_guide_4fbb40eddbfc8850b26388805b961993</sys_update_name>
+        <sys_updated_by>AnnAal</sys_updated_by>
+        <sys_updated_on>2019-10-29 10:27:43</sys_updated_on>
+        <type>platform</type>
+    </sys_embedded_tour_guide>
+</record_update>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_embedded_tour_step">
+    <sys_embedded_tour_step action="INSERT_OR_UPDATE">
+        <action>false</action>
+        <action_event>next</action_event>
+        <action_target/>
+        <action_target_ref display_value="div[id=&quot;label.x_ipegh_copyright_qc.activ">8aeba825dbb0c850b26388805b9619a1</action_target_ref>
+        <active>true</active>
+        <content><![CDATA[A QC case will change from active to inactive when:
+a) State changes to &#39;Correct&#39;
+b) In case of a Minor Internal error, when the User clicks &#39;Error Corrected&#39;.
+c) In case of a Major Internal or Reporting Error, once the QC Officer has approved the correction of the error.]]></content>
+        <guide display_value="QC Case Form guided tour">4fbb40eddbfc8850b26388805b961993</guide>
+        <implicit>false</implicit>
+        <link/>
+        <name/>
+        <options>{"step_view":""}</options>
+        <order>8</order>
+        <placement>right</placement>
+        <step_type>step</step_type>
+        <sys_class_name>sys_embedded_tour_step</sys_class_name>
+        <sys_created_by>AnnAal</sys_created_by>
+        <sys_created_on>2019-10-29 12:48:17</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>c2eba825dbb0c850b26388805b9619a3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
+        <sys_update_name>sys_embedded_tour_step_c2eba825dbb0c850b26388805b9619a3</sys_update_name>
+        <sys_updated_by>AnnAal</sys_updated_by>
+        <sys_updated_on>2019-10-29 12:48:17</sys_updated_on>
+        <target/>
+        <target_ref display_value="div[id=&quot;label.x_ipegh_copyright_qc.activ">8aeba825dbb0c850b26388805b9619a1</target_ref>
+        <title/>
+        <ui_version>dynamic</ui_version>
+        <view/>
+        <window>x_ipegh_copyright_qc.do</window>
+    </sys_embedded_tour_step>
+    <sys_translated_text action="delete_multiple" query="documentkey=c2eba825dbb0c850b26388805b9619a3"/>
+</record_update>

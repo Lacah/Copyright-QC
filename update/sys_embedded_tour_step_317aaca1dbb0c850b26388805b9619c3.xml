@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_embedded_tour_step">
+    <sys_embedded_tour_step action="INSERT_OR_UPDATE">
+        <action>false</action>
+        <action_event>next</action_event>
+        <action_target/>
+        <action_target_ref display_value="div[id=&quot;multiple-input-journal-entry&quot;] d">397aaca1dbb0c850b26388805b9619c1</action_target_ref>
+        <active>true</active>
+        <content><![CDATA[Post a comment here when you want to communicate something to the QC Officer and anyone on the Watch List. The comments cannot be deleted or amended after being posted. Posting a comment will trigger an email notification to the people in the fields: User, Assigned to and Watch List, MINUS the author of the comment (yourself). You can also respond directly to the automated notification email itself (Subject: &#39;Comment has been added...&#39;), and your reply will be captured as a comment.]]></content>
+        <guide display_value="QC Case Form guided tour">4fbb40eddbfc8850b26388805b961993</guide>
+        <implicit>false</implicit>
+        <link/>
+        <name/>
+        <options>{"step_view":""}</options>
+        <order>7</order>
+        <placement>top</placement>
+        <step_type>step</step_type>
+        <sys_class_name>sys_embedded_tour_step</sys_class_name>
+        <sys_created_by>AnnAal</sys_created_by>
+        <sys_created_on>2019-10-29 12:41:59</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>317aaca1dbb0c850b26388805b9619c3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
+        <sys_update_name>sys_embedded_tour_step_317aaca1dbb0c850b26388805b9619c3</sys_update_name>
+        <sys_updated_by>AnnAal</sys_updated_by>
+        <sys_updated_on>2019-10-29 12:41:59</sys_updated_on>
+        <target/>
+        <target_ref display_value="div[id=&quot;multiple-input-journal-entry&quot;] d">397aaca1dbb0c850b26388805b9619c1</target_ref>
+        <title/>
+        <ui_version>dynamic</ui_version>
+        <view/>
+        <window>x_ipegh_copyright_qc.do</window>
+    </sys_embedded_tour_step>
+    <sys_translated_text action="delete_multiple" query="documentkey=317aaca1dbb0c850b26388805b9619c3"/>
+</record_update>
