@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report">
     <sys_report action="INSERT_OR_UPDATE">
         <additional_groupby/>
-        <aggregate>COUNT</aggregate>
+        <aggregate>SUM</aggregate>
         <allow_data_label_overlap>false</allow_data_label_overlap>
         <axis_max_color display_value="UI14 Blue Light">b0d449b3d7332100fa6c0c12ce610383</axis_max_color>
         <axis_min_color display_value="White">65b303c7a9fe3dba00629aff95ee3597</axis_min_color>
@@ -16,7 +16,7 @@
         <chart_subtitle_color/>
         <chart_subtitle_size>14</chart_subtitle_size>
         <chart_subtitle_style>normal</chart_subtitle_style>
-        <chart_title>All Update Requests to be checked</chart_title>
+        <chart_title>Total UR items to be checked</chart_title>
         <chart_title_color display_value="Black">65b30218a9fe3dba0120df8611520d97</chart_title_color>
         <chart_title_size>16</chart_title_size>
         <chart_title_style>normal</chart_title_style>
@@ -44,11 +44,9 @@
         <exp_report_attrs>true</exp_report_attrs>
         <field/>
         <field_list>number,opened_at,short_description,caller_id,caller_id.company,priority,state,u_product_category,assignment_group,assigned_to,sys_updated_on</field_list>
-        <filter table="x_ipegh_copyright_qc">state=-1^area=service requests^active=true^sys_tags.=^EQ<item endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="-1"/>
+        <filter table="x_ipegh_copyright_qc">state=-1^area=service requests^active=true<item endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="-1"/>
             <item endquery="false" field="area" goto="false" newquery="false" operator="=" or="false" value="service requests"/>
             <item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
-            <item endquery="false" field="sys_tags." goto="false" newquery="false" operator="=" or="false" value=""/>
-            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </filter>
         <from/>
         <funnel_neck_percent>30</funnel_neck_percent>
@@ -102,21 +100,21 @@
         <source_type>table</source_type>
         <start_time/>
         <style_config/>
-        <sumfield/>
+        <sumfield>number_of_checked_items</sumfield>
         <sys_class_name>sys_report</sys_class_name>
         <sys_created_by>LasBal</sys_created_by>
         <sys_created_on>2019-08-15 11:21:12</sys_created_on>
         <sys_id>6fb88edddbdb7f00b26388805b9619a9</sys_id>
-        <sys_mod_count>7</sys_mod_count>
-        <sys_name>UR - all QC cases to be checked</sys_name>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name>UR - all items to be checked</sys_name>
         <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
         <sys_policy/>
         <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
         <sys_update_name>sys_report_6fb88edddbdb7f00b26388805b9619a9</sys_update_name>
-        <sys_updated_by>AnnAal</sys_updated_by>
-        <sys_updated_on>2019-08-30 11:06:11</sys_updated_on>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2019-10-30 09:24:43</sys_updated_on>
         <table>x_ipegh_copyright_qc</table>
-        <title>UR - all QC cases to be checked</title>
+        <title>UR - all items to be checked</title>
         <title_horizontal_alignment>center</title_horizontal_alignment>
         <title_vertical_alignment>top</title_vertical_alignment>
         <to/>

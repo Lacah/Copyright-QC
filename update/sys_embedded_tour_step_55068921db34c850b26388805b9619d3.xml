@@ -5,7 +5,7 @@
         <action_target/>
         <action_target_ref/>
         <active>true</active>
-        <content><![CDATA[Thank you for taking this guided tour with us! You can run it again manually any time you want.]]></content>
+        <content><![CDATA[Thank you for taking this guided tour with us! You can launch it again manually any time you want, by navigating to the Help Sidebar (the little question mark icon on the very top right. When expanded, you will see a button called &#39;Take a Tour&#39; at the bottom of the Help Sidebar.]]></content>
         <guide display_value="QC Case Form guided tour">4fbb40eddbfc8850b26388805b961993</guide>
         <implicit>false</implicit>
         <link/>
@@ -19,7 +19,7 @@
         <sys_created_on>2019-10-29 14:42:21</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_id>55068921db34c850b26388805b9619d3</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Conclusion</sys_name>
         <sys_overrides/>
         <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
@@ -27,7 +27,7 @@
         <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
         <sys_update_name>sys_embedded_tour_step_55068921db34c850b26388805b9619d3</sys_update_name>
         <sys_updated_by>AnnAal</sys_updated_by>
-        <sys_updated_on>2019-10-29 14:42:21</sys_updated_on>
+        <sys_updated_on>2019-10-30 08:21:18</sys_updated_on>
         <target/>
         <target_ref/>
         <title/>

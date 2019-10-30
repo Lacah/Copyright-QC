@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
     <sys_report_users_groups action="INSERT_OR_UPDATE">
         <group_id display_value="QC - Admin" name="QC - Admin">6ef4cae9db1a3340a8088edf4b96195b</group_id>
-        <report_id display_value="UR - all QC cases to be checked">6fb88edddbdb7f00b26388805b9619a9</report_id>
+        <report_id display_value="UR - all items to be checked">6fb88edddbdb7f00b26388805b9619a9</report_id>
         <sys_class_name>sys_report_users_groups</sys_class_name>
         <sys_created_by>LasBal</sys_created_by>
         <sys_created_on>2019-08-15 11:21:12</sys_created_on>
