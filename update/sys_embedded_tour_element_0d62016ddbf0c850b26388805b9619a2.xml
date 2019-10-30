@@ -4,8 +4,8 @@
         <cell_types/>
         <col/>
         <cxs_results/>
-        <element_type>label</element_type>
-        <field/>
+        <element_type>textbox</element_type>
+        <field>date</field>
         <field_action/>
         <field_header/>
         <filters/>
@@ -15,8 +15,8 @@
         <frameset>nav_filter</frameset>
         <list_element>ui_action</list_element>
         <list_header/>
-        <manual_css>div[id="label.x_ipegh_copyright_qc.description"] label.col-xs-12.col-md-1_5.col-lg-2.control-label</manual_css>
-        <name>div[id="label.x_ipegh_copyright_qc.descr</name>
+        <manual_css/>
+        <name>x_ipegh_copyright_qc.date</name>
         <record_id/>
         <related_field/>
         <related_links/>
@@ -26,20 +26,20 @@
         <row/>
         <sys_class_name>sys_embedded_tour_element</sys_class_name>
         <sys_created_by>AnnAal</sys_created_by>
-        <sys_created_on>2019-10-29 12:35:51</sys_created_on>
+        <sys_created_on>2019-10-29 14:26:31</sys_created_on>
         <sys_domain>global</sys_domain>
-        <sys_id>cc196421dbb0c850b26388805b961937</sys_id>
+        <sys_id>0d62016ddbf0c850b26388805b9619a2</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>div[id="label.x_ipegh_copyright_qc.descr</sys_name>
+        <sys_name>x_ipegh_copyright_qc.date</sys_name>
         <sys_overrides/>
         <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
         <sys_policy/>
         <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
-        <sys_update_name>sys_embedded_tour_element_cc196421dbb0c850b26388805b961937</sys_update_name>
+        <sys_update_name>sys_embedded_tour_element_0d62016ddbf0c850b26388805b9619a2</sys_update_name>
         <sys_updated_by>AnnAal</sys_updated_by>
-        <sys_updated_on>2019-10-29 12:35:51</sys_updated_on>
-        <table/>
-        <type>manual_css</type>
+        <sys_updated_on>2019-10-29 14:26:31</sys_updated_on>
+        <table>x_ipegh_copyright_qc</table>
+        <type>form</type>
         <ui_action/>
     </sys_embedded_tour_element>
 </record_update>

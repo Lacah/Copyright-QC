@@ -3,37 +3,37 @@
         <action>false</action>
         <action_event>next</action_event>
         <action_target/>
-        <action_target_ref display_value="div[id=&quot;label.x_ipegh_copyright_qc.descr">cc196421dbb0c850b26388805b961937</action_target_ref>
+        <action_target_ref display_value="li.h-card.h-card_md.h-card_comments:nth-">61b3f471db784850a8088edf4b961968</action_target_ref>
         <active>true</active>
-        <content><![CDATA[This field will be included in the customer reports. The QC Officer will use this to describe the error, or put in other useful info. It becomes mandatory to populate when State is either &#39;Major Internal&#39; or &#39;Reporting Error&#39;, but it can of course be populated also when not mandatory. Populating this field will not trigger an email notification to anyone.]]></content>
+        <content><![CDATA[Every comment, every change to any field and every inbound or outbound email notification will be captured in the Activity flow. It is like the Audit history of your QC Case, to help you keep track of what happened on the record. The newest activity / event is always at the top.]]></content>
         <guide display_value="QC Case Form guided tour">4fbb40eddbfc8850b26388805b961993</guide>
         <implicit>false</implicit>
         <link/>
         <name/>
         <options>{"step_view":""}</options>
-        <order>5</order>
+        <order>12</order>
         <placement>top</placement>
         <step_type>step</step_type>
         <sys_class_name>sys_embedded_tour_step</sys_class_name>
         <sys_created_by>AnnAal</sys_created_by>
-        <sys_created_on>2019-10-29 12:35:51</sys_created_on>
+        <sys_created_on>2019-10-30 08:00:51</sys_created_on>
         <sys_domain>global</sys_domain>
-        <sys_id>c4196421dbb0c850b26388805b961939</sys_id>
+        <sys_id>21b3f471db784850a8088edf4b96196a</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name/>
         <sys_overrides/>
         <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
         <sys_policy/>
         <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
-        <sys_update_name>sys_embedded_tour_step_c4196421dbb0c850b26388805b961939</sys_update_name>
+        <sys_update_name>sys_embedded_tour_step_21b3f471db784850a8088edf4b96196a</sys_update_name>
         <sys_updated_by>AnnAal</sys_updated_by>
-        <sys_updated_on>2019-10-29 12:55:41</sys_updated_on>
+        <sys_updated_on>2019-10-30 08:03:24</sys_updated_on>
         <target/>
-        <target_ref display_value="div[id=&quot;label.x_ipegh_copyright_qc.descr">cc196421dbb0c850b26388805b961937</target_ref>
+        <target_ref display_value="li.h-card.h-card_md.h-card_comments:nth-">61b3f471db784850a8088edf4b961968</target_ref>
         <title/>
         <ui_version>dynamic</ui_version>
         <view/>
         <window>x_ipegh_copyright_qc.do</window>
     </sys_embedded_tour_step>
-    <sys_translated_text action="delete_multiple" query="documentkey=c4196421dbb0c850b26388805b961939"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=21b3f471db784850a8088edf4b96196a"/>
 </record_update>

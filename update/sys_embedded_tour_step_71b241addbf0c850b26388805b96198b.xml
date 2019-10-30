@@ -3,37 +3,37 @@
         <action>false</action>
         <action_event>next</action_event>
         <action_target/>
-        <action_target_ref display_value="div[id=&quot;label.x_ipegh_copyright_qc.user&quot;">5c27a8eddb70c850b26388805b961971</action_target_ref>
+        <action_target_ref display_value="x_ipegh_copyright_qc.description">79b241addbf0c850b26388805b961989</action_target_ref>
         <active>true</active>
-        <content><![CDATA[This is the person who worked on the Work / Enquiry being checked.]]></content>
+        <content><![CDATA[The Description field will be included in the customer reports. The QC Officer will use this to describe the error, or put in other useful info. It becomes mandatory to populate when State is one of the three errors, but it can of course be populated by the QC Officer also when not mandatory. Populating this field will not trigger an email notification to anyone.]]></content>
         <guide display_value="QC Case Form guided tour">4fbb40eddbfc8850b26388805b961993</guide>
         <implicit>false</implicit>
         <link/>
         <name/>
         <options>{"step_view":""}</options>
-        <order>4</order>
-        <placement>top</placement>
+        <order>5</order>
+        <placement>bottom</placement>
         <step_type>step</step_type>
         <sys_class_name>sys_embedded_tour_step</sys_class_name>
         <sys_created_by>AnnAal</sys_created_by>
-        <sys_created_on>2019-10-29 12:27:24</sys_created_on>
+        <sys_created_on>2019-10-29 14:27:56</sys_created_on>
         <sys_domain>global</sys_domain>
-        <sys_id>5427a8eddb70c850b26388805b961973</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_id>71b241addbf0c850b26388805b96198b</sys_id>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name/>
         <sys_overrides/>
         <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
         <sys_policy/>
         <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
-        <sys_update_name>sys_embedded_tour_step_5427a8eddb70c850b26388805b961973</sys_update_name>
+        <sys_update_name>sys_embedded_tour_step_71b241addbf0c850b26388805b96198b</sys_update_name>
         <sys_updated_by>AnnAal</sys_updated_by>
-        <sys_updated_on>2019-10-29 12:27:24</sys_updated_on>
+        <sys_updated_on>2019-10-29 14:47:50</sys_updated_on>
         <target/>
-        <target_ref display_value="div[id=&quot;label.x_ipegh_copyright_qc.user&quot;">5c27a8eddb70c850b26388805b961971</target_ref>
+        <target_ref display_value="x_ipegh_copyright_qc.description">79b241addbf0c850b26388805b961989</target_ref>
         <title/>
         <ui_version>dynamic</ui_version>
         <view/>
         <window>x_ipegh_copyright_qc.do</window>
     </sys_embedded_tour_step>
-    <sys_translated_text action="delete_multiple" query="documentkey=5427a8eddb70c850b26388805b961973"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=71b241addbf0c850b26388805b96198b"/>
 </record_update>

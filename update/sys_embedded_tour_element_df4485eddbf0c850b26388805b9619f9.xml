@@ -4,7 +4,7 @@
         <cell_types/>
         <col/>
         <cxs_results/>
-        <element_type>label</element_type>
+        <element_type>other</element_type>
         <field/>
         <field_action/>
         <field_header/>
@@ -15,8 +15,8 @@
         <frameset>nav_filter</frameset>
         <list_element>ui_action</list_element>
         <list_header/>
-        <manual_css>div[id="label.x_ipegh_copyright_qc.date"] label.col-xs-12.col-md-3.col-lg-4.control-label</manual_css>
-        <name>div[id="label.x_ipegh_copyright_qc.date"</name>
+        <manual_css>div[id="element.x_ipegh_copyright_qc.watch_list"].form-group div.col-xs-10.col-md-9.col-lg-8.form-field.input_controls</manual_css>
+        <name>div[id="element.x_ipegh_copyright_qc.wat</name>
         <record_id/>
         <related_field/>
         <related_links/>
@@ -26,18 +26,18 @@
         <row/>
         <sys_class_name>sys_embedded_tour_element</sys_class_name>
         <sys_created_by>AnnAal</sys_created_by>
-        <sys_created_on>2019-10-29 12:26:35</sys_created_on>
+        <sys_created_on>2019-10-29 14:34:51</sys_created_on>
         <sys_domain>global</sys_domain>
-        <sys_id>98f62ceddb70c850b26388805b9619a7</sys_id>
+        <sys_id>df4485eddbf0c850b26388805b9619f9</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>div[id="label.x_ipegh_copyright_qc.date"</sys_name>
+        <sys_name>div[id="element.x_ipegh_copyright_qc.wat</sys_name>
         <sys_overrides/>
         <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
         <sys_policy/>
         <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
-        <sys_update_name>sys_embedded_tour_element_98f62ceddb70c850b26388805b9619a7</sys_update_name>
+        <sys_update_name>sys_embedded_tour_element_df4485eddbf0c850b26388805b9619f9</sys_update_name>
         <sys_updated_by>AnnAal</sys_updated_by>
-        <sys_updated_on>2019-10-29 12:26:35</sys_updated_on>
+        <sys_updated_on>2019-10-29 14:34:51</sys_updated_on>
         <table/>
         <type>manual_css</type>
         <ui_action/>

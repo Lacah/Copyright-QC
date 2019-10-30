@@ -6,22 +6,23 @@
         <action_target_ref display_value="x_ipegh_copyright_qcheader.sysverb_updat">b9c2306ddbb0c850b26388805b9619bc</action_target_ref>
         <active>true</active>
         <content><![CDATA[Save your changes here. A few tips and tricks: 
-1) You can post a comment either by clicking &#39;Post&#39; or &#39;Save&#39;, both work fine. 2) You can mark a QC case corrected by 
- either clicking the &#39;Error Corrected&#39; button on the upper menu, or ticking the checkbox &#39;Corrected&#39; plus &#39;save&#39; (please note: both menu button and checkbox only appear when state is one of the three error types)]]></content>
+1) You can post a comment either by clicking &#39;Post&#39; or &#39;Save&#39;, both work fine, only remember Save will also capture any other changes you may have made to the form.
+2) You can mark a QC case corrected by 
+ either clicking the &#39;Error Corrected&#39; button on the upper menu bar, or ticking the checkbox &#39;Corrected&#39; and &#39;save&#39;. Please note: both menu button and checkbox only appear when state actually is set to one of the three error types.]]></content>
         <guide display_value="QC Case Form guided tour">4fbb40eddbfc8850b26388805b961993</guide>
         <implicit>false</implicit>
         <link/>
         <name/>
         <options>{"step_view":""}</options>
-        <order>10</order>
-        <placement>bottom</placement>
+        <order>8</order>
+        <placement>left</placement>
         <step_type>step</step_type>
         <sys_class_name>sys_embedded_tour_step</sys_class_name>
         <sys_created_by>AnnAal</sys_created_by>
         <sys_created_on>2019-10-29 13:18:18</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_id>79c2306ddbb0c850b26388805b9619be</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>19</sys_mod_count>
         <sys_name/>
         <sys_overrides/>
         <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
@@ -29,7 +30,7 @@
         <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
         <sys_update_name>sys_embedded_tour_step_79c2306ddbb0c850b26388805b9619be</sys_update_name>
         <sys_updated_by>AnnAal</sys_updated_by>
-        <sys_updated_on>2019-10-29 13:18:18</sys_updated_on>
+        <sys_updated_on>2019-10-29 14:58:11</sys_updated_on>
         <target/>
         <target_ref display_value="x_ipegh_copyright_qcheader.sysverb_updat">b9c2306ddbb0c850b26388805b9619bc</target_ref>
         <title/>

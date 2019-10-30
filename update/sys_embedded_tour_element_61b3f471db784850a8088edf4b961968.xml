@@ -4,7 +4,7 @@
         <cell_types/>
         <col/>
         <cxs_results/>
-        <element_type>label</element_type>
+        <element_type>other</element_type>
         <field/>
         <field_action/>
         <field_header/>
@@ -15,8 +15,8 @@
         <frameset>nav_filter</frameset>
         <list_element>ui_action</list_element>
         <list_header/>
-        <manual_css>div[id="label.x_ipegh_copyright_qc.watch_list"].label_spacing label.control-label.col-xs-12.col-md-1_5.col-lg-2</manual_css>
-        <name>div[id="label.x_ipegh_copyright_qc.watch</name>
+        <manual_css>li.h-card.h-card_md.h-card_comments:nth-of-type(1) div.sn-card-component.sn-card-component_records div.sn-widget ul.sn-widget-list.sn-widget-list-table li:nth-of-type(1) span.sn-widget-list-table-cell:nth-of-type(2)</manual_css>
+        <name>li.h-card.h-card_md.h-card_comments:nth-</name>
         <record_id/>
         <related_field/>
         <related_links/>
@@ -26,18 +26,18 @@
         <row/>
         <sys_class_name>sys_embedded_tour_element</sys_class_name>
         <sys_created_by>AnnAal</sys_created_by>
-        <sys_created_on>2019-10-29 12:37:21</sys_created_on>
+        <sys_created_on>2019-10-30 08:00:51</sys_created_on>
         <sys_domain>global</sys_domain>
-        <sys_id>0e69a4a1dbb0c850b26388805b961924</sys_id>
+        <sys_id>61b3f471db784850a8088edf4b961968</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>div[id="label.x_ipegh_copyright_qc.watch</sys_name>
+        <sys_name>li.h-card.h-card_md.h-card_comments:nth-</sys_name>
         <sys_overrides/>
         <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
         <sys_policy/>
         <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
-        <sys_update_name>sys_embedded_tour_element_0e69a4a1dbb0c850b26388805b961924</sys_update_name>
+        <sys_update_name>sys_embedded_tour_element_61b3f471db784850a8088edf4b961968</sys_update_name>
         <sys_updated_by>AnnAal</sys_updated_by>
-        <sys_updated_on>2019-10-29 12:37:21</sys_updated_on>
+        <sys_updated_on>2019-10-30 08:00:51</sys_updated_on>
         <table/>
         <type>manual_css</type>
         <ui_action/>

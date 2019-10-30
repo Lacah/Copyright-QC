@@ -3,37 +3,37 @@
         <action>false</action>
         <action_event>next</action_event>
         <action_target/>
-        <action_target_ref display_value="div[id=&quot;label.x_ipegh_copyright_qc.watch">0e69a4a1dbb0c850b26388805b961924</action_target_ref>
+        <action_target_ref display_value="div[id=&quot;element.x_ipegh_copyright_qc.wat">df4485eddbf0c850b26388805b9619f9</action_target_ref>
         <active>true</active>
-        <content><![CDATA[You can add people on &#34;cc&#34; here. Click the lock icon, enter the desired person, click the lock icon again and save. People on the Watch List will receive all comments (not description!) posted on this QC case.]]></content>
+        <content><![CDATA[You can add people (e.g. your TM or another QC Officer)  on &#34;cc&#34; for comments using the Watch List. Click the lock icon, enter the desired person, click the lock icon again and save. People on the Watch List will receive emails notifying about all added comments on this QC case.]]></content>
         <guide display_value="QC Case Form guided tour">4fbb40eddbfc8850b26388805b961993</guide>
         <implicit>false</implicit>
         <link/>
         <name/>
         <options>{"step_view":""}</options>
-        <order>6</order>
-        <placement>top</placement>
+        <order>10</order>
+        <placement>bottom</placement>
         <step_type>step</step_type>
         <sys_class_name>sys_embedded_tour_step</sys_class_name>
         <sys_created_by>AnnAal</sys_created_by>
-        <sys_created_on>2019-10-29 12:37:21</sys_created_on>
+        <sys_created_on>2019-10-29 14:34:51</sys_created_on>
         <sys_domain>global</sys_domain>
-        <sys_id>0669a4a1dbb0c850b26388805b961926</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_id>d74485eddbf0c850b26388805b9619fb</sys_id>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name/>
         <sys_overrides/>
         <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
         <sys_policy/>
         <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
-        <sys_update_name>sys_embedded_tour_step_0669a4a1dbb0c850b26388805b961926</sys_update_name>
+        <sys_update_name>sys_embedded_tour_step_d74485eddbf0c850b26388805b9619fb</sys_update_name>
         <sys_updated_by>AnnAal</sys_updated_by>
-        <sys_updated_on>2019-10-29 12:37:21</sys_updated_on>
+        <sys_updated_on>2019-10-30 08:05:39</sys_updated_on>
         <target/>
-        <target_ref display_value="div[id=&quot;label.x_ipegh_copyright_qc.watch">0e69a4a1dbb0c850b26388805b961924</target_ref>
+        <target_ref display_value="div[id=&quot;element.x_ipegh_copyright_qc.wat">df4485eddbf0c850b26388805b9619f9</target_ref>
         <title/>
         <ui_version>dynamic</ui_version>
         <view/>
         <window>x_ipegh_copyright_qc.do</window>
     </sys_embedded_tour_step>
-    <sys_translated_text action="delete_multiple" query="documentkey=0669a4a1dbb0c850b26388805b961926"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=d74485eddbf0c850b26388805b9619fb"/>
 </record_update>

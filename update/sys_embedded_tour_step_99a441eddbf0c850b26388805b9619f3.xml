@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_embedded_tour_step">
+    <sys_embedded_tour_step action="INSERT_OR_UPDATE">
+        <action>false</action>
+        <action_event>next</action_event>
+        <action_target/>
+        <action_target_ref display_value="activity-stream-comments-textarea">91a441eddbf0c850b26388805b9619f2</action_target_ref>
+        <active>true</active>
+        <content><![CDATA[Post a comment here when you want to communicate something to the QC Officer (and anyone on the Watch List). Please remember, when you mark an error &#39;Corrected&#39;, it will trigger an automated email to the QC Officer to let them know it has been done, so you don&#39;t have to post a comment about this separately. The comments cannot be deleted or amended after being posted. Posting a comment will trigger an email notification to the QC Officer and anyone on the Watch List. If you wish to respond to a comment, you can also respond directly to the automated notification email itself (Email subject: A new comment on your QC case...&#34;), and your reply will be captured as a comment.]]></content>
+        <guide display_value="QC Case Form guided tour">4fbb40eddbfc8850b26388805b961993</guide>
+        <implicit>false</implicit>
+        <link/>
+        <name/>
+        <options>{"step_view":""}</options>
+        <order>11</order>
+        <placement>bottom</placement>
+        <step_type>step</step_type>
+        <sys_class_name>sys_embedded_tour_step</sys_class_name>
+        <sys_created_by>AnnAal</sys_created_by>
+        <sys_created_on>2019-10-29 14:36:21</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>99a441eddbf0c850b26388805b9619f3</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
+        <sys_update_name>sys_embedded_tour_step_99a441eddbf0c850b26388805b9619f3</sys_update_name>
+        <sys_updated_by>AnnAal</sys_updated_by>
+        <sys_updated_on>2019-10-30 07:59:45</sys_updated_on>
+        <target/>
+        <target_ref display_value="activity-stream-comments-textarea">91a441eddbf0c850b26388805b9619f2</target_ref>
+        <title/>
+        <ui_version>dynamic</ui_version>
+        <view/>
+        <window>x_ipegh_copyright_qc.do</window>
+    </sys_embedded_tour_step>
+    <sys_translated_text action="delete_multiple" query="documentkey=99a441eddbf0c850b26388805b9619f3"/>
+</record_update>

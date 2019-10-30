@@ -3,37 +3,40 @@
         <action>false</action>
         <action_event>next</action_event>
         <action_target/>
-        <action_target_ref display_value="undefined.header_add_attachment">e14ca825dbb0c850b26388805b9619a6</action_target_ref>
+        <action_target_ref display_value="div[id=&quot;element.x_ipegh_copyright_qc.act">840309addbf0c850b26388805b9619a7</action_target_ref>
         <active>true</active>
-        <content><![CDATA[You can upload attachments from this menu icon, if you need to e.g. share some supporting data with the QC Officer. Uploading attachments doesn&#39;t alone trigger any email notifications, so you should also write a comment to let the QC Officer know you have attached a file.]]></content>
+        <content><![CDATA[A QC case will change from active to inactive when:
+a) State changes to &#39;Correct&#39;
+b) In case of a Minor Internal error, when the User marks it Corrected.
+c) In case of a Major Internal or Reporting Error, once the QC Officer has approved the correction of the error.]]></content>
         <guide display_value="QC Case Form guided tour">4fbb40eddbfc8850b26388805b961993</guide>
         <implicit>false</implicit>
         <link/>
         <name/>
         <options>{"step_view":""}</options>
-        <order>7</order>
-        <placement>left</placement>
+        <order>6</order>
+        <placement>bottom</placement>
         <step_type>step</step_type>
         <sys_class_name>sys_embedded_tour_step</sys_class_name>
         <sys_created_by>AnnAal</sys_created_by>
-        <sys_created_on>2019-10-29 12:49:53</sys_created_on>
+        <sys_created_on>2019-10-29 14:29:10</sys_created_on>
         <sys_domain>global</sys_domain>
-        <sys_id>e94ca825dbb0c850b26388805b9619a7</sys_id>
-        <sys_mod_count>17</sys_mod_count>
+        <sys_id>8c0309addbf0c850b26388805b9619a8</sys_id>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name/>
         <sys_overrides/>
         <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
         <sys_policy/>
         <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
-        <sys_update_name>sys_embedded_tour_step_e94ca825dbb0c850b26388805b9619a7</sys_update_name>
+        <sys_update_name>sys_embedded_tour_step_8c0309addbf0c850b26388805b9619a8</sys_update_name>
         <sys_updated_by>AnnAal</sys_updated_by>
-        <sys_updated_on>2019-10-30 08:11:07</sys_updated_on>
+        <sys_updated_on>2019-10-29 14:29:26</sys_updated_on>
         <target/>
-        <target_ref display_value="undefined.header_add_attachment">e14ca825dbb0c850b26388805b9619a6</target_ref>
+        <target_ref display_value="div[id=&quot;element.x_ipegh_copyright_qc.act">840309addbf0c850b26388805b9619a7</target_ref>
         <title/>
         <ui_version>dynamic</ui_version>
         <view/>
         <window>x_ipegh_copyright_qc.do</window>
     </sys_embedded_tour_step>
-    <sys_translated_text action="delete_multiple" query="documentkey=e94ca825dbb0c850b26388805b9619a7"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=8c0309addbf0c850b26388805b9619a8"/>
 </record_update>

@@ -3,37 +3,37 @@
         <action>false</action>
         <action_event>next</action_event>
         <action_target/>
-        <action_target_ref display_value="div[id=&quot;label.x_ipegh_copyright_qc.assig">5424e82ddb70c850b26388805b9619af</action_target_ref>
+        <action_target_ref display_value="x_ipegh_copyright_qcheader.sysverb_updat">afe349addbf0c850b26388805b961979</action_target_ref>
         <active>true</active>
-        <content><![CDATA[The QC Officer is in this field.]]></content>
+        <content><![CDATA[Update is practically the same as Save, except it will also navigate you away from the form view, back to the list view. So only use this button for saving when you are ready with your work and wish to navigate away from the QC Case.]]></content>
         <guide display_value="QC Case Form guided tour">4fbb40eddbfc8850b26388805b961993</guide>
         <implicit>false</implicit>
         <link/>
         <name/>
         <options>{"step_view":""}</options>
-        <order>1</order>
-        <placement>right</placement>
+        <order>9</order>
+        <placement>left</placement>
         <step_type>step</step_type>
         <sys_class_name>sys_embedded_tour_step</sys_class_name>
         <sys_created_by>AnnAal</sys_created_by>
-        <sys_created_on>2019-10-29 12:14:18</sys_created_on>
+        <sys_created_on>2019-10-29 14:33:14</sys_created_on>
         <sys_domain>global</sys_domain>
-        <sys_id>e424e82ddb70c850b26388805b9619b1</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_id>a3e305eddbf0c850b26388805b9619ff</sys_id>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name/>
         <sys_overrides/>
         <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
         <sys_policy/>
         <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
-        <sys_update_name>sys_embedded_tour_step_e424e82ddb70c850b26388805b9619b1</sys_update_name>
+        <sys_update_name>sys_embedded_tour_step_a3e305eddbf0c850b26388805b9619ff</sys_update_name>
         <sys_updated_by>AnnAal</sys_updated_by>
-        <sys_updated_on>2019-10-29 12:14:18</sys_updated_on>
+        <sys_updated_on>2019-10-30 08:02:25</sys_updated_on>
         <target/>
-        <target_ref display_value="div[id=&quot;label.x_ipegh_copyright_qc.assig">5424e82ddb70c850b26388805b9619af</target_ref>
+        <target_ref display_value="x_ipegh_copyright_qcheader.sysverb_updat">afe349addbf0c850b26388805b961979</target_ref>
         <title/>
         <ui_version>dynamic</ui_version>
         <view/>
         <window>x_ipegh_copyright_qc.do</window>
     </sys_embedded_tour_step>
-    <sys_translated_text action="delete_multiple" query="documentkey=e424e82ddb70c850b26388805b9619b1"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=a3e305eddbf0c850b26388805b9619ff"/>
 </record_update>
