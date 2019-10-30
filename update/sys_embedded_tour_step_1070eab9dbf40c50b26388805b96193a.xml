@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_embedded_tour_step">
+    <sys_embedded_tour_step action="INSERT_OR_UPDATE">
+        <action>false</action>
+        <action_event>next</action_event>
+        <action_target/>
+        <action_target_ref display_value="xpath">5070eab9dbf40c50b26388805b961938</action_target_ref>
+        <active>true</active>
+        <content><![CDATA[gfdgfd]]></content>
+        <guide/>
+        <implicit>false</implicit>
+        <link/>
+        <name/>
+        <options>{"url":"/sp?id=index"}</options>
+        <order>1</order>
+        <placement>right</placement>
+        <step_type>step</step_type>
+        <sys_class_name>sys_embedded_tour_step</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2019-10-30 15:55:54</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>1070eab9dbf40c50b26388805b96193a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
+        <sys_update_name>sys_embedded_tour_step_1070eab9dbf40c50b26388805b96193a</sys_update_name>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2019-10-30 15:55:54</sys_updated_on>
+        <target/>
+        <target_ref display_value="xpath">5070eab9dbf40c50b26388805b961938</target_ref>
+        <title/>
+        <ui_version>dynamic</ui_version>
+        <view/>
+        <window>sp</window>
+    </sys_embedded_tour_step>
+    <sys_translated_text action="delete_multiple" query="documentkey=1070eab9dbf40c50b26388805b96193a"/>
+</record_update>
