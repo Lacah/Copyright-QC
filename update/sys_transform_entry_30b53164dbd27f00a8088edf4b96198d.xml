@@ -4,7 +4,7 @@
         <coalesce>false</coalesce>
         <coalesce_case_sensitive>false</coalesce_case_sensitive>
         <coalesce_empty_fields>false</coalesce_empty_fields>
-        <date_format>yyyy-MM-dd</date_format>
+        <date_format>dd/MM/yyyy</date_format>
         <map display_value="QC sample transformation">717d6120dbd27f00a8088edf4b961969</map>
         <reference_value_field/>
         <source_field>u_date</source_field>
@@ -19,14 +19,14 @@
         <sys_created_by>LasBal</sys_created_by>
         <sys_created_on>2019-06-24 08:59:47</sys_created_on>
         <sys_id>30b53164dbd27f00a8088edf4b96198d</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>u_date</sys_name>
         <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
         <sys_policy/>
         <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
         <sys_update_name>sys_transform_entry_30b53164dbd27f00a8088edf4b96198d</sys_update_name>
         <sys_updated_by>LasBal</sys_updated_by>
-        <sys_updated_on>2019-08-28 07:57:54</sys_updated_on>
+        <sys_updated_on>2019-11-01 09:11:39</sys_updated_on>
         <target_field>date</target_field>
         <target_table>x_ipegh_copyright_qc</target_table>
         <use_source_script>false</use_source_script>
