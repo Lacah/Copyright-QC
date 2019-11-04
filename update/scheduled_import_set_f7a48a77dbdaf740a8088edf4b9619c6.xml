@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="scheduled_import_set">
     <scheduled_import_set action="INSERT_OR_UPDATE">
-        <active>false</active>
+        <active>true</active>
         <concurrent_import>false</concurrent_import>
         <condition/>
         <conditional>false</conditional>
@@ -27,7 +27,7 @@
         <pre_script_bool>false</pre_script_bool>
         <run_as/>
         <run_as_tz/>
-        <run_dayofmonth>22</run_dayofmonth>
+        <run_dayofmonth>24</run_dayofmonth>
         <run_dayofweek>1</run_dayofweek>
         <run_period/>
         <run_start>2019-07-04 12:25:30</run_start>
@@ -38,14 +38,14 @@
         <sys_created_by>LasBal</sys_created_by>
         <sys_created_on>2019-07-04 12:29:26</sys_created_on>
         <sys_id>f7a48a77dbdaf740a8088edf4b9619c6</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Agreements import</sys_name>
         <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
         <sys_policy/>
         <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
         <sys_update_name>scheduled_import_set_f7a48a77dbdaf740a8088edf4b9619c6</sys_update_name>
         <sys_updated_by>LasBal</sys_updated_by>
-        <sys_updated_on>2019-11-04 12:10:35</sys_updated_on>
+        <sys_updated_on>2019-11-04 17:06:39</sys_updated_on>
         <upgrade_safe>false</upgrade_safe>
     </scheduled_import_set>
 </record_update>
