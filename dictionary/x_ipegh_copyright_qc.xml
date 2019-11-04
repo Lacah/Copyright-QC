@@ -90,6 +90,7 @@
                 <element inactive_on_update="false" label="PRS" sequence="0" value="PRS"/>
                 <element inactive_on_update="false" label="STIM" sequence="0" value="STIM"/>
                 <element inactive_on_update="false" label="STIM Members" sequence="0" value="STIM Members"/>
+                <element inactive_on_update="false" label="Undefined" sequence="0" value="Undefined"/>
                 <element inactive_on_update="false" label="Amend agreement" sequence="10" value="Amend Agreement"/>
                 <element inactive_on_update="false" label="New agreement" sequence="20" value="New Agreement"/>
                 <element inactive_on_update="false" label="Terminate agreement" sequence="30" value="Terminate Agreement"/>

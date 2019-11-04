@@ -131,6 +131,27 @@
             <element>u_qc_subarea</element>
             <hint/>
             <inactive>false</inactive>
+            <label>Undefined</label>
+            <language>en</language>
+            <name>x_ipegh_copyright_qc</name>
+            <sequence>0</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-11-04 12:00:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>808a571fdbf08010b26388805b96194c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-11-04 12:00:27</sys_updated_on>
+            <u_core_customer_selectable>false</u_core_customer_selectable>
+            <u_customer_visible>false</u_customer_visible>
+            <value>Undefined</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_qc_subarea</element>
+            <hint/>
+            <inactive>false</inactive>
             <label>Amend agreement</label>
             <language>en</language>
             <name>x_ipegh_copyright_qc</name>
