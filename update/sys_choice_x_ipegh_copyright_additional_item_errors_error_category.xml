@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="error_category" table="x_ipegh_copyright_additional_item_errors" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>error_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Major internal</label>
+            <language>en</language>
+            <name>x_ipegh_copyright_additional_item_errors</name>
+            <sequence>10</sequence>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-11-05 13:49:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c30d78ffdbb0c010a8088edf4b961994</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-11-05 13:49:56</sys_updated_on>
+            <u_core_customer_selectable>false</u_core_customer_selectable>
+            <u_customer_visible>false</u_customer_visible>
+            <value>-3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>error_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Minor internal</label>
+            <language>en</language>
+            <name>x_ipegh_copyright_additional_item_errors</name>
+            <sequence>20</sequence>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-11-05 13:50:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2e2df8ffdbb0c010a8088edf4b9619e0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-11-05 13:50:13</sys_updated_on>
+            <u_core_customer_selectable>false</u_core_customer_selectable>
+            <u_customer_visible>false</u_customer_visible>
+            <value>-4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>error_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Reporting error</label>
+            <language>en</language>
+            <name>x_ipegh_copyright_additional_item_errors</name>
+            <sequence>30</sequence>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-11-05 13:49:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>78dc3cffdbb0c010a8088edf4b9619c9</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-11-05 13:50:24</sys_updated_on>
+            <u_core_customer_selectable>false</u_core_customer_selectable>
+            <u_customer_visible>false</u_customer_visible>
+            <value>-2</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>error_category</element>
+            <name>x_ipegh_copyright_additional_item_errors</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-11-05 13:49:25</sys_created_on>
+            <sys_id>020dfcbfdbb0c010a8088edf4b9619fc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>error_category</sys_name>
+            <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
+            <sys_update_name>sys_choice_x_ipegh_copyright_additional_item_errors_error_category</sys_update_name>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-11-05 13:49:25</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

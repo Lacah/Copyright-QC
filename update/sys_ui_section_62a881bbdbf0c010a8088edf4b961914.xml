@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Additional errors" section_id="62a881bbdbf0c010a8088edf4b961914" sys_domain="global" table="x_ipegh_copyright_qc" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>12M.x_ipegh_copyright_qc.x_ipegh_copyright_additional_item_errors.qc_record</element>
+            <position>0</position>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-11-05 14:41:14</sys_created_on>
+            <sys_id>49e8c5bbdbf0c010a8088edf4b9619da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Additional errors" display_value="Additional errors" name="x_ipegh_copyright_qc" sys_domain="global" view="Default view">62a881bbdbf0c010a8088edf4b961914</sys_ui_section>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-11-05 14:41:14</sys_updated_on>
+            <sys_user/>
+            <type>list</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Additional errors</caption>
+            <header>false</header>
+            <name>x_ipegh_copyright_qc</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-11-05 14:40:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>62a881bbdbf0c010a8088edf4b961914</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Additional errors</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
+            <sys_update_name>sys_ui_section_62a881bbdbf0c010a8088edf4b961914</sys_update_name>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-11-05 14:40:14</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

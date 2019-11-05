@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>true</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>true</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>Additional item errors</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_ipegh_copyright_additional_item_errors</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <super_class/>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2019-11-05 10:55:12</sys_created_on>
+        <sys_id>80a454bbdb30c010a8088edf4b96198e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Additional item errors</sys_name>
+        <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
+        <sys_update_name>sys_db_object_80a454bbdb30c010a8088edf4b96198e</sys_update_name>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2019-11-05 10:58:12</sys_updated_on>
+        <update_access>true</update_access>
+        <user_role display_value="x_ipegh_copyright.user" name="x_ipegh_copyright.user">d4b96d13db8e3b00b26388805b96190a</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+</record_update>
