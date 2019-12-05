@@ -24,15 +24,15 @@
         <sys_created_by>LasBal</sys_created_by>
         <sys_created_on>2019-06-20 10:54:55</sys_created_on>
         <sys_id>5cb9a113db8e3b00b26388805b9619f0</sys_id>
-        <sys_mod_count>32</sys_mod_count>
+        <sys_mod_count>33</sys_mod_count>
         <sys_updated_by>LasBal</sys_updated_by>
-        <sys_updated_on>2019-11-05 15:25:09</sys_updated_on>
+        <sys_updated_on>2019-12-05 15:21:03</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <user_role display_value="x_ipegh_copyright.user" name="x_ipegh_copyright.user">d4b96d13db8e3b00b26388805b96190a</user_role>
         <vendor/>
         <vendor_prefix/>
-        <version>1.1.7</version>
+        <version>1.1.8</version>
     </sys_app>
     <sys_attachment action="INSERT_OR_UPDATE">
         <average_image_color>#d7695</average_image_color>
