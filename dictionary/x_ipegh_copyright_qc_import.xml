@@ -14,6 +14,7 @@
         <element attributes="edge_encryption_enabled=true" label="counterclaim_id" max_length="40" name="u_counterclaim_id" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Customer" max_length="40" name="u_customer" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=DATE" label="DATE" max_length="40" name="u_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Datecorrected" max_length="40" name="u_datecorrected" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Datecorreted" label="Datecorreted" max_length="40" name="u_datecorreted" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Date_corrected" max_length="40" name="u_date_corrected" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="date_correted" max_length="40" name="u_date_correted" type="string"/>

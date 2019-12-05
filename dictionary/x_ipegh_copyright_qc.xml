@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element attributes="hasLabels=true,live_feed=true" audit="true" extends="task" label="Copyright QC task" max_length="40" name="x_ipegh_copyright_qc" sizeclass="745" type="collection">
+    <element attributes="hasLabels=true,live_feed=true" audit="true" extends="task" label="Copyright QC task" max_length="40" name="x_ipegh_copyright_qc" sizeclass="2375" type="collection">
         <element label="Agreement Key" max_length="70" name="agreement_key" type="string"/>
         <element choice="1" label="Area" max_length="40" name="area" read_only="true" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Cases" sequence="0" value="cases"/>
-                <element inactive_on_update="false" label="Updated" sequence="0" value="Updated"/>
-                <element inactive_on_update="false" label="Update requests" sequence="1" value="service requests"/>
+                <element inactive_on_update="false" label="Withdraw accepted" sequence="0" value="Withdraw accepted"/>
+                <element inactive_on_update="false" label="UR item" sequence="1" value="service requests"/>
                 <element inactive_on_update="false" label="High Earning" sequence="2" value="high earning"/>
                 <element inactive_on_update="false" label="Agreements" sequence="3" value="agreements"/>
                 <element inactive_on_update="false" label="Counterclaims" sequence="4" value="counterclaims"/>
@@ -101,6 +101,6 @@
         <element attributes="edge_encryption_enabled=true" label="Link to work" max_length="1024" name="u_rok_url" type="url"/>
         <element label="Items SR errors" max_length="40" name="u_sr_error" type="integer"/>
         <element label="Week" max_length="2" name="week" read_only="true" type="integer"/>
-        <element label="Workkey" max_length="40" name="workkey" read_only="true" type="string"/>
+        <element label="Workkey" max_length="40" name="workkey" type="string"/>
     </element>
 </database>
