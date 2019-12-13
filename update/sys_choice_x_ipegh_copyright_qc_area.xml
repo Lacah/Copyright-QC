@@ -26,6 +26,27 @@
             <element>area</element>
             <hint/>
             <inactive>false</inactive>
+            <label>Updated</label>
+            <language>en</language>
+            <name>x_ipegh_copyright_qc</name>
+            <sequence>0</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-12-11 12:00:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f74d759bdbe90450a8088edf4b961956</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-12-11 12:00:22</sys_updated_on>
+            <u_core_customer_selectable>false</u_core_customer_selectable>
+            <u_customer_visible>false</u_customer_visible>
+            <value>Updated</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>area</element>
+            <hint/>
+            <inactive>false</inactive>
             <label>Withdraw accepted</label>
             <language>en</language>
             <name>x_ipegh_copyright_qc</name>
