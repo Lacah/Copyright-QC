@@ -15,7 +15,7 @@
         <condition/>
         <description/>
         <execute_function>false</execute_function>
-        <filter_condition table="x_ipegh_copyright_qc">customer=BUMA^EQ<item endquery="false" field="customer" goto="false" newquery="false" operator="=" or="false" value="BUMA"/>
+        <filter_condition table="x_ipegh_copyright_qc">customer=BUMA^EQ<item display_value="Buma/Stemra" endquery="false" field="customer" goto="false" newquery="false" operator="=" or="false" value="BUMA"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </filter_condition>
         <is_rest>false</is_rest>

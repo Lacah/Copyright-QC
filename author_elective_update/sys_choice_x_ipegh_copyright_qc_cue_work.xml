@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="DELETE" field="cue_work" table="x_ipegh_copyright_qc" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>cue_work</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>False</label>
+            <language>en</language>
+            <name>x_ipegh_copyright_qc</name>
+            <sequence>50</sequence>
+            <sys_created_by>AnnAal</sys_created_by>
+            <sys_created_on>2019-10-28 12:39:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9b50e3c1dbb80c105e5783305b9619eb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>AnnAal</sys_updated_by>
+            <sys_updated_on>2019-10-28 12:39:53</sys_updated_on>
+            <u_core_customer_selectable>false</u_core_customer_selectable>
+            <u_customer_visible>false</u_customer_visible>
+            <value>False</value>
+        </sys_choice>
+        <sys_choice_set action="DELETE">
+            <element>cue_work</element>
+            <name>x_ipegh_copyright_qc</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-10-28 09:24:08</sys_created_on>
+            <sys_id>5a93b2c9db300c105e5783305b9619f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>cue_work</sys_name>
+            <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
+            <sys_update_name>sys_choice_x_ipegh_copyright_qc_cue_work</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-10-28 09:24:08</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</application>
+        <file_path/>
+        <instance_id>5cd7ff349b65cf407ac36b8af359ff4a</instance_id>
+        <instance_name>iceservices</instance_name>
+        <name>sys_choice_x_ipegh_copyright_qc_cue_work</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="INSERT_OR_UPDATE" field="cue_work" table="x_ipegh_copyright_qc" version="3"><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>cue_work</element><hint/><inactive>false</inactive><label>False</label><language>en</language><name>x_ipegh_copyright_qc</name><sequence>50</sequence><sys_created_by>AnnAal</sys_created_by><sys_created_on>2019-10-28 12:39:53</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>9b50e3c1dbb80c105e5783305b9619eb</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>AnnAal</sys_updated_by><sys_updated_on>2019-10-28 12:39:53</sys_updated_on><u_core_customer_selectable>false</u_core_customer_selectable><u_customer_visible>false</u_customer_visible><value>False</value></sys_choice><sys_choice_set action="INSERT_OR_UPDATE"><element>cue_work</element><name>x_ipegh_copyright_qc</name><sys_class_name>sys_choice_set</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2019-10-28 09:24:08</sys_created_on><sys_id>5a93b2c9db300c105e5783305b9619f0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>cue_work</sys_name><sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package><sys_policy/><sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope><sys_update_name>sys_choice_x_ipegh_copyright_qc_cue_work</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2019-10-28 09:24:08</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>1480778140</payload_hash>
+        <record_name>Copyright QC task.Cue Work</record_name>
+        <reverted_from/>
+        <source>113fbe36db2c4010f4db16d15b961933</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>AnnAal</sys_created_by>
+        <sys_created_on>2019-10-28 14:15:39</sys_created_on>
+        <sys_id>90563f4ddb7c0c105e5783305b9619ab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16e12b8eb050000001</sys_recorded_at>
+        <sys_updated_by>AnnAal</sys_updated_by>
+        <sys_updated_on>2019-10-28 14:15:39</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>d4563f4d4a7c0c1029b9d9e268a180aa</update_guid>
+        <update_guid_history>d4563f4d4a7c0c1029b9d9e268a180aa:1480778140,256067c1fcb80c10d5e1b5568c925175:1304920181,805063c17cb80c106dc50e58bdec13ac:234542728</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2019-10-28 14:15:39</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>5a93b2c9db300c105e5783305b9619f0</sys_id>
+        <sys_metadata>5a93b2c9db300c105e5783305b9619f0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cue_work</sys_name>
+        <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
+        <sys_scope_delete display_value="">0e767c3002574cc09ce882c644c9c100</sys_scope_delete>
+        <sys_update_name>sys_choice_x_ipegh_copyright_qc_cue_work</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_ipegh_copyright_qc_cue_work">90563f4ddb7c0c105e5783305b9619ab</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-10-28 14:15:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

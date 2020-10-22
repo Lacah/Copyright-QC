@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_job_indicators">
+    <pa_job_indicators action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <collect>1</collect>
+        <collect_indicator>true</collect_indicator>
+        <display>Weekly QC data collector - QC minor internal errors</display>
+        <indicator display_value="QC minor internal errors">ceb62d34dbad48505e5783305b96192f</indicator>
+        <job display_value="Weekly QC data collector">2a582d3cdbad48505e5783305b9619ab</job>
+        <sys_class_name>pa_job_indicators</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2019-12-03 16:06:59</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4a096dbcdbad48505e5783305b9619e9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>QC minor internal errors.Weekly QC data collector</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
+        <sys_update_name>pa_job_indicators_4a096dbcdbad48505e5783305b9619e9</sys_update_name>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2019-12-03 16:06:59</sys_updated_on>
+    </pa_job_indicators>
+</record_update>

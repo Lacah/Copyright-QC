@@ -2,7 +2,9 @@
     <sys_report action="INSERT_OR_UPDATE">
         <additional_groupby/>
         <aggregate>COUNT</aggregate>
+        <aggregation_source/>
         <allow_data_label_overlap>false</allow_data_label_overlap>
+        <apply_alias>true</apply_alias>
         <axis_max_color display_value="UI14 Blue Light">b0d449b3d7332100fa6c0c12ce610383</axis_max_color>
         <axis_min_color display_value="White">65b303c7a9fe3dba00629aff95ee3597</axis_min_color>
         <bar_unstack>false</bar_unstack>
@@ -16,7 +18,7 @@
         <chart_subtitle_color/>
         <chart_subtitle_size>14</chart_subtitle_size>
         <chart_subtitle_style>normal</chart_subtitle_style>
-        <chart_title>My Team's QC stats this month</chart_title>
+        <chart_title>My Team's QC stats</chart_title>
         <chart_title_color display_value="Black">65b30218a9fe3dba0120df8611520d97</chart_title_color>
         <chart_title_size>16</chart_title_size>
         <chart_title_style>normal</chart_title_style>
@@ -44,9 +46,11 @@
         <exp_report_attrs>true</exp_report_attrs>
         <field>user</field>
         <field_list>number,opened_at,short_description,caller_id,caller_id.company,priority,state,u_product_category,assignment_group,assigned_to,sys_updated_on</field_list>
-        <filter table="x_ipegh_copyright_qc">user.managerDYNAMIC90d1921e5f510100a9ad2572f2b477fe^user.company!=40828977dbebb300a8088edf4b96199f^sys_created_onONThis month@javascript:gs.beginningOfThisMonth()@javascript:gs.endOfThisMonth()<item endquery="false" field="user.manager" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
-            <item display_table="core_company" display_value="OnMusic old" endquery="false" field="user.company" goto="false" newquery="false" operator="!=" or="false" value="40828977dbebb300a8088edf4b96199f"/>
-            <item endquery="false" field="sys_created_on" goto="false" newquery="false" operator="ON" or="false" value="This month@javascript:gs.beginningOfThisMonth()@javascript:gs.endOfThisMonth()"/>
+        <filter table="x_ipegh_copyright_qc">user.managerDYNAMIC90d1921e5f510100a9ad2572f2b477fe^user.company!=14828533db2bf740f4db16d15b961937^state!=-1^ORDERBYDESCstate^ORDERBYuser<item endquery="false" field="user.manager" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
+            <item display_table="core_company" display_value="OnMusic" endquery="false" field="user.company" goto="false" newquery="false" operator="!=" or="false" value="14828533db2bf740f4db16d15b961937"/>
+            <item display_value="To be checked" endquery="false" field="state" goto="false" newquery="false" operator="!=" or="false" value="-1"/>
+            <item endquery="false" field="" goto="false" newquery="false" operator="ORDERBYDESC" or="false" value="state"/>
+            <item endquery="false" field="" goto="false" newquery="false" operator="ORDERBY" or="false" value="user"/>
         </filter>
         <from/>
         <funnel_neck_percent>30</funnel_neck_percent>
@@ -85,12 +89,12 @@
         <sc_stackby_variable_id/>
         <score_color display_value="Black">65b30218a9fe3dba0120df8611520d97</score_color>
         <series_name_text/>
-        <set_color>color_palette</set_color>
+        <set_color>chart_colors</set_color>
         <show_chart_border>false</show_chart_border>
         <show_chart_data_label>true</show_chart_data_label>
         <show_chart_title>report</show_chart_title>
         <show_chart_total>false</show_chart_total>
-        <show_data_label_position_middle>false</show_data_label_position_middle>
+        <show_data_label_position_middle>true</show_data_label_position_middle>
         <show_empty>false</show_empty>
         <show_geographical_label>false</show_geographical_label>
         <show_legend>true</show_legend>
@@ -105,16 +109,16 @@
         <sys_created_by>AnnAal</sys_created_by>
         <sys_created_on>2019-09-03 10:20:59</sys_created_on>
         <sys_id>ba21b39fdb6b7300a8088edf4b96194a</sys_id>
-        <sys_mod_count>12</sys_mod_count>
-        <sys_name>My Team's QC stats this month</sys_name>
+        <sys_mod_count>22</sys_mod_count>
+        <sys_name>My Team's QC stats</sys_name>
         <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
         <sys_policy/>
         <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
         <sys_update_name>sys_report_ba21b39fdb6b7300a8088edf4b96194a</sys_update_name>
         <sys_updated_by>AnnAal</sys_updated_by>
-        <sys_updated_on>2019-09-10 12:11:50</sys_updated_on>
+        <sys_updated_on>2019-11-21 12:33:16</sys_updated_on>
         <table>x_ipegh_copyright_qc</table>
-        <title>My Team's QC stats this month</title>
+        <title>My Team's QC stats</title>
         <title_horizontal_alignment>center</title_horizontal_alignment>
         <title_vertical_alignment>top</title_vertical_alignment>
         <to/>

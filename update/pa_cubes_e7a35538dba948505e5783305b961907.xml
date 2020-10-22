@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_cubes">
+    <pa_cubes action="INSERT_OR_UPDATE">
+        <benchmarking>false</benchmarking>
+        <conditions table="x_ipegh_copyright_qc">state!=-1<item display_value="To be checked" endquery="false" field="state" goto="false" newquery="false" operator="!=" or="false" value="-1"/>
+        </conditions>
+        <description/>
+        <facts_table>x_ipegh_copyright_qc</facts_table>
+        <facts_table_pk/>
+        <facts_table_pktable/>
+        <facts_table_pkview/>
+        <frequency>20</frequency>
+        <max_record_fetch_count>50000</max_record_fetch_count>
+        <name>QC results</name>
+        <override_record_collection>false</override_record_collection>
+        <report_source/>
+        <report_source_updated_at/>
+        <sys_class_name>pa_cubes</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2019-12-03 14:35:05</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e7a35538dba948505e5783305b961907</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>QC results</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
+        <sys_update_name>pa_cubes_e7a35538dba948505e5783305b961907</sys_update_name>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2019-12-03 15:58:41</sys_updated_on>
+    </pa_cubes>
+    <sys_translated_text action="delete_multiple" query="documentkey=e7a35538dba948505e5783305b961907"/>
+</record_update>

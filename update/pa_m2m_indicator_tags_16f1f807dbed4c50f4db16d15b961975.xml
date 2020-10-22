@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_indicator_tags">
+    <pa_m2m_indicator_tags action="INSERT_OR_UPDATE">
+        <indicator display_value="QC minor internal errors">ceb62d34dbad48505e5783305b96192f</indicator>
+        <order>300</order>
+        <sys_class_name>pa_m2m_indicator_tags</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2019-12-10 11:52:44</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>16f1f807dbed4c50f4db16d15b961975</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>QC minor internal errors.QC not reporting error</sys_name>
+        <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
+        <sys_update_name>pa_m2m_indicator_tags_16f1f807dbed4c50f4db16d15b961975</sys_update_name>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2019-12-10 11:52:44</sys_updated_on>
+        <tag display_value="QC not reporting error">53d13807dbed4c50f4db16d15b96196a</tag>
+    </pa_m2m_indicator_tags>
+</record_update>

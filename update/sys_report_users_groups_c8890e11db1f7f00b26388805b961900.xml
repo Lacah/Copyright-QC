@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
     <sys_report_users_groups action="INSERT_OR_UPDATE">
-        <group_id display_value="QC - Enquiry" name="QC - Enquiry">92c4cea5db1a3340a8088edf4b96199b</group_id>
+        <group_id display_value="QC - Enquiry" name="QC - Enquiry">cbc7e22edb1f73005e5783305b961930</group_id>
         <report_id display_value="AG- all QC cases to be checked">f4594a11db1f7f00b26388805b96198b</report_id>
         <sys_class_name>sys_report_users_groups</sys_class_name>
         <sys_created_by>LasBal</sys_created_by>

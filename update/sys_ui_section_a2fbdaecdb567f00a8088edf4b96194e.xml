@@ -322,6 +322,34 @@
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>beginner_s_qc_case</element>
+            <position>23</position>
+            <sys_created_by>AnnAal</sys_created_by>
+            <sys_created_on>2020-06-25 11:45:38</sys_created_on>
+            <sys_id>3c2b18f6db65d410a8088edf4b9619d4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ipegh_copyright_qc_import" sys_domain="global" view="Default view">a2fbdaecdb567f00a8088edf4b96194e</sys_ui_section>
+            <sys_updated_by>AnnAal</sys_updated_by>
+            <sys_updated_on>2020-06-25 11:45:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>beginners_qc_case</element>
+            <position>24</position>
+            <sys_created_by>AnnAal</sys_created_by>
+            <sys_created_on>2020-06-25 11:46:39</sys_created_on>
+            <sys_id>f75bd8f6db65d410a8088edf4b961921</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ipegh_copyright_qc_import" sys_domain="global" view="Default view">a2fbdaecdb567f00a8088edf4b96194e</sys_ui_section>
+            <sys_updated_by>AnnAal</sys_updated_by>
+            <sys_updated_on>2020-06-25 11:46:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption/>
             <header>false</header>

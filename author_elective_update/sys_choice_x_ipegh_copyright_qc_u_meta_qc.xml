@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_meta_qc" table="x_ipegh_copyright_qc" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_meta_qc</element>
+            <name>x_ipegh_copyright_qc</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>AnnAal</sys_created_by>
+            <sys_created_on>2019-12-16 10:46:51</sys_created_on>
+            <sys_id>a76cdb78dbb94490f4db16d15b961909</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_meta_qc</sys_name>
+            <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
+            <sys_update_name>sys_choice_x_ipegh_copyright_qc_u_meta_qc</sys_update_name>
+            <sys_updated_by>AnnAal</sys_updated_by>
+            <sys_updated_on>2019-12-16 10:46:51</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_meta_qc</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>To be checked</label>
+            <language>en</language>
+            <name>x_ipegh_copyright_qc</name>
+            <sequence>10</sequence>
+            <sys_created_by>AnnAal</sys_created_by>
+            <sys_created_on>2019-12-16 10:46:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e65c9b78dbb94490f4db16d15b9619d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>AnnAal</sys_updated_by>
+            <sys_updated_on>2019-12-16 10:46:51</sys_updated_on>
+            <u_core_customer_selectable>false</u_core_customer_selectable>
+            <u_customer_visible>false</u_customer_visible>
+            <u_gema_selectable>false</u_gema_selectable>
+            <u_option_3_customer_selectable>false</u_option_3_customer_selectable>
+            <u_stim_selectable_choice>false</u_stim_selectable_choice>
+            <value>To be checked</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_meta_qc</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Correct</label>
+            <language>en</language>
+            <name>x_ipegh_copyright_qc</name>
+            <sequence>20</sequence>
+            <sys_created_by>AnnAal</sys_created_by>
+            <sys_created_on>2019-12-16 10:47:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>877c5f78dbb94490f4db16d15b9619ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>AnnAal</sys_updated_by>
+            <sys_updated_on>2019-12-16 10:47:06</sys_updated_on>
+            <u_core_customer_selectable>false</u_core_customer_selectable>
+            <u_customer_visible>false</u_customer_visible>
+            <u_gema_selectable>false</u_gema_selectable>
+            <u_option_3_customer_selectable>false</u_option_3_customer_selectable>
+            <u_stim_selectable_choice>false</u_stim_selectable_choice>
+            <value>Correct</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_meta_qc</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Incorrect</label>
+            <language>en</language>
+            <name>x_ipegh_copyright_qc</name>
+            <sequence>30</sequence>
+            <sys_created_by>AnnAal</sys_created_by>
+            <sys_created_on>2019-12-16 10:47:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>798c9f78dbb94490f4db16d15b9619db</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>AnnAal</sys_updated_by>
+            <sys_updated_on>2019-12-16 10:47:23</sys_updated_on>
+            <u_core_customer_selectable>false</u_core_customer_selectable>
+            <u_customer_visible>false</u_customer_visible>
+            <u_gema_selectable>false</u_gema_selectable>
+            <u_option_3_customer_selectable>false</u_option_3_customer_selectable>
+            <u_stim_selectable_choice>false</u_stim_selectable_choice>
+            <value>Incorrect</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

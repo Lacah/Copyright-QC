@@ -4,7 +4,7 @@
         <display>My qc to be checked (Copyright QC task)</display>
         <filter table="x_ipegh_copyright_qc">active=true^assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe^state=-1<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
             <item endquery="false" field="assigned_to" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
-            <item endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="-1"/>
+            <item display_value="To be checked" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="-1"/>
         </filter>
         <name>My qc to be checked</name>
         <sys_class_name>sys_report_source</sys_class_name>

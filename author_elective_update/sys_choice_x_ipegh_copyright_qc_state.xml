@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="state" table="x_ipegh_copyright_qc" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <name>x_ipegh_copyright_qc</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-06-20 14:12:33</sys_created_on>
+            <sys_id>1ea77448dbb98090f4db16d15b96193c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>state</sys_name>
+            <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
+            <sys_update_name>sys_choice_x_ipegh_copyright_qc_state</sys_update_name>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-06-20 14:12:33</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>To be checked</label>
+            <language>en</language>
+            <name>x_ipegh_copyright_qc</name>
+            <sequence>0</sequence>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-06-20 14:16:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fda71a9fdb027b00b26388805b961914</sys_id>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-06-21 14:10:09</sys_updated_on>
+            <u_core_customer_selectable>false</u_core_customer_selectable>
+            <u_customer_visible>false</u_customer_visible>
+            <u_gema_selectable>false</u_gema_selectable>
+            <u_option_3_customer_selectable>false</u_option_3_customer_selectable>
+            <u_stim_selectable_choice>false</u_stim_selectable_choice>
+            <value>-1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Correct</label>
+            <language>en</language>
+            <name>x_ipegh_copyright_qc</name>
+            <sequence>1</sequence>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-06-20 14:12:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>78961e5fdb027b00b26388805b9619cc</sys_id>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-06-21 14:11:15</sys_updated_on>
+            <u_core_customer_selectable>false</u_core_customer_selectable>
+            <u_customer_visible>false</u_customer_visible>
+            <u_gema_selectable>false</u_gema_selectable>
+            <u_option_3_customer_selectable>false</u_option_3_customer_selectable>
+            <u_stim_selectable_choice>false</u_stim_selectable_choice>
+            <value>8</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Reporting error</label>
+            <language>en</language>
+            <name>x_ipegh_copyright_qc</name>
+            <sequence>2</sequence>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-06-20 14:13:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>71f65a5fdb027b00b26388805b961975</sys_id>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-06-21 14:10:56</sys_updated_on>
+            <u_core_customer_selectable>false</u_core_customer_selectable>
+            <u_customer_visible>false</u_customer_visible>
+            <u_gema_selectable>false</u_gema_selectable>
+            <u_option_3_customer_selectable>false</u_option_3_customer_selectable>
+            <u_stim_selectable_choice>false</u_stim_selectable_choice>
+            <value>-2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Major internal</label>
+            <language>en</language>
+            <name>x_ipegh_copyright_qc</name>
+            <sequence>3</sequence>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-06-20 14:13:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e117da1fdb027b00b26388805b961979</sys_id>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-06-21 14:10:44</sys_updated_on>
+            <u_core_customer_selectable>false</u_core_customer_selectable>
+            <u_customer_visible>false</u_customer_visible>
+            <u_gema_selectable>false</u_gema_selectable>
+            <u_option_3_customer_selectable>false</u_option_3_customer_selectable>
+            <u_stim_selectable_choice>false</u_stim_selectable_choice>
+            <value>-3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Minor internal</label>
+            <language>en</language>
+            <name>x_ipegh_copyright_qc</name>
+            <sequence>4</sequence>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2019-06-20 14:13:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e627da5fdb027b00b26388805b96194c</sys_id>
+            <sys_mod_count>6</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2019-06-21 14:10:51</sys_updated_on>
+            <u_core_customer_selectable>false</u_core_customer_selectable>
+            <u_customer_visible>false</u_customer_visible>
+            <u_gema_selectable>false</u_gema_selectable>
+            <u_option_3_customer_selectable>false</u_option_3_customer_selectable>
+            <u_stim_selectable_choice>false</u_stim_selectable_choice>
+            <value>-4</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

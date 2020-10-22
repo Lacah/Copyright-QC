@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+        <grid_canvas display_value="PA My Team's QC Stats - New Tab 2">38fa9783db86d0105e5783305b961913</grid_canvas>
+        <height>14</height>
+        <portal_widget display_value="Created 21 Jul, 2020 19:03:48">a24ddb47db86d0105e5783305b9619bf</portal_widget>
+        <posx>0</posx>
+        <posy>34</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>AnnAal</sys_created_by>
+        <sys_created_on>2020-07-21 17:03:48</sys_created_on>
+        <sys_id>ee4ddb47db86d0105e5783305b9619c0</sys_id>
+        <sys_mod_count>26</sys_mod_count>
+        <sys_name>38fa9783db86d0105e5783305b961913</sys_name>
+        <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_ee4ddb47db86d0105e5783305b9619c0</sys_update_name>
+        <sys_updated_by>AnnAal</sys_updated_by>
+        <sys_updated_on>2020-07-21 17:17:21</sys_updated_on>
+        <width>12</width>
+    </sys_grid_canvas_pane>
+</record_update>

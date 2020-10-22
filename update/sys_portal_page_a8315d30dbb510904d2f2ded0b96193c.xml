@@ -1,0 +1,1717 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2020-10-22 14:07:27">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout/>
+        <order/>
+        <read_roles/>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>AnnAal</sys_created_by>
+        <sys_created_on>2020-07-01 20:49:41</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a8315d30dbb510904d2f2ded0b96193c</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>PA Beginners' QC for Agreements</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
+        <sys_update_name>sys_portal_page_a8315d30dbb510904d2f2ded0b96193c</sys_update_name>
+        <sys_updated_by>AnnAal</sys_updated_by>
+        <sys_updated_on>2020-07-01 21:00:01</sys_updated_on>
+        <title>PA Beginners' QC for Agreements</title>
+        <user/>
+        <view>pa_qc_administration_-_new_tab_11</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Beginners' QC for Agreements">a8315d30dbb510904d2f2ded0b96193c</page>
+                <summary>Beginners AG - All states, customer breakdown</summary>
+                <sys_created_by>AnnAal</sys_created_by>
+                <sys_created_on>2020-07-01 20:51:32</sys_created_on>
+                <sys_id>23919570dbb510904d2f2ded0b96191a</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>AnnAal</sys_updated_by>
+                <sys_updated_on>2020-07-01 20:51:32</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:32">23919570dbb510904d2f2ded0b96191a</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:57:48</sys_created_on>
+                        <sys_id>23035db0dbb510904d2f2ded0b9619e8</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:57:48</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:32">23919570dbb510904d2f2ded0b96191a</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:57:48</sys_created_on>
+                        <sys_id>23035db0dbb510904d2f2ded0b9619e9</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:57:48</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:32">23919570dbb510904d2f2ded0b96191a</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:57:48</sys_created_on>
+                        <sys_id>27035db0dbb510904d2f2ded0b9619e8</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:58:55</sys_updated_on>
+                        <value>center</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:32">23919570dbb510904d2f2ded0b96191a</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:57:48</sys_created_on>
+                        <sys_id>27035db0dbb510904d2f2ded0b9619e9</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:57:48</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:32">23919570dbb510904d2f2ded0b96191a</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:51:32</sys_created_on>
+                        <sys_id>27919570dbb510904d2f2ded0b96191a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:51:32</sys_updated_on>
+                        <value>9790ddfcdb7510904d2f2ded0b9619e0</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:32">23919570dbb510904d2f2ded0b96191a</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:57:48</sys_created_on>
+                        <sys_id>2b035db0dbb510904d2f2ded0b9619e8</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:57:48</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:32">23919570dbb510904d2f2ded0b96191a</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:57:48</sys_created_on>
+                        <sys_id>2b035db0dbb510904d2f2ded0b9619e9</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:57:48</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:32">23919570dbb510904d2f2ded0b96191a</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:57:48</sys_created_on>
+                        <sys_id>2f035db0dbb510904d2f2ded0b9619e7</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:57:48</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:32">23919570dbb510904d2f2ded0b96191a</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:57:48</sys_created_on>
+                        <sys_id>2f035db0dbb510904d2f2ded0b9619e8</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:57:48</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:32">23919570dbb510904d2f2ded0b96191a</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:51:32</sys_created_on>
+                        <sys_id>2f919570dbb510904d2f2ded0b96191a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:51:32</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:32">23919570dbb510904d2f2ded0b96191a</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:51:32</sys_created_on>
+                        <sys_id>67919570dbb510904d2f2ded0b96191b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:51:32</sys_updated_on>
+                        <value>Beginners AG - All states, customer breakdown</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:32">23919570dbb510904d2f2ded0b96191a</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:51:32</sys_created_on>
+                        <sys_id>6b919570dbb510904d2f2ded0b96191a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:51:32</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>header_color</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:32">23919570dbb510904d2f2ded0b96191a</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:57:48</sys_created_on>
+                        <sys_id>6f035db0dbb510904d2f2ded0b9619e9</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:57:48</sys_updated_on>
+                        <value>#14c9a1</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:32">23919570dbb510904d2f2ded0b96191a</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:51:32</sys_created_on>
+                        <sys_id>a3919570dbb510904d2f2ded0b96191b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:51:32</sys_updated_on>
+                        <value>pie</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:32">23919570dbb510904d2f2ded0b96191a</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:51:32</sys_created_on>
+                        <sys_id>ef919570dbb510904d2f2ded0b96191a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:51:32</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Beginners' QC for Agreements">a8315d30dbb510904d2f2ded0b96193c</page>
+                <summary>Beginners AG - All states, subarea breakdown</summary>
+                <sys_created_by>AnnAal</sys_created_by>
+                <sys_created_on>2020-07-01 20:51:36</sys_created_on>
+                <sys_id>34a15170dbb510904d2f2ded0b9619f0</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>AnnAal</sys_updated_by>
+                <sys_updated_on>2020-07-01 20:51:36</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:36">34a15170dbb510904d2f2ded0b9619f0</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:51:36</sys_created_on>
+                        <sys_id>30a15170dbb510904d2f2ded0b9619f1</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:51:36</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:36">34a15170dbb510904d2f2ded0b9619f0</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:51:36</sys_created_on>
+                        <sys_id>38a15170dbb510904d2f2ded0b9619f0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:51:36</sys_updated_on>
+                        <value>d5c0d530dbb510904d2f2ded0b96196e</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:36">34a15170dbb510904d2f2ded0b9619f0</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:51:36</sys_created_on>
+                        <sys_id>78a15170dbb510904d2f2ded0b9619f1</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:51:36</sys_updated_on>
+                        <value>Beginners AG - All states, subarea breakdown</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:36">34a15170dbb510904d2f2ded0b9619f0</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:51:36</sys_created_on>
+                        <sys_id>7ca15170dbb510904d2f2ded0b9619f0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:51:36</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:36">34a15170dbb510904d2f2ded0b9619f0</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:57:57</sys_created_on>
+                        <sys_id>b11319b0dbb510904d2f2ded0b96197e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:57:57</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:36">34a15170dbb510904d2f2ded0b9619f0</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:57:57</sys_created_on>
+                        <sys_id>b11319b0dbb510904d2f2ded0b96197f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:57:57</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:36">34a15170dbb510904d2f2ded0b9619f0</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:51:36</sys_created_on>
+                        <sys_id>b4a15170dbb510904d2f2ded0b9619f1</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:51:36</sys_updated_on>
+                        <value>pie</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:36">34a15170dbb510904d2f2ded0b9619f0</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:57:57</sys_created_on>
+                        <sys_id>b51319b0dbb510904d2f2ded0b96197e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:57:57</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:36">34a15170dbb510904d2f2ded0b9619f0</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:57:57</sys_created_on>
+                        <sys_id>b51319b0dbb510904d2f2ded0b96197f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:57:57</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:36">34a15170dbb510904d2f2ded0b9619f0</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:57:57</sys_created_on>
+                        <sys_id>b91319b0dbb510904d2f2ded0b96197e</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:59:03</sys_updated_on>
+                        <value>center</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:36">34a15170dbb510904d2f2ded0b9619f0</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:57:57</sys_created_on>
+                        <sys_id>b91319b0dbb510904d2f2ded0b96197f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:57:57</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:36">34a15170dbb510904d2f2ded0b9619f0</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:57:57</sys_created_on>
+                        <sys_id>bd1319b0dbb510904d2f2ded0b96197e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:57:57</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:36">34a15170dbb510904d2f2ded0b9619f0</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:57:57</sys_created_on>
+                        <sys_id>bd1319b0dbb510904d2f2ded0b96197f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:57:57</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:36">34a15170dbb510904d2f2ded0b9619f0</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:51:36</sys_created_on>
+                        <sys_id>f0a15170dbb510904d2f2ded0b9619f1</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:51:36</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>header_color</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:36">34a15170dbb510904d2f2ded0b9619f0</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:57:57</sys_created_on>
+                        <sys_id>f11319b0dbb510904d2f2ded0b961980</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:57:57</sys_updated_on>
+                        <value>#14c9a1</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Beginners' QC for Agreements">a8315d30dbb510904d2f2ded0b96193c</page>
+                <summary>Beginners AG - QC pending in queue</summary>
+                <sys_created_by>AnnAal</sys_created_by>
+                <sys_created_on>2020-07-01 20:51:09</sys_created_on>
+                <sys_id>5a819170dbb510904d2f2ded0b961955</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>AnnAal</sys_updated_by>
+                <sys_updated_on>2020-07-01 20:51:09</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>header_color</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:09">5a819170dbb510904d2f2ded0b961955</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:56:40</sys_created_on>
+                        <sys_id>03c2d5b0dbb510904d2f2ded0b96197a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:56:40</sys_updated_on>
+                        <value>#14c9a1</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_real_time</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:09">5a819170dbb510904d2f2ded0b961955</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:51:09</sys_created_on>
+                        <sys_id>1a819170dbb510904d2f2ded0b961956</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:51:09</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:09">5a819170dbb510904d2f2ded0b961955</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:51:09</sys_created_on>
+                        <sys_id>52819170dbb510904d2f2ded0b961957</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:51:09</sys_updated_on>
+                        <value>Beginners AG - QC pending in queue</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:09">5a819170dbb510904d2f2ded0b961955</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:51:09</sys_created_on>
+                        <sys_id>56819170dbb510904d2f2ded0b961956</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:51:09</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:09">5a819170dbb510904d2f2ded0b961955</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:51:09</sys_created_on>
+                        <sys_id>5e819170dbb510904d2f2ded0b961955</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:51:09</sys_updated_on>
+                        <value>c2df45fcdb7510904d2f2ded0b9619de</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:09">5a819170dbb510904d2f2ded0b961955</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:51:09</sys_created_on>
+                        <sys_id>92819170dbb510904d2f2ded0b961956</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:51:09</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:09">5a819170dbb510904d2f2ded0b961955</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:51:09</sys_created_on>
+                        <sys_id>9e819170dbb510904d2f2ded0b961956</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:51:09</sys_updated_on>
+                        <value>single_score</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:09">5a819170dbb510904d2f2ded0b961955</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:56:40</sys_created_on>
+                        <sys_id>c3c2d5b0dbb510904d2f2ded0b961978</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:56:40</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:09">5a819170dbb510904d2f2ded0b961955</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:56:40</sys_created_on>
+                        <sys_id>c3c2d5b0dbb510904d2f2ded0b961979</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:56:40</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:09">5a819170dbb510904d2f2ded0b961955</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:56:40</sys_created_on>
+                        <sys_id>c7c2d5b0dbb510904d2f2ded0b961978</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:56:40</sys_updated_on>
+                        <value>center</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:09">5a819170dbb510904d2f2ded0b961955</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:56:40</sys_created_on>
+                        <sys_id>c7c2d5b0dbb510904d2f2ded0b961979</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:56:40</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:09">5a819170dbb510904d2f2ded0b961955</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:56:40</sys_created_on>
+                        <sys_id>cbc2d5b0dbb510904d2f2ded0b961978</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:56:40</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:09">5a819170dbb510904d2f2ded0b961955</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:56:40</sys_created_on>
+                        <sys_id>cbc2d5b0dbb510904d2f2ded0b961979</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:56:40</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:09">5a819170dbb510904d2f2ded0b961955</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:56:40</sys_created_on>
+                        <sys_id>cfc2d5b0dbb510904d2f2ded0b961978</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:56:40</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>is_using_database_view</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:09">5a819170dbb510904d2f2ded0b961955</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:51:09</sys_created_on>
+                        <sys_id>d6819170dbb510904d2f2ded0b961957</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:51:09</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:09">5a819170dbb510904d2f2ded0b961955</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:51:09</sys_created_on>
+                        <sys_id>da819170dbb510904d2f2ded0b961956</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:51:09</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:09">5a819170dbb510904d2f2ded0b961955</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:56:40</sys_created_on>
+                        <sys_id>fec2d5b0dbb510904d2f2ded0b961977</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:56:40</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Beginners' QC for Agreements">a8315d30dbb510904d2f2ded0b96193c</page>
+                <summary>Beginners AG - All pending approvals</summary>
+                <sys_created_by>AnnAal</sys_created_by>
+                <sys_created_on>2020-07-01 20:51:25</sys_created_on>
+                <sys_id>8e911570dbb510904d2f2ded0b96197f</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>AnnAal</sys_updated_by>
+                <sys_updated_on>2020-07-01 20:51:25</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:25">8e911570dbb510904d2f2ded0b96197f</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:51:25</sys_created_on>
+                        <sys_id>02911570dbb510904d2f2ded0b961981</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:51:25</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>is_using_database_view</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:25">8e911570dbb510904d2f2ded0b96197f</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:51:25</sys_created_on>
+                        <sys_id>0e911570dbb510904d2f2ded0b961981</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:51:25</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_real_time</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:25">8e911570dbb510904d2f2ded0b96197f</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:51:25</sys_created_on>
+                        <sys_id>4e911570dbb510904d2f2ded0b961980</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:51:25</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:25">8e911570dbb510904d2f2ded0b96197f</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:51:25</sys_created_on>
+                        <sys_id>82911570dbb510904d2f2ded0b961980</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:51:25</sys_updated_on>
+                        <value>2b60ddfcdb7510904d2f2ded0b961954</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>header_color</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:25">8e911570dbb510904d2f2ded0b96197f</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:57:05</sys_created_on>
+                        <sys_id>85e2d9b0dbb510904d2f2ded0b96199f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:57:05</sys_updated_on>
+                        <value>#14c9a1</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:25">8e911570dbb510904d2f2ded0b96197f</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:51:25</sys_created_on>
+                        <sys_id>86911570dbb510904d2f2ded0b961981</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:51:25</sys_updated_on>
+                        <value>Beginners AG - All pending approvals</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:25">8e911570dbb510904d2f2ded0b96197f</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:51:25</sys_created_on>
+                        <sys_id>8a911570dbb510904d2f2ded0b961980</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:51:25</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:25">8e911570dbb510904d2f2ded0b96197f</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:57:05</sys_created_on>
+                        <sys_id>c1e295b0dbb510904d2f2ded0b961945</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:57:05</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:25">8e911570dbb510904d2f2ded0b96197f</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:57:05</sys_created_on>
+                        <sys_id>c1e295b0dbb510904d2f2ded0b961946</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:57:05</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:25">8e911570dbb510904d2f2ded0b96197f</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:51:25</sys_created_on>
+                        <sys_id>c2911570dbb510904d2f2ded0b961981</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:51:25</sys_updated_on>
+                        <value>single_score</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:25">8e911570dbb510904d2f2ded0b96197f</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:57:05</sys_created_on>
+                        <sys_id>c5e295b0dbb510904d2f2ded0b961945</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:57:05</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:25">8e911570dbb510904d2f2ded0b96197f</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:57:05</sys_created_on>
+                        <sys_id>c5e295b0dbb510904d2f2ded0b961946</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:57:05</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:25">8e911570dbb510904d2f2ded0b96197f</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:51:25</sys_created_on>
+                        <sys_id>c6911570dbb510904d2f2ded0b961980</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:51:25</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:25">8e911570dbb510904d2f2ded0b96197f</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:57:05</sys_created_on>
+                        <sys_id>c9e295b0dbb510904d2f2ded0b961945</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:57:05</sys_updated_on>
+                        <value>center</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:25">8e911570dbb510904d2f2ded0b96197f</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:57:05</sys_created_on>
+                        <sys_id>c9e295b0dbb510904d2f2ded0b961946</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:57:05</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:25">8e911570dbb510904d2f2ded0b96197f</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:57:05</sys_created_on>
+                        <sys_id>cde295b0dbb510904d2f2ded0b961945</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:57:05</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:25">8e911570dbb510904d2f2ded0b96197f</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:57:05</sys_created_on>
+                        <sys_id>cde295b0dbb510904d2f2ded0b961946</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:57:05</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Beginners' QC for Agreements">a8315d30dbb510904d2f2ded0b96193c</page>
+                <summary>Beginners AG - This month's statistics</summary>
+                <sys_created_by>AnnAal</sys_created_by>
+                <sys_created_on>2020-07-01 20:51:51</sys_created_on>
+                <sys_id>90b19570dbb510904d2f2ded0b9619a9</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>AnnAal</sys_updated_by>
+                <sys_updated_on>2020-07-01 20:51:51</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:51">90b19570dbb510904d2f2ded0b9619a9</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:51:51</sys_created_on>
+                        <sys_id>14b19570dbb510904d2f2ded0b9619aa</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:51:51</sys_updated_on>
+                        <value>horizontal_bar</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:51">90b19570dbb510904d2f2ded0b9619a9</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:51:51</sys_created_on>
+                        <sys_id>50b19570dbb510904d2f2ded0b9619aa</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:51:51</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:51">90b19570dbb510904d2f2ded0b9619a9</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:58:24</sys_created_on>
+                        <sys_id>90331db0dbb510904d2f2ded0b961961</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:58:24</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:51">90b19570dbb510904d2f2ded0b9619a9</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:58:24</sys_created_on>
+                        <sys_id>90331db0dbb510904d2f2ded0b961962</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:58:24</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:51">90b19570dbb510904d2f2ded0b9619a9</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:58:24</sys_created_on>
+                        <sys_id>94331db0dbb510904d2f2ded0b961961</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:59:20</sys_updated_on>
+                        <value>center</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:51">90b19570dbb510904d2f2ded0b9619a9</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:58:24</sys_created_on>
+                        <sys_id>94331db0dbb510904d2f2ded0b961962</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:58:24</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:51">90b19570dbb510904d2f2ded0b9619a9</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:51:51</sys_created_on>
+                        <sys_id>94b19570dbb510904d2f2ded0b9619a9</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:51:51</sys_updated_on>
+                        <value>c6119930dbb510904d2f2ded0b961956</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:51">90b19570dbb510904d2f2ded0b9619a9</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:58:24</sys_created_on>
+                        <sys_id>98331db0dbb510904d2f2ded0b961961</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:58:24</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:51">90b19570dbb510904d2f2ded0b9619a9</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:58:24</sys_created_on>
+                        <sys_id>98331db0dbb510904d2f2ded0b961962</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:58:24</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:51">90b19570dbb510904d2f2ded0b9619a9</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:58:24</sys_created_on>
+                        <sys_id>9c331db0dbb510904d2f2ded0b961960</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:58:24</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:51">90b19570dbb510904d2f2ded0b9619a9</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:58:24</sys_created_on>
+                        <sys_id>9c331db0dbb510904d2f2ded0b961961</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:58:24</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:51">90b19570dbb510904d2f2ded0b9619a9</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:51:51</sys_created_on>
+                        <sys_id>9cb19570dbb510904d2f2ded0b9619a9</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:51:51</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:51">90b19570dbb510904d2f2ded0b9619a9</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:51:51</sys_created_on>
+                        <sys_id>d4b19570dbb510904d2f2ded0b9619aa</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:51:51</sys_updated_on>
+                        <value>Beginners AG - This month's statistics</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:51">90b19570dbb510904d2f2ded0b9619a9</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:51:51</sys_created_on>
+                        <sys_id>d8b19570dbb510904d2f2ded0b9619a9</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:51:51</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>header_color</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:51">90b19570dbb510904d2f2ded0b9619a9</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:58:24</sys_created_on>
+                        <sys_id>dc331db0dbb510904d2f2ded0b961962</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:58:24</sys_updated_on>
+                        <value>#14c9a1</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Beginners' QC for Agreements">a8315d30dbb510904d2f2ded0b96193c</page>
+                <summary>Beginners AG - QC assigned to someone else</summary>
+                <sys_created_by>AnnAal</sys_created_by>
+                <sys_created_on>2020-07-01 20:51:15</sys_created_on>
+                <sys_id>ab811570dbb510904d2f2ded0b96198b</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>AnnAal</sys_updated_by>
+                <sys_updated_on>2020-07-01 20:51:15</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:15">ab811570dbb510904d2f2ded0b96198b</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:56:49</sys_created_on>
+                        <sys_id>01d295b0dbb510904d2f2ded0b9619ca</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:56:49</sys_updated_on>
+                        <value>center</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:15">ab811570dbb510904d2f2ded0b96198b</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:56:49</sys_created_on>
+                        <sys_id>01d295b0dbb510904d2f2ded0b9619cb</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:56:49</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:15">ab811570dbb510904d2f2ded0b96198b</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:56:49</sys_created_on>
+                        <sys_id>05d295b0dbb510904d2f2ded0b9619ca</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:56:49</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:15">ab811570dbb510904d2f2ded0b96198b</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:56:49</sys_created_on>
+                        <sys_id>05d295b0dbb510904d2f2ded0b9619cb</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:56:49</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:15">ab811570dbb510904d2f2ded0b96198b</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:56:49</sys_created_on>
+                        <sys_id>09d295b0dbb510904d2f2ded0b9619c9</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:56:49</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:15">ab811570dbb510904d2f2ded0b96198b</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:56:49</sys_created_on>
+                        <sys_id>09d295b0dbb510904d2f2ded0b9619ca</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:56:49</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:15">ab811570dbb510904d2f2ded0b96198b</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:56:49</sys_created_on>
+                        <sys_id>0dd295b0dbb510904d2f2ded0b9619c9</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:56:49</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:15">ab811570dbb510904d2f2ded0b96198b</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:56:49</sys_created_on>
+                        <sys_id>0dd295b0dbb510904d2f2ded0b9619ca</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:56:49</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>is_using_database_view</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:15">ab811570dbb510904d2f2ded0b96198b</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:51:15</sys_created_on>
+                        <sys_id>2b811570dbb510904d2f2ded0b96198d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:51:15</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:15">ab811570dbb510904d2f2ded0b96198b</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:51:15</sys_created_on>
+                        <sys_id>2f811570dbb510904d2f2ded0b96198c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:51:15</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>header_color</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:15">ab811570dbb510904d2f2ded0b96198b</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:56:49</sys_created_on>
+                        <sys_id>49d295b0dbb510904d2f2ded0b9619cb</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:56:49</sys_updated_on>
+                        <value>#14c9a1</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_real_time</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:15">ab811570dbb510904d2f2ded0b96198b</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:51:15</sys_created_on>
+                        <sys_id>6b811570dbb510904d2f2ded0b96198c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:51:15</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:15">ab811570dbb510904d2f2ded0b96198b</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:51:15</sys_created_on>
+                        <sys_id>a3811570dbb510904d2f2ded0b96198d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:51:15</sys_updated_on>
+                        <value>Beginners AG - QC assigned to someone else</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:15">ab811570dbb510904d2f2ded0b96198b</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:51:15</sys_created_on>
+                        <sys_id>a7811570dbb510904d2f2ded0b96198c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:51:15</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:15">ab811570dbb510904d2f2ded0b96198b</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:51:15</sys_created_on>
+                        <sys_id>af811570dbb510904d2f2ded0b96198b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:51:15</sys_updated_on>
+                        <value>6d0099fcdb7510904d2f2ded0b96190c</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:15">ab811570dbb510904d2f2ded0b96198b</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:51:15</sys_created_on>
+                        <sys_id>e3811570dbb510904d2f2ded0b96198c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:51:15</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:15">ab811570dbb510904d2f2ded0b96198b</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:51:15</sys_created_on>
+                        <sys_id>ef811570dbb510904d2f2ded0b96198c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:51:15</sys_updated_on>
+                        <value>single_score</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Beginners' QC for Agreements">a8315d30dbb510904d2f2ded0b96193c</page>
+                <summary>Reporting period</summary>
+                <sys_created_by>AnnAal</sys_created_by>
+                <sys_created_on>2020-07-01 20:57:15</sys_created_on>
+                <sys_id>afe255b0dbb510904d2f2ded0b961988</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>AnnAal</sys_updated_by>
+                <sys_updated_on>2020-07-01 20:57:15</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>header_color</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:57:15">afe255b0dbb510904d2f2ded0b961988</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:57:30</sys_created_on>
+                        <sys_id>1bf2d9b0dbb510904d2f2ded0b9619a2</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:57:30</sys_updated_on>
+                        <value>#14c9a1</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:57:15">afe255b0dbb510904d2f2ded0b961988</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:57:15</sys_created_on>
+                        <sys_id>23e255b0dbb510904d2f2ded0b96198a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:57:15</sys_updated_on>
+                        <value>Reporting period</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:57:15">afe255b0dbb510904d2f2ded0b961988</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:57:30</sys_created_on>
+                        <sys_id>53f2d9b0dbb510904d2f2ded0b9619a1</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:57:30</sys_updated_on>
+                        <value>left</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:57:15">afe255b0dbb510904d2f2ded0b961988</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:57:30</sys_created_on>
+                        <sys_id>57f2d9b0dbb510904d2f2ded0b9619a1</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:57:30</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:57:15">afe255b0dbb510904d2f2ded0b961988</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:57:30</sys_created_on>
+                        <sys_id>5bf2d9b0dbb510904d2f2ded0b9619a0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:57:30</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:57:15">afe255b0dbb510904d2f2ded0b961988</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:57:30</sys_created_on>
+                        <sys_id>5ff2d9b0dbb510904d2f2ded0b9619a0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:57:30</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:57:15">afe255b0dbb510904d2f2ded0b961988</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:57:15</sys_created_on>
+                        <sys_id>6fe255b0dbb510904d2f2ded0b961989</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:57:15</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:57:15">afe255b0dbb510904d2f2ded0b961988</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:57:15</sys_created_on>
+                        <sys_id>a3e255b0dbb510904d2f2ded0b961989</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:57:15</sys_updated_on>
+                        <value>c8691a60dbdd44105e5783305b961921</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:57:15">afe255b0dbb510904d2f2ded0b961988</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:57:15</sys_created_on>
+                        <sys_id>a7e255b0dbb510904d2f2ded0b96198a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:57:15</sys_updated_on>
+                        <value>-1</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_publish</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:57:15">afe255b0dbb510904d2f2ded0b961988</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:57:15</sys_created_on>
+                        <sys_id>abe255b0dbb510904d2f2ded0b961989</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:57:15</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:57:15">afe255b0dbb510904d2f2ded0b961988</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:57:30</sys_created_on>
+                        <sys_id>d3f2d9b0dbb510904d2f2ded0b9619a2</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:57:30</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:57:15">afe255b0dbb510904d2f2ded0b961988</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:57:30</sys_created_on>
+                        <sys_id>dbf2d9b0dbb510904d2f2ded0b9619a1</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:57:30</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:57:15">afe255b0dbb510904d2f2ded0b961988</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:57:30</sys_created_on>
+                        <sys_id>dff2d9b0dbb510904d2f2ded0b9619a1</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:57:30</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:57:15">afe255b0dbb510904d2f2ded0b961988</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:57:15</sys_created_on>
+                        <sys_id>e7e255b0dbb510904d2f2ded0b961989</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:57:15</sys_updated_on>
+                        <value>com.glideapp.home.RenderHomepagePublishers</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Beginners' QC for Agreements">a8315d30dbb510904d2f2ded0b96193c</page>
+                <summary>Beginners AG - errors this month</summary>
+                <sys_created_by>AnnAal</sys_created_by>
+                <sys_created_on>2020-07-01 20:51:42</sys_created_on>
+                <sys_id>cea11570dbb510904d2f2ded0b9619ef</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>AnnAal</sys_updated_by>
+                <sys_updated_on>2020-07-01 20:51:42</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:42">cea11570dbb510904d2f2ded0b9619ef</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:51:42</sys_created_on>
+                        <sys_id>06a11570dbb510904d2f2ded0b9619f1</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:51:42</sys_updated_on>
+                        <value>Beginners AG - errors this month</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:42">cea11570dbb510904d2f2ded0b9619ef</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:51:42</sys_created_on>
+                        <sys_id>0aa11570dbb510904d2f2ded0b9619f0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:51:42</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:42">cea11570dbb510904d2f2ded0b9619ef</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:58:11</sys_created_on>
+                        <sys_id>112399b0dbb510904d2f2ded0b961997</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:58:11</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:42">cea11570dbb510904d2f2ded0b9619ef</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:58:11</sys_created_on>
+                        <sys_id>112399b0dbb510904d2f2ded0b961998</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:58:11</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:42">cea11570dbb510904d2f2ded0b9619ef</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:58:11</sys_created_on>
+                        <sys_id>152399b0dbb510904d2f2ded0b961997</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:58:11</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:42">cea11570dbb510904d2f2ded0b9619ef</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:58:11</sys_created_on>
+                        <sys_id>152399b0dbb510904d2f2ded0b961998</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:58:11</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:42">cea11570dbb510904d2f2ded0b9619ef</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:58:11</sys_created_on>
+                        <sys_id>192399b0dbb510904d2f2ded0b961997</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:59:14</sys_updated_on>
+                        <value>center</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:42">cea11570dbb510904d2f2ded0b9619ef</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:58:11</sys_created_on>
+                        <sys_id>192399b0dbb510904d2f2ded0b961998</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:58:11</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:42">cea11570dbb510904d2f2ded0b9619ef</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:58:11</sys_created_on>
+                        <sys_id>1d2399b0dbb510904d2f2ded0b961997</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:58:11</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:42">cea11570dbb510904d2f2ded0b9619ef</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:58:11</sys_created_on>
+                        <sys_id>1d2399b0dbb510904d2f2ded0b961998</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:58:11</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:42">cea11570dbb510904d2f2ded0b9619ef</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:51:42</sys_created_on>
+                        <sys_id>42a11570dbb510904d2f2ded0b9619f1</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:51:42</sys_updated_on>
+                        <value>pie</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>header_color</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:42">cea11570dbb510904d2f2ded0b9619ef</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:58:11</sys_created_on>
+                        <sys_id>512399b0dbb510904d2f2ded0b961999</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:58:11</sys_updated_on>
+                        <value>#14c9a1</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:42">cea11570dbb510904d2f2ded0b9619ef</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:51:42</sys_created_on>
+                        <sys_id>8ea11570dbb510904d2f2ded0b9619f0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:51:42</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:42">cea11570dbb510904d2f2ded0b9619ef</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:51:42</sys_created_on>
+                        <sys_id>c2a11570dbb510904d2f2ded0b9619f0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:51:42</sys_updated_on>
+                        <value>a6e09930dbb510904d2f2ded0b96194c</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:42">cea11570dbb510904d2f2ded0b9619ef</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:51:42</sys_created_on>
+                        <sys_id>caa11570dbb510904d2f2ded0b9619f0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:51:42</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Beginners' QC for Agreements">a8315d30dbb510904d2f2ded0b96193c</page>
+                <summary>Beginners AG -uncorrected errors</summary>
+                <sys_created_by>AnnAal</sys_created_by>
+                <sys_created_on>2020-07-01 20:51:20</sys_created_on>
+                <sys_id>f891d170dbb510904d2f2ded0b9619cd</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>AnnAal</sys_updated_by>
+                <sys_updated_on>2020-07-01 20:51:20</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:20">f891d170dbb510904d2f2ded0b9619cd</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:51:20</sys_created_on>
+                        <sys_id>3091d170dbb510904d2f2ded0b9619cf</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:51:20</sys_updated_on>
+                        <value>single_score</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:20">f891d170dbb510904d2f2ded0b9619cd</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:51:20</sys_created_on>
+                        <sys_id>3491d170dbb510904d2f2ded0b9619ce</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:51:20</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:20">f891d170dbb510904d2f2ded0b9619cd</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:56:57</sys_created_on>
+                        <sys_id>43d219b0dbb510904d2f2ded0b96193e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:56:57</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:20">f891d170dbb510904d2f2ded0b9619cd</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:56:57</sys_created_on>
+                        <sys_id>43d219b0dbb510904d2f2ded0b96193f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:56:57</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:20">f891d170dbb510904d2f2ded0b9619cd</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:56:57</sys_created_on>
+                        <sys_id>47d219b0dbb510904d2f2ded0b96193e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:56:57</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:20">f891d170dbb510904d2f2ded0b9619cd</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:56:57</sys_created_on>
+                        <sys_id>47d219b0dbb510904d2f2ded0b96193f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:56:57</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:20">f891d170dbb510904d2f2ded0b9619cd</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:56:57</sys_created_on>
+                        <sys_id>4bd219b0dbb510904d2f2ded0b96193e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:56:57</sys_updated_on>
+                        <value>center</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:20">f891d170dbb510904d2f2ded0b9619cd</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:56:57</sys_created_on>
+                        <sys_id>4bd219b0dbb510904d2f2ded0b96193f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:56:57</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:20">f891d170dbb510904d2f2ded0b9619cd</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:56:57</sys_created_on>
+                        <sys_id>4fd219b0dbb510904d2f2ded0b96193e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:56:57</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:20">f891d170dbb510904d2f2ded0b9619cd</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:56:57</sys_created_on>
+                        <sys_id>4fd219b0dbb510904d2f2ded0b96193f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:56:57</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>is_using_database_view</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:20">f891d170dbb510904d2f2ded0b9619cd</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:51:20</sys_created_on>
+                        <sys_id>7891d170dbb510904d2f2ded0b9619cf</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:51:20</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:20">f891d170dbb510904d2f2ded0b9619cd</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:51:20</sys_created_on>
+                        <sys_id>7c91d170dbb510904d2f2ded0b9619ce</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:51:20</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>header_color</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:20">f891d170dbb510904d2f2ded0b9619cd</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:56:57</sys_created_on>
+                        <sys_id>83d219b0dbb510904d2f2ded0b961940</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:56:57</sys_updated_on>
+                        <value>#14c9a1</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_real_time</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:20">f891d170dbb510904d2f2ded0b9619cd</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:51:20</sys_created_on>
+                        <sys_id>b891d170dbb510904d2f2ded0b9619ce</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:51:20</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:20">f891d170dbb510904d2f2ded0b9619cd</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:51:20</sys_created_on>
+                        <sys_id>f091d170dbb510904d2f2ded0b9619cf</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:51:20</sys_updated_on>
+                        <value>Beginners AG -uncorrected errors</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:20">f891d170dbb510904d2f2ded0b9619cd</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:51:20</sys_created_on>
+                        <sys_id>f491d170dbb510904d2f2ded0b9619ce</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:51:20</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 01 Jul, 2020 22:51:20">f891d170dbb510904d2f2ded0b9619cd</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2020-07-01 20:51:20</sys_created_on>
+                        <sys_id>fc91d170dbb510904d2f2ded0b9619cd</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2020-07-01 20:51:20</sys_updated_on>
+                        <value>67205dfcdb7510904d2f2ded0b961914</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>

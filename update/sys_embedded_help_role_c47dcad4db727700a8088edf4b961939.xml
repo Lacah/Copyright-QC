@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
     <sys_embedded_help_role action="INSERT_OR_UPDATE">
         <order>1000</order>
-        <role display_value="sn_dd_copyrightqc_flowdesigner" name="sn_dd_copyrightqc_flowdesigner">087dcad4db727700a8088edf4b961937</role>
+        <role display_value="sn_dd_copyrightqc_flowdesigner" name="sn_dd_copyrightqc_flowdesigner">8e9ebe01dbf8c810f4db16d15b961911</role>
         <sys_class_name>sys_embedded_help_role</sys_class_name>
         <sys_created_by>LasBal</sys_created_by>
         <sys_created_on>2019-07-18 12:36:24</sys_created_on>

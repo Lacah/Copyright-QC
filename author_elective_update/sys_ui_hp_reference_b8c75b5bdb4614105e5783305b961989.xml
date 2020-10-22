@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_hp_reference">
+    <sys_ui_hp_reference action="DELETE">
+        <publisher_reference display_value="Team">2486971bdb4614105e5783305b961969</publisher_reference>
+        <reference_field>u_team</reference_field>
+        <reference_table>sys_user</reference_table>
+        <sys_class_name>sys_ui_hp_reference</sys_class_name>
+        <sys_created_by>AnnAal</sys_created_by>
+        <sys_created_on>2020-07-22 11:18:41</sys_created_on>
+        <sys_id>b8c75b5bdb4614105e5783305b961989</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2486971bdb4614105e5783305b961969</sys_name>
+        <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
+        <sys_update_name>sys_ui_hp_reference_b8c75b5bdb4614105e5783305b961989</sys_update_name>
+        <sys_updated_by>AnnAal</sys_updated_by>
+        <sys_updated_on>2020-07-22 11:18:41</sys_updated_on>
+    </sys_ui_hp_reference>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</application>
+        <file_path/>
+        <instance_id>5cd7ff349b65cf407ac36b8af359ff4a</instance_id>
+        <instance_name>iceservices</instance_name>
+        <name>sys_ui_hp_reference_b8c75b5bdb4614105e5783305b961989</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_hp_reference"><sys_ui_hp_reference action="INSERT_OR_UPDATE"><publisher_reference display_value="Team">2486971bdb4614105e5783305b961969</publisher_reference><reference_field>u_team</reference_field><reference_table>sys_user</reference_table><sys_class_name>sys_ui_hp_reference</sys_class_name><sys_created_by>AnnAal</sys_created_by><sys_created_on>2020-07-22 11:18:41</sys_created_on><sys_id>b8c75b5bdb4614105e5783305b961989</sys_id><sys_mod_count>0</sys_mod_count><sys_name>2486971bdb4614105e5783305b961969</sys_name><sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package><sys_policy/><sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope><sys_update_name>sys_ui_hp_reference_b8c75b5bdb4614105e5783305b961989</sys_update_name><sys_updated_by>AnnAal</sys_updated_by><sys_updated_on>2020-07-22 11:18:41</sys_updated_on></sys_ui_hp_reference></record_update>]]></payload>
+        <payload_hash>1653422249</payload_hash>
+        <record_name>2486971bdb4614105e5783305b961969</record_name>
+        <reverted_from/>
+        <source>113fbe36db2c4010f4db16d15b961933</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>AnnAal</sys_created_by>
+        <sys_created_on>2020-07-22 11:18:41</sys_created_on>
+        <sys_id>c5e79f5bdb4614105e5783305b96199f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>173763f38840000001</sys_recorded_at>
+        <sys_updated_by>AnnAal</sys_updated_by>
+        <sys_updated_on>2020-07-22 11:18:41</sys_updated_on>
+        <type>Interactive Filter Reference</type>
+        <update_guid>cde79f5b7c461410d7e9ee41bd9dbf9e</update_guid>
+        <update_guid_history>cde79f5b7c461410d7e9ee41bd9dbf9e:1653422249</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>AnnAal</sys_created_by>
+        <sys_created_on>2020-07-24 09:18:05</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_hp_reference">sys_ui_hp_reference</sys_db_object>
+        <sys_id>b67a1a1b7e56492d8281771d1601a171</sys_id>
+        <sys_metadata>b8c75b5bdb4614105e5783305b961989</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2486971bdb4614105e5783305b961969</sys_name>
+        <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
+        <sys_scope_delete display_value="">0e767c3002574cc09ce882c644c9c100</sys_scope_delete>
+        <sys_update_name>sys_ui_hp_reference_b8c75b5bdb4614105e5783305b961989</sys_update_name>
+        <sys_update_version display_value="sys_ui_hp_reference_b8c75b5bdb4614105e5783305b961989">c5e79f5bdb4614105e5783305b96199f</sys_update_version>
+        <sys_updated_by>AnnAal</sys_updated_by>
+        <sys_updated_on>2020-07-24 09:18:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

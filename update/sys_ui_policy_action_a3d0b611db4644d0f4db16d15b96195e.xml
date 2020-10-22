@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>u_1st_external_ref_code</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>AnnAal</sys_created_by>
+        <sys_created_on>2019-12-30 07:09:40</sys_created_on>
+        <sys_id>a3d0b611db4644d0f4db16d15b96195e</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>u_1st_external_ref_code</sys_name>
+        <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
+        <sys_update_name>sys_ui_policy_action_a3d0b611db4644d0f4db16d15b96195e</sys_update_name>
+        <sys_updated_by>AnnAal</sys_updated_by>
+        <sys_updated_on>2020-01-03 10:38:47</sys_updated_on>
+        <table>x_ipegh_copyright_qc</table>
+        <ui_policy display_value="Display Update request  number">ff50bedddb0644d0f4db16d15b9619de</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+</record_update>

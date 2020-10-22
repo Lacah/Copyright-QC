@@ -3,7 +3,7 @@
         <description/>
         <display>QC assigned to someone else (Copyright QC task)</display>
         <filter table="x_ipegh_copyright_qc">active=true^state=-1^assigned_toISNOTEMPTY<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
-            <item endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="-1"/>
+            <item display_value="To be checked" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="-1"/>
             <item endquery="false" field="assigned_to" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/>
         </filter>
         <name>QC assigned to someone else</name>

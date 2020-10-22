@@ -3,14 +3,14 @@
         <dashboard display_value="QC administration">0ce38299dbdb7f00b26388805b9619fd</dashboard>
         <home>false</home>
         <homepage/>
-        <order>7</order>
+        <order>10</order>
         <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
         <sys_created_by>AnnAal</sys_created_by>
         <sys_created_on>2019-08-26 14:41:51</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>022027b0dbeff740a8088edf4b961908</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>0ce38299dbdb7f00b26388805b9619fd</sys_name>
         <sys_overrides/>
         <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
@@ -18,7 +18,7 @@
         <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
         <sys_update_name>pa_m2m_dashboard_tabs_022027b0dbeff740a8088edf4b961908</sys_update_name>
         <sys_updated_by>AnnAal</sys_updated_by>
-        <sys_updated_on>2019-08-26 14:41:51</sys_updated_on>
+        <sys_updated_on>2020-07-01 20:49:47</sys_updated_on>
         <tab display_value="Cue Works">022027b0dbeff740a8088edf4b961906</tab>
     </pa_m2m_dashboard_tabs>
 </record_update>

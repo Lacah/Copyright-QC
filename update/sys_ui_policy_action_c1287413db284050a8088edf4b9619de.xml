@@ -17,7 +17,7 @@
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2019-10-23 07:35:33</sys_updated_on>
         <table>x_ipegh_copyright_qc</table>
-        <ui_policy display_value="Display Agreement specific fields">42e7b013db284050a8088edf4b9619b4</ui_policy>
+        <ui_policy display_value="Display Agreement Key">42e7b013db284050a8088edf4b9619b4</ui_policy>
         <visible>true</visible>
     </sys_ui_policy_action>
 </record_update>

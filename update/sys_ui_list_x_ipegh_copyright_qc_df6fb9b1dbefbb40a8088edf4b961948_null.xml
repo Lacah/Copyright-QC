@@ -3,77 +3,107 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>number</element>
-            <list_id display_value="x_ipegh_copyright_qc" element="NULL" name="x_ipegh_copyright_qc" parent="x_ipegh_copyright_qc" relationship="df6fb9b1dbefbb40a8088edf4b961948" sys_domain="global" view="Default view">940242b5dbefbb40a8088edf4b961962</list_id>
+            <list_id display_value="x_ipegh_copyright_qc" element="NULL" name="x_ipegh_copyright_qc" parent="x_ipegh_copyright_qc" relationship="df6fb9b1dbefbb40a8088edf4b961948" sys_domain="global" view="Default view">64e67ad5db4644d0f4db16d15b96192c</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
-            <sys_created_by>LasBal</sys_created_by>
-            <sys_created_on>2019-08-29 10:24:26</sys_created_on>
-            <sys_id>140242b5dbefbb40a8088edf4b961963</sys_id>
+            <sys_created_by>AnnAal</sys_created_by>
+            <sys_created_on>2019-12-30 07:35:28</sys_created_on>
+            <sys_id>68e67ad5db4644d0f4db16d15b961939</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>LasBal</sys_updated_by>
-            <sys_updated_on>2019-08-29 10:24:26</sys_updated_on>
+            <sys_updated_by>AnnAal</sys_updated_by>
+            <sys_updated_on>2019-12-30 07:35:28</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>state</element>
-            <list_id display_value="x_ipegh_copyright_qc" element="NULL" name="x_ipegh_copyright_qc" parent="x_ipegh_copyright_qc" relationship="df6fb9b1dbefbb40a8088edf4b961948" sys_domain="global" view="Default view">940242b5dbefbb40a8088edf4b961962</list_id>
+            <list_id display_value="x_ipegh_copyright_qc" element="NULL" name="x_ipegh_copyright_qc" parent="x_ipegh_copyright_qc" relationship="df6fb9b1dbefbb40a8088edf4b961948" sys_domain="global" view="Default view">64e67ad5db4644d0f4db16d15b96192c</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
-            <sys_created_by>LasBal</sys_created_by>
-            <sys_created_on>2019-08-29 10:24:26</sys_created_on>
-            <sys_id>980242b5dbefbb40a8088edf4b961963</sys_id>
+            <sys_created_by>AnnAal</sys_created_by>
+            <sys_created_on>2019-12-30 07:35:28</sys_created_on>
+            <sys_id>20e67ad5db4644d0f4db16d15b96193a</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>LasBal</sys_updated_by>
-            <sys_updated_on>2019-08-29 10:24:26</sys_updated_on>
+            <sys_updated_by>AnnAal</sys_updated_by>
+            <sys_updated_on>2019-12-30 07:35:28</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>customer</element>
-            <list_id display_value="x_ipegh_copyright_qc" element="NULL" name="x_ipegh_copyright_qc" parent="x_ipegh_copyright_qc" relationship="df6fb9b1dbefbb40a8088edf4b961948" sys_domain="global" view="Default view">940242b5dbefbb40a8088edf4b961962</list_id>
+            <list_id display_value="x_ipegh_copyright_qc" element="NULL" name="x_ipegh_copyright_qc" parent="x_ipegh_copyright_qc" relationship="df6fb9b1dbefbb40a8088edf4b961948" sys_domain="global" view="Default view">64e67ad5db4644d0f4db16d15b96192c</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
-            <sys_created_by>LasBal</sys_created_by>
-            <sys_created_on>2019-08-29 10:24:26</sys_created_on>
-            <sys_id>1c0242b5dbefbb40a8088edf4b961963</sys_id>
+            <sys_created_by>AnnAal</sys_created_by>
+            <sys_created_on>2019-12-30 07:35:28</sys_created_on>
+            <sys_id>a0e67ad5db4644d0f4db16d15b96193a</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>LasBal</sys_updated_by>
-            <sys_updated_on>2019-08-29 10:24:26</sys_updated_on>
+            <sys_updated_by>AnnAal</sys_updated_by>
+            <sys_updated_on>2019-12-30 07:35:28</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>assigned_to</element>
-            <list_id display_value="x_ipegh_copyright_qc" element="NULL" name="x_ipegh_copyright_qc" parent="x_ipegh_copyright_qc" relationship="df6fb9b1dbefbb40a8088edf4b961948" sys_domain="global" view="Default view">940242b5dbefbb40a8088edf4b961962</list_id>
+            <list_id display_value="x_ipegh_copyright_qc" element="NULL" name="x_ipegh_copyright_qc" parent="x_ipegh_copyright_qc" relationship="df6fb9b1dbefbb40a8088edf4b961948" sys_domain="global" view="Default view">64e67ad5db4644d0f4db16d15b96192c</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
             <sum>false</sum>
-            <sys_created_by>LasBal</sys_created_by>
-            <sys_created_on>2019-08-29 10:24:26</sys_created_on>
-            <sys_id>9c0242b5dbefbb40a8088edf4b961963</sys_id>
+            <sys_created_by>AnnAal</sys_created_by>
+            <sys_created_on>2019-12-30 07:35:28</sys_created_on>
+            <sys_id>24e67ad5db4644d0f4db16d15b96193a</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>LasBal</sys_updated_by>
-            <sys_updated_on>2019-08-29 10:24:26</sys_updated_on>
+            <sys_updated_by>AnnAal</sys_updated_by>
+            <sys_updated_on>2019-12-30 07:35:28</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>user</element>
-            <list_id display_value="x_ipegh_copyright_qc" element="NULL" name="x_ipegh_copyright_qc" parent="x_ipegh_copyright_qc" relationship="df6fb9b1dbefbb40a8088edf4b961948" sys_domain="global" view="Default view">940242b5dbefbb40a8088edf4b961962</list_id>
+            <list_id display_value="x_ipegh_copyright_qc" element="NULL" name="x_ipegh_copyright_qc" parent="x_ipegh_copyright_qc" relationship="df6fb9b1dbefbb40a8088edf4b961948" sys_domain="global" view="Default view">64e67ad5db4644d0f4db16d15b96192c</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
             <sum>false</sum>
-            <sys_created_by>LasBal</sys_created_by>
-            <sys_created_on>2019-08-29 10:24:26</sys_created_on>
-            <sys_id>100242b5dbefbb40a8088edf4b961964</sys_id>
+            <sys_created_by>AnnAal</sys_created_by>
+            <sys_created_on>2019-12-30 07:35:28</sys_created_on>
+            <sys_id>a4e67ad5db4644d0f4db16d15b96193a</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>LasBal</sys_updated_by>
-            <sys_updated_on>2019-08-29 10:24:26</sys_updated_on>
+            <sys_updated_by>AnnAal</sys_updated_by>
+            <sys_updated_on>2019-12-30 07:35:28</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_1st_external_ref_code</element>
+            <list_id display_value="x_ipegh_copyright_qc" element="NULL" name="x_ipegh_copyright_qc" parent="x_ipegh_copyright_qc" relationship="df6fb9b1dbefbb40a8088edf4b961948" sys_domain="global" view="Default view">64e67ad5db4644d0f4db16d15b96192c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>AnnAal</sys_created_by>
+            <sys_created_on>2019-12-30 07:35:28</sys_created_on>
+            <sys_id>28e67ad5db4644d0f4db16d15b96193a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>AnnAal</sys_updated_by>
+            <sys_updated_on>2019-12-30 07:35:28</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>workkey</element>
+            <list_id display_value="x_ipegh_copyright_qc" element="NULL" name="x_ipegh_copyright_qc" parent="x_ipegh_copyright_qc" relationship="df6fb9b1dbefbb40a8088edf4b961948" sys_domain="global" view="Default view">64e67ad5db4644d0f4db16d15b96192c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>AnnAal</sys_created_by>
+            <sys_created_on>2019-12-30 07:35:28</sys_created_on>
+            <sys_id>a8e67ad5db4644d0f4db16d15b96193a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>AnnAal</sys_updated_by>
+            <sys_updated_on>2019-12-30 07:35:28</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -86,19 +116,19 @@
             <relationship display_value="Duplicate enquiries">df6fb9b1dbefbb40a8088edf4b961948</relationship>
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
-            <sys_created_by>LasBal</sys_created_by>
-            <sys_created_on>2019-08-29 10:24:26</sys_created_on>
+            <sys_created_by>AnnAal</sys_created_by>
+            <sys_created_on>2019-12-30 07:35:28</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>940242b5dbefbb40a8088edf4b961962</sys_id>
+            <sys_id>64e67ad5db4644d0f4db16d15b96192c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_ipegh_copyright_qc</sys_name>
             <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
             <sys_policy/>
             <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
             <sys_update_name>sys_ui_list_x_ipegh_copyright_qc_df6fb9b1dbefbb40a8088edf4b961948_null</sys_update_name>
-            <sys_updated_by>LasBal</sys_updated_by>
-            <sys_updated_on>2019-08-29 10:24:26</sys_updated_on>
+            <sys_updated_by>AnnAal</sys_updated_by>
+            <sys_updated_on>2019-12-30 07:35:28</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+        <grid_canvas display_value="PA New Tab">c85fe31fdb6b7300a8088edf4b9619d8</grid_canvas>
+        <height>8</height>
+        <portal_widget display_value="Created 15 Apr, 2020 09:46:35">b68b3973db0c90504d2f2ded0b9619d8</portal_widget>
+        <posx>4</posx>
+        <posy>0</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>AnnAal</sys_created_by>
+        <sys_created_on>2020-04-15 07:46:36</sys_created_on>
+        <sys_id>368b3973db0c90504d2f2ded0b9619db</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>c85fe31fdb6b7300a8088edf4b9619d8</sys_name>
+        <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_368b3973db0c90504d2f2ded0b9619db</sys_update_name>
+        <sys_updated_by>AnnAal</sys_updated_by>
+        <sys_updated_on>2020-07-21 17:17:29</sys_updated_on>
+        <width>4</width>
+    </sys_grid_canvas_pane>
+</record_update>

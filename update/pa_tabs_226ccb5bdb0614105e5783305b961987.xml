@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs">
+    <pa_tabs action="INSERT_OR_UPDATE">
+        <canvas_page display_value="PA OnMusic QC Stats - New Tab 2">ee6ccb5bdb0614105e5783305b961984</canvas_page>
+        <name>Monthly overview</name>
+        <page display_value="PA Monthly overview">626ccb5bdb0614105e5783305b961984</page>
+        <sys_class_name>pa_tabs</sys_class_name>
+        <sys_created_by>AnnAal</sys_created_by>
+        <sys_created_on>2020-07-22 10:28:33</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>226ccb5bdb0614105e5783305b961987</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Monthly overview</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
+        <sys_update_name>pa_tabs_226ccb5bdb0614105e5783305b961987</sys_update_name>
+        <sys_updated_by>AnnAal</sys_updated_by>
+        <sys_updated_on>2020-07-22 10:28:44</sys_updated_on>
+    </pa_tabs>
+</record_update>

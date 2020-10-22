@@ -2,7 +2,7 @@
     <pa_dashboards_permissions action="INSERT_OR_UPDATE">
         <dashboard display_value="My QC stats">09321dccdbb63700b26388805b9619d2</dashboard>
         <delete>false</delete>
-        <group display_value="QC - All QC officers" name="QC - All QC officers">a2a3f6b8db2ff740a8088edf4b9619aa</group>
+        <group display_value="QC - All QC officers" name="QC - All QC officers">84e8b670dbe3fb00f4db16d15b961968</group>
         <identity>a2a3f6b8db2ff740a8088edf4b9619aa</identity>
         <read>true</read>
         <role/>

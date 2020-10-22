@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="sys_import_set_row" label="QC import" max_length="40" name="x_ipegh_copyright_qc_import" type="collection">
+    <element extends="sys_import_set_row" label="QC import" max_length="40" name="x_ipegh_copyright_qc_import" sizeclass="0" type="collection">
         <element attributes="edge_encryption_enabled=true" label="assignment_group" max_length="40" name="u_assignment_group" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=BUMAusagesonSTIM_PRSworks" label="BUMAusagesonSTIM_PRSworks" max_length="40" name="u_bumausagesonstim_prsworks" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="buma_usages_on_stim_prsworks" max_length="40" name="u_buma_usages_on_stim_prsworks" type="string"/>
@@ -40,6 +40,7 @@
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Status" label="Status" max_length="40" name="u_status" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=team" label="team" max_length="40" name="u_team" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Type" label="Type" max_length="40" name="u_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Unnamed: 0" max_length="40" name="u_unnamed__0" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=User" label="User" max_length="40" name="u_user" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="username" max_length="40" name="u_username" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="username,team,counterclaim_id,workkey,status,type,description,checkedby,date_cor" max_length="40" name="u_username_tea_loaddate_email" type="string"/>

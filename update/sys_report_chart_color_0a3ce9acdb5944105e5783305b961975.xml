@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_chart_color">
+    <sys_report_chart_color action="INSERT_OR_UPDATE">
+        <color>#f2e874</color>
+        <color_name/>
+        <display>background-color:#f2e874</display>
+        <element>state</element>
+        <name>x_ipegh_copyright_qc</name>
+        <sys_class_name>sys_report_chart_color</sys_class_name>
+        <sys_created_by>AnnAal</sys_created_by>
+        <sys_created_on>2019-11-20 11:26:43</sys_created_on>
+        <sys_id>0a3ce9acdb5944105e5783305b961975</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_ipegh_copyright_qc</sys_name>
+        <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
+        <sys_update_name>sys_report_chart_color_0a3ce9acdb5944105e5783305b961975</sys_update_name>
+        <sys_updated_by>AnnAal</sys_updated_by>
+        <sys_updated_on>2019-11-20 11:34:02</sys_updated_on>
+        <value>-4</value>
+    </sys_report_chart_color>
+</record_update>

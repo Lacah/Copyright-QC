@@ -1,20 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Errors on items" max_length="40" name="x_ipegh_copyright_additional_item_errors" type="collection">
-        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="Comment" max_length="1023" name="comment" type="string"/>
-        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="Corrected" max_length="40" name="corrected" type="boolean"/>
-        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" choice="1" choice_field="state" label="Error Category" max_length="40" name="error_category" type="integer">
+    <element label="UR items" max_length="40" name="x_ipegh_copyright_additional_item_errors" sizeclass="35" type="collection">
+        <element label="Comment" max_length="1023" name="comment" type="string"/>
+        <element label="Corrected" max_length="40" name="corrected" type="boolean"/>
+        <element choice="1" choice_field="state" label="State" max_length="40" name="error_category" type="integer">
             <choice>
-                <element inactive_on_update="false" label="Major internal" sequence="10" value="-3"/>
-                <element inactive_on_update="false" label="Minor internal" sequence="20" value="-4"/>
-                <element inactive_on_update="false" label="Reporting error" sequence="30" value="-2"/>
+                <element inactive_on_update="false" label="Correct" sequence="5" u_core_customer_selectable="false" u_customer_visible="false" u_option_3_customer_selectable="false" value="-1"/>
+                <element inactive_on_update="false" label="Minor internal" sequence="10" u_core_customer_selectable="false" u_customer_visible="false" u_option_3_customer_selectable="false" value="-4"/>
+                <element inactive_on_update="false" label="Major internal" sequence="20" u_core_customer_selectable="false" u_customer_visible="false" u_option_3_customer_selectable="false" value="-3"/>
+                <element inactive_on_update="false" label="Reporting error" sequence="30" u_core_customer_selectable="false" u_customer_visible="false" u_option_3_customer_selectable="false" value="-2"/>
             </choice>
         </element>
-        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" choice="1" choice_field="type" choice_table="x_ipegh_copyright_qc" label="Error type" max_length="40" name="error_type" type="choice">
+        <element choice="1" choice_field="type" choice_table="x_ipegh_copyright_qc" label="Error type" max_length="40" name="error_type" type="choice">
             <choice/>
         </element>
-        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="Items with this error" max_length="2" name="items_with_this_error" type="integer"/>
-        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="QC record" max_length="32" name="qc_record" reference="x_ipegh_copyright_qc" type="reference"/>
-        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="User" max_length="32" name="user" reference="sys_user" type="reference" use_dynamic_default="true"/>
+        <element label="Items with this error" max_length="2" name="items_with_this_error" type="integer"/>
+        <element label="QC record" max_length="32" name="qc_record" reference="x_ipegh_copyright_qc" type="reference"/>
+        <element label="User" max_length="32" name="user" reference="sys_user" type="reference" use_dynamic_default="true"/>
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="Workkey" max_length="40" name="u_workkey" type="string"/>
         <index name="index">
             <element name="qc_record"/>
         </index>

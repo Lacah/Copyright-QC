@@ -7,8 +7,9 @@
         <affected_field_on_event/>
         <category display_value="QC App" name="QC App">42b8e585dbdb3f00b26388805b961976</category>
         <collection>x_ipegh_copyright_qc</collection>
-        <condition table="x_ipegh_copyright_qc">assigned_toISNOTEMPTY^assigned_toVALCHANGES^EQ<item endquery="false" field="assigned_to" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/>
+        <condition table="x_ipegh_copyright_qc">assigned_toISNOTEMPTY^assigned_toVALCHANGES^active=true^EQ<item endquery="false" field="assigned_to" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/>
             <item endquery="false" field="assigned_to" goto="false" newquery="false" operator="VALCHANGES" or="false" value=""/>
+            <item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </condition>
         <content_type>text/html</content_type>
@@ -70,7 +71,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>336d6589dbdb3f00b26388805b961937</sys_id>
-        <sys_mod_count>14</sys_mod_count>
+        <sys_mod_count>17</sys_mod_count>
         <sys_name>New Case assigned to you</sys_name>
         <sys_overrides/>
         <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
@@ -78,7 +79,7 @@
         <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
         <sys_update_name>sysevent_email_action_336d6589dbdb3f00b26388805b961937</sys_update_name>
         <sys_updated_by>AnnAal</sys_updated_by>
-        <sys_updated_on>2019-08-23 13:08:45</sys_updated_on>
+        <sys_updated_on>2020-01-08 08:11:11</sys_updated_on>
         <sys_version>2</sys_version>
         <template display_value="Unsubscribe and Preferences">7ed0481f3b0b2200c869c2c703efc487</template>
         <type>email</type>

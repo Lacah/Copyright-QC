@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="pa_dashboards_permissions">
+    <pa_dashboards_permissions action="INSERT_OR_UPDATE">
+        <dashboard display_value="QC customer reporting">556f90cadb0988105e5783305b961946</dashboard>
+        <delete>false</delete>
+        <group/>
+        <identity>fd889f15db1593005e5783305b96198f</identity>
+        <read>true</read>
+        <role/>
+        <sys_class_name>pa_dashboards_permissions</sys_class_name>
+        <sys_created_by>AnnAal</sys_created_by>
+        <sys_created_on>2019-11-12 13:41:16</sys_created_on>
+        <sys_id>7e4e3c42db4d88105e5783305b96192d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>fd889f15db1593005e5783305b96198f</sys_name>
+        <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
+        <sys_update_name>pa_dashboards_permissions_7e4e3c42db4d88105e5783305b96192d</sys_update_name>
+        <sys_updated_by>AnnAal</sys_updated_by>
+        <sys_updated_on>2019-11-12 13:41:16</sys_updated_on>
+        <type>3</type>
+        <user display_value="Ina Heinrich">fd889f15db1593005e5783305b96198f</user>
+        <write>false</write>
+    </pa_dashboards_permissions>
+</record_update>

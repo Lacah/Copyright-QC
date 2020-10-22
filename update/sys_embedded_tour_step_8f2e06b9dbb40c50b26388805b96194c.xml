@@ -13,6 +13,7 @@
         <options/>
         <order>0</order>
         <placement>bottom</placement>
+        <skippable>false</skippable>
         <step_type>intro</step_type>
         <sys_class_name>sys_embedded_tour_step</sys_class_name>
         <sys_created_by>LasBal</sys_created_by>

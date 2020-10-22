@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_hp_publisher">
+    <sys_ui_hp_publisher action="INSERT_OR_UPDATE">
+        <allow_database_view_filter>false</allow_database_view_filter>
+        <allow_extended_table>false</allow_extended_table>
+        <boolean_field/>
+        <boolean_table/>
+        <date_filter>035_Last month@javascript:gs.beginningOfLastMonth()@javascript:gs.endOfLastMonth(),030_This month@javascript:gs.beginningOfThisMonth()@javascript:gs.endOfThisMonth()</date_filter>
+        <default_boolean_field/>
+        <default_choice/>
+        <default_date_filter>035_Last month@javascript:gs.beginningOfLastMonth()@javascript:gs.endOfLastMonth()</default_date_filter>
+        <default_reference_field_value/>
+        <description/>
+        <exclusion_choice_list/>
+        <look_up_name>reporting period</look_up_name>
+        <name>Reporting period</name>
+        <reference_conditions/>
+        <reference_table/>
+        <source_field/>
+        <source_table/>
+        <sys_class_name>sys_ui_hp_publisher</sys_class_name>
+        <sys_created_by>AnnAal</sys_created_by>
+        <sys_created_on>2019-11-19 13:39:01</sys_created_on>
+        <sys_id>98800dd8db950410f4db16d15b961940</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Reporting period</sys_name>
+        <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
+        <sys_update_name>sys_ui_hp_publisher_98800dd8db950410f4db16d15b961940</sys_update_name>
+        <sys_updated_by>AnnAal</sys_updated_by>
+        <sys_updated_on>2019-11-20 07:18:44</sys_updated_on>
+        <type>3</type>
+        <ui_control_type>1</ui_control_type>
+    </sys_ui_hp_publisher>
+</record_update>

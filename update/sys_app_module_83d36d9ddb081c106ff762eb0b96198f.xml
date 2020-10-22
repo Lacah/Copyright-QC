@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="System Import Sets">import_sets</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Imp Tmpl Task</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>u_imp_tmpl_task</name>
+        <order>1100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <survey/>
+        <survey_overwrite>true</survey_overwrite>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-04-07 11:38:18</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>83d36d9ddb081c106ff762eb0b96198f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Imp Tmpl Task</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
+        <sys_update_name>sys_app_module_83d36d9ddb081c106ff762eb0b96198f</sys_update_name>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-04-07 11:38:18</sys_updated_on>
+        <timeline_page/>
+        <title>Imp Tmpl Task</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

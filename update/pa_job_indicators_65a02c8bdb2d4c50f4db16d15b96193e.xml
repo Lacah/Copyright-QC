@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_job_indicators">
+    <pa_job_indicators action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <collect>1</collect>
+        <collect_indicator>true</collect_indicator>
+        <display>Weekly QC data collector - QC total checked</display>
+        <indicator display_value="QC total checked">8470248bdb2d4c50f4db16d15b961930</indicator>
+        <job display_value="Weekly QC data collector">2a582d3cdbad48505e5783305b9619ab</job>
+        <sys_class_name>pa_job_indicators</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2019-12-10 10:37:03</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>65a02c8bdb2d4c50f4db16d15b96193e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>QC total checked.Weekly QC data collector</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
+        <sys_update_name>pa_job_indicators_65a02c8bdb2d4c50f4db16d15b96193e</sys_update_name>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2019-12-10 10:37:03</sys_updated_on>
+    </pa_job_indicators>
+</record_update>

@@ -3,6 +3,7 @@
         <active>true</active>
         <breakdown_source/>
         <color>#ffffff</color>
+        <disable_multiple_element>false</disable_multiple_element>
         <group/>
         <groups/>
         <is_breakdown>false</is_breakdown>
@@ -22,15 +23,15 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>712feb5fdb6b7300a8088edf4b9619f4</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>My Team's QC Stats</sys_name>
         <sys_overrides/>
         <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
         <sys_policy/>
         <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
         <sys_update_name>pa_dashboards_712feb5fdb6b7300a8088edf4b9619f4</sys_update_name>
-        <sys_updated_by>AnnAal</sys_updated_by>
-        <sys_updated_on>2019-09-03 10:24:23</sys_updated_on>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-01-06 13:13:11</sys_updated_on>
         <users/>
         <visible_to>2</visible_to>
     </pa_dashboards>

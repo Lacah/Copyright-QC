@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>u_skill_group</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Display QC officer Skill Group onLoad</name>
+        <order/>
+        <script><![CDATA[function onLoad() {
+	
+ var qc= (g_user.hasRoleExactly('x_ipegh_copyright.qc') );
+ var admin= (g_user.hasRoleExactly('x_ipegh_copyright.admin') );
+
+   if(qc)
+   if(!admin)
+  {	
+
+		g_form.removeOption('u_skill_group', 'DES');
+		g_form.removeOption('u_skill_group', 'DEV');
+		g_form.removeOption('u_skill_group', 'ITM');
+		g_form.removeOption('u_skill_group', 'STA');
+		g_form.removeOption('u_skill_group', 'TES');
+		g_form.removeOption('u_skill_group', 'Beginner');
+		g_form.removeOption('u_skill_group', 'Excluded');
+		}
+	}
+]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>AnnAal</sys_created_by>
+        <sys_created_on>2020-06-29 12:32:51</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1b4c0d40db39d8d0b26388805b9619eb</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Display QC officer Skill Group onLoad</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
+        <sys_update_name>sys_script_client_1b4c0d40db39d8d0b26388805b9619eb</sys_update_name>
+        <sys_updated_by>AnnAal</sys_updated_by>
+        <sys_updated_on>2020-07-22 10:09:20</sys_updated_on>
+        <table>sys_user</table>
+        <type>onLoad</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

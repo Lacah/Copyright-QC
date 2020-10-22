@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_hp_date">
+    <sys_ui_hp_date action="INSERT_OR_UPDATE">
+        <date_field>u_reporting_period</date_field>
+        <date_table>x_ipegh_copyright_qc</date_table>
+        <publisher_reference display_value="Month">cb2c5524db1944105e5783305b961966</publisher_reference>
+        <sys_class_name>sys_ui_hp_date</sys_class_name>
+        <sys_created_by>AnnAal</sys_created_by>
+        <sys_created_on>2019-11-20 10:17:11</sys_created_on>
+        <sys_id>b23c5924db1944105e5783305b9619ea</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>cb2c5524db1944105e5783305b961966</sys_name>
+        <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
+        <sys_update_name>sys_ui_hp_date_b23c5924db1944105e5783305b9619ea</sys_update_name>
+        <sys_updated_by>AnnAal</sys_updated_by>
+        <sys_updated_on>2019-12-06 10:36:08</sys_updated_on>
+    </sys_ui_hp_date>
+</record_update>

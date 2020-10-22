@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+        <grid_canvas display_value="PA OnMusic QC Stats - New Tab 2">ee6ccb5bdb0614105e5783305b961984</grid_canvas>
+        <height>8</height>
+        <portal_widget display_value="Created 22 Jul, 2020 12:31:09">a00d079bdb0614105e5783305b9619d1</portal_widget>
+        <posx>0</posx>
+        <posy>0</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>AnnAal</sys_created_by>
+        <sys_created_on>2020-07-22 10:31:09</sys_created_on>
+        <sys_id>a00d079bdb0614105e5783305b9619d3</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>ee6ccb5bdb0614105e5783305b961984</sys_name>
+        <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_a00d079bdb0614105e5783305b9619d3</sys_update_name>
+        <sys_updated_by>AnnAal</sys_updated_by>
+        <sys_updated_on>2020-07-22 10:32:17</sys_updated_on>
+        <width>8</width>
+    </sys_grid_canvas_pane>
+</record_update>

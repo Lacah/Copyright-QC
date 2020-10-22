@@ -15,7 +15,7 @@
         <condition/>
         <description/>
         <execute_function>false</execute_function>
-        <filter_condition table="x_ipegh_copyright_qc">state=-4^u_correctedCHANGESTOtrue^EQ<item endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="-4"/>
+        <filter_condition table="x_ipegh_copyright_qc">state=-4^u_correctedCHANGESTOtrue^EQ<item display_value="Minor internal" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="-4"/>
             <item endquery="false" field="u_corrected" goto="false" newquery="false" operator="CHANGESTO" or="false" value="true"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </filter_condition>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
     <sys_report_users_groups action="INSERT_OR_UPDATE">
-        <group_id display_value="QC - Counterclaims" name="QC - Counterclaims">e9b4c6e9db1a3340a8088edf4b961945</group_id>
+        <group_id display_value="QC - Counterclaims" name="QC - Counterclaims">f0c7662edb1f73005e5783305b9619e1</group_id>
         <report_id display_value="CC -  all QC cases to be checked">34d742dddbdb7f00b26388805b961970</report_id>
         <sys_class_name>sys_report_users_groups</sys_class_name>
         <sys_created_by>LasBal</sys_created_by>

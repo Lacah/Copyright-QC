@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-08-11 08:55:55</sys_created_on>
+        <sys_id>aef6f9bddb6e1810f4db16d15b9619fb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_ipegh_copyright_qc.soap_query</sys_name>
+        <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
+        <sys_security_acl display_value="x_ipegh_copyright_qc">f60a371adb7cc850a8088edf4b961902</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_aef6f9bddb6e1810f4db16d15b9619fb</sys_update_name>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-08-11 08:55:55</sys_updated_on>
+        <sys_user_role display_value="soap_query" name="soap_query">32f0805e0a0a0b50006eb0c4cbbe89aa</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

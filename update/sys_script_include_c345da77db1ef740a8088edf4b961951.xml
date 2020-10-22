@@ -3,6 +3,7 @@
         <access>public</access>
         <active>true</active>
         <api_name>x_ipegh_copyright.MyDateTimeAjax</api_name>
+        <caller_access/>
         <client_callable>true</client_callable>
         <description/>
         <name>MyDateTimeAjax</name>

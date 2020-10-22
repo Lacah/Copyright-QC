@@ -9,7 +9,7 @@
         <collection>x_ipegh_copyright_qc</collection>
         <condition table="x_ipegh_copyright_qc">commentsVALCHANGES^user.emailLIKE@iceservices.com^state!=-1^EQ<item endquery="false" field="comments" goto="false" newquery="false" operator="VALCHANGES" or="false" value=""/>
             <item endquery="false" field="user.email" goto="false" newquery="false" operator="LIKE" or="false" value="@iceservices.com"/>
-            <item endquery="false" field="state" goto="false" newquery="false" operator="!=" or="false" value="-1"/>
+            <item display_value="To be checked" endquery="false" field="state" goto="false" newquery="false" operator="!=" or="false" value="-1"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </condition>
         <content_type>text/html</content_type>
@@ -18,9 +18,9 @@
         <digest_from/>
         <digest_html/>
         <digest_reply_to/>
-        <digest_separator_html><![CDATA[<p>&nbsp;</p>
+        <digest_separator_html><![CDATA[<p><br /></p>
 <hr />
-<p>&nbsp;</p>]]></digest_separator_html>
+<p><br /></p>]]></digest_separator_html>
         <digest_separator_text><![CDATA[\n--------------------------------------------------------------------------------\n]]></digest_separator_text>
         <digest_subject/>
         <digest_template/>
@@ -45,7 +45,7 @@
 <p>Area: ${area}</p>
 <p>QC Officer: ${assigned_to}</p>
 <p>User: ${user}</p>
-<p>&nbsp;</p>
+<p><br /></p>
 <p>You may respond to this comment by replying to this email, or by navigating to the QC Case and posting your response directly on the record.</p>
 <p>${mail_script:qc_record_link_button}</p>]]></message_html>
         <message_list/>
@@ -69,7 +69,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>053be909dbdb3f00b26388805b961935</sys_id>
-        <sys_mod_count>14</sys_mod_count>
+        <sys_mod_count>17</sys_mod_count>
         <sys_name>A new comment on QC case</sys_name>
         <sys_overrides/>
         <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
@@ -77,10 +77,10 @@
         <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
         <sys_update_name>sysevent_email_action_053be909dbdb3f00b26388805b961935</sys_update_name>
         <sys_updated_by>AnnAal</sys_updated_by>
-        <sys_updated_on>2019-11-05 14:22:55</sys_updated_on>
+        <sys_updated_on>2020-10-21 13:06:24</sys_updated_on>
         <sys_version>2</sys_version>
         <template display_value="Unsubscribe and Preferences">7ed0481f3b0b2200c869c2c703efc487</template>
         <type>email</type>
-        <weight>0</weight>
+        <weight>10</weight>
     </sysevent_email_action>
 </record_update>

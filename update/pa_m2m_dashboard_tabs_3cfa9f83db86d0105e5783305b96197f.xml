@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs">
+    <pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE">
+        <dashboard display_value="My Team's QC Stats">712feb5fdb6b7300a8088edf4b9619f4</dashboard>
+        <home>false</home>
+        <homepage/>
+        <order>2</order>
+        <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
+        <sys_created_by>AnnAal</sys_created_by>
+        <sys_created_on>2020-07-21 16:53:34</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3cfa9f83db86d0105e5783305b96197f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>712feb5fdb6b7300a8088edf4b9619f4</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
+        <sys_update_name>pa_m2m_dashboard_tabs_3cfa9f83db86d0105e5783305b96197f</sys_update_name>
+        <sys_updated_by>AnnAal</sys_updated_by>
+        <sys_updated_on>2020-07-21 16:53:34</sys_updated_on>
+        <tab display_value="Team">74fa9f83db86d0105e5783305b96197d</tab>
+    </pa_m2m_dashboard_tabs>
+</record_update>

@@ -15,10 +15,10 @@
         <condition/>
         <description/>
         <execute_function>false</execute_function>
-        <filter_condition table="x_ipegh_copyright_qc">customer=Polaris^ORcustomer=KODA^ORcustomer=TEOSTO^ORcustomer=TONO^EQ<item endquery="false" field="customer" goto="false" newquery="false" operator="=" or="false" value="Polaris"/>
-            <item endquery="false" field="customer" goto="false" newquery="false" operator="=" or="true" value="KODA"/>
-            <item endquery="false" field="customer" goto="false" newquery="false" operator="=" or="true" value="TEOSTO"/>
-            <item endquery="false" field="customer" goto="false" newquery="false" operator="=" or="true" value="TONO"/>
+        <filter_condition table="x_ipegh_copyright_qc">customer=Polaris^ORcustomer=KODA^ORcustomer=TEOSTO^ORcustomer=TONO^EQ<item display_value="Polaris" endquery="false" field="customer" goto="false" newquery="false" operator="=" or="false" value="Polaris"/>
+            <item display_value="KODA" endquery="false" field="customer" goto="false" newquery="false" operator="=" or="true" value="KODA"/>
+            <item display_value="TEOSTO" endquery="false" field="customer" goto="false" newquery="false" operator="=" or="true" value="TEOSTO"/>
+            <item display_value="TONO" endquery="false" field="customer" goto="false" newquery="false" operator="=" or="true" value="TONO"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </filter_condition>
         <is_rest>false</is_rest>

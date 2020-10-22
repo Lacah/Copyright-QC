@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="pa_dashboards_permissions">
+    <pa_dashboards_permissions action="INSERT_OR_UPDATE">
+        <dashboard display_value="QC customer reporting">556f90cadb0988105e5783305b961946</dashboard>
+        <delete>false</delete>
+        <group/>
+        <identity>11885f15db1593005e5783305b9619d5</identity>
+        <read>true</read>
+        <role/>
+        <sys_class_name>pa_dashboards_permissions</sys_class_name>
+        <sys_created_by>AnnAal</sys_created_by>
+        <sys_created_on>2019-12-10 07:30:39</sys_created_on>
+        <sys_id>97f5ffb2db654c50f4db16d15b961968</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>11885f15db1593005e5783305b9619d5</sys_name>
+        <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
+        <sys_update_name>pa_dashboards_permissions_97f5ffb2db654c50f4db16d15b961968</sys_update_name>
+        <sys_updated_by>AnnAal</sys_updated_by>
+        <sys_updated_on>2019-12-10 07:30:39</sys_updated_on>
+        <type>3</type>
+        <user display_value="Beres Jackson">11885f15db1593005e5783305b9619d5</user>
+        <write>false</write>
+    </pa_dashboards_permissions>
+</record_update>

@@ -15,7 +15,7 @@
         <condition/>
         <description/>
         <execute_function>false</execute_function>
-        <filter_condition table="x_ipegh_copyright_qc">areaINcounterclaims,counterclaim case created,resolved^EQ<item endquery="false" field="area" goto="false" newquery="false" operator="IN" or="false" value="counterclaims,counterclaim case created,resolved"/>
+        <filter_condition table="x_ipegh_copyright_qc">areaINcounterclaims,counterclaim case created,resolved^EQ<item display_value="counterclaims,counterclaim case created,resolved" endquery="false" field="area" goto="false" newquery="false" operator="IN" or="false" value="counterclaims,counterclaim case created,resolved"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </filter_condition>
         <is_rest>false</is_rest>

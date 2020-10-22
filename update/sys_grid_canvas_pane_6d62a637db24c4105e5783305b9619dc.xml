@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+        <grid_canvas display_value="PA New Tab 8">39702bb0dbeff740a8088edf4b9619bb</grid_canvas>
+        <height>6</height>
+        <portal_widget display_value="Created 24 Oct, 2019 12:56:36">a962a637db24c4105e5783305b9619da</portal_widget>
+        <posx>8</posx>
+        <posy>6</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>AnnAal</sys_created_by>
+        <sys_created_on>2019-10-24 10:56:36</sys_created_on>
+        <sys_id>6d62a637db24c4105e5783305b9619dc</sys_id>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_name>39702bb0dbeff740a8088edf4b9619bb</sys_name>
+        <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_6d62a637db24c4105e5783305b9619dc</sys_update_name>
+        <sys_updated_by>AnnAal</sys_updated_by>
+        <sys_updated_on>2019-11-20 14:53:33</sys_updated_on>
+        <width>4</width>
+    </sys_grid_canvas_pane>
+</record_update>

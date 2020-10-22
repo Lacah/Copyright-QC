@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="pa_dashboards_group">
     <pa_dashboards_group action="INSERT_OR_UPDATE">
-        <groups name="QC - User">3255422ddb1a3340a8088edf4b96196f</groups>
+        <groups>3255422ddb1a3340a8088edf4b96196f</groups>
         <name>Copyright</name>
         <order/>
         <role_override>true</role_override>

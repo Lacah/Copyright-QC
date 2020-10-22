@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="DELETE">
+        <group_id display_value="QC - Enquiry" name="QC - Enquiry">cbc7e22edb1f73005e5783305b961930</group_id>
+        <report_id display_value="">c7cbfcb9dbf48c10f4db16d15b9619ed</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>AnnAal</sys_created_by>
+        <sys_created_on>2019-10-30 08:36:11</sys_created_on>
+        <sys_id>03cbfcb9dbf48c10f4db16d15b9619f3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>c7cbfcb9dbf48c10f4db16d15b9619ed</sys_name>
+        <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
+        <sys_update_name>sys_report_users_groups_03cbfcb9dbf48c10f4db16d15b9619f3</sys_update_name>
+        <sys_updated_by>AnnAal</sys_updated_by>
+        <sys_updated_on>2019-10-30 08:36:11</sys_updated_on>
+        <user_id/>
+    </sys_report_users_groups>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</application>
+        <file_path/>
+        <instance_id>5cd7ff349b65cf407ac36b8af359ff4a</instance_id>
+        <instance_name>iceservices</instance_name>
+        <name>sys_report_users_groups_03cbfcb9dbf48c10f4db16d15b9619f3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups"><sys_report_users_groups action="INSERT_OR_UPDATE"><group_id display_value="QC - Enquiry" name="QC - Enquiry">cbc7e22edb1f73005e5783305b961930</group_id><report_id display_value="">c7cbfcb9dbf48c10f4db16d15b9619ed</report_id><sys_class_name>sys_report_users_groups</sys_class_name><sys_created_by>AnnAal</sys_created_by><sys_created_on>2019-10-30 08:36:11</sys_created_on><sys_id>03cbfcb9dbf48c10f4db16d15b9619f3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>c7cbfcb9dbf48c10f4db16d15b9619ed</sys_name><sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package><sys_policy/><sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope><sys_update_name>sys_report_users_groups_03cbfcb9dbf48c10f4db16d15b9619f3</sys_update_name><sys_updated_by>AnnAal</sys_updated_by><sys_updated_on>2019-10-30 08:36:11</sys_updated_on><user_id/></sys_report_users_groups></record_update>]]></payload>
+        <payload_hash>-798640781</payload_hash>
+        <record_name>c7cbfcb9dbf48c10f4db16d15b9619ed</record_name>
+        <reverted_from/>
+        <source>113fbe36db2c4010f4db16d15b961933</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>AnnAal</sys_created_by>
+        <sys_created_on>2019-10-30 08:36:11</sys_created_on>
+        <sys_id>07cbfcb9dbf48c10f4db16d15b9619f4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16e1bced8ff0000001</sys_recorded_at>
+        <sys_updated_by>AnnAal</sys_updated_by>
+        <sys_updated_on>2019-10-30 08:36:11</sys_updated_on>
+        <type>Report Users and Groups</type>
+        <update_guid>0fcbfcb964f48c106f417cd4919980f3</update_guid>
+        <update_guid_history>0fcbfcb964f48c106f417cd4919980f3:-798640781</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>AnnAal</sys_created_by>
+        <sys_created_on>2019-10-30 08:56:26</sys_created_on>
+        <sys_db_object display_value="" name="sys_report_users_groups">sys_report_users_groups</sys_db_object>
+        <sys_id>11eb01ab31c145729bf5b44ed244ff44</sys_id>
+        <sys_metadata>03cbfcb9dbf48c10f4db16d15b9619f3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>c7cbfcb9dbf48c10f4db16d15b9619ed</sys_name>
+        <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
+        <sys_scope_delete display_value="">0e767c3002574cc09ce882c644c9c100</sys_scope_delete>
+        <sys_update_name>sys_report_users_groups_03cbfcb9dbf48c10f4db16d15b9619f3</sys_update_name>
+        <sys_update_version display_value="sys_report_users_groups_03cbfcb9dbf48c10f4db16d15b9619f3">07cbfcb9dbf48c10f4db16d15b9619f4</sys_update_version>
+        <sys_updated_by>AnnAal</sys_updated_by>
+        <sys_updated_on>2019-10-30 08:56:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

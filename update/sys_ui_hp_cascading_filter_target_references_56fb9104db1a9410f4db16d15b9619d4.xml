@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_hp_cascading_filter_target_references">
+    <sys_ui_hp_cascading_filter_target_references action="INSERT_OR_UPDATE">
+        <cascading_filter display_value="Users">147ad180db1a9410f4db16d15b96199e</cascading_filter>
+        <filter_field>sys_id</filter_field>
+        <sys_class_name>sys_ui_hp_cascading_filter_target_references</sys_class_name>
+        <sys_created_by>AnnAal</sys_created_by>
+        <sys_created_on>2020-07-24 10:13:39</sys_created_on>
+        <sys_id>56fb9104db1a9410f4db16d15b9619d4</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>sys_id</sys_name>
+        <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
+        <sys_update_name>sys_ui_hp_cascading_filter_target_references_56fb9104db1a9410f4db16d15b9619d4</sys_update_name>
+        <sys_updated_by>AnnAal</sys_updated_by>
+        <sys_updated_on>2020-07-24 10:14:47</sys_updated_on>
+        <target_table>sys_user</target_table>
+    </sys_ui_hp_cascading_filter_target_references>
+</record_update>

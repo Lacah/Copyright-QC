@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="DELETE">
+        <grid_canvas display_value="PA New Tab 6">0b5c8ed1db1f7f00b26388805b961910</grid_canvas>
+        <height>6</height>
+        <portal_widget display_value="Created 2019-10-24 12:49:22">bfb0e273db24c4105e5783305b96190e</portal_widget>
+        <posx>8</posx>
+        <posy>6</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>AnnAal</sys_created_by>
+        <sys_created_on>2019-10-24 10:49:22</sys_created_on>
+        <sys_id>73b0e273db24c4105e5783305b961911</sys_id>
+        <sys_mod_count>15</sys_mod_count>
+        <sys_name>0b5c8ed1db1f7f00b26388805b961910</sys_name>
+        <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_73b0e273db24c4105e5783305b961911</sys_update_name>
+        <sys_updated_by>AnnAal</sys_updated_by>
+        <sys_updated_on>2019-10-25 13:43:03</sys_updated_on>
+        <width>4</width>
+    </sys_grid_canvas_pane>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</application>
+        <file_path/>
+        <instance_id>5cd7ff349b65cf407ac36b8af359ff4a</instance_id>
+        <instance_name>iceservices</instance_name>
+        <name>sys_grid_canvas_pane_73b0e273db24c4105e5783305b961911</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA New Tab 6">0b5c8ed1db1f7f00b26388805b961910</grid_canvas><height>6</height><portal_widget display_value="Created 2019-10-24 12:49:22">bfb0e273db24c4105e5783305b96190e</portal_widget><posx>8</posx><posy>6</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>AnnAal</sys_created_by><sys_created_on>2019-10-24 10:49:22</sys_created_on><sys_id>73b0e273db24c4105e5783305b961911</sys_id><sys_mod_count>15</sys_mod_count><sys_name>0b5c8ed1db1f7f00b26388805b961910</sys_name><sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package><sys_policy/><sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope><sys_update_name>sys_grid_canvas_pane_73b0e273db24c4105e5783305b961911</sys_update_name><sys_updated_by>AnnAal</sys_updated_by><sys_updated_on>2019-10-25 13:43:03</sys_updated_on><width>4</width></sys_grid_canvas_pane></record_update>]]></payload>
+        <payload_hash>148343321</payload_hash>
+        <record_name>0b5c8ed1db1f7f00b26388805b961910</record_name>
+        <reverted_from/>
+        <source>113fbe36db2c4010f4db16d15b961933</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>AnnAal</sys_created_by>
+        <sys_created_on>2019-10-25 13:43:03</sys_created_on>
+        <sys_id>35125098db780810f4db16d15b961998</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16e032801ce0000001</sys_recorded_at>
+        <sys_updated_by>AnnAal</sys_updated_by>
+        <sys_updated_on>2019-10-25 13:43:03</sys_updated_on>
+        <type>Grid Canvas Pane</type>
+        <update_guid>f9125098ec78081029716b5e9fa19097</update_guid>
+        <update_guid_history>f9125098ec78081029716b5e9fa19097:148343321,7c02dc58d77808102970958684cb22d1:-1002907268,1b712eb32f24c410c946a871ac0e8a37:148343321,fe71aab39324c410ee6378ed0cc603c3:1919017212,69e0aa73f524c4103e24fc4765588b85:960024221,dde0aa73c224c410604ec7bbe995fe5e:1929605244,bbd06a73bd24c4108f865eabe24ac60b:1830845820,0bd06a730524c410b9cd0af80e41c599:861264797,ead06a73ff24c41077018565d69aa153:2130880988,06d06a734924c410658e3de63aa1b72b:982860578,d5d02a737424c41099e0d2300f27b0bc:427166653,a8d0e673be24c410cfc4f223ef239048:389237790,3bc0e6738524c410c8a7d2e99c6ef7fd:2130880988,17c0e6739824c410fedb89bacbde987c:2071740289,60c0a673d024c410cde7f44213335321:-1389452247,bfb0e2735524c41014037d94dd325311:1676620707</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>AnnAal</sys_created_by>
+        <sys_created_on>2019-11-05 09:10:02</sys_created_on>
+        <sys_db_object display_value="" name="sys_grid_canvas_pane">sys_grid_canvas_pane</sys_db_object>
+        <sys_id>010bbd6c58694ac18d4ad15f1f891df1</sys_id>
+        <sys_metadata>73b0e273db24c4105e5783305b961911</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>0b5c8ed1db1f7f00b26388805b961910</sys_name>
+        <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
+        <sys_scope_delete display_value="">0e767c3002574cc09ce882c644c9c100</sys_scope_delete>
+        <sys_update_name>sys_grid_canvas_pane_73b0e273db24c4105e5783305b961911</sys_update_name>
+        <sys_update_version display_value="sys_grid_canvas_pane_73b0e273db24c4105e5783305b961911">35125098db780810f4db16d15b961998</sys_update_version>
+        <sys_updated_by>AnnAal</sys_updated_by>
+        <sys_updated_on>2019-11-05 09:10:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

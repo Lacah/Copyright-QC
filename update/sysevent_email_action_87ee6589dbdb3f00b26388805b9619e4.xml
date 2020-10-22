@@ -7,10 +7,12 @@
         <affected_field_on_event/>
         <category display_value="QC App" name="QC App">42b8e585dbdb3f00b26388805b961976</category>
         <collection>x_ipegh_copyright_qc</collection>
-        <condition table="x_ipegh_copyright_qc">stateCHANGESTO-2^ORstateCHANGESTO-3^ORstateCHANGESTO-4^user.emailLIKE@iceservices.com^EQ<item endquery="false" field="state" goto="false" newquery="false" operator="CHANGESTO" or="false" value="-2"/>
-            <item endquery="false" field="state" goto="false" newquery="false" operator="CHANGESTO" or="true" value="-3"/>
-            <item endquery="false" field="state" goto="false" newquery="false" operator="CHANGESTO" or="true" value="-4"/>
+        <condition table="x_ipegh_copyright_qc">stateCHANGESTO-2^ORstateCHANGESTO-3^ORstateCHANGESTO-4^user.emailLIKE@iceservices.com^active=true^user.company!=14828533db2bf740f4db16d15b961937^EQ<item display_value="Reporting error" endquery="false" field="state" goto="false" newquery="false" operator="CHANGESTO" or="false" value="-2"/>
+            <item display_value="Major internal" endquery="false" field="state" goto="false" newquery="false" operator="CHANGESTO" or="true" value="-3"/>
+            <item display_value="Minor internal" endquery="false" field="state" goto="false" newquery="false" operator="CHANGESTO" or="true" value="-4"/>
             <item endquery="false" field="user.email" goto="false" newquery="false" operator="LIKE" or="false" value="@iceservices.com"/>
+            <item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item display_table="core_company" display_value="OnMusic" endquery="false" field="user.company" goto="false" newquery="false" operator="!=" or="false" value="14828533db2bf740f4db16d15b961937"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </condition>
         <content_type>text/html</content_type>
@@ -54,11 +56,11 @@
 <p>&nbsp;</p>]]></message_html>
         <message_list/>
         <message_text/>
-        <name>An error was found</name>
+        <name>An error was found excl. OnMusic</name>
         <omit_watermark>false</omit_watermark>
         <order>100</order>
         <push_message_only>false</push_message_only>
-        <recipient_fields>user</recipient_fields>
+        <recipient_fields>user,watch_list</recipient_fields>
         <recipient_groups/>
         <recipient_users/>
         <reply_to/>
@@ -73,15 +75,15 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>87ee6589dbdb3f00b26388805b9619e4</sys_id>
-        <sys_mod_count>22</sys_mod_count>
-        <sys_name>An error was found</sys_name>
+        <sys_mod_count>27</sys_mod_count>
+        <sys_name>An error was found excl. OnMusic</sys_name>
         <sys_overrides/>
         <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
         <sys_policy/>
         <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
         <sys_update_name>sysevent_email_action_87ee6589dbdb3f00b26388805b9619e4</sys_update_name>
         <sys_updated_by>AnnAal</sys_updated_by>
-        <sys_updated_on>2019-08-30 12:14:56</sys_updated_on>
+        <sys_updated_on>2020-02-28 11:30:32</sys_updated_on>
         <sys_version>2</sys_version>
         <template display_value="Unsubscribe and Preferences">7ed0481f3b0b2200c869c2c703efc487</template>
         <type>email</type>

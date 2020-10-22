@@ -11,16 +11,16 @@
         <sys_created_by>LasBal</sys_created_by>
         <sys_created_on>2019-08-16 13:19:58</sys_created_on>
         <sys_id>0d8d27e5db13ff00b26388805b961981</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>16</sys_mod_count>
         <sys_name>glide.ui.x_ipegh_copyright_qc_activity.fields</sys_name>
         <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
         <sys_policy/>
         <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
         <sys_update_name>sys_properties_0d8d27e5db13ff00b26388805b961981</sys_update_name>
-        <sys_updated_by>LasBal</sys_updated_by>
-        <sys_updated_on>2019-08-21 11:56:28</sys_updated_on>
+        <sys_updated_by>AnnAal</sys_updated_by>
+        <sys_updated_on>2020-06-30 13:13:47</sys_updated_on>
         <type>string</type>
-        <value>assigned_to,state,comments,*Attachments*,approval,approval_history,u_corrected,closed_by,closed_at,description,u_error_found_at,type,u_sr_error,u_items_errors,user,*Email*,*Relations*</value>
+        <value>assigned_to,state,comments,*Attachments*,approval_history,u_corrected,closed_by,closed_at,description,u_error_found_at,type,user,*Email*,*Relations*,active,watch_list,u_meta_qc,approval,workkey,cue_work,u_1st_external_ref_code</value>
         <write_roles/>
     </sys_properties>
     <sys_translated_text action="delete_multiple" query="documentkey=0d8d27e5db13ff00b26388805b961981"/>

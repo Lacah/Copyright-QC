@@ -2,7 +2,9 @@
     <sys_report action="INSERT_OR_UPDATE">
         <additional_groupby/>
         <aggregate>COUNT</aggregate>
+        <aggregation_source/>
         <allow_data_label_overlap>false</allow_data_label_overlap>
+        <apply_alias>true</apply_alias>
         <axis_max_color display_value="UI14 Blue Light">b0d449b3d7332100fa6c0c12ce610383</axis_max_color>
         <axis_min_color display_value="White">65b303c7a9fe3dba00629aff95ee3597</axis_min_color>
         <bar_unstack>false</bar_unstack>
@@ -16,7 +18,7 @@
         <chart_subtitle_color/>
         <chart_subtitle_size>14</chart_subtitle_size>
         <chart_subtitle_style>normal</chart_subtitle_style>
-        <chart_title>My corrected errors this month</chart_title>
+        <chart_title>Errors corrected by me this month</chart_title>
         <chart_title_color display_value="Black">65b30218a9fe3dba0120df8611520d97</chart_title_color>
         <chart_title_size>16</chart_title_size>
         <chart_title_style>normal</chart_title_style>
@@ -46,7 +48,7 @@
         <field_list>number,opened_at,short_description,caller_id,caller_id.company,priority,state,u_product_category,assignment_group,assigned_to,sys_updated_on</field_list>
         <filter table="x_ipegh_copyright_qc">userDYNAMIC90d1921e5f510100a9ad2572f2b477fe^sys_updated_onONThis month@javascript:gs.beginningOfThisMonth()@javascript:gs.endOfThisMonth()^stateIN-2,-3,-4^u_corrected=true<item endquery="false" field="user" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
             <item endquery="false" field="sys_updated_on" goto="false" newquery="false" operator="ON" or="false" value="This month@javascript:gs.beginningOfThisMonth()@javascript:gs.endOfThisMonth()"/>
-            <item endquery="false" field="state" goto="false" newquery="false" operator="IN" or="false" value="-2,-3,-4"/>
+            <item display_value="-2,-3,-4" endquery="false" field="state" goto="false" newquery="false" operator="IN" or="false" value="-2,-3,-4"/>
             <item endquery="false" field="u_corrected" goto="false" newquery="false" operator="=" or="false" value="true"/>
         </filter>
         <from/>
@@ -106,14 +108,14 @@
         <sys_created_by>LasBal</sys_created_by>
         <sys_created_on>2019-07-18 07:41:39</sys_created_on>
         <sys_id>6af9c118db7e3700a8088edf4b9619e0</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>Corrected errors</sys_name>
         <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
         <sys_policy/>
         <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
         <sys_update_name>sys_report_6af9c118db7e3700a8088edf4b9619e0</sys_update_name>
         <sys_updated_by>AnnAal</sys_updated_by>
-        <sys_updated_on>2019-09-03 06:15:16</sys_updated_on>
+        <sys_updated_on>2019-11-05 08:44:11</sys_updated_on>
         <table>x_ipegh_copyright_qc</table>
         <title>Corrected errors</title>
         <title_horizontal_alignment>center</title_horizontal_alignment>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="pa_dashboards_permissions">
+    <pa_dashboards_permissions action="DELETE">
+        <dashboard display_value="QC administration">0ce38299dbdb7f00b26388805b9619fd</dashboard>
+        <delete>false</delete>
+        <group display_value="QC - All QC officers" name="QC - All QC officers">84e8b670dbe3fb00f4db16d15b961968</group>
+        <identity>a2a3f6b8db2ff740a8088edf4b9619aa</identity>
+        <read>true</read>
+        <role/>
+        <sys_class_name>pa_dashboards_permissions</sys_class_name>
+        <sys_created_by>AnnAal</sys_created_by>
+        <sys_created_on>2019-08-30 13:34:13</sys_created_on>
+        <sys_id>de077f46dbe33f40a8088edf4b961918</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a2a3f6b8db2ff740a8088edf4b9619aa</sys_name>
+        <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
+        <sys_update_name>pa_dashboards_permissions_de077f46dbe33f40a8088edf4b961918</sys_update_name>
+        <sys_updated_by>AnnAal</sys_updated_by>
+        <sys_updated_on>2019-08-30 13:34:13</sys_updated_on>
+        <type>2</type>
+        <user/>
+        <write>false</write>
+    </pa_dashboards_permissions>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</application>
+        <file_path/>
+        <instance_id>5cd7ff349b65cf407ac36b8af359ff4a</instance_id>
+        <instance_name>iceservices</instance_name>
+        <name>pa_dashboards_permissions_de077f46dbe33f40a8088edf4b961918</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="pa_dashboards_permissions"><pa_dashboards_permissions action="INSERT_OR_UPDATE"><dashboard display_value="QC administration">0ce38299dbdb7f00b26388805b9619fd</dashboard><delete>false</delete><group display_value="QC - All QC officers" name="QC - All QC officers">84e8b670dbe3fb00f4db16d15b961968</group><identity>a2a3f6b8db2ff740a8088edf4b9619aa</identity><read>true</read><role/><sys_class_name>pa_dashboards_permissions</sys_class_name><sys_created_by>AnnAal</sys_created_by><sys_created_on>2019-08-30 13:34:13</sys_created_on><sys_id>de077f46dbe33f40a8088edf4b961918</sys_id><sys_mod_count>0</sys_mod_count><sys_name>a2a3f6b8db2ff740a8088edf4b9619aa</sys_name><sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package><sys_policy/><sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope><sys_update_name>pa_dashboards_permissions_de077f46dbe33f40a8088edf4b961918</sys_update_name><sys_updated_by>AnnAal</sys_updated_by><sys_updated_on>2019-08-30 13:34:13</sys_updated_on><type>2</type><user/><write>false</write></pa_dashboards_permissions></record_update>]]></payload>
+        <payload_hash>-1573939533</payload_hash>
+        <record_name>a2a3f6b8db2ff740a8088edf4b9619aa</record_name>
+        <reverted_from/>
+        <source>5cb9a113db8e3b00b26388805b9619f0</source>
+        <source_table>sys_store_app</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2019-08-30 13:34:13</sys_created_on>
+        <sys_id>8d27f18ddb7ec0104d2f2ded0b961927</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>16ce2bbc8080000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Dashboard Permissions</type>
+        <update_guid>4d27f18d097ec010db1a36d806a83327</update_guid>
+        <update_guid_history>4d27f18d097ec010db1a36d806a83327:-1573939533</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 04 Feb, 2020 16:05:35">4d27f18ddb7ec0104d2f2ded0b961928</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>AnnAal</sys_created_by>
+        <sys_created_on>2020-02-04 15:05:35</sys_created_on>
+        <sys_db_object display_value="" name="pa_dashboards_permissions">pa_dashboards_permissions</sys_db_object>
+        <sys_id>01d3401997ad4776a9233716260df4a4</sys_id>
+        <sys_metadata>de077f46dbe33f40a8088edf4b961918</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a2a3f6b8db2ff740a8088edf4b9619aa</sys_name>
+        <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
+        <sys_scope_delete display_value="">0e767c3002574cc09ce882c644c9c100</sys_scope_delete>
+        <sys_update_name>pa_dashboards_permissions_de077f46dbe33f40a8088edf4b961918</sys_update_name>
+        <sys_update_version display_value="pa_dashboards_permissions_de077f46dbe33f40a8088edf4b961918">8d27f18ddb7ec0104d2f2ded0b961927</sys_update_version>
+        <sys_updated_by>AnnAal</sys_updated_by>
+        <sys_updated_on>2020-02-04 15:05:35</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

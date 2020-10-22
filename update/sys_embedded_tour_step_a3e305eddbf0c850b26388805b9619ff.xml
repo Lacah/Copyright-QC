@@ -13,6 +13,7 @@
         <options>{"step_view":""}</options>
         <order>9</order>
         <placement>left</placement>
+        <skippable>false</skippable>
         <step_type>step</step_type>
         <sys_class_name>sys_embedded_tour_step</sys_class_name>
         <sys_created_by>AnnAal</sys_created_by>

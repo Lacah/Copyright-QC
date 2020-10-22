@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
     <sys_embedded_help_role action="INSERT_OR_UPDATE">
         <order>1000</order>
-        <role display_value="x_ipegh_copyright.qc_agr" name="x_ipegh_copyright.qc_agr">654fbe0ddb3c4850b26388805b961953</role>
+        <role display_value="x_ipegh_copyright.qc_agr" name="x_ipegh_copyright.qc_agr">50b333c5db7c0c105e5783305b9619a3</role>
         <sys_class_name>sys_embedded_help_role</sys_class_name>
         <sys_created_by>AnnAal</sys_created_by>
         <sys_created_on>2019-10-28 10:17:06</sys_created_on>

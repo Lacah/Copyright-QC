@@ -17,7 +17,7 @@
         <sys_updated_by>LasBal</sys_updated_by>
         <sys_updated_on>2019-12-05 14:55:53</sys_updated_on>
         <table>x_ipegh_copyright_qc</table>
-        <ui_policy display_value="Display UR specific fields">1a139a5bdb027b00b26388805b9619f3</ui_policy>
+        <ui_policy display_value="Allow write for Work Key(UR)">1a139a5bdb027b00b26388805b9619f3</ui_policy>
         <visible>ignore</visible>
     </sys_ui_policy_action>
 </record_update>

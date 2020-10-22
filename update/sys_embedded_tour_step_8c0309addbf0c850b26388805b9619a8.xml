@@ -16,6 +16,7 @@ c) In case of a Major Internal or Reporting Error, once the QC Officer has appro
         <options>{"step_view":""}</options>
         <order>6</order>
         <placement>bottom</placement>
+        <skippable>false</skippable>
         <step_type>step</step_type>
         <sys_class_name>sys_embedded_tour_step</sys_class_name>
         <sys_created_by>AnnAal</sys_created_by>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="beginners_qc_case" label="Beginners' QC Case" language="en" table="x_ipegh_copyright_beginners_qc_import">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>beginners_qc_case</element>
+            <help/>
+            <hint/>
+            <label>Beginners' QC Case</label>
+            <language>en</language>
+            <name>x_ipegh_copyright_beginners_qc_import</name>
+            <plural>Beginners' QC Cases</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>AnnAal</sys_created_by>
+            <sys_created_on>2020-06-25 12:15:58</sys_created_on>
+            <sys_id>4d12e8bedb65d410a8088edf4b961967</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Beginners' QC Case</sys_name>
+            <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
+            <sys_update_name>sys_documentation_x_ipegh_copyright_beginners_qc_import_beginners_qc_case_en</sys_update_name>
+            <sys_updated_by>AnnAal</sys_updated_by>
+            <sys_updated_on>2020-06-25 12:15:58</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

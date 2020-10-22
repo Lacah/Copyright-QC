@@ -3,12 +3,12 @@
         <columns_condition/>
         <edit_condition/>
         <edit_default_filter/>
-        <edit_roles/>
+        <edit_roles>x_ipegh_copyright.qc,x_ipegh_copyright.qc_agr</edit_roles>
         <empty_condition/>
         <filter_condition/>
         <filter_roles>x_ipegh_copyright.qc,x_ipegh_copyright.qc_agr</filter_roles>
         <hierarchical_lists>false</hierarchical_lists>
-        <label/>
+        <label>QC records</label>
         <link_condition/>
         <link_roles/>
         <list_edit_insert_row>false</list_edit_insert_row>
@@ -18,6 +18,9 @@
         <new_condition/>
         <new_roles>admin</new_roles>
         <omit_columns_if_empty>false</omit_columns_if_empty>
+        <omit_count>false</omit_count>
+        <omit_count_views>false</omit_count_views>
+        <omit_count_views_list/>
         <omit_drilldown_link>false</omit_drilldown_link>
         <omit_edit_button>false</omit_edit_button>
         <omit_filters>false</omit_filters>
@@ -31,7 +34,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>f3b4e6fddbf40c50b26388805b961952</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>x_ipegh_copyright_qc</sys_name>
         <sys_overrides display_value="">global</sys_overrides>
         <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
@@ -39,6 +42,6 @@
         <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
         <sys_update_name>sys_ui_list_control_f3b4e6fddbf40c50b26388805b961952</sys_update_name>
         <sys_updated_by>LasBal</sys_updated_by>
-        <sys_updated_on>2019-10-30 16:17:23</sys_updated_on>
+        <sys_updated_on>2019-12-10 12:48:37</sys_updated_on>
     </sys_ui_list_control>
 </record_update>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
     <sys_script_client action="INSERT_OR_UPDATE">
-        <active>true</active>
+        <active>false</active>
         <applies_extended>false</applies_extended>
         <condition/>
         <description/>
@@ -13,10 +13,13 @@
         <script><![CDATA[function onLoad() {
 
 var str = g_form.getValue('area');
+var wk = g_form.getValue('week');
 
-	if (str != 'service requests') {
+	/**/
+
+	if ((str != 'service requests')||(wk >= 49)) {
 		// Hide the embedded list
-		g_form.setSectionDisplay("errors_onitems",false);
+		g_form.setSectionDisplay("ur_items",false);
 	}
 
 }]]></script>
@@ -33,8 +36,8 @@ var str = g_form.getValue('area');
         <sys_policy/>
         <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
         <sys_update_name>sys_script_client_739945fbdbf0c010a8088edf4b9619da</sys_update_name>
-        <sys_updated_by>LasBal</sys_updated_by>
-        <sys_updated_on>2019-11-07 11:58:47</sys_updated_on>
+        <sys_updated_by>AnnAal</sys_updated_by>
+        <sys_updated_on>2019-12-13 10:46:50</sys_updated_on>
         <table>x_ipegh_copyright_qc</table>
         <type>onLoad</type>
         <ui_type>10</ui_type>

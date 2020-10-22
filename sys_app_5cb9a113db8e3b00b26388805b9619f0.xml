@@ -3,73 +3,40 @@
         <active>true</active>
         <can_edit_in_studio>false</can_edit_in_studio>
         <enforce_license>log</enforce_license>
+        <guided_setup_guid/>
+        <hide_on_ui>false</hide_on_ui>
+        <installed_as_dependency>false</installed_as_dependency>
         <js_level>helsinki_es5</js_level>
         <licensable>true</licensable>
         <license_category>none</license_category>
+        <license_definition/>
         <license_model>app_use</license_model>
-        <logo>923d4214db727700a8088edf4b9619a4</logo>
-        <menu display_value="Copyright QC">58b96d13db8e3b00b26388805b961907</menu>
+        <logo/>
+        <menu/>
         <name>Copyright QC</name>
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>
-        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <runtime_access_tracking/>
         <scope>x_ipegh_copyright</scope>
         <scoped_administration>false</scoped_administration>
         <short_description/>
         <source>x_ipegh_copyright</source>
-        <store_correlation_id>REPOAPP0000173781</store_correlation_id>
+        <store_correlation_id/>
         <store_url/>
         <sys_class_name>sys_app</sys_class_name>
         <sys_code/>
         <sys_created_by>LasBal</sys_created_by>
-        <sys_created_on>2019-06-20 10:54:55</sys_created_on>
+        <sys_created_on>2019-10-21 09:00:29</sys_created_on>
         <sys_id>5cb9a113db8e3b00b26388805b9619f0</sys_id>
-        <sys_mod_count>37</sys_mod_count>
-        <sys_updated_by>LasBal</sys_updated_by>
-        <sys_updated_on>2020-01-13 12:15:41</sys_updated_on>
+        <sys_mod_count>62</sys_mod_count>
+        <sys_updated_by>guest</sys_updated_by>
+        <sys_updated_on>2020-08-28 14:36:45</sys_updated_on>
         <template/>
         <trackable>true</trackable>
-        <user_role display_value="x_ipegh_copyright.user" name="x_ipegh_copyright.user">d4b96d13db8e3b00b26388805b96190a</user_role>
+        <uninstall_blocked>false</uninstall_blocked>
+        <user_role/>
         <vendor/>
         <vendor_prefix/>
-        <version>1.1.10</version>
+        <version>1.1.9</version>
     </sys_app>
-    <sys_attachment action="INSERT_OR_UPDATE">
-        <average_image_color>#d7695</average_image_color>
-        <chunk_size_bytes>734003</chunk_size_bytes>
-        <compressed>true</compressed>
-        <content_type>image/png</content_type>
-        <file_name>logo</file_name>
-        <image_height>128</image_height>
-        <image_width>128</image_width>
-        <size_bytes>3394</size_bytes>
-        <size_compressed>3417</size_compressed>
-        <state>available</state>
-        <sys_created_by>LasBal</sys_created_by>
-        <sys_created_on>2019-07-18 12:35:28</sys_created_on>
-        <sys_id>923d4214db727700a8088edf4b9619a4</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_updated_by>guest</sys_updated_by>
-        <sys_updated_on>2019-07-18 12:35:30</sys_updated_on>
-        <table_name>ZZ_YYsys_app</table_name>
-        <table_sys_id>5cb9a113db8e3b00b26388805b9619f0</table_sys_id>
-    </sys_attachment>
-    <sys_attachment_doc action="INSERT_OR_UPDATE">
-        <data>H4sIAAAAAAAAAA==</data>
-        <length>16</length>
-        <position>0</position>
-        <sys_attachment display_value="logo" sys_id="923d4214db727700a8088edf4b9619a4">923d4214db727700a8088edf4b9619a4</sys_attachment>
-        <sys_created_by>LasBal</sys_created_by>
-        <sys_created_on>2019-07-18 12:35:28</sys_created_on>
-        <sys_id>d23d4214db727700a8088edf4b9619a4</sys_id>
-    </sys_attachment_doc>
-    <sys_attachment_doc action="INSERT_OR_UPDATE">
-        <data>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</data>
-        <length>4544</length>
-        <position>1</position>
-        <sys_attachment display_value="logo" sys_id="923d4214db727700a8088edf4b9619a4">923d4214db727700a8088edf4b9619a4</sys_attachment>
-        <sys_created_by>LasBal</sys_created_by>
-        <sys_created_on>2019-07-18 12:35:28</sys_created_on>
-        <sys_id>563d4214db727700a8088edf4b9619a4</sys_id>
-    </sys_attachment_doc>
 </record_update>

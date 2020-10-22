@@ -2,7 +2,9 @@
     <sys_report action="INSERT_OR_UPDATE">
         <additional_groupby/>
         <aggregate>COUNT</aggregate>
+        <aggregation_source/>
         <allow_data_label_overlap>false</allow_data_label_overlap>
+        <apply_alias>true</apply_alias>
         <axis_max_color display_value="UI14 Blue Light">b0d449b3d7332100fa6c0c12ce610383</axis_max_color>
         <axis_min_color display_value="White">65b303c7a9fe3dba00629aff95ee3597</axis_min_color>
         <bar_unstack>false</bar_unstack>
@@ -44,9 +46,8 @@
         <exp_report_attrs>true</exp_report_attrs>
         <field/>
         <field_list>number,opened_at,short_description,caller_id,caller_id.company,priority,state,u_product_category,assignment_group,assigned_to,sys_updated_on</field_list>
-        <filter table="x_ipegh_copyright_qc">area=high earning^sys_tags.=^EQ<item endquery="false" field="area" goto="false" newquery="false" operator="=" or="false" value="high earning"/>
-            <item endquery="false" field="sys_tags." goto="false" newquery="false" operator="=" or="false" value=""/>
-            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        <filter table="x_ipegh_copyright_qc">area=high earning^cue_work=false<item display_value="High Earning" endquery="false" field="area" goto="false" newquery="false" operator="=" or="false" value="high earning"/>
+            <item endquery="false" field="cue_work" goto="false" newquery="false" operator="=" or="false" value="false"/>
         </filter>
         <from/>
         <funnel_neck_percent>30</funnel_neck_percent>
@@ -105,14 +106,14 @@
         <sys_created_by>annaal</sys_created_by>
         <sys_created_on>2019-08-28 07:40:31</sys_created_on>
         <sys_id>a5e25025db6b3b00b26388805b961970</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>9</sys_mod_count>
         <sys_name>HE - QC pending in queue</sys_name>
         <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
         <sys_policy/>
         <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
         <sys_update_name>sys_report_a5e25025db6b3b00b26388805b961970</sys_update_name>
         <sys_updated_by>AnnAal</sys_updated_by>
-        <sys_updated_on>2019-08-30 08:52:30</sys_updated_on>
+        <sys_updated_on>2020-01-22 08:08:28</sys_updated_on>
         <table>x_ipegh_copyright_qc</table>
         <title>HE - QC pending in queue</title>
         <title_horizontal_alignment>center</title_horizontal_alignment>

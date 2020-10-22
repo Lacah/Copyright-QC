@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_hp_reference">
+    <sys_ui_hp_reference action="INSERT_OR_UPDATE">
+        <publisher_reference display_value="Users">2486971bdb4614105e5783305b961969</publisher_reference>
+        <reference_field>user</reference_field>
+        <reference_table>x_ipegh_copyright_qc</reference_table>
+        <sys_class_name>sys_ui_hp_reference</sys_class_name>
+        <sys_created_by>AnnAal</sys_created_by>
+        <sys_created_on>2020-07-24 09:44:42</sys_created_on>
+        <sys_id>4d155dc4dbd69410f4db16d15b96195c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2486971bdb4614105e5783305b961969</sys_name>
+        <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
+        <sys_update_name>sys_ui_hp_reference_4d155dc4dbd69410f4db16d15b96195c</sys_update_name>
+        <sys_updated_by>AnnAal</sys_updated_by>
+        <sys_updated_on>2020-07-24 09:44:42</sys_updated_on>
+    </sys_ui_hp_reference>
+</record_update>

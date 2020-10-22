@@ -15,7 +15,7 @@
         <condition/>
         <description/>
         <execute_function>false</execute_function>
-        <filter_condition table="x_ipegh_copyright_qc">areaINservice requests,agreements^EQ<item endquery="false" field="area" goto="false" newquery="false" operator="IN" or="false" value="service requests,agreements"/>
+        <filter_condition table="x_ipegh_copyright_qc">areaINservice requests,agreements^EQ<item display_value="service requests,agreements" endquery="false" field="area" goto="false" newquery="false" operator="IN" or="false" value="service requests,agreements"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </filter_condition>
         <is_rest>false</is_rest>

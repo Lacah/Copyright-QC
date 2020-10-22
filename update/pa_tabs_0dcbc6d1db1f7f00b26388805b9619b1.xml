@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs">
     <pa_tabs action="INSERT_OR_UPDATE">
         <canvas_page display_value="PA New Tab 3">c1cb8291db1f7f00b26388805b9619b3</canvas_page>
-        <name>High Earning</name>
+        <name>High Earning Works</name>
         <page display_value="PA High Earning">c9cb8291db1f7f00b26388805b9619b2</page>
         <sys_class_name>pa_tabs</sys_class_name>
         <sys_created_by>LasBal</sys_created_by>
@@ -9,14 +9,14 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>0dcbc6d1db1f7f00b26388805b9619b1</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>High Earning</sys_name>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>High Earning Works</sys_name>
         <sys_overrides/>
         <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
         <sys_policy/>
         <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
         <sys_update_name>pa_tabs_0dcbc6d1db1f7f00b26388805b9619b1</sys_update_name>
         <sys_updated_by>AnnAal</sys_updated_by>
-        <sys_updated_on>2019-08-30 13:04:57</sys_updated_on>
+        <sys_updated_on>2019-11-21 09:36:00</sys_updated_on>
     </pa_tabs>
 </record_update>

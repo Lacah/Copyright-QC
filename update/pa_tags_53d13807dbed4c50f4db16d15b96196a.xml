@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tags">
+    <pa_tags action="INSERT_OR_UPDATE">
+        <description/>
+        <label>QC not reporting error</label>
+        <sys_class_name>pa_tags</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2019-12-10 11:52:23</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>53d13807dbed4c50f4db16d15b96196a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>QC not reporting error</sys_name>
+        <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
+        <sys_update_name>pa_tags_53d13807dbed4c50f4db16d15b96196a</sys_update_name>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2019-12-10 11:52:23</sys_updated_on>
+    </pa_tags>
+    <sys_translated_text action="delete_multiple" query="documentkey=53d13807dbed4c50f4db16d15b96196a"/>
+</record_update>

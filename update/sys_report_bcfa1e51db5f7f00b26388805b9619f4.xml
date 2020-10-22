@@ -2,7 +2,9 @@
     <sys_report action="INSERT_OR_UPDATE">
         <additional_groupby/>
         <aggregate>COUNT</aggregate>
+        <aggregation_source/>
         <allow_data_label_overlap>false</allow_data_label_overlap>
+        <apply_alias>true</apply_alias>
         <axis_max_color display_value="UI14 Blue Light">b0d449b3d7332100fa6c0c12ce610383</axis_max_color>
         <axis_min_color display_value="White">65b303c7a9fe3dba00629aff95ee3597</axis_min_color>
         <bar_unstack>false</bar_unstack>
@@ -44,8 +46,8 @@
         <exp_report_attrs>true</exp_report_attrs>
         <field>type</field>
         <field_list>number,opened_at,short_description,caller_id,caller_id.company,priority,state,u_product_category,assignment_group,assigned_to,sys_updated_on</field_list>
-        <filter table="x_ipegh_copyright_qc">area=cases^stateNOT IN-1,8^sys_created_onONThis month@javascript:gs.beginningOfThisMonth()@javascript:gs.endOfThisMonth()<item endquery="false" field="area" goto="false" newquery="false" operator="=" or="false" value="cases"/>
-            <item endquery="false" field="state" goto="false" newquery="false" operator="NOT IN" or="false" value="-1,8"/>
+        <filter table="x_ipegh_copyright_qc">area=cases^stateNOT IN-1,8^sys_created_onONThis month@javascript:gs.beginningOfThisMonth()@javascript:gs.endOfThisMonth()<item display_value="Cases" endquery="false" field="area" goto="false" newquery="false" operator="=" or="false" value="cases"/>
+            <item display_value="-1,8" endquery="false" field="state" goto="false" newquery="false" operator="NOT IN" or="false" value="-1,8"/>
             <item endquery="false" field="sys_created_on" goto="false" newquery="false" operator="ON" or="false" value="This month@javascript:gs.beginningOfThisMonth()@javascript:gs.endOfThisMonth()"/>
         </filter>
         <from/>

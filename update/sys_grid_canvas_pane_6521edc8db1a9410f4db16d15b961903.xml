@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+        <grid_canvas display_value="PA QC administration - New Tab 12">19869948dbd69410f4db16d15b961906</grid_canvas>
+        <height>5</height>
+        <portal_widget display_value="Created 24 Jul, 2020 12:35:20">2121a1c8db1a9410f4db16d15b961914</portal_widget>
+        <posx>0</posx>
+        <posy>0</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>AnnAal</sys_created_by>
+        <sys_created_on>2020-07-24 10:35:20</sys_created_on>
+        <sys_id>6521edc8db1a9410f4db16d15b961903</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>19869948dbd69410f4db16d15b961906</sys_name>
+        <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_6521edc8db1a9410f4db16d15b961903</sys_update_name>
+        <sys_updated_by>AnnAal</sys_updated_by>
+        <sys_updated_on>2020-07-24 10:35:35</sys_updated_on>
+        <width>12</width>
+    </sys_grid_canvas_pane>
+</record_update>

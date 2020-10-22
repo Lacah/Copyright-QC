@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="customer" table="x_ipegh_copyright_qc" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>customer</element>
+            <name>x_ipegh_copyright_qc</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-10-21 09:00:56</sys_created_on>
+            <sys_id>822be63adba44010f4db16d15b9619c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>customer</sys_name>
+            <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
+            <sys_update_name>sys_choice_x_ipegh_copyright_qc_customer</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-10-21 09:00:56</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>customer</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Buma/Stemra</label>
+            <language>en</language>
+            <name>x_ipegh_copyright_qc</name>
+            <sequence>0</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-10-21 09:00:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8e2be63adba44010f4db16d15b9619bf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-10-21 09:00:56</sys_updated_on>
+            <u_core_customer_selectable>false</u_core_customer_selectable>
+            <u_customer_visible>false</u_customer_visible>
+            <u_gema_selectable>false</u_gema_selectable>
+            <u_option_3_customer_selectable>false</u_option_3_customer_selectable>
+            <u_stim_selectable_choice>false</u_stim_selectable_choice>
+            <value>BUMA</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>customer</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Koda</label>
+            <language>en</language>
+            <name>x_ipegh_copyright_qc</name>
+            <sequence>0</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-10-21 09:00:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ce2be63adba44010f4db16d15b9619bf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-10-21 09:00:56</sys_updated_on>
+            <u_core_customer_selectable>false</u_core_customer_selectable>
+            <u_customer_visible>false</u_customer_visible>
+            <u_gema_selectable>false</u_gema_selectable>
+            <u_option_3_customer_selectable>false</u_option_3_customer_selectable>
+            <u_stim_selectable_choice>false</u_stim_selectable_choice>
+            <value>KODA</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>customer</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Polaris</label>
+            <language>en</language>
+            <name>x_ipegh_copyright_qc</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-10-21 09:00:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>022be63adba44010f4db16d15b9619c0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-10-21 09:00:56</sys_updated_on>
+            <u_core_customer_selectable>false</u_core_customer_selectable>
+            <u_customer_visible>false</u_customer_visible>
+            <u_gema_selectable>false</u_gema_selectable>
+            <u_option_3_customer_selectable>false</u_option_3_customer_selectable>
+            <u_stim_selectable_choice>false</u_stim_selectable_choice>
+            <value>Polaris</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>customer</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Teosto</label>
+            <language>en</language>
+            <name>x_ipegh_copyright_qc</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-10-21 09:00:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>422be63adba44010f4db16d15b9619c0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-10-21 09:00:56</sys_updated_on>
+            <u_core_customer_selectable>false</u_core_customer_selectable>
+            <u_customer_visible>false</u_customer_visible>
+            <u_gema_selectable>false</u_gema_selectable>
+            <u_option_3_customer_selectable>false</u_option_3_customer_selectable>
+            <u_stim_selectable_choice>false</u_stim_selectable_choice>
+            <value>TEOSTO</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>customer</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PRS</label>
+            <language>en</language>
+            <name>x_ipegh_copyright_qc</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-10-21 09:00:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>822be63adba44010f4db16d15b9619c0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-10-21 09:00:56</sys_updated_on>
+            <u_core_customer_selectable>false</u_core_customer_selectable>
+            <u_customer_visible>false</u_customer_visible>
+            <u_gema_selectable>false</u_gema_selectable>
+            <u_option_3_customer_selectable>false</u_option_3_customer_selectable>
+            <u_stim_selectable_choice>false</u_stim_selectable_choice>
+            <value>PRS</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>customer</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Tono</label>
+            <language>en</language>
+            <name>x_ipegh_copyright_qc</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-10-21 09:00:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c22be63adba44010f4db16d15b9619c0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-10-21 09:00:56</sys_updated_on>
+            <u_core_customer_selectable>false</u_core_customer_selectable>
+            <u_customer_visible>false</u_customer_visible>
+            <u_gema_selectable>false</u_gema_selectable>
+            <u_option_3_customer_selectable>false</u_option_3_customer_selectable>
+            <u_stim_selectable_choice>false</u_stim_selectable_choice>
+            <value>TONO</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>customer</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PRS APT</label>
+            <language>en</language>
+            <name>x_ipegh_copyright_qc</name>
+            <sequence>3</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-10-21 09:00:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>062be63adba44010f4db16d15b9619c0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-10-21 09:00:56</sys_updated_on>
+            <u_core_customer_selectable>false</u_core_customer_selectable>
+            <u_customer_visible>false</u_customer_visible>
+            <u_gema_selectable>false</u_gema_selectable>
+            <u_option_3_customer_selectable>false</u_option_3_customer_selectable>
+            <u_stim_selectable_choice>false</u_stim_selectable_choice>
+            <value>PRS APT</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>customer</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>PRS counterclaims</label>
+            <language>en</language>
+            <name>x_ipegh_copyright_qc</name>
+            <sequence>4</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-10-21 09:00:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>462be63adba44010f4db16d15b9619c0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-10-21 09:00:56</sys_updated_on>
+            <u_core_customer_selectable>false</u_core_customer_selectable>
+            <u_customer_visible>false</u_customer_visible>
+            <u_gema_selectable>false</u_gema_selectable>
+            <u_option_3_customer_selectable>false</u_option_3_customer_selectable>
+            <u_stim_selectable_choice>false</u_stim_selectable_choice>
+            <value>PRS_Counterclaims</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>customer</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sabam</label>
+            <language>en</language>
+            <name>x_ipegh_copyright_qc</name>
+            <sequence>5</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-10-21 09:00:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>862be63adba44010f4db16d15b9619c0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-10-21 09:00:56</sys_updated_on>
+            <u_core_customer_selectable>false</u_core_customer_selectable>
+            <u_customer_visible>false</u_customer_visible>
+            <u_gema_selectable>false</u_gema_selectable>
+            <u_option_3_customer_selectable>false</u_option_3_customer_selectable>
+            <u_stim_selectable_choice>false</u_stim_selectable_choice>
+            <value>SABAM</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>customer</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>STIM</label>
+            <language>en</language>
+            <name>x_ipegh_copyright_qc</name>
+            <sequence>6</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-10-21 09:00:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c62be63adba44010f4db16d15b9619c0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-10-21 09:00:56</sys_updated_on>
+            <u_core_customer_selectable>false</u_core_customer_selectable>
+            <u_customer_visible>false</u_customer_visible>
+            <u_gema_selectable>false</u_gema_selectable>
+            <u_option_3_customer_selectable>false</u_option_3_customer_selectable>
+            <u_stim_selectable_choice>false</u_stim_selectable_choice>
+            <value>STIM</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

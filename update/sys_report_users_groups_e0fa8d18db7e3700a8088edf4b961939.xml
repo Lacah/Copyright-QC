@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
     <sys_report_users_groups action="INSERT_OR_UPDATE">
-        <group_id display_value="QC - User" name="QC - User">3255422ddb1a3340a8088edf4b96196f</group_id>
+        <group_id display_value="QC - User" name="QC - User">d6e7262edb1f73005e5783305b9619b8</group_id>
         <report_id display_value="Total sample">e8aa0558db7e3700a8088edf4b961907</report_id>
         <sys_class_name>sys_report_users_groups</sys_class_name>
         <sys_created_by>LasBal</sys_created_by>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_indicator_tags">
+    <pa_m2m_indicator_tags action="INSERT_OR_UPDATE">
+        <indicator display_value="QC correct cases">91e6a174dbad48505e5783305b9619a1</indicator>
+        <order>100</order>
+        <sys_class_name>pa_m2m_indicator_tags</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2019-12-10 11:54:15</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5852b447dbed4c50f4db16d15b961952</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>QC correct cases.QC correct and minor</sys_name>
+        <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
+        <sys_update_name>pa_m2m_indicator_tags_5852b447dbed4c50f4db16d15b961952</sys_update_name>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2019-12-10 11:54:15</sys_updated_on>
+        <tag display_value="QC correct and minor">f632f047dbed4c50f4db16d15b9619a2</tag>
+    </pa_m2m_indicator_tags>
+</record_update>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2020-01-13 12:15:50">
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2020-10-22 14:07:30">
     <sys_portal_page action="INSERT_OR_UPDATE">
         <layout/>
         <order/>
@@ -28,6 +28,375 @@
                 <dropzone/>
                 <offset/>
                 <page display_value="PA Active Works">cb8b8a91db1f7f00b26388805b9619f3</page>
+                <summary>Reporting period</summary>
+                <sys_created_by>AnnAal</sys_created_by>
+                <sys_created_on>2019-11-20 15:31:32</sys_created_on>
+                <sys_id>0c446aa8db1184105e5783305b961986</sys_id>
+                <sys_mod_count>2</sys_mod_count>
+                <sys_updated_by>AnnAal</sys_updated_by>
+                <sys_updated_on>2019-12-13 10:23:55</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 20 Nov, 2019 16:31:32">0c446aa8db1184105e5783305b961986</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2019-11-20 15:31:32</sys_created_on>
+                        <sys_id>00446aa8db1184105e5783305b961987</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2019-11-20 15:31:32</sys_updated_on>
+                        <value>c8691a60dbdd44105e5783305b961921</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 20 Nov, 2019 16:31:32">0c446aa8db1184105e5783305b961986</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2019-11-20 15:31:32</sys_created_on>
+                        <sys_id>04446aa8db1184105e5783305b961988</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2019-11-20 15:31:32</sys_updated_on>
+                        <value>-1</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_publish</name>
+                        <portal_section display_value="Created 20 Nov, 2019 16:31:32">0c446aa8db1184105e5783305b961986</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2019-11-20 15:31:32</sys_created_on>
+                        <sys_id>08446aa8db1184105e5783305b961987</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2019-11-20 15:31:32</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 20 Nov, 2019 16:31:32">0c446aa8db1184105e5783305b961986</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2019-11-20 15:31:32</sys_created_on>
+                        <sys_id>44446aa8db1184105e5783305b961987</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2019-11-20 15:31:32</sys_updated_on>
+                        <value>com.glideapp.home.RenderHomepagePublishers</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 20 Nov, 2019 16:31:32">0c446aa8db1184105e5783305b961986</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2019-11-20 15:32:13</sys_created_on>
+                        <sys_id>5264e6a8db1184105e5783305b9619c5</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2019-11-20 15:32:13</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 20 Nov, 2019 16:31:32">0c446aa8db1184105e5783305b961986</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2019-11-20 15:32:13</sys_created_on>
+                        <sys_id>5664e6a8db1184105e5783305b9619c5</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2019-11-20 15:32:13</sys_updated_on>
+                        <value>left</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 20 Nov, 2019 16:31:32">0c446aa8db1184105e5783305b961986</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2019-11-20 15:32:13</sys_created_on>
+                        <sys_id>5a64e6a8db1184105e5783305b9619c5</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2019-11-20 15:32:13</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 20 Nov, 2019 16:31:32">0c446aa8db1184105e5783305b961986</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2019-11-20 15:32:13</sys_created_on>
+                        <sys_id>5e64e6a8db1184105e5783305b9619c4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2019-11-20 15:32:13</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>header_color</name>
+                        <portal_section display_value="Created 20 Nov, 2019 16:31:32">0c446aa8db1184105e5783305b961986</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2019-11-21 10:06:10</sys_created_on>
+                        <sys_id>7f53aafcdb51c4105e5783305b9619a5</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2019-11-21 12:15:04</sys_updated_on>
+                        <value>#f78080</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 20 Nov, 2019 16:31:32">0c446aa8db1184105e5783305b961986</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2019-11-20 15:31:32</sys_created_on>
+                        <sys_id>8c446aa8db1184105e5783305b961987</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2019-12-13 10:23:55</sys_updated_on>
+                        <value>Reporting period</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 20 Nov, 2019 16:31:32">0c446aa8db1184105e5783305b961986</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2019-11-20 15:32:14</sys_created_on>
+                        <sys_id>9a642ea8db1184105e5783305b9619ae</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2019-11-20 15:32:14</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 20 Nov, 2019 16:31:32">0c446aa8db1184105e5783305b961986</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2019-11-20 15:31:32</sys_created_on>
+                        <sys_id>c8446aa8db1184105e5783305b961987</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2019-11-20 15:31:32</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 20 Nov, 2019 16:31:32">0c446aa8db1184105e5783305b961986</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2019-11-20 15:32:14</sys_created_on>
+                        <sys_id>d264e6a8db1184105e5783305b9619c6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2019-11-20 15:32:14</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 20 Nov, 2019 16:31:32">0c446aa8db1184105e5783305b961986</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2019-11-20 15:32:13</sys_created_on>
+                        <sys_id>de64e6a8db1184105e5783305b9619c5</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2019-11-20 15:32:13</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Active Works">cb8b8a91db1f7f00b26388805b9619f3</page>
+                <summary>Works - My pending approvals</summary>
+                <sys_created_by>AnnAal</sys_created_by>
+                <sys_created_on>2019-10-24 10:46:21</sys_created_on>
+                <sys_id>27006233db24c4105e5783305b96191f</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>AnnAal</sys_updated_by>
+                <sys_updated_on>2019-10-24 10:46:22</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 24 Oct, 2019 12:46:21">27006233db24c4105e5783305b96191f</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2019-10-24 10:46:22</sys_created_on>
+                        <sys_id>37006233db24c4105e5783305b961921</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2019-10-24 10:46:22</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 24 Oct, 2019 12:46:21">27006233db24c4105e5783305b96191f</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2019-10-24 10:47:25</sys_created_on>
+                        <sys_id>4340e233db24c4105e5783305b9619db</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2019-10-24 10:47:25</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 24 Oct, 2019 12:46:21">27006233db24c4105e5783305b96191f</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2019-10-24 10:47:25</sys_created_on>
+                        <sys_id>4340e233db24c4105e5783305b9619dc</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2019-10-24 10:47:25</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 24 Oct, 2019 12:46:21">27006233db24c4105e5783305b96191f</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2019-10-24 10:47:25</sys_created_on>
+                        <sys_id>4740e233db24c4105e5783305b9619da</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2019-10-24 10:47:25</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 24 Oct, 2019 12:46:21">27006233db24c4105e5783305b96191f</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2019-10-24 10:47:25</sys_created_on>
+                        <sys_id>4740e233db24c4105e5783305b9619db</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2019-10-24 10:47:25</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 24 Oct, 2019 12:46:21">27006233db24c4105e5783305b96191f</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2019-10-24 10:47:25</sys_created_on>
+                        <sys_id>4b40e233db24c4105e5783305b9619da</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2019-10-24 10:47:25</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 24 Oct, 2019 12:46:21">27006233db24c4105e5783305b96191f</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2019-10-24 10:47:25</sys_created_on>
+                        <sys_id>4b40e233db24c4105e5783305b9619db</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2019-11-20 15:33:11</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 24 Oct, 2019 12:46:21">27006233db24c4105e5783305b96191f</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2019-10-24 10:47:25</sys_created_on>
+                        <sys_id>4f40e233db24c4105e5783305b9619da</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2019-10-24 10:47:25</sys_updated_on>
+                        <value>center</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 24 Oct, 2019 12:46:21">27006233db24c4105e5783305b96191f</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2019-10-24 10:47:25</sys_created_on>
+                        <sys_id>4f40e233db24c4105e5783305b9619db</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2019-11-20 15:33:11</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_real_time</name>
+                        <portal_section display_value="Created 24 Oct, 2019 12:46:21">27006233db24c4105e5783305b96191f</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2019-10-24 10:46:22</sys_created_on>
+                        <sys_id>73006233db24c4105e5783305b961921</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2019-10-24 10:46:22</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>header_color</name>
+                        <portal_section display_value="Created 24 Oct, 2019 12:46:21">27006233db24c4105e5783305b96191f</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2019-11-21 10:05:52</sys_created_on>
+                        <sys_id>9343e6bcdb51c4105e5783305b961916</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2019-11-21 12:14:53</sys_updated_on>
+                        <value>#f78080</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 24 Oct, 2019 12:46:21">27006233db24c4105e5783305b96191f</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2019-10-24 10:46:22</sys_created_on>
+                        <sys_id>bb006233db24c4105e5783305b961921</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2019-10-24 10:46:22</sys_updated_on>
+                        <value>Works - My pending approvals</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 24 Oct, 2019 12:46:21">27006233db24c4105e5783305b96191f</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2019-10-24 10:46:22</sys_created_on>
+                        <sys_id>bf006233db24c4105e5783305b961920</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2019-10-24 10:46:22</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 24 Oct, 2019 12:46:21">27006233db24c4105e5783305b96191f</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2019-10-24 10:46:21</sys_created_on>
+                        <sys_id>ef006233db24c4105e5783305b96191f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2019-10-24 10:46:21</sys_updated_on>
+                        <value>207cd63bdbe0c4105e5783305b96199d</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 24 Oct, 2019 12:46:21">27006233db24c4105e5783305b96191f</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2019-10-24 10:46:22</sys_created_on>
+                        <sys_id>f7006233db24c4105e5783305b961921</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2019-10-24 10:46:22</sys_updated_on>
+                        <value>single_score</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>is_using_database_view</name>
+                        <portal_section display_value="Created 24 Oct, 2019 12:46:21">27006233db24c4105e5783305b96191f</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2019-10-24 10:46:22</sys_created_on>
+                        <sys_id>f7006233db24c4105e5783305b961922</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2019-10-24 10:46:22</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 24 Oct, 2019 12:46:21">27006233db24c4105e5783305b96191f</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2019-10-24 10:46:22</sys_created_on>
+                        <sys_id>fb006233db24c4105e5783305b961920</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2019-10-24 10:46:22</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Active Works">cb8b8a91db1f7f00b26388805b9619f3</page>
                 <summary>Works QC waiting for me</summary>
                 <sys_created_by>LasBal</sys_created_by>
                 <sys_created_on>2019-08-15 11:41:09</sys_created_on>
@@ -38,7 +407,7 @@
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title</name>
-                        <portal_section display_value="Created 2019-08-15 13:41:09">374d0615db1f7f00b26388805b96192f</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 13:41:09">374d0615db1f7f00b26388805b96192f</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 11:41:09</sys_created_on>
                         <sys_id>3b4d0615db1f7f00b26388805b961930</sys_id>
@@ -48,8 +417,19 @@
                         <value>Works QC waiting for me</value>
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>header_color</name>
+                        <portal_section display_value="Created 15 Aug, 2019 13:41:09">374d0615db1f7f00b26388805b96192f</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2019-11-21 10:05:45</sys_created_on>
+                        <sys_id>7543aafcdb51c4105e5783305b961963</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2019-11-21 12:14:48</sys_updated_on>
+                        <value>#f78080</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_subscribe</name>
-                        <portal_section display_value="Created 2019-08-15 13:41:09">374d0615db1f7f00b26388805b96192f</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 13:41:09">374d0615db1f7f00b26388805b96192f</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 11:41:09</sys_created_on>
                         <sys_id>774d0615db1f7f00b26388805b961930</sys_id>
@@ -60,7 +440,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>sys_id</name>
-                        <portal_section display_value="Created 2019-08-15 13:41:09">374d0615db1f7f00b26388805b96192f</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 13:41:09">374d0615db1f7f00b26388805b96192f</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 11:41:09</sys_created_on>
                         <sys_id>7b4d0615db1f7f00b26388805b96192f</sys_id>
@@ -71,7 +451,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_title</name>
-                        <portal_section display_value="Created 2019-08-15 13:41:09">374d0615db1f7f00b26388805b96192f</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 13:41:09">374d0615db1f7f00b26388805b96192f</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 11:50:28</sys_created_on>
                         <sys_id>907f42d5db1f7f00b26388805b9619fe</sys_id>
@@ -82,7 +462,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>publisher_widget</name>
-                        <portal_section display_value="Created 2019-08-15 13:41:09">374d0615db1f7f00b26388805b96192f</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 13:41:09">374d0615db1f7f00b26388805b96192f</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 11:50:28</sys_created_on>
                         <sys_id>907f42d5db1f7f00b26388805b9619ff</sys_id>
@@ -93,7 +473,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_header</name>
-                        <portal_section display_value="Created 2019-08-15 13:41:09">374d0615db1f7f00b26388805b96192f</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 13:41:09">374d0615db1f7f00b26388805b96192f</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 11:50:28</sys_created_on>
                         <sys_id>947f42d5db1f7f00b26388805b9619fe</sys_id>
@@ -104,7 +484,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>subscriber_widget</name>
-                        <portal_section display_value="Created 2019-08-15 13:41:09">374d0615db1f7f00b26388805b96192f</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 13:41:09">374d0615db1f7f00b26388805b96192f</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 11:50:28</sys_created_on>
                         <sys_id>947f42d5db1f7f00b26388805b9619ff</sys_id>
@@ -115,7 +495,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title_align</name>
-                        <portal_section display_value="Created 2019-08-15 13:41:09">374d0615db1f7f00b26388805b96192f</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 13:41:09">374d0615db1f7f00b26388805b96192f</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 11:50:28</sys_created_on>
                         <sys_id>987f42d5db1f7f00b26388805b9619fe</sys_id>
@@ -126,7 +506,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>filter_indicator</name>
-                        <portal_section display_value="Created 2019-08-15 13:41:09">374d0615db1f7f00b26388805b96192f</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 13:41:09">374d0615db1f7f00b26388805b96192f</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 11:50:28</sys_created_on>
                         <sys_id>987f42d5db1f7f00b26388805b9619ff</sys_id>
@@ -137,7 +517,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_border</name>
-                        <portal_section display_value="Created 2019-08-15 13:41:09">374d0615db1f7f00b26388805b96192f</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 13:41:09">374d0615db1f7f00b26388805b96192f</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 11:50:28</sys_created_on>
                         <sys_id>9c7f42d5db1f7f00b26388805b9619fe</sys_id>
@@ -148,7 +528,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>real_time</name>
-                        <portal_section display_value="Created 2019-08-15 13:41:09">374d0615db1f7f00b26388805b96192f</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 13:41:09">374d0615db1f7f00b26388805b96192f</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 11:50:28</sys_created_on>
                         <sys_id>9c7f42d5db1f7f00b26388805b9619ff</sys_id>
@@ -159,7 +539,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>help_text_window</name>
-                        <portal_section display_value="Created 2019-08-15 13:41:09">374d0615db1f7f00b26388805b96192f</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 13:41:09">374d0615db1f7f00b26388805b96192f</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 11:41:09</sys_created_on>
                         <sys_id>b34d0615db1f7f00b26388805b961930</sys_id>
@@ -170,7 +550,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>renderer</name>
-                        <portal_section display_value="Created 2019-08-15 13:41:09">374d0615db1f7f00b26388805b96192f</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 13:41:09">374d0615db1f7f00b26388805b96192f</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 11:41:09</sys_created_on>
                         <sys_id>ff4d0615db1f7f00b26388805b96192f</sys_id>
@@ -195,7 +575,7 @@
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title</name>
-                        <portal_section display_value="Created 2019-08-15 14:04:55">77b29699db1f7f00b26388805b961976</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:04:55">77b29699db1f7f00b26388805b961976</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:04:55</sys_created_on>
                         <sys_id>3bb29699db1f7f00b26388805b961977</sys_id>
@@ -206,7 +586,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_header</name>
-                        <portal_section display_value="Created 2019-08-15 14:04:55">77b29699db1f7f00b26388805b961976</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:04:55">77b29699db1f7f00b26388805b961976</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:27:54</sys_created_on>
                         <sys_id>60085e9ddb1f7f00b26388805b9619a6</sys_id>
@@ -217,18 +597,18 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>subscriber_widget</name>
-                        <portal_section display_value="Created 2019-08-15 14:04:55">77b29699db1f7f00b26388805b961976</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:04:55">77b29699db1f7f00b26388805b961976</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:27:54</sys_created_on>
                         <sys_id>60085e9ddb1f7f00b26388805b9619a7</sys_id>
-                        <sys_mod_count>0</sys_mod_count>
-                        <sys_updated_by>LasBal</sys_updated_by>
-                        <sys_updated_on>2019-08-15 12:27:54</sys_updated_on>
-                        <value>false</value>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2019-12-16 08:36:26</sys_updated_on>
+                        <value>true</value>
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title_align</name>
-                        <portal_section display_value="Created 2019-08-15 14:04:55">77b29699db1f7f00b26388805b961976</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:04:55">77b29699db1f7f00b26388805b961976</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:27:54</sys_created_on>
                         <sys_id>64085e9ddb1f7f00b26388805b9619a6</sys_id>
@@ -239,18 +619,18 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>filter_indicator</name>
-                        <portal_section display_value="Created 2019-08-15 14:04:55">77b29699db1f7f00b26388805b961976</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:04:55">77b29699db1f7f00b26388805b961976</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:27:54</sys_created_on>
                         <sys_id>64085e9ddb1f7f00b26388805b9619a7</sys_id>
-                        <sys_mod_count>0</sys_mod_count>
-                        <sys_updated_by>LasBal</sys_updated_by>
-                        <sys_updated_on>2019-08-15 12:27:54</sys_updated_on>
-                        <value>false</value>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2019-12-16 08:36:26</sys_updated_on>
+                        <value>true</value>
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_border</name>
-                        <portal_section display_value="Created 2019-08-15 14:04:55">77b29699db1f7f00b26388805b961976</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:04:55">77b29699db1f7f00b26388805b961976</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:27:54</sys_created_on>
                         <sys_id>68085e9ddb1f7f00b26388805b9619a6</sys_id>
@@ -261,7 +641,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>real_time</name>
-                        <portal_section display_value="Created 2019-08-15 14:04:55">77b29699db1f7f00b26388805b961976</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:04:55">77b29699db1f7f00b26388805b961976</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:27:54</sys_created_on>
                         <sys_id>68085e9ddb1f7f00b26388805b9619a7</sys_id>
@@ -272,7 +652,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_title</name>
-                        <portal_section display_value="Created 2019-08-15 14:04:55">77b29699db1f7f00b26388805b961976</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:04:55">77b29699db1f7f00b26388805b961976</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:27:54</sys_created_on>
                         <sys_id>6c085e9ddb1f7f00b26388805b9619a5</sys_id>
@@ -283,7 +663,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>publisher_widget</name>
-                        <portal_section display_value="Created 2019-08-15 14:04:55">77b29699db1f7f00b26388805b961976</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:04:55">77b29699db1f7f00b26388805b961976</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:27:54</sys_created_on>
                         <sys_id>6c085e9ddb1f7f00b26388805b9619a6</sys_id>
@@ -294,7 +674,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_subscribe</name>
-                        <portal_section display_value="Created 2019-08-15 14:04:55">77b29699db1f7f00b26388805b961976</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:04:55">77b29699db1f7f00b26388805b961976</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:04:55</sys_created_on>
                         <sys_id>77b29699db1f7f00b26388805b961977</sys_id>
@@ -305,7 +685,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>sys_id</name>
-                        <portal_section display_value="Created 2019-08-15 14:04:55">77b29699db1f7f00b26388805b961976</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:04:55">77b29699db1f7f00b26388805b961976</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:04:55</sys_created_on>
                         <sys_id>7bb29699db1f7f00b26388805b961976</sys_id>
@@ -316,7 +696,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>help_text_window</name>
-                        <portal_section display_value="Created 2019-08-15 14:04:55">77b29699db1f7f00b26388805b961976</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:04:55">77b29699db1f7f00b26388805b961976</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:04:55</sys_created_on>
                         <sys_id>b3b29699db1f7f00b26388805b961977</sys_id>
@@ -326,8 +706,19 @@
                         <value>report_widget_description</value>
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>header_color</name>
+                        <portal_section display_value="Created 15 Aug, 2019 14:04:55">77b29699db1f7f00b26388805b961976</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2019-11-21 10:06:06</sys_created_on>
+                        <sys_id>e653aefcdb51c4105e5783305b9619e8</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2019-11-21 12:15:08</sys_updated_on>
+                        <value>#f78080</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>renderer</name>
-                        <portal_section display_value="Created 2019-08-15 14:04:55">77b29699db1f7f00b26388805b961976</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:04:55">77b29699db1f7f00b26388805b961976</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:04:55</sys_created_on>
                         <sys_id>ffb29699db1f7f00b26388805b961976</sys_id>
@@ -352,7 +743,7 @@
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>real_time</name>
-                        <portal_section display_value="Created 2019-08-15 14:44:34">b4db52d1db5f7f00b26388805b9619f9</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:44:34">b4db52d1db5f7f00b26388805b9619f9</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:45:13</sys_created_on>
                         <sys_id>12fb1ad1db5f7f00b26388805b961982</sys_id>
@@ -363,7 +754,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>publisher_widget</name>
-                        <portal_section display_value="Created 2019-08-15 14:44:34">b4db52d1db5f7f00b26388805b9619f9</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:44:34">b4db52d1db5f7f00b26388805b9619f9</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:45:13</sys_created_on>
                         <sys_id>16fb1ad1db5f7f00b26388805b961981</sys_id>
@@ -374,7 +765,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>subscriber_widget</name>
-                        <portal_section display_value="Created 2019-08-15 14:44:34">b4db52d1db5f7f00b26388805b9619f9</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:44:34">b4db52d1db5f7f00b26388805b9619f9</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:45:13</sys_created_on>
                         <sys_id>1afb1ad1db5f7f00b26388805b961981</sys_id>
@@ -385,7 +776,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>filter_indicator</name>
-                        <portal_section display_value="Created 2019-08-15 14:44:34">b4db52d1db5f7f00b26388805b9619f9</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:44:34">b4db52d1db5f7f00b26388805b9619f9</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:45:13</sys_created_on>
                         <sys_id>1efb1ad1db5f7f00b26388805b961981</sys_id>
@@ -396,7 +787,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>is_using_database_view</name>
-                        <portal_section display_value="Created 2019-08-15 14:44:34">b4db52d1db5f7f00b26388805b9619f9</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:44:34">b4db52d1db5f7f00b26388805b9619f9</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:44:34</sys_created_on>
                         <sys_id>34db52d1db5f7f00b26388805b9619fb</sys_id>
@@ -407,7 +798,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_subscribe</name>
-                        <portal_section display_value="Created 2019-08-15 14:44:34">b4db52d1db5f7f00b26388805b9619f9</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:44:34">b4db52d1db5f7f00b26388805b9619f9</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:44:34</sys_created_on>
                         <sys_id>38db52d1db5f7f00b26388805b9619fa</sys_id>
@@ -418,7 +809,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_publish</name>
-                        <portal_section display_value="Created 2019-08-15 14:44:34">b4db52d1db5f7f00b26388805b9619f9</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:44:34">b4db52d1db5f7f00b26388805b9619f9</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:44:34</sys_created_on>
                         <sys_id>74db52d1db5f7f00b26388805b9619fa</sys_id>
@@ -428,8 +819,19 @@
                         <value>true</value>
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>header_color</name>
+                        <portal_section display_value="Created 15 Aug, 2019 14:44:34">b4db52d1db5f7f00b26388805b9619f9</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2019-11-21 10:06:02</sys_created_on>
+                        <sys_id>7d53aafcdb51c4105e5783305b961968</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2019-11-21 12:15:01</sys_updated_on>
+                        <value>#f78080</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>help_text_window</name>
-                        <portal_section display_value="Created 2019-08-15 14:44:34">b4db52d1db5f7f00b26388805b9619f9</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:44:34">b4db52d1db5f7f00b26388805b9619f9</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:44:34</sys_created_on>
                         <sys_id>b0db52d1db5f7f00b26388805b9619fa</sys_id>
@@ -440,7 +842,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>sys_id</name>
-                        <portal_section display_value="Created 2019-08-15 14:44:34">b4db52d1db5f7f00b26388805b9619f9</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:44:34">b4db52d1db5f7f00b26388805b9619f9</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:44:34</sys_created_on>
                         <sys_id>b8db52d1db5f7f00b26388805b9619f9</sys_id>
@@ -451,7 +853,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title</name>
-                        <portal_section display_value="Created 2019-08-15 14:44:34">b4db52d1db5f7f00b26388805b9619f9</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:44:34">b4db52d1db5f7f00b26388805b9619f9</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:44:34</sys_created_on>
                         <sys_id>bcdb52d1db5f7f00b26388805b9619fa</sys_id>
@@ -462,7 +864,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_border</name>
-                        <portal_section display_value="Created 2019-08-15 14:44:34">b4db52d1db5f7f00b26388805b9619f9</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:44:34">b4db52d1db5f7f00b26388805b9619f9</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:45:13</sys_created_on>
                         <sys_id>d2fb12d1db5f7f00b26388805b9619f9</sys_id>
@@ -473,7 +875,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_title</name>
-                        <portal_section display_value="Created 2019-08-15 14:44:34">b4db52d1db5f7f00b26388805b9619f9</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:44:34">b4db52d1db5f7f00b26388805b9619f9</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:45:13</sys_created_on>
                         <sys_id>d6fb12d1db5f7f00b26388805b9619f8</sys_id>
@@ -484,7 +886,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_header</name>
-                        <portal_section display_value="Created 2019-08-15 14:44:34">b4db52d1db5f7f00b26388805b9619f9</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:44:34">b4db52d1db5f7f00b26388805b9619f9</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:45:13</sys_created_on>
                         <sys_id>dafb12d1db5f7f00b26388805b9619f8</sys_id>
@@ -495,7 +897,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title_align</name>
-                        <portal_section display_value="Created 2019-08-15 14:44:34">b4db52d1db5f7f00b26388805b9619f9</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:44:34">b4db52d1db5f7f00b26388805b9619f9</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:45:13</sys_created_on>
                         <sys_id>defb12d1db5f7f00b26388805b9619f8</sys_id>
@@ -506,7 +908,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>report_type</name>
-                        <portal_section display_value="Created 2019-08-15 14:44:34">b4db52d1db5f7f00b26388805b9619f9</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:44:34">b4db52d1db5f7f00b26388805b9619f9</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:44:34</sys_created_on>
                         <sys_id>f8db52d1db5f7f00b26388805b9619fa</sys_id>
@@ -517,7 +919,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>renderer</name>
-                        <portal_section display_value="Created 2019-08-15 14:44:34">b4db52d1db5f7f00b26388805b9619f9</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:44:34">b4db52d1db5f7f00b26388805b9619f9</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:44:34</sys_created_on>
                         <sys_id>fcdb52d1db5f7f00b26388805b9619f9</sys_id>
@@ -542,7 +944,7 @@
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>report_type</name>
-                        <portal_section display_value="Created 2019-08-15 14:29:23">d25896dddb1f7f00b26388805b9619de</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:29:23">d25896dddb1f7f00b26388805b9619de</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:29:23</sys_created_on>
                         <sys_id>1a5896dddb1f7f00b26388805b9619df</sys_id>
@@ -553,7 +955,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>renderer</name>
-                        <portal_section display_value="Created 2019-08-15 14:29:23">d25896dddb1f7f00b26388805b9619de</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:29:23">d25896dddb1f7f00b26388805b9619de</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:29:23</sys_created_on>
                         <sys_id>1e5896dddb1f7f00b26388805b9619de</sys_id>
@@ -564,7 +966,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_title</name>
-                        <portal_section display_value="Created 2019-08-15 14:29:23">d25896dddb1f7f00b26388805b9619de</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:29:23">d25896dddb1f7f00b26388805b9619de</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:29:48</sys_created_on>
                         <sys_id>2078d6dddb1f7f00b26388805b96199a</sys_id>
@@ -575,7 +977,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>publisher_widget</name>
-                        <portal_section display_value="Created 2019-08-15 14:29:23">d25896dddb1f7f00b26388805b9619de</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:29:23">d25896dddb1f7f00b26388805b9619de</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:29:48</sys_created_on>
                         <sys_id>2078d6dddb1f7f00b26388805b96199b</sys_id>
@@ -586,7 +988,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_header</name>
-                        <portal_section display_value="Created 2019-08-15 14:29:23">d25896dddb1f7f00b26388805b9619de</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:29:23">d25896dddb1f7f00b26388805b9619de</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:29:48</sys_created_on>
                         <sys_id>2478d6dddb1f7f00b26388805b96199a</sys_id>
@@ -597,7 +999,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>subscriber_widget</name>
-                        <portal_section display_value="Created 2019-08-15 14:29:23">d25896dddb1f7f00b26388805b9619de</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:29:23">d25896dddb1f7f00b26388805b9619de</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:29:48</sys_created_on>
                         <sys_id>2478d6dddb1f7f00b26388805b96199b</sys_id>
@@ -608,7 +1010,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title_align</name>
-                        <portal_section display_value="Created 2019-08-15 14:29:23">d25896dddb1f7f00b26388805b9619de</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:29:23">d25896dddb1f7f00b26388805b9619de</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:29:48</sys_created_on>
                         <sys_id>2878d6dddb1f7f00b26388805b96199a</sys_id>
@@ -619,7 +1021,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>filter_indicator</name>
-                        <portal_section display_value="Created 2019-08-15 14:29:23">d25896dddb1f7f00b26388805b9619de</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:29:23">d25896dddb1f7f00b26388805b9619de</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:29:48</sys_created_on>
                         <sys_id>2878d6dddb1f7f00b26388805b96199b</sys_id>
@@ -630,7 +1032,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_border</name>
-                        <portal_section display_value="Created 2019-08-15 14:29:23">d25896dddb1f7f00b26388805b9619de</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:29:23">d25896dddb1f7f00b26388805b9619de</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:29:48</sys_created_on>
                         <sys_id>2c78d6dddb1f7f00b26388805b96199a</sys_id>
@@ -641,7 +1043,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>real_time</name>
-                        <portal_section display_value="Created 2019-08-15 14:29:23">d25896dddb1f7f00b26388805b9619de</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:29:23">d25896dddb1f7f00b26388805b9619de</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:29:48</sys_created_on>
                         <sys_id>2c78d6dddb1f7f00b26388805b96199b</sys_id>
@@ -652,7 +1054,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>is_using_database_view</name>
-                        <portal_section display_value="Created 2019-08-15 14:29:23">d25896dddb1f7f00b26388805b9619de</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:29:23">d25896dddb1f7f00b26388805b9619de</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:29:23</sys_created_on>
                         <sys_id>525896dddb1f7f00b26388805b9619e0</sys_id>
@@ -663,7 +1065,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_subscribe</name>
-                        <portal_section display_value="Created 2019-08-15 14:29:23">d25896dddb1f7f00b26388805b9619de</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:29:23">d25896dddb1f7f00b26388805b9619de</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:29:23</sys_created_on>
                         <sys_id>565896dddb1f7f00b26388805b9619df</sys_id>
@@ -674,7 +1076,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_publish</name>
-                        <portal_section display_value="Created 2019-08-15 14:29:23">d25896dddb1f7f00b26388805b9619de</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:29:23">d25896dddb1f7f00b26388805b9619de</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:29:23</sys_created_on>
                         <sys_id>925896dddb1f7f00b26388805b9619df</sys_id>
@@ -685,7 +1087,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>sys_id</name>
-                        <portal_section display_value="Created 2019-08-15 14:29:23">d25896dddb1f7f00b26388805b9619de</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:29:23">d25896dddb1f7f00b26388805b9619de</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:29:23</sys_created_on>
                         <sys_id>d65896dddb1f7f00b26388805b9619de</sys_id>
@@ -696,7 +1098,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title</name>
-                        <portal_section display_value="Created 2019-08-15 14:29:23">d25896dddb1f7f00b26388805b9619de</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:29:23">d25896dddb1f7f00b26388805b9619de</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:29:23</sys_created_on>
                         <sys_id>da5896dddb1f7f00b26388805b9619df</sys_id>
@@ -707,7 +1109,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>help_text_window</name>
-                        <portal_section display_value="Created 2019-08-15 14:29:23">d25896dddb1f7f00b26388805b9619de</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:29:23">d25896dddb1f7f00b26388805b9619de</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:29:23</sys_created_on>
                         <sys_id>de5896dddb1f7f00b26388805b9619de</sys_id>
@@ -732,7 +1134,7 @@
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>report_type</name>
-                        <portal_section display_value="Created 2019-08-15 14:00:30">d3b15659db1f7f00b26388805b9619d5</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:00:30">d3b15659db1f7f00b26388805b9619d5</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:00:30</sys_created_on>
                         <sys_id>1bb15659db1f7f00b26388805b9619d6</sys_id>
@@ -743,7 +1145,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>renderer</name>
-                        <portal_section display_value="Created 2019-08-15 14:00:30">d3b15659db1f7f00b26388805b9619d5</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:00:30">d3b15659db1f7f00b26388805b9619d5</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:00:30</sys_created_on>
                         <sys_id>1fb15659db1f7f00b26388805b9619d5</sys_id>
@@ -754,7 +1156,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title_align</name>
-                        <portal_section display_value="Created 2019-08-15 14:00:30">d3b15659db1f7f00b26388805b9619d5</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:00:30">d3b15659db1f7f00b26388805b9619d5</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:00:44</sys_created_on>
                         <sys_id>32c11659db1f7f00b26388805b9619ac</sys_id>
@@ -765,7 +1167,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>filter_indicator</name>
-                        <portal_section display_value="Created 2019-08-15 14:00:30">d3b15659db1f7f00b26388805b9619d5</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:00:30">d3b15659db1f7f00b26388805b9619d5</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:00:44</sys_created_on>
                         <sys_id>32c11659db1f7f00b26388805b9619ad</sys_id>
@@ -776,7 +1178,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_border</name>
-                        <portal_section display_value="Created 2019-08-15 14:00:30">d3b15659db1f7f00b26388805b9619d5</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:00:30">d3b15659db1f7f00b26388805b9619d5</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:00:44</sys_created_on>
                         <sys_id>36c11659db1f7f00b26388805b9619ac</sys_id>
@@ -787,7 +1189,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>real_time</name>
-                        <portal_section display_value="Created 2019-08-15 14:00:30">d3b15659db1f7f00b26388805b9619d5</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:00:30">d3b15659db1f7f00b26388805b9619d5</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:00:44</sys_created_on>
                         <sys_id>36c11659db1f7f00b26388805b9619ad</sys_id>
@@ -798,7 +1200,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_title</name>
-                        <portal_section display_value="Created 2019-08-15 14:00:30">d3b15659db1f7f00b26388805b9619d5</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:00:30">d3b15659db1f7f00b26388805b9619d5</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:00:44</sys_created_on>
                         <sys_id>3ac11659db1f7f00b26388805b9619ab</sys_id>
@@ -809,7 +1211,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>publisher_widget</name>
-                        <portal_section display_value="Created 2019-08-15 14:00:30">d3b15659db1f7f00b26388805b9619d5</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:00:30">d3b15659db1f7f00b26388805b9619d5</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:00:44</sys_created_on>
                         <sys_id>3ac11659db1f7f00b26388805b9619ac</sys_id>
@@ -820,7 +1222,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_header</name>
-                        <portal_section display_value="Created 2019-08-15 14:00:30">d3b15659db1f7f00b26388805b9619d5</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:00:30">d3b15659db1f7f00b26388805b9619d5</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:00:44</sys_created_on>
                         <sys_id>3ec11659db1f7f00b26388805b9619ab</sys_id>
@@ -831,7 +1233,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>subscriber_widget</name>
-                        <portal_section display_value="Created 2019-08-15 14:00:30">d3b15659db1f7f00b26388805b9619d5</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:00:30">d3b15659db1f7f00b26388805b9619d5</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:00:44</sys_created_on>
                         <sys_id>3ec11659db1f7f00b26388805b9619ac</sys_id>
@@ -842,7 +1244,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>is_using_database_view</name>
-                        <portal_section display_value="Created 2019-08-15 14:00:30">d3b15659db1f7f00b26388805b9619d5</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:00:30">d3b15659db1f7f00b26388805b9619d5</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:00:30</sys_created_on>
                         <sys_id>53b15659db1f7f00b26388805b9619d7</sys_id>
@@ -853,7 +1255,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_subscribe</name>
-                        <portal_section display_value="Created 2019-08-15 14:00:30">d3b15659db1f7f00b26388805b9619d5</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:00:30">d3b15659db1f7f00b26388805b9619d5</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:00:30</sys_created_on>
                         <sys_id>57b15659db1f7f00b26388805b9619d6</sys_id>
@@ -863,8 +1265,19 @@
                         <value>true</value>
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>header_color</name>
+                        <portal_section display_value="Created 15 Aug, 2019 14:00:30">d3b15659db1f7f00b26388805b9619d5</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2019-11-21 10:05:37</sys_created_on>
+                        <sys_id>7b332ebcdb51c4105e5783305b961999</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2019-11-21 12:14:41</sys_updated_on>
+                        <value>#f78080</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_real_time</name>
-                        <portal_section display_value="Created 2019-08-15 14:00:30">d3b15659db1f7f00b26388805b9619d5</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:00:30">d3b15659db1f7f00b26388805b9619d5</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:00:30</sys_created_on>
                         <sys_id>93b15659db1f7f00b26388805b9619d6</sys_id>
@@ -875,7 +1288,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>sys_id</name>
-                        <portal_section display_value="Created 2019-08-15 14:00:30">d3b15659db1f7f00b26388805b9619d5</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:00:30">d3b15659db1f7f00b26388805b9619d5</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:00:30</sys_created_on>
                         <sys_id>d7b15659db1f7f00b26388805b9619d5</sys_id>
@@ -886,7 +1299,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title</name>
-                        <portal_section display_value="Created 2019-08-15 14:00:30">d3b15659db1f7f00b26388805b9619d5</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:00:30">d3b15659db1f7f00b26388805b9619d5</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:00:30</sys_created_on>
                         <sys_id>dbb15659db1f7f00b26388805b9619d6</sys_id>
@@ -897,7 +1310,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>help_text_window</name>
-                        <portal_section display_value="Created 2019-08-15 14:00:30">d3b15659db1f7f00b26388805b9619d5</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:00:30">d3b15659db1f7f00b26388805b9619d5</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:00:30</sys_created_on>
                         <sys_id>dfb15659db1f7f00b26388805b9619d5</sys_id>
@@ -922,7 +1335,7 @@
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_header</name>
-                        <portal_section display_value="Created 2019-08-15 14:30:50">e3a89adddb1f7f00b26388805b961956</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:30:50">e3a89adddb1f7f00b26388805b961956</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:31:04</sys_created_on>
                         <sys_id>03b8dadddb1f7f00b26388805b961913</sys_id>
@@ -933,7 +1346,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>subscriber_widget</name>
-                        <portal_section display_value="Created 2019-08-15 14:30:50">e3a89adddb1f7f00b26388805b961956</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:30:50">e3a89adddb1f7f00b26388805b961956</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:31:04</sys_created_on>
                         <sys_id>03b8dadddb1f7f00b26388805b961914</sys_id>
@@ -944,7 +1357,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title_align</name>
-                        <portal_section display_value="Created 2019-08-15 14:30:50">e3a89adddb1f7f00b26388805b961956</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:30:50">e3a89adddb1f7f00b26388805b961956</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:31:04</sys_created_on>
                         <sys_id>07b8dadddb1f7f00b26388805b961913</sys_id>
@@ -955,7 +1368,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>filter_indicator</name>
-                        <portal_section display_value="Created 2019-08-15 14:30:50">e3a89adddb1f7f00b26388805b961956</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:30:50">e3a89adddb1f7f00b26388805b961956</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:31:04</sys_created_on>
                         <sys_id>07b8dadddb1f7f00b26388805b961914</sys_id>
@@ -966,7 +1379,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_border</name>
-                        <portal_section display_value="Created 2019-08-15 14:30:50">e3a89adddb1f7f00b26388805b961956</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:30:50">e3a89adddb1f7f00b26388805b961956</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:31:04</sys_created_on>
                         <sys_id>0bb8dadddb1f7f00b26388805b961913</sys_id>
@@ -977,7 +1390,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>real_time</name>
-                        <portal_section display_value="Created 2019-08-15 14:30:50">e3a89adddb1f7f00b26388805b961956</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:30:50">e3a89adddb1f7f00b26388805b961956</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:31:04</sys_created_on>
                         <sys_id>0bb8dadddb1f7f00b26388805b961914</sys_id>
@@ -988,7 +1401,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_title</name>
-                        <portal_section display_value="Created 2019-08-15 14:30:50">e3a89adddb1f7f00b26388805b961956</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:30:50">e3a89adddb1f7f00b26388805b961956</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:31:04</sys_created_on>
                         <sys_id>0fb8dadddb1f7f00b26388805b961912</sys_id>
@@ -999,7 +1412,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>publisher_widget</name>
-                        <portal_section display_value="Created 2019-08-15 14:30:50">e3a89adddb1f7f00b26388805b961956</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:30:50">e3a89adddb1f7f00b26388805b961956</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:31:04</sys_created_on>
                         <sys_id>0fb8dadddb1f7f00b26388805b961913</sys_id>
@@ -1010,7 +1423,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>report_type</name>
-                        <portal_section display_value="Created 2019-08-15 14:30:50">e3a89adddb1f7f00b26388805b961956</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:30:50">e3a89adddb1f7f00b26388805b961956</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:30:50</sys_created_on>
                         <sys_id>2ba89adddb1f7f00b26388805b961957</sys_id>
@@ -1021,7 +1434,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>renderer</name>
-                        <portal_section display_value="Created 2019-08-15 14:30:50">e3a89adddb1f7f00b26388805b961956</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:30:50">e3a89adddb1f7f00b26388805b961956</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:30:50</sys_created_on>
                         <sys_id>2fa89adddb1f7f00b26388805b961956</sys_id>
@@ -1032,7 +1445,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>is_using_database_view</name>
-                        <portal_section display_value="Created 2019-08-15 14:30:50">e3a89adddb1f7f00b26388805b961956</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:30:50">e3a89adddb1f7f00b26388805b961956</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:30:50</sys_created_on>
                         <sys_id>63a89adddb1f7f00b26388805b961958</sys_id>
@@ -1043,7 +1456,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_subscribe</name>
-                        <portal_section display_value="Created 2019-08-15 14:30:50">e3a89adddb1f7f00b26388805b961956</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:30:50">e3a89adddb1f7f00b26388805b961956</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:30:50</sys_created_on>
                         <sys_id>67a89adddb1f7f00b26388805b961957</sys_id>
@@ -1054,7 +1467,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_publish</name>
-                        <portal_section display_value="Created 2019-08-15 14:30:50">e3a89adddb1f7f00b26388805b961956</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:30:50">e3a89adddb1f7f00b26388805b961956</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:30:50</sys_created_on>
                         <sys_id>a3a89adddb1f7f00b26388805b961957</sys_id>
@@ -1065,7 +1478,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>sys_id</name>
-                        <portal_section display_value="Created 2019-08-15 14:30:50">e3a89adddb1f7f00b26388805b961956</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:30:50">e3a89adddb1f7f00b26388805b961956</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:30:50</sys_created_on>
                         <sys_id>e7a89adddb1f7f00b26388805b961956</sys_id>
@@ -1076,7 +1489,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title</name>
-                        <portal_section display_value="Created 2019-08-15 14:30:50">e3a89adddb1f7f00b26388805b961956</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:30:50">e3a89adddb1f7f00b26388805b961956</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:30:50</sys_created_on>
                         <sys_id>eba89adddb1f7f00b26388805b961957</sys_id>
@@ -1087,7 +1500,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>help_text_window</name>
-                        <portal_section display_value="Created 2019-08-15 14:30:50">e3a89adddb1f7f00b26388805b961956</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 14:30:50">e3a89adddb1f7f00b26388805b961956</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 12:30:50</sys_created_on>
                         <sys_id>efa89adddb1f7f00b26388805b961956</sys_id>
@@ -1112,7 +1525,7 @@
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>report_type</name>
-                        <portal_section display_value="Created 2019-08-30 14:41:32">eafaa30adba33f40a8088edf4b96198e</portal_section>
+                        <portal_section display_value="Created 30 Aug, 2019 14:41:32">eafaa30adba33f40a8088edf4b96198e</portal_section>
                         <sys_created_by>AnnAal</sys_created_by>
                         <sys_created_on>2019-08-30 12:41:32</sys_created_on>
                         <sys_id>2afaa30adba33f40a8088edf4b961990</sys_id>
@@ -1123,7 +1536,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>renderer</name>
-                        <portal_section display_value="Created 2019-08-30 14:41:32">eafaa30adba33f40a8088edf4b96198e</portal_section>
+                        <portal_section display_value="Created 30 Aug, 2019 14:41:32">eafaa30adba33f40a8088edf4b96198e</portal_section>
                         <sys_created_by>AnnAal</sys_created_by>
                         <sys_created_on>2019-08-30 12:41:32</sys_created_on>
                         <sys_id>2efaa30adba33f40a8088edf4b96198f</sys_id>
@@ -1134,7 +1547,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title_align</name>
-                        <portal_section display_value="Created 2019-08-30 14:41:32">eafaa30adba33f40a8088edf4b96198e</portal_section>
+                        <portal_section display_value="Created 30 Aug, 2019 14:41:32">eafaa30adba33f40a8088edf4b96198e</portal_section>
                         <sys_created_by>AnnAal</sys_created_by>
                         <sys_created_on>2019-08-30 12:41:47</sys_created_on>
                         <sys_id>420ba30adba33f40a8088edf4b961995</sys_id>
@@ -1145,7 +1558,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>filter_indicator</name>
-                        <portal_section display_value="Created 2019-08-30 14:41:32">eafaa30adba33f40a8088edf4b96198e</portal_section>
+                        <portal_section display_value="Created 30 Aug, 2019 14:41:32">eafaa30adba33f40a8088edf4b96198e</portal_section>
                         <sys_created_by>AnnAal</sys_created_by>
                         <sys_created_on>2019-08-30 12:41:47</sys_created_on>
                         <sys_id>420ba30adba33f40a8088edf4b961996</sys_id>
@@ -1156,7 +1569,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_border</name>
-                        <portal_section display_value="Created 2019-08-30 14:41:32">eafaa30adba33f40a8088edf4b96198e</portal_section>
+                        <portal_section display_value="Created 30 Aug, 2019 14:41:32">eafaa30adba33f40a8088edf4b96198e</portal_section>
                         <sys_created_by>AnnAal</sys_created_by>
                         <sys_created_on>2019-08-30 12:41:47</sys_created_on>
                         <sys_id>460ba30adba33f40a8088edf4b961995</sys_id>
@@ -1167,7 +1580,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>real_time</name>
-                        <portal_section display_value="Created 2019-08-30 14:41:32">eafaa30adba33f40a8088edf4b96198e</portal_section>
+                        <portal_section display_value="Created 30 Aug, 2019 14:41:32">eafaa30adba33f40a8088edf4b96198e</portal_section>
                         <sys_created_by>AnnAal</sys_created_by>
                         <sys_created_on>2019-08-30 12:41:47</sys_created_on>
                         <sys_id>460ba30adba33f40a8088edf4b961996</sys_id>
@@ -1178,7 +1591,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_title</name>
-                        <portal_section display_value="Created 2019-08-30 14:41:32">eafaa30adba33f40a8088edf4b96198e</portal_section>
+                        <portal_section display_value="Created 30 Aug, 2019 14:41:32">eafaa30adba33f40a8088edf4b96198e</portal_section>
                         <sys_created_by>AnnAal</sys_created_by>
                         <sys_created_on>2019-08-30 12:41:47</sys_created_on>
                         <sys_id>4a0ba30adba33f40a8088edf4b961994</sys_id>
@@ -1189,7 +1602,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>publisher_widget</name>
-                        <portal_section display_value="Created 2019-08-30 14:41:32">eafaa30adba33f40a8088edf4b96198e</portal_section>
+                        <portal_section display_value="Created 30 Aug, 2019 14:41:32">eafaa30adba33f40a8088edf4b96198e</portal_section>
                         <sys_created_by>AnnAal</sys_created_by>
                         <sys_created_on>2019-08-30 12:41:47</sys_created_on>
                         <sys_id>4a0ba30adba33f40a8088edf4b961995</sys_id>
@@ -1200,7 +1613,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_header</name>
-                        <portal_section display_value="Created 2019-08-30 14:41:32">eafaa30adba33f40a8088edf4b96198e</portal_section>
+                        <portal_section display_value="Created 30 Aug, 2019 14:41:32">eafaa30adba33f40a8088edf4b96198e</portal_section>
                         <sys_created_by>AnnAal</sys_created_by>
                         <sys_created_on>2019-08-30 12:41:47</sys_created_on>
                         <sys_id>4e0ba30adba33f40a8088edf4b961994</sys_id>
@@ -1211,7 +1624,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>subscriber_widget</name>
-                        <portal_section display_value="Created 2019-08-30 14:41:32">eafaa30adba33f40a8088edf4b96198e</portal_section>
+                        <portal_section display_value="Created 30 Aug, 2019 14:41:32">eafaa30adba33f40a8088edf4b96198e</portal_section>
                         <sys_created_by>AnnAal</sys_created_by>
                         <sys_created_on>2019-08-30 12:41:47</sys_created_on>
                         <sys_id>4e0ba30adba33f40a8088edf4b961995</sys_id>
@@ -1222,7 +1635,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_subscribe</name>
-                        <portal_section display_value="Created 2019-08-30 14:41:32">eafaa30adba33f40a8088edf4b96198e</portal_section>
+                        <portal_section display_value="Created 30 Aug, 2019 14:41:32">eafaa30adba33f40a8088edf4b96198e</portal_section>
                         <sys_created_by>AnnAal</sys_created_by>
                         <sys_created_on>2019-08-30 12:41:32</sys_created_on>
                         <sys_id>66faa30adba33f40a8088edf4b961990</sys_id>
@@ -1232,8 +1645,19 @@
                         <value>true</value>
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>header_color</name>
+                        <portal_section display_value="Created 30 Aug, 2019 14:41:32">eafaa30adba33f40a8088edf4b96198e</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2019-11-21 10:05:48</sys_created_on>
+                        <sys_id>6a43aafcdb51c4105e5783305b961965</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2019-11-21 12:14:50</sys_updated_on>
+                        <value>#f78080</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_real_time</name>
-                        <portal_section display_value="Created 2019-08-30 14:41:32">eafaa30adba33f40a8088edf4b96198e</portal_section>
+                        <portal_section display_value="Created 30 Aug, 2019 14:41:32">eafaa30adba33f40a8088edf4b96198e</portal_section>
                         <sys_created_by>AnnAal</sys_created_by>
                         <sys_created_on>2019-08-30 12:41:32</sys_created_on>
                         <sys_id>a2faa30adba33f40a8088edf4b961990</sys_id>
@@ -1244,7 +1668,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>sys_id</name>
-                        <portal_section display_value="Created 2019-08-30 14:41:32">eafaa30adba33f40a8088edf4b96198e</portal_section>
+                        <portal_section display_value="Created 30 Aug, 2019 14:41:32">eafaa30adba33f40a8088edf4b96198e</portal_section>
                         <sys_created_by>AnnAal</sys_created_by>
                         <sys_created_on>2019-08-30 12:41:32</sys_created_on>
                         <sys_id>e2faa30adba33f40a8088edf4b96198f</sys_id>
@@ -1255,7 +1679,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>is_using_database_view</name>
-                        <portal_section display_value="Created 2019-08-30 14:41:32">eafaa30adba33f40a8088edf4b96198e</portal_section>
+                        <portal_section display_value="Created 30 Aug, 2019 14:41:32">eafaa30adba33f40a8088edf4b96198e</portal_section>
                         <sys_created_by>AnnAal</sys_created_by>
                         <sys_created_on>2019-08-30 12:41:32</sys_created_on>
                         <sys_id>e6faa30adba33f40a8088edf4b961991</sys_id>
@@ -1266,7 +1690,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title</name>
-                        <portal_section display_value="Created 2019-08-30 14:41:32">eafaa30adba33f40a8088edf4b96198e</portal_section>
+                        <portal_section display_value="Created 30 Aug, 2019 14:41:32">eafaa30adba33f40a8088edf4b96198e</portal_section>
                         <sys_created_by>AnnAal</sys_created_by>
                         <sys_created_on>2019-08-30 12:41:32</sys_created_on>
                         <sys_id>eafaa30adba33f40a8088edf4b961990</sys_id>
@@ -1277,7 +1701,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>help_text_window</name>
-                        <portal_section display_value="Created 2019-08-30 14:41:32">eafaa30adba33f40a8088edf4b96198e</portal_section>
+                        <portal_section display_value="Created 30 Aug, 2019 14:41:32">eafaa30adba33f40a8088edf4b96198e</portal_section>
                         <sys_created_by>AnnAal</sys_created_by>
                         <sys_created_on>2019-08-30 12:41:32</sys_created_on>
                         <sys_id>eefaa30adba33f40a8088edf4b96198f</sys_id>
@@ -1302,7 +1726,7 @@
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_title</name>
-                        <portal_section display_value="Created 2019-08-15 13:55:45">eda052d5db1f7f00b26388805b961928</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 13:55:45">eda052d5db1f7f00b26388805b961928</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 11:56:01</sys_created_on>
                         <sys_id>21b096d5db1f7f00b26388805b96193a</sys_id>
@@ -1313,7 +1737,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>publisher_widget</name>
-                        <portal_section display_value="Created 2019-08-15 13:55:45">eda052d5db1f7f00b26388805b961928</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 13:55:45">eda052d5db1f7f00b26388805b961928</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 11:56:01</sys_created_on>
                         <sys_id>21b096d5db1f7f00b26388805b96193b</sys_id>
@@ -1324,7 +1748,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_header</name>
-                        <portal_section display_value="Created 2019-08-15 13:55:45">eda052d5db1f7f00b26388805b961928</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 13:55:45">eda052d5db1f7f00b26388805b961928</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 11:56:01</sys_created_on>
                         <sys_id>25b096d5db1f7f00b26388805b96193a</sys_id>
@@ -1335,7 +1759,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>subscriber_widget</name>
-                        <portal_section display_value="Created 2019-08-15 13:55:45">eda052d5db1f7f00b26388805b961928</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 13:55:45">eda052d5db1f7f00b26388805b961928</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 11:56:01</sys_created_on>
                         <sys_id>25b096d5db1f7f00b26388805b96193b</sys_id>
@@ -1346,7 +1770,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>renderer</name>
-                        <portal_section display_value="Created 2019-08-15 13:55:45">eda052d5db1f7f00b26388805b961928</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 13:55:45">eda052d5db1f7f00b26388805b961928</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 11:55:45</sys_created_on>
                         <sys_id>29a052d5db1f7f00b26388805b961929</sys_id>
@@ -1357,7 +1781,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title_align</name>
-                        <portal_section display_value="Created 2019-08-15 13:55:45">eda052d5db1f7f00b26388805b961928</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 13:55:45">eda052d5db1f7f00b26388805b961928</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 11:56:01</sys_created_on>
                         <sys_id>29b096d5db1f7f00b26388805b96193a</sys_id>
@@ -1368,7 +1792,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>filter_indicator</name>
-                        <portal_section display_value="Created 2019-08-15 13:55:45">eda052d5db1f7f00b26388805b961928</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 13:55:45">eda052d5db1f7f00b26388805b961928</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 11:56:01</sys_created_on>
                         <sys_id>29b096d5db1f7f00b26388805b96193b</sys_id>
@@ -1379,7 +1803,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title</name>
-                        <portal_section display_value="Created 2019-08-15 13:55:45">eda052d5db1f7f00b26388805b961928</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 13:55:45">eda052d5db1f7f00b26388805b961928</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 11:55:45</sys_created_on>
                         <sys_id>2da01619db1f7f00b26388805b9619be</sys_id>
@@ -1390,7 +1814,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_border</name>
-                        <portal_section display_value="Created 2019-08-15 13:55:45">eda052d5db1f7f00b26388805b961928</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 13:55:45">eda052d5db1f7f00b26388805b961928</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 11:56:01</sys_created_on>
                         <sys_id>2db096d5db1f7f00b26388805b96193a</sys_id>
@@ -1401,7 +1825,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>real_time</name>
-                        <portal_section display_value="Created 2019-08-15 13:55:45">eda052d5db1f7f00b26388805b961928</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 13:55:45">eda052d5db1f7f00b26388805b961928</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 11:56:01</sys_created_on>
                         <sys_id>2db096d5db1f7f00b26388805b96193b</sys_id>
@@ -1411,8 +1835,19 @@
                         <value>true</value>
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>header_color</name>
+                        <portal_section display_value="Created 15 Aug, 2019 13:55:45">eda052d5db1f7f00b26388805b961928</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2019-11-21 10:05:42</sys_created_on>
+                        <sys_id>4143aafcdb51c4105e5783305b961961</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2019-11-21 12:14:45</sys_updated_on>
+                        <value>#f78080</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>report_type</name>
-                        <portal_section display_value="Created 2019-08-15 13:55:45">eda052d5db1f7f00b26388805b961928</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 13:55:45">eda052d5db1f7f00b26388805b961928</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 11:55:45</sys_created_on>
                         <sys_id>69a01619db1f7f00b26388805b9619be</sys_id>
@@ -1423,7 +1858,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>is_using_database_view</name>
-                        <portal_section display_value="Created 2019-08-15 13:55:45">eda052d5db1f7f00b26388805b961928</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 13:55:45">eda052d5db1f7f00b26388805b961928</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 11:55:45</sys_created_on>
                         <sys_id>a1a01619db1f7f00b26388805b9619bf</sys_id>
@@ -1434,7 +1869,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_subscribe</name>
-                        <portal_section display_value="Created 2019-08-15 13:55:45">eda052d5db1f7f00b26388805b961928</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 13:55:45">eda052d5db1f7f00b26388805b961928</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 11:55:45</sys_created_on>
                         <sys_id>a5a01619db1f7f00b26388805b9619be</sys_id>
@@ -1445,7 +1880,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_real_time</name>
-                        <portal_section display_value="Created 2019-08-15 13:55:45">eda052d5db1f7f00b26388805b961928</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 13:55:45">eda052d5db1f7f00b26388805b961928</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 11:55:45</sys_created_on>
                         <sys_id>ada052d5db1f7f00b26388805b961929</sys_id>
@@ -1456,7 +1891,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>sys_id</name>
-                        <portal_section display_value="Created 2019-08-15 13:55:45">eda052d5db1f7f00b26388805b961928</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 13:55:45">eda052d5db1f7f00b26388805b961928</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 11:55:45</sys_created_on>
                         <sys_id>e1a052d5db1f7f00b26388805b961929</sys_id>
@@ -1467,7 +1902,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>help_text_window</name>
-                        <portal_section display_value="Created 2019-08-15 13:55:45">eda052d5db1f7f00b26388805b961928</portal_section>
+                        <portal_section display_value="Created 15 Aug, 2019 13:55:45">eda052d5db1f7f00b26388805b961928</portal_section>
                         <sys_created_by>LasBal</sys_created_by>
                         <sys_created_on>2019-08-15 11:55:45</sys_created_on>
                         <sys_id>e9a052d5db1f7f00b26388805b961929</sys_id>
@@ -1491,8 +1926,19 @@
                 <sys_updated_on>2019-08-26 14:32:58</sys_updated_on>
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>header_color</name>
+                        <portal_section display_value="Created 26 Aug, 2019 16:32:58">f71edb7cdbaff740a8088edf4b9619fd</portal_section>
+                        <sys_created_by>AnnAal</sys_created_by>
+                        <sys_created_on>2019-11-21 10:05:54</sys_created_on>
+                        <sys_id>0453aebcdb51c4105e5783305b96196a</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>AnnAal</sys_updated_by>
+                        <sys_updated_on>2019-11-21 12:14:56</sys_updated_on>
+                        <value>#f78080</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_header</name>
-                        <portal_section display_value="Created 2019-08-26 16:32:58">f71edb7cdbaff740a8088edf4b9619fd</portal_section>
+                        <portal_section display_value="Created 26 Aug, 2019 16:32:58">f71edb7cdbaff740a8088edf4b9619fd</portal_section>
                         <sys_created_by>AnnAal</sys_created_by>
                         <sys_created_on>2019-08-26 14:40:16</sys_created_on>
                         <sys_id>22cf1f70dbeff740a8088edf4b961922</sys_id>
@@ -1503,7 +1949,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>subscriber_widget</name>
-                        <portal_section display_value="Created 2019-08-26 16:32:58">f71edb7cdbaff740a8088edf4b9619fd</portal_section>
+                        <portal_section display_value="Created 26 Aug, 2019 16:32:58">f71edb7cdbaff740a8088edf4b9619fd</portal_section>
                         <sys_created_by>AnnAal</sys_created_by>
                         <sys_created_on>2019-08-26 14:40:16</sys_created_on>
                         <sys_id>22cf1f70dbeff740a8088edf4b961923</sys_id>
@@ -1514,7 +1960,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title_align</name>
-                        <portal_section display_value="Created 2019-08-26 16:32:58">f71edb7cdbaff740a8088edf4b9619fd</portal_section>
+                        <portal_section display_value="Created 26 Aug, 2019 16:32:58">f71edb7cdbaff740a8088edf4b9619fd</portal_section>
                         <sys_created_by>AnnAal</sys_created_by>
                         <sys_created_on>2019-08-26 14:40:16</sys_created_on>
                         <sys_id>26cf1f70dbeff740a8088edf4b961922</sys_id>
@@ -1525,7 +1971,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>filter_indicator</name>
-                        <portal_section display_value="Created 2019-08-26 16:32:58">f71edb7cdbaff740a8088edf4b9619fd</portal_section>
+                        <portal_section display_value="Created 26 Aug, 2019 16:32:58">f71edb7cdbaff740a8088edf4b9619fd</portal_section>
                         <sys_created_by>AnnAal</sys_created_by>
                         <sys_created_on>2019-08-26 14:40:16</sys_created_on>
                         <sys_id>26cf1f70dbeff740a8088edf4b961923</sys_id>
@@ -1536,7 +1982,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_border</name>
-                        <portal_section display_value="Created 2019-08-26 16:32:58">f71edb7cdbaff740a8088edf4b9619fd</portal_section>
+                        <portal_section display_value="Created 26 Aug, 2019 16:32:58">f71edb7cdbaff740a8088edf4b9619fd</portal_section>
                         <sys_created_by>AnnAal</sys_created_by>
                         <sys_created_on>2019-08-26 14:40:16</sys_created_on>
                         <sys_id>2acf1f70dbeff740a8088edf4b961922</sys_id>
@@ -1547,7 +1993,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>real_time</name>
-                        <portal_section display_value="Created 2019-08-26 16:32:58">f71edb7cdbaff740a8088edf4b9619fd</portal_section>
+                        <portal_section display_value="Created 26 Aug, 2019 16:32:58">f71edb7cdbaff740a8088edf4b9619fd</portal_section>
                         <sys_created_by>AnnAal</sys_created_by>
                         <sys_created_on>2019-08-26 14:40:16</sys_created_on>
                         <sys_id>2acf1f70dbeff740a8088edf4b961923</sys_id>
@@ -1558,7 +2004,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_title</name>
-                        <portal_section display_value="Created 2019-08-26 16:32:58">f71edb7cdbaff740a8088edf4b9619fd</portal_section>
+                        <portal_section display_value="Created 26 Aug, 2019 16:32:58">f71edb7cdbaff740a8088edf4b9619fd</portal_section>
                         <sys_created_by>AnnAal</sys_created_by>
                         <sys_created_on>2019-08-26 14:40:16</sys_created_on>
                         <sys_id>2ecf1f70dbeff740a8088edf4b961921</sys_id>
@@ -1569,7 +2015,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>publisher_widget</name>
-                        <portal_section display_value="Created 2019-08-26 16:32:58">f71edb7cdbaff740a8088edf4b9619fd</portal_section>
+                        <portal_section display_value="Created 26 Aug, 2019 16:32:58">f71edb7cdbaff740a8088edf4b9619fd</portal_section>
                         <sys_created_by>AnnAal</sys_created_by>
                         <sys_created_on>2019-08-26 14:40:16</sys_created_on>
                         <sys_id>2ecf1f70dbeff740a8088edf4b961922</sys_id>
@@ -1580,7 +2026,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title</name>
-                        <portal_section display_value="Created 2019-08-26 16:32:58">f71edb7cdbaff740a8088edf4b9619fd</portal_section>
+                        <portal_section display_value="Created 26 Aug, 2019 16:32:58">f71edb7cdbaff740a8088edf4b9619fd</portal_section>
                         <sys_created_by>AnnAal</sys_created_by>
                         <sys_created_on>2019-08-26 14:32:58</sys_created_on>
                         <sys_id>371edb7cdbaff740a8088edf4b9619ff</sys_id>
@@ -1591,7 +2037,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>renderer</name>
-                        <portal_section display_value="Created 2019-08-26 16:32:58">f71edb7cdbaff740a8088edf4b9619fd</portal_section>
+                        <portal_section display_value="Created 26 Aug, 2019 16:32:58">f71edb7cdbaff740a8088edf4b9619fd</portal_section>
                         <sys_created_by>AnnAal</sys_created_by>
                         <sys_created_on>2019-08-26 14:32:58</sys_created_on>
                         <sys_id>3b1edb7cdbaff740a8088edf4b9619fe</sys_id>
@@ -1602,7 +2048,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>report_type</name>
-                        <portal_section display_value="Created 2019-08-26 16:32:58">f71edb7cdbaff740a8088edf4b9619fd</portal_section>
+                        <portal_section display_value="Created 26 Aug, 2019 16:32:58">f71edb7cdbaff740a8088edf4b9619fd</portal_section>
                         <sys_created_by>AnnAal</sys_created_by>
                         <sys_created_on>2019-08-26 14:32:58</sys_created_on>
                         <sys_id>731edb7cdbaff740a8088edf4b9619ff</sys_id>
@@ -1613,7 +2059,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_subscribe</name>
-                        <portal_section display_value="Created 2019-08-26 16:32:58">f71edb7cdbaff740a8088edf4b9619fd</portal_section>
+                        <portal_section display_value="Created 26 Aug, 2019 16:32:58">f71edb7cdbaff740a8088edf4b9619fd</portal_section>
                         <sys_created_by>AnnAal</sys_created_by>
                         <sys_created_on>2019-08-26 14:32:58</sys_created_on>
                         <sys_id>bf1edb7cdbaff740a8088edf4b9619fe</sys_id>
@@ -1624,7 +2070,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>help_text_window</name>
-                        <portal_section display_value="Created 2019-08-26 16:32:58">f71edb7cdbaff740a8088edf4b9619fd</portal_section>
+                        <portal_section display_value="Created 26 Aug, 2019 16:32:58">f71edb7cdbaff740a8088edf4b9619fd</portal_section>
                         <sys_created_by>AnnAal</sys_created_by>
                         <sys_created_on>2019-08-26 14:32:58</sys_created_on>
                         <sys_id>fb1edb7cdbaff740a8088edf4b9619fe</sys_id>
@@ -1635,7 +2081,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>sys_id</name>
-                        <portal_section display_value="Created 2019-08-26 16:32:58">f71edb7cdbaff740a8088edf4b9619fd</portal_section>
+                        <portal_section display_value="Created 26 Aug, 2019 16:32:58">f71edb7cdbaff740a8088edf4b9619fd</portal_section>
                         <sys_created_by>AnnAal</sys_created_by>
                         <sys_created_on>2019-08-26 14:32:58</sys_created_on>
                         <sys_id>ff1edb7cdbaff740a8088edf4b9619fd</sys_id>

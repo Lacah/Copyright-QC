@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
     <sys_report_users_groups action="INSERT_OR_UPDATE">
-        <group_id display_value="QC - High Earning" name="QC - High Earning">9f6446e9db1a3340a8088edf4b9619fc</group_id>
+        <group_id display_value="QC - High Earning" name="QC - High Earning">4fd72e2edb1f73005e5783305b9619b0</group_id>
         <report_id display_value="HE- all QC cases to be checked">9527829ddbdb7f00b26388805b961966</report_id>
         <sys_class_name>sys_report_users_groups</sys_class_name>
         <sys_created_by>LasBal</sys_created_by>

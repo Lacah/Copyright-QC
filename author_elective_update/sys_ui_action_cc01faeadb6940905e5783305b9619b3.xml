@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_action">
+    <sys_ui_action action="DELETE">
+        <action_name>QC_insert_and_stay</action_name>
+        <active>true</active>
+        <client>false</client>
+        <client_script_v2><![CDATA[function onClick(g_form) {
+
+}]]></client_script_v2>
+        <comments>Inserts current record and redirects to resulting new record (context version)</comments>
+        <condition/>
+        <form_action>true</form_action>
+        <form_button>false</form_button>
+        <form_button_v2>false</form_button_v2>
+        <form_context_menu>true</form_context_menu>
+        <form_link>false</form_link>
+        <form_menu_button_v2>false</form_menu_button_v2>
+        <form_style/>
+        <hint>Create a copy of the current record with any modified values, and redirect to the new record</hint>
+        <isolate_script>true</isolate_script>
+        <list_action>false</list_action>
+        <list_banner_button>false</list_banner_button>
+        <list_button>false</list_button>
+        <list_choice>false</list_choice>
+        <list_context_menu>false</list_context_menu>
+        <list_link>false</list_link>
+        <list_save_with_form_button>false</list_save_with_form_button>
+        <list_style/>
+        <name>Insert and Stay</name>
+        <onclick>OnCopyQCClick()</onclick>
+        <order>100</order>
+        <script><![CDATA[doInsertAndStay();
+function doInsertAndStay() {
+    var saveMe = current;
+    if (typeof current.number != 'undefined' && current.number)
+        current.number = ""; // generate a new number
+    else if (typeof current.u_number != 'undefined' && current.u_number)
+        current.u_number = ""; // generate a new number
+    current.insert();
+    action.setRedirectURL(saveMe);
+}
+]]></script>
+        <show_insert>false</show_insert>
+        <show_multiple_update>false</show_multiple_update>
+        <show_query>false</show_query>
+        <show_update>true</show_update>
+        <sys_class_name>sys_ui_action</sys_class_name>
+        <sys_created_by>AnnAal</sys_created_by>
+        <sys_created_on>2019-12-09 07:57:44</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>cc01faeadb6940905e5783305b9619b3</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Insert and Stay</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
+        <sys_update_name>sys_ui_action_cc01faeadb6940905e5783305b9619b3</sys_update_name>
+        <sys_updated_by>AnnAal</sys_updated_by>
+        <sys_updated_on>2019-12-09 08:05:37</sys_updated_on>
+        <table>x_ipegh_copyright_qc</table>
+        <ui11_compatible>true</ui11_compatible>
+        <ui16_compatible>false</ui16_compatible>
+    </sys_ui_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</application>
+        <file_path/>
+        <instance_id>5cd7ff349b65cf407ac36b8af359ff4a</instance_id>
+        <instance_name>iceservices</instance_name>
+        <name>sys_ui_action_cc01faeadb6940905e5783305b9619b3</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_ui_action"&gt;&lt;sys_ui_action action="INSERT_OR_UPDATE"&gt;&lt;action_name&gt;QC_insert_and_stay&lt;/action_name&gt;&lt;active&gt;true&lt;/active&gt;&lt;client&gt;false&lt;/client&gt;&lt;client_script_v2&gt;&lt;![CDATA[function onClick(g_form) {
+
+}]]&gt;&lt;/client_script_v2&gt;&lt;comments&gt;Inserts current record and redirects to resulting new record (context version)&lt;/comments&gt;&lt;condition/&gt;&lt;form_action&gt;true&lt;/form_action&gt;&lt;form_button&gt;false&lt;/form_button&gt;&lt;form_button_v2&gt;false&lt;/form_button_v2&gt;&lt;form_context_menu&gt;true&lt;/form_context_menu&gt;&lt;form_link&gt;false&lt;/form_link&gt;&lt;form_menu_button_v2&gt;false&lt;/form_menu_button_v2&gt;&lt;form_style/&gt;&lt;hint&gt;Create a copy of the current record with any modified values, and redirect to the new record&lt;/hint&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;list_action&gt;false&lt;/list_action&gt;&lt;list_banner_button&gt;false&lt;/list_banner_button&gt;&lt;list_button&gt;false&lt;/list_button&gt;&lt;list_choice&gt;false&lt;/list_choice&gt;&lt;list_context_menu&gt;false&lt;/list_context_menu&gt;&lt;list_link&gt;false&lt;/list_link&gt;&lt;list_save_with_form_button&gt;false&lt;/list_save_with_form_button&gt;&lt;list_style/&gt;&lt;name&gt;Insert and Stay&lt;/name&gt;&lt;onclick&gt;OnCopyQCClick()&lt;/onclick&gt;&lt;order&gt;100&lt;/order&gt;&lt;script&gt;&lt;![CDATA[doInsertAndStay();
+function doInsertAndStay() {
+    var saveMe = current;
+    if (typeof current.number != 'undefined' &amp;&amp; current.number)
+        current.number = ""; // generate a new number
+    else if (typeof current.u_number != 'undefined' &amp;&amp; current.u_number)
+        current.u_number = ""; // generate a new number
+    current.insert();
+    action.setRedirectURL(saveMe);
+}
+]]&gt;&lt;/script&gt;&lt;show_insert&gt;false&lt;/show_insert&gt;&lt;show_multiple_update&gt;false&lt;/show_multiple_update&gt;&lt;show_query&gt;false&lt;/show_query&gt;&lt;show_update&gt;true&lt;/show_update&gt;&lt;sys_class_name&gt;sys_ui_action&lt;/sys_class_name&gt;&lt;sys_created_by&gt;AnnAal&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-12-09 07:57:44&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;cc01faeadb6940905e5783305b9619b3&lt;/sys_id&gt;&lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;&lt;sys_name&gt;Insert and Stay&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Copyright QC" source="x_ipegh_copyright"&gt;5cb9a113db8e3b00b26388805b9619f0&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Copyright QC"&gt;5cb9a113db8e3b00b26388805b9619f0&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ui_action_cc01faeadb6940905e5783305b9619b3&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;AnnAal&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-12-09 08:05:37&lt;/sys_updated_on&gt;&lt;table&gt;x_ipegh_copyright_qc&lt;/table&gt;&lt;ui11_compatible&gt;true&lt;/ui11_compatible&gt;&lt;ui16_compatible&gt;false&lt;/ui16_compatible&gt;&lt;/sys_ui_action&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>31179237</payload_hash>
+        <record_name>Insert and Stay</record_name>
+        <reverted_from/>
+        <source>113fbe36db2c4010f4db16d15b961933</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>AnnAal</sys_created_by>
+        <sys_created_on>2019-12-09 08:05:37</sys_created_on>
+        <sys_id>21647aeedb6940905e5783305b961968</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16ee9b13fe10000001</sys_recorded_at>
+        <sys_updated_by>AnnAal</sys_updated_by>
+        <sys_updated_on>2019-12-09 08:05:37</sys_updated_on>
+        <type>UI Action</type>
+        <update_guid>e5647aeeb66940902645b85c5848c767</update_guid>
+        <update_guid_history>e5647aeeb66940902645b85c5848c767:31179237,4f047aeea7694090737c4ceb968fab61:112487691,9c5372eed06940903ad1edfa2fac8141:-1148255870,8a92f2aede694090ad1a67d6ecae7e45:2018657412</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>AnnAal</sys_created_by>
+        <sys_created_on>2019-12-09 08:11:24</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_action">sys_ui_action</sys_db_object>
+        <sys_id>1ccbd561450b40508afbc0c70f7c5900</sys_id>
+        <sys_metadata>cc01faeadb6940905e5783305b9619b3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Insert and Stay</sys_name>
+        <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
+        <sys_parent display_value="Copyright QC task">be1b6af6dba44010f4db16d15b961953</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
+        <sys_scope_delete display_value="">0e767c3002574cc09ce882c644c9c100</sys_scope_delete>
+        <sys_update_name>sys_ui_action_cc01faeadb6940905e5783305b9619b3</sys_update_name>
+        <sys_update_version display_value="sys_ui_action_cc01faeadb6940905e5783305b9619b3">21647aeedb6940905e5783305b961968</sys_update_version>
+        <sys_updated_by>AnnAal</sys_updated_by>
+        <sys_updated_on>2019-12-09 08:11:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

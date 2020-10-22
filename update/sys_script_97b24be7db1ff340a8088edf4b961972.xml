@@ -3,7 +3,7 @@
         <abort_action>false</abort_action>
         <access>package_private</access>
         <action_delete>false</action_delete>
-        <action_insert>true</action_insert>
+        <action_insert>false</action_insert>
         <action_query>false</action_query>
         <action_update>true</action_update>
         <active>true</active>
@@ -44,7 +44,7 @@ gs.addErrorMessage("The assigned QC officer cannot be the same as the user being
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>97b24be7db1ff340a8088edf4b961972</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>Prevent self-QC</sys_name>
         <sys_overrides/>
         <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
@@ -52,7 +52,7 @@ gs.addErrorMessage("The assigned QC officer cannot be the same as the user being
         <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
         <sys_update_name>sys_script_97b24be7db1ff340a8088edf4b961972</sys_update_name>
         <sys_updated_by>LasBal</sys_updated_by>
-        <sys_updated_on>2019-12-05 15:02:31</sys_updated_on>
+        <sys_updated_on>2019-12-05 16:12:43</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>

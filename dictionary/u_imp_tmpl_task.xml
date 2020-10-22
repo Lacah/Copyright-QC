@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Imp Tmpl Task" max_length="40" name="u_imp_tmpl_task" sizeclass="0" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=1st external ref code" label="1st external ref code" max_length="40" name="u_1st_external_ref_code" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Sys ID" label="Sys ID" max_length="40" name="u_sys_id" type="string"/>
+    </element>
+</database>
