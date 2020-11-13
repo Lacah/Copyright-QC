@@ -17,7 +17,7 @@
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2019-12-16 10:50:25</sys_updated_on>
         <table>x_ipegh_copyright_qc</table>
-        <ui_policy display_value="Meta QC">5fecdbb8dbb94490f4db16d15b9619c5</ui_policy>
+        <ui_policy display_value="Display Meta QC">5fecdbb8dbb94490f4db16d15b9619c5</ui_policy>
         <visible>true</visible>
     </sys_ui_policy_action>
 </record_update>

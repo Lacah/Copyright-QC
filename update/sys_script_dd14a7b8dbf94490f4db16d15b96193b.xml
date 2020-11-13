@@ -15,15 +15,15 @@
         <condition/>
         <description/>
         <execute_function>false</execute_function>
-        <filter_condition table="x_ipegh_copyright_qc">state=-2^area!=agreements^active=false^u_meta_qc=^EQ<item display_value="Reporting error" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="-2"/>
+        <filter_condition table="x_ipegh_copyright_qc">state=-2^area!=agreements^activeCHANGESTOfalse^u_meta_qc=^EQ<item display_value="Reporting error" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="-2"/>
             <item display_value="Agreements" endquery="false" field="area" goto="false" newquery="false" operator="!=" or="false" value="agreements"/>
-            <item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="false"/>
+            <item endquery="false" field="active" goto="false" newquery="false" operator="CHANGESTO" or="false" value="false"/>
             <item display_value="-- None --" endquery="false" field="u_meta_qc" goto="false" newquery="false" operator="=" or="false" value=""/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </filter_condition>
         <is_rest>false</is_rest>
         <message/>
-        <name>Meta QC</name>
+        <name>Set Meta QC to To be checked</name>
         <order>1300</order>
         <priority>100</priority>
         <rest_method/>
@@ -43,15 +43,15 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>dd14a7b8dbf94490f4db16d15b96193b</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_name>Meta QC</sys_name>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Set Meta QC to To be checked</sys_name>
         <sys_overrides/>
         <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
         <sys_policy/>
         <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
         <sys_update_name>sys_script_dd14a7b8dbf94490f4db16d15b96193b</sys_update_name>
         <sys_updated_by>AnnAal</sys_updated_by>
-        <sys_updated_on>2020-01-20 14:47:49</sys_updated_on>
+        <sys_updated_on>2020-11-13 07:12:16</sys_updated_on>
         <template>u_meta_qc=To be checked^EQ</template>
         <when>before</when>
     </sys_script>

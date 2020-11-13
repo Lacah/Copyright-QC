@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="sys_import_set_row" label="QC import" max_length="40" name="x_ipegh_copyright_qc_import" sizeclass="0" type="collection">
+    <element extends="sys_import_set_row" label="QC import" max_length="40" name="x_ipegh_copyright_qc_import" type="collection">
         <element attributes="edge_encryption_enabled=true" label="assignment_group" max_length="40" name="u_assignment_group" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=BUMAusagesonSTIM_PRSworks" label="BUMAusagesonSTIM_PRSworks" max_length="40" name="u_bumausagesonstim_prsworks" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="buma_usages_on_stim_prsworks" max_length="40" name="u_buma_usages_on_stim_prsworks" type="string"/>

@@ -3,7 +3,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>name</element>
-            <list_id display_value="sys_user" element="NULL" name="sys_user" parent="NULL" relationship="NULL" sys_domain="global" view="597f8b5fdb0614105e5783305b961917">69b817dbdb4614105e5783305b961921</list_id>
+            <list_id display_value="sys_user" element="NULL" name="sys_user" parent="NULL" relationship="NULL" sys_domain="global" view="ccb9463fdb5ce450a8088edf4b9619f4">69b817dbdb4614105e5783305b961921</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
@@ -18,7 +18,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>u_skill_group</element>
-            <list_id display_value="sys_user" element="NULL" name="sys_user" parent="NULL" relationship="NULL" sys_domain="global" view="597f8b5fdb0614105e5783305b961917">69b817dbdb4614105e5783305b961921</list_id>
+            <list_id display_value="sys_user" element="NULL" name="sys_user" parent="NULL" relationship="NULL" sys_domain="global" view="ccb9463fdb5ce450a8088edf4b9619f4">69b817dbdb4614105e5783305b961921</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
@@ -55,7 +55,7 @@
             <sys_updated_by>AnnAal</sys_updated_by>
             <sys_updated_on>2020-07-22 11:22:16</sys_updated_on>
             <sys_user/>
-            <view display_value="Rpt017f875fdb0614105e5783305b961909" name="RPT017f875fdb0614105e5783305b961909">597f8b5fdb0614105e5783305b961917</view>
+            <view display_value="Rpt017f875fdb0614105e5783305b961909" name="RPT017f875fdb0614105e5783305b961909">ccb9463fdb5ce450a8088edf4b9619f4</view>
             <view_name/>
         </sys_ui_list>
     </sys_ui_list>

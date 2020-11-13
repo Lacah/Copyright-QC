@@ -4,13 +4,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>AnnAal</sys_created_by>
-            <sys_created_on>2020-06-17 13:45:20</sys_created_on>
-            <sys_id>8cd9e780db65d490a8088edf4b961932</sys_id>
+            <sys_created_on>2020-11-13 07:15:02</sys_created_on>
+            <sys_id>1755ed88db6c2850a8088edf4b9619ed</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Core information" display_value="Core information" name="x_ipegh_copyright_qc" sys_domain="global" view="Default view">76277d5fdb8e3b00b26388805b96190b</sys_ui_section>
             <sys_updated_by>AnnAal</sys_updated_by>
-            <sys_updated_on>2020-06-17 13:45:20</sys_updated_on>
+            <sys_updated_on>2020-11-13 07:15:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>customer</element>
             <position>1</position>
             <sys_created_by>AnnAal</sys_created_by>
-            <sys_created_on>2020-06-17 13:45:20</sys_created_on>
-            <sys_id>04d9e780db65d490a8088edf4b961933</sys_id>
+            <sys_created_on>2020-11-13 07:15:02</sys_created_on>
+            <sys_id>db55ed88db6c2850a8088edf4b9619ed</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Core information" display_value="Core information" name="x_ipegh_copyright_qc" sys_domain="global" view="Default view">76277d5fdb8e3b00b26388805b96190b</sys_ui_section>
             <sys_updated_by>AnnAal</sys_updated_by>
-            <sys_updated_on>2020-06-17 13:45:20</sys_updated_on>
+            <sys_updated_on>2020-11-13 07:15:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>area</element>
             <position>2</position>
             <sys_created_by>AnnAal</sys_created_by>
-            <sys_created_on>2020-06-17 13:45:20</sys_created_on>
-            <sys_id>88d9e780db65d490a8088edf4b961933</sys_id>
+            <sys_created_on>2020-11-13 07:15:02</sys_created_on>
+            <sys_id>5f55ed88db6c2850a8088edf4b9619ed</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Core information" display_value="Core information" name="x_ipegh_copyright_qc" sys_domain="global" view="Default view">76277d5fdb8e3b00b26388805b96190b</sys_ui_section>
             <sys_updated_by>AnnAal</sys_updated_by>
-            <sys_updated_on>2020-06-17 13:45:20</sys_updated_on>
+            <sys_updated_on>2020-11-13 07:15:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>u_qc_subarea</element>
             <position>3</position>
             <sys_created_by>AnnAal</sys_created_by>
-            <sys_created_on>2020-06-17 13:45:20</sys_created_on>
-            <sys_id>00d9e780db65d490a8088edf4b961934</sys_id>
+            <sys_created_on>2020-11-13 07:15:02</sys_created_on>
+            <sys_id>df55ed88db6c2850a8088edf4b9619ed</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Core information" display_value="Core information" name="x_ipegh_copyright_qc" sys_domain="global" view="Default view">76277d5fdb8e3b00b26388805b96190b</sys_ui_section>
             <sys_updated_by>AnnAal</sys_updated_by>
-            <sys_updated_on>2020-06-17 13:45:20</sys_updated_on>
+            <sys_updated_on>2020-11-13 07:15:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,13 +60,13 @@
             <element>week</element>
             <position>4</position>
             <sys_created_by>AnnAal</sys_created_by>
-            <sys_created_on>2020-06-17 13:45:20</sys_created_on>
-            <sys_id>84d9e780db65d490a8088edf4b961934</sys_id>
+            <sys_created_on>2020-11-13 07:15:02</sys_created_on>
+            <sys_id>5355ed88db6c2850a8088edf4b9619ee</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Core information" display_value="Core information" name="x_ipegh_copyright_qc" sys_domain="global" view="Default view">76277d5fdb8e3b00b26388805b96190b</sys_ui_section>
             <sys_updated_by>AnnAal</sys_updated_by>
-            <sys_updated_on>2020-06-17 13:45:20</sys_updated_on>
+            <sys_updated_on>2020-11-13 07:15:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -74,13 +74,13 @@
             <element>date</element>
             <position>5</position>
             <sys_created_by>AnnAal</sys_created_by>
-            <sys_created_on>2020-06-17 13:45:20</sys_created_on>
-            <sys_id>0cd9e780db65d490a8088edf4b961934</sys_id>
+            <sys_created_on>2020-11-13 07:15:02</sys_created_on>
+            <sys_id>d355ed88db6c2850a8088edf4b9619ee</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Core information" display_value="Core information" name="x_ipegh_copyright_qc" sys_domain="global" view="Default view">76277d5fdb8e3b00b26388805b96190b</sys_ui_section>
             <sys_updated_by>AnnAal</sys_updated_by>
-            <sys_updated_on>2020-06-17 13:45:20</sys_updated_on>
+            <sys_updated_on>2020-11-13 07:15:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -88,13 +88,13 @@
             <element>user</element>
             <position>6</position>
             <sys_created_by>AnnAal</sys_created_by>
-            <sys_created_on>2020-06-17 13:45:20</sys_created_on>
-            <sys_id>80d9e780db65d490a8088edf4b961935</sys_id>
+            <sys_created_on>2020-11-13 07:15:02</sys_created_on>
+            <sys_id>5755ed88db6c2850a8088edf4b9619ee</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Core information" display_value="Core information" name="x_ipegh_copyright_qc" sys_domain="global" view="Default view">76277d5fdb8e3b00b26388805b96190b</sys_ui_section>
             <sys_updated_by>AnnAal</sys_updated_by>
-            <sys_updated_on>2020-06-17 13:45:20</sys_updated_on>
+            <sys_updated_on>2020-11-13 07:15:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -102,13 +102,13 @@
             <element>counterclaim_id</element>
             <position>7</position>
             <sys_created_by>AnnAal</sys_created_by>
-            <sys_created_on>2020-06-17 13:45:20</sys_created_on>
-            <sys_id>08d9e780db65d490a8088edf4b961935</sys_id>
+            <sys_created_on>2020-11-13 07:15:02</sys_created_on>
+            <sys_id>d755ed88db6c2850a8088edf4b9619ee</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Core information" display_value="Core information" name="x_ipegh_copyright_qc" sys_domain="global" view="Default view">76277d5fdb8e3b00b26388805b96190b</sys_ui_section>
             <sys_updated_by>AnnAal</sys_updated_by>
-            <sys_updated_on>2020-06-17 13:45:20</sys_updated_on>
+            <sys_updated_on>2020-11-13 07:15:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -116,13 +116,13 @@
             <element>u_1st_external_ref_code</element>
             <position>8</position>
             <sys_created_by>AnnAal</sys_created_by>
-            <sys_created_on>2020-06-17 13:45:20</sys_created_on>
-            <sys_id>8cd9e780db65d490a8088edf4b961935</sys_id>
+            <sys_created_on>2020-11-13 07:15:02</sys_created_on>
+            <sys_id>5b55ed88db6c2850a8088edf4b9619ee</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Core information" display_value="Core information" name="x_ipegh_copyright_qc" sys_domain="global" view="Default view">76277d5fdb8e3b00b26388805b96190b</sys_ui_section>
             <sys_updated_by>AnnAal</sys_updated_by>
-            <sys_updated_on>2020-06-17 13:45:20</sys_updated_on>
+            <sys_updated_on>2020-11-13 07:15:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -130,13 +130,13 @@
             <element>link_to_ur</element>
             <position>9</position>
             <sys_created_by>AnnAal</sys_created_by>
-            <sys_created_on>2020-06-17 13:45:20</sys_created_on>
-            <sys_id>04d9e780db65d490a8088edf4b961936</sys_id>
+            <sys_created_on>2020-11-13 07:15:02</sys_created_on>
+            <sys_id>db55ed88db6c2850a8088edf4b9619ee</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Core information" display_value="Core information" name="x_ipegh_copyright_qc" sys_domain="global" view="Default view">76277d5fdb8e3b00b26388805b96190b</sys_ui_section>
             <sys_updated_by>AnnAal</sys_updated_by>
-            <sys_updated_on>2020-06-17 13:45:20</sys_updated_on>
+            <sys_updated_on>2020-11-13 07:15:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -144,13 +144,13 @@
             <element>workkey</element>
             <position>10</position>
             <sys_created_by>AnnAal</sys_created_by>
-            <sys_created_on>2020-06-17 13:45:20</sys_created_on>
-            <sys_id>88d9e780db65d490a8088edf4b961936</sys_id>
+            <sys_created_on>2020-11-13 07:15:02</sys_created_on>
+            <sys_id>5f55ed88db6c2850a8088edf4b9619ee</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Core information" display_value="Core information" name="x_ipegh_copyright_qc" sys_domain="global" view="Default view">76277d5fdb8e3b00b26388805b96190b</sys_ui_section>
             <sys_updated_by>AnnAal</sys_updated_by>
-            <sys_updated_on>2020-06-17 13:45:20</sys_updated_on>
+            <sys_updated_on>2020-11-13 07:15:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -158,13 +158,13 @@
             <element>u_rok_url</element>
             <position>11</position>
             <sys_created_by>AnnAal</sys_created_by>
-            <sys_created_on>2020-06-17 13:45:20</sys_created_on>
-            <sys_id>00d9e780db65d490a8088edf4b961937</sys_id>
+            <sys_created_on>2020-11-13 07:15:02</sys_created_on>
+            <sys_id>df55ed88db6c2850a8088edf4b9619ee</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Core information" display_value="Core information" name="x_ipegh_copyright_qc" sys_domain="global" view="Default view">76277d5fdb8e3b00b26388805b96190b</sys_ui_section>
             <sys_updated_by>AnnAal</sys_updated_by>
-            <sys_updated_on>2020-06-17 13:45:20</sys_updated_on>
+            <sys_updated_on>2020-11-13 07:15:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -172,13 +172,13 @@
             <element>agreement_key</element>
             <position>12</position>
             <sys_created_by>AnnAal</sys_created_by>
-            <sys_created_on>2020-06-17 13:45:20</sys_created_on>
-            <sys_id>84d9e780db65d490a8088edf4b961937</sys_id>
+            <sys_created_on>2020-11-13 07:15:02</sys_created_on>
+            <sys_id>1b55ed88db6c2850a8088edf4b9619fb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Core information" display_value="Core information" name="x_ipegh_copyright_qc" sys_domain="global" view="Default view">76277d5fdb8e3b00b26388805b96190b</sys_ui_section>
             <sys_updated_by>AnnAal</sys_updated_by>
-            <sys_updated_on>2020-06-17 13:45:20</sys_updated_on>
+            <sys_updated_on>2020-11-13 07:15:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -186,13 +186,13 @@
             <element>.split</element>
             <position>13</position>
             <sys_created_by>AnnAal</sys_created_by>
-            <sys_created_on>2020-06-17 13:45:20</sys_created_on>
-            <sys_id>0cd9e780db65d490a8088edf4b961937</sys_id>
+            <sys_created_on>2020-11-13 07:15:02</sys_created_on>
+            <sys_id>9b55ed88db6c2850a8088edf4b9619fb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Core information" display_value="Core information" name="x_ipegh_copyright_qc" sys_domain="global" view="Default view">76277d5fdb8e3b00b26388805b96190b</sys_ui_section>
             <sys_updated_by>AnnAal</sys_updated_by>
-            <sys_updated_on>2020-06-17 13:45:20</sys_updated_on>
+            <sys_updated_on>2020-11-13 07:15:02</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -200,13 +200,13 @@
             <element>assigned_to</element>
             <position>14</position>
             <sys_created_by>AnnAal</sys_created_by>
-            <sys_created_on>2020-06-17 13:45:20</sys_created_on>
-            <sys_id>80d9e780db65d490a8088edf4b961938</sys_id>
+            <sys_created_on>2020-11-13 07:15:02</sys_created_on>
+            <sys_id>1f55ed88db6c2850a8088edf4b9619fb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Core information" display_value="Core information" name="x_ipegh_copyright_qc" sys_domain="global" view="Default view">76277d5fdb8e3b00b26388805b96190b</sys_ui_section>
             <sys_updated_by>AnnAal</sys_updated_by>
-            <sys_updated_on>2020-06-17 13:45:20</sys_updated_on>
+            <sys_updated_on>2020-11-13 07:15:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -214,13 +214,13 @@
             <element>approval</element>
             <position>15</position>
             <sys_created_by>AnnAal</sys_created_by>
-            <sys_created_on>2020-06-17 13:45:20</sys_created_on>
-            <sys_id>08d9e780db65d490a8088edf4b961938</sys_id>
+            <sys_created_on>2020-11-13 07:15:02</sys_created_on>
+            <sys_id>9f55ed88db6c2850a8088edf4b9619fb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Core information" display_value="Core information" name="x_ipegh_copyright_qc" sys_domain="global" view="Default view">76277d5fdb8e3b00b26388805b96190b</sys_ui_section>
             <sys_updated_by>AnnAal</sys_updated_by>
-            <sys_updated_on>2020-06-17 13:45:20</sys_updated_on>
+            <sys_updated_on>2020-11-13 07:15:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -228,13 +228,13 @@
             <element>state</element>
             <position>16</position>
             <sys_created_by>AnnAal</sys_created_by>
-            <sys_created_on>2020-06-17 13:45:20</sys_created_on>
-            <sys_id>8cd9e780db65d490a8088edf4b961938</sys_id>
+            <sys_created_on>2020-11-13 07:15:02</sys_created_on>
+            <sys_id>1355ed88db6c2850a8088edf4b9619fc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Core information" display_value="Core information" name="x_ipegh_copyright_qc" sys_domain="global" view="Default view">76277d5fdb8e3b00b26388805b96190b</sys_ui_section>
             <sys_updated_by>AnnAal</sys_updated_by>
-            <sys_updated_on>2020-06-17 13:45:20</sys_updated_on>
+            <sys_updated_on>2020-11-13 07:15:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -242,83 +242,83 @@
             <element>type</element>
             <position>17</position>
             <sys_created_by>AnnAal</sys_created_by>
-            <sys_created_on>2020-06-17 13:45:20</sys_created_on>
-            <sys_id>04d9e780db65d490a8088edf4b961939</sys_id>
+            <sys_created_on>2020-11-13 07:15:02</sys_created_on>
+            <sys_id>9355ed88db6c2850a8088edf4b9619fc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Core information" display_value="Core information" name="x_ipegh_copyright_qc" sys_domain="global" view="Default view">76277d5fdb8e3b00b26388805b96190b</sys_ui_section>
             <sys_updated_by>AnnAal</sys_updated_by>
-            <sys_updated_on>2020-06-17 13:45:20</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>cue_work</element>
-            <position>18</position>
-            <sys_created_by>AnnAal</sys_created_by>
-            <sys_created_on>2020-06-17 13:45:20</sys_created_on>
-            <sys_id>88d9e780db65d490a8088edf4b961939</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Core information" display_value="Core information" name="x_ipegh_copyright_qc" sys_domain="global" view="Default view">76277d5fdb8e3b00b26388805b96190b</sys_ui_section>
-            <sys_updated_by>AnnAal</sys_updated_by>
-            <sys_updated_on>2020-06-17 13:45:20</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_corrected</element>
-            <position>19</position>
-            <sys_created_by>AnnAal</sys_created_by>
-            <sys_created_on>2020-06-17 13:45:20</sys_created_on>
-            <sys_id>00d9e780db65d490a8088edf4b96193a</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Core information" display_value="Core information" name="x_ipegh_copyright_qc" sys_domain="global" view="Default view">76277d5fdb8e3b00b26388805b96190b</sys_ui_section>
-            <sys_updated_by>AnnAal</sys_updated_by>
-            <sys_updated_on>2020-06-17 13:45:20</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>closed_at</element>
-            <position>20</position>
-            <sys_created_by>AnnAal</sys_created_by>
-            <sys_created_on>2020-06-17 13:45:20</sys_created_on>
-            <sys_id>84d9e780db65d490a8088edf4b96193a</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Core information" display_value="Core information" name="x_ipegh_copyright_qc" sys_domain="global" view="Default view">76277d5fdb8e3b00b26388805b96190b</sys_ui_section>
-            <sys_updated_by>AnnAal</sys_updated_by>
-            <sys_updated_on>2020-06-17 13:45:20</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>closed_by</element>
-            <position>21</position>
-            <sys_created_by>AnnAal</sys_created_by>
-            <sys_created_on>2020-06-17 13:45:20</sys_created_on>
-            <sys_id>0cd9e780db65d490a8088edf4b96193a</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Core information" display_value="Core information" name="x_ipegh_copyright_qc" sys_domain="global" view="Default view">76277d5fdb8e3b00b26388805b96190b</sys_ui_section>
-            <sys_updated_by>AnnAal</sys_updated_by>
-            <sys_updated_on>2020-06-17 13:45:20</sys_updated_on>
+            <sys_updated_on>2020-11-13 07:15:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_error_found_at</element>
-            <position>22</position>
+            <position>18</position>
             <sys_created_by>AnnAal</sys_created_by>
-            <sys_created_on>2020-06-17 13:45:20</sys_created_on>
-            <sys_id>80d9e780db65d490a8088edf4b96193b</sys_id>
+            <sys_created_on>2020-11-13 07:15:02</sys_created_on>
+            <sys_id>1755ed88db6c2850a8088edf4b9619fc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Core information" display_value="Core information" name="x_ipegh_copyright_qc" sys_domain="global" view="Default view">76277d5fdb8e3b00b26388805b96190b</sys_ui_section>
             <sys_updated_by>AnnAal</sys_updated_by>
-            <sys_updated_on>2020-06-17 13:45:20</sys_updated_on>
+            <sys_updated_on>2020-11-13 07:15:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cue_work</element>
+            <position>19</position>
+            <sys_created_by>AnnAal</sys_created_by>
+            <sys_created_on>2020-11-13 07:15:02</sys_created_on>
+            <sys_id>9755ed88db6c2850a8088edf4b9619fc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Core information" display_value="Core information" name="x_ipegh_copyright_qc" sys_domain="global" view="Default view">76277d5fdb8e3b00b26388805b96190b</sys_ui_section>
+            <sys_updated_by>AnnAal</sys_updated_by>
+            <sys_updated_on>2020-11-13 07:15:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_corrected</element>
+            <position>20</position>
+            <sys_created_by>AnnAal</sys_created_by>
+            <sys_created_on>2020-11-13 07:15:02</sys_created_on>
+            <sys_id>1b55ed88db6c2850a8088edf4b9619fc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Core information" display_value="Core information" name="x_ipegh_copyright_qc" sys_domain="global" view="Default view">76277d5fdb8e3b00b26388805b96190b</sys_ui_section>
+            <sys_updated_by>AnnAal</sys_updated_by>
+            <sys_updated_on>2020-11-13 07:15:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>closed_at</element>
+            <position>21</position>
+            <sys_created_by>AnnAal</sys_created_by>
+            <sys_created_on>2020-11-13 07:15:02</sys_created_on>
+            <sys_id>9b55ed88db6c2850a8088edf4b9619fc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Core information" display_value="Core information" name="x_ipegh_copyright_qc" sys_domain="global" view="Default view">76277d5fdb8e3b00b26388805b96190b</sys_ui_section>
+            <sys_updated_by>AnnAal</sys_updated_by>
+            <sys_updated_on>2020-11-13 07:15:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>closed_by</element>
+            <position>22</position>
+            <sys_created_by>AnnAal</sys_created_by>
+            <sys_created_on>2020-11-13 07:15:02</sys_created_on>
+            <sys_id>1f55ed88db6c2850a8088edf4b9619fc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Core information" display_value="Core information" name="x_ipegh_copyright_qc" sys_domain="global" view="Default view">76277d5fdb8e3b00b26388805b96190b</sys_ui_section>
+            <sys_updated_by>AnnAal</sys_updated_by>
+            <sys_updated_on>2020-11-13 07:15:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -326,13 +326,13 @@
             <element>u_meta_qc</element>
             <position>23</position>
             <sys_created_by>AnnAal</sys_created_by>
-            <sys_created_on>2020-06-17 13:45:20</sys_created_on>
-            <sys_id>08d9e780db65d490a8088edf4b96193b</sys_id>
+            <sys_created_on>2020-11-13 07:15:02</sys_created_on>
+            <sys_id>9f55ed88db6c2850a8088edf4b9619fc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Core information" display_value="Core information" name="x_ipegh_copyright_qc" sys_domain="global" view="Default view">76277d5fdb8e3b00b26388805b96190b</sys_ui_section>
             <sys_updated_by>AnnAal</sys_updated_by>
-            <sys_updated_on>2020-06-17 13:45:20</sys_updated_on>
+            <sys_updated_on>2020-11-13 07:15:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -340,13 +340,13 @@
             <element>.end_split</element>
             <position>24</position>
             <sys_created_by>AnnAal</sys_created_by>
-            <sys_created_on>2020-06-17 13:45:20</sys_created_on>
-            <sys_id>8cd9e780db65d490a8088edf4b96193b</sys_id>
+            <sys_created_on>2020-11-13 07:15:02</sys_created_on>
+            <sys_id>1355ed88db6c2850a8088edf4b9619fd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Core information" display_value="Core information" name="x_ipegh_copyright_qc" sys_domain="global" view="Default view">76277d5fdb8e3b00b26388805b96190b</sys_ui_section>
             <sys_updated_by>AnnAal</sys_updated_by>
-            <sys_updated_on>2020-06-17 13:45:20</sys_updated_on>
+            <sys_updated_on>2020-11-13 07:15:02</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
@@ -354,13 +354,13 @@
             <element>description</element>
             <position>25</position>
             <sys_created_by>AnnAal</sys_created_by>
-            <sys_created_on>2020-06-17 13:45:20</sys_created_on>
-            <sys_id>04d9e780db65d490a8088edf4b96193c</sys_id>
+            <sys_created_on>2020-11-13 07:15:02</sys_created_on>
+            <sys_id>9355ed88db6c2850a8088edf4b9619fd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Core information" display_value="Core information" name="x_ipegh_copyright_qc" sys_domain="global" view="Default view">76277d5fdb8e3b00b26388805b96190b</sys_ui_section>
             <sys_updated_by>AnnAal</sys_updated_by>
-            <sys_updated_on>2020-06-17 13:45:20</sys_updated_on>
+            <sys_updated_on>2020-11-13 07:15:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

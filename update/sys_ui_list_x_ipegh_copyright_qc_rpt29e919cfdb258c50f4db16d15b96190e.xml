@@ -3,7 +3,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>number</element>
-            <list_id display_value="x_ipegh_copyright_qc" element="NULL" name="x_ipegh_copyright_qc" parent="NULL" relationship="NULL" sys_domain="global" view="25e919cfdb258c50f4db16d15b961913">afd2a14fdb658c50f4db16d15b9619ee</list_id>
+            <list_id display_value="x_ipegh_copyright_qc" element="NULL" name="x_ipegh_copyright_qc" parent="NULL" relationship="NULL" sys_domain="global" view="2b1ed2fbdbdce450a8088edf4b961909">afd2a14fdb658c50f4db16d15b9619ee</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
@@ -18,7 +18,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>u_1st_external_ref_code</element>
-            <list_id display_value="x_ipegh_copyright_qc" element="NULL" name="x_ipegh_copyright_qc" parent="NULL" relationship="NULL" sys_domain="global" view="25e919cfdb258c50f4db16d15b961913">afd2a14fdb658c50f4db16d15b9619ee</list_id>
+            <list_id display_value="x_ipegh_copyright_qc" element="NULL" name="x_ipegh_copyright_qc" parent="NULL" relationship="NULL" sys_domain="global" view="2b1ed2fbdbdce450a8088edf4b961909">afd2a14fdb658c50f4db16d15b9619ee</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
@@ -33,7 +33,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>state</element>
-            <list_id display_value="x_ipegh_copyright_qc" element="NULL" name="x_ipegh_copyright_qc" parent="NULL" relationship="NULL" sys_domain="global" view="25e919cfdb258c50f4db16d15b961913">afd2a14fdb658c50f4db16d15b9619ee</list_id>
+            <list_id display_value="x_ipegh_copyright_qc" element="NULL" name="x_ipegh_copyright_qc" parent="NULL" relationship="NULL" sys_domain="global" view="2b1ed2fbdbdce450a8088edf4b961909">afd2a14fdb658c50f4db16d15b9619ee</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
@@ -48,7 +48,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>customer</element>
-            <list_id display_value="x_ipegh_copyright_qc" element="NULL" name="x_ipegh_copyright_qc" parent="NULL" relationship="NULL" sys_domain="global" view="25e919cfdb258c50f4db16d15b961913">afd2a14fdb658c50f4db16d15b9619ee</list_id>
+            <list_id display_value="x_ipegh_copyright_qc" element="NULL" name="x_ipegh_copyright_qc" parent="NULL" relationship="NULL" sys_domain="global" view="2b1ed2fbdbdce450a8088edf4b961909">afd2a14fdb658c50f4db16d15b9619ee</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
@@ -63,7 +63,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>number_of_checked_items</element>
-            <list_id display_value="x_ipegh_copyright_qc" element="NULL" name="x_ipegh_copyright_qc" parent="NULL" relationship="NULL" sys_domain="global" view="25e919cfdb258c50f4db16d15b961913">afd2a14fdb658c50f4db16d15b9619ee</list_id>
+            <list_id display_value="x_ipegh_copyright_qc" element="NULL" name="x_ipegh_copyright_qc" parent="NULL" relationship="NULL" sys_domain="global" view="2b1ed2fbdbdce450a8088edf4b961909">afd2a14fdb658c50f4db16d15b9619ee</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
@@ -100,7 +100,7 @@
             <sys_updated_by>LasBal</sys_updated_by>
             <sys_updated_on>2019-12-10 15:26:22</sys_updated_on>
             <sys_user/>
-            <view display_value="Rpt29e919cfdb258c50f4db16d15b96190e" name="RPT29e919cfdb258c50f4db16d15b96190e">25e919cfdb258c50f4db16d15b961913</view>
+            <view display_value="Rpt29e919cfdb258c50f4db16d15b96190e" name="RPT29e919cfdb258c50f4db16d15b96190e">2b1ed2fbdbdce450a8088edf4b961909</view>
             <view_name/>
         </sys_ui_list>
     </sys_ui_list>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element attributes="hasLabels=true,live_feed=true" audit="true" extends="task" label="Copyright QC task" max_length="40" name="x_ipegh_copyright_qc" sizeclass="20766" type="collection">
+    <element attributes="hasLabels=true,live_feed=true" audit="true" extends="task" label="Copyright QC task" max_length="40" name="x_ipegh_copyright_qc" type="collection">
         <element label="Agreement Key" max_length="70" name="agreement_key" type="string"/>
         <element choice="1" label="Area" max_length="40" name="area" read_only="true" type="choice">
             <choice>
@@ -58,12 +58,12 @@
         </element>
         <element label="User" max_length="32" name="user" reference="sys_user" type="reference"/>
         <element label="Corrected" max_length="40" name="u_corrected" type="boolean"/>
-        <element active="false" calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" choice="1" label="Cue Work" max_length="50" name="u_cue_work" read_only="true" type="choice">
+        <element active="false" choice="1" label="Cue Work" max_length="50" name="u_cue_work" read_only="true" type="choice">
             <choice/>
         </element>
         <element label="Error found at" max_length="40" name="u_error_found_at" type="glide_date_time"/>
         <element label="Items copyright / reporting errors" max_length="40" name="u_items_errors" type="integer"/>
-        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" choice="1" label="Meta QC" max_length="50" name="u_meta_qc" type="choice">
+        <element choice="1" label="Meta QC" max_length="50" name="u_meta_qc" type="choice">
             <choice>
                 <element inactive_on_update="false" label="To be checked" sequence="10" u_core_customer_selectable="false" u_customer_visible="false" u_option_3_customer_selectable="false" value="To be checked"/>
                 <element inactive_on_update="false" label="Correct" sequence="20" u_core_customer_selectable="false" u_customer_visible="false" u_option_3_customer_selectable="false" value="Correct"/>
