@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="UR items" max_length="40" name="x_ipegh_copyright_additional_item_errors" type="collection">
+    <element label="UR items" max_length="40" name="x_ipegh_copyright_additional_item_errors" sizeclass="0" type="collection">
         <element label="Comment" max_length="1023" name="comment" type="string"/>
         <element label="Corrected" max_length="40" name="corrected" type="boolean"/>
         <element choice="1" choice_field="state" label="State" max_length="40" name="error_category" type="integer">

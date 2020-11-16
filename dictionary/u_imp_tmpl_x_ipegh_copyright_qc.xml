@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="sys_import_set_row" label="Imp Tmpl X Ipegh Copyright Qc" max_length="40" name="u_imp_tmpl_x_ipegh_copyright_qc" type="collection">
+    <element extends="sys_import_set_row" label="Imp Tmpl X Ipegh Copyright Qc" max_length="40" name="u_imp_tmpl_x_ipegh_copyright_qc" sizeclass="414" type="collection">
         <element attributes="edge_encryption_enabled=true,import_attribute_name=2nd external ref code" label="2nd external ref code" max_length="40" name="u_2nd_external_ref_code" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Active" label="Active" max_length="40" name="u_active" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Actual end" label="Actual end" max_length="40" name="u_actual_end" type="string"/>
