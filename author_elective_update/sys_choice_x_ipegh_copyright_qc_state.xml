@@ -25,6 +25,7 @@
             <language>en</language>
             <name>x_ipegh_copyright_qc</name>
             <sequence>0</sequence>
+            <synonyms/>
             <sys_created_by>LasBal</sys_created_by>
             <sys_created_on>2019-06-20 14:16:36</sys_created_on>
             <sys_domain>global</sys_domain>
@@ -49,6 +50,7 @@
             <language>en</language>
             <name>x_ipegh_copyright_qc</name>
             <sequence>1</sequence>
+            <synonyms/>
             <sys_created_by>LasBal</sys_created_by>
             <sys_created_on>2019-06-20 14:12:33</sys_created_on>
             <sys_domain>global</sys_domain>
@@ -73,6 +75,7 @@
             <language>en</language>
             <name>x_ipegh_copyright_qc</name>
             <sequence>2</sequence>
+            <synonyms/>
             <sys_created_by>LasBal</sys_created_by>
             <sys_created_on>2019-06-20 14:13:08</sys_created_on>
             <sys_domain>global</sys_domain>
@@ -97,6 +100,7 @@
             <language>en</language>
             <name>x_ipegh_copyright_qc</name>
             <sequence>3</sequence>
+            <synonyms/>
             <sys_created_by>LasBal</sys_created_by>
             <sys_created_on>2019-06-20 14:13:31</sys_created_on>
             <sys_domain>global</sys_domain>
@@ -121,6 +125,7 @@
             <language>en</language>
             <name>x_ipegh_copyright_qc</name>
             <sequence>4</sequence>
+            <synonyms/>
             <sys_created_by>LasBal</sys_created_by>
             <sys_created_on>2019-06-20 14:13:44</sys_created_on>
             <sys_domain>global</sys_domain>

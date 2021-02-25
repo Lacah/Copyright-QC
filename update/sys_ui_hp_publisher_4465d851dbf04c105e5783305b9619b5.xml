@@ -19,6 +19,7 @@
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </reference_conditions>
         <reference_table>sys_user</reference_table>
+        <remove_all_option>false</remove_all_option>
         <source_field>user</source_field>
         <source_table>x_ipegh_copyright_qc</source_table>
         <sys_class_name>sys_ui_hp_publisher</sys_class_name>

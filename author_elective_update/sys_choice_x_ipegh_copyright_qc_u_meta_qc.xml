@@ -6,7 +6,7 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>AnnAal</sys_created_by>
             <sys_created_on>2019-12-16 10:46:51</sys_created_on>
-            <sys_id>a76cdb78dbb94490f4db16d15b961909</sys_id>
+            <sys_id>fa1b9559db626410a8088edf4b961967</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>u_meta_qc</sys_name>
             <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
@@ -25,6 +25,7 @@
             <language>en</language>
             <name>x_ipegh_copyright_qc</name>
             <sequence>10</sequence>
+            <synonyms/>
             <sys_created_by>AnnAal</sys_created_by>
             <sys_created_on>2019-12-16 10:46:51</sys_created_on>
             <sys_domain>global</sys_domain>
@@ -49,6 +50,7 @@
             <language>en</language>
             <name>x_ipegh_copyright_qc</name>
             <sequence>20</sequence>
+            <synonyms/>
             <sys_created_by>AnnAal</sys_created_by>
             <sys_created_on>2019-12-16 10:47:06</sys_created_on>
             <sys_domain>global</sys_domain>
@@ -73,6 +75,7 @@
             <language>en</language>
             <name>x_ipegh_copyright_qc</name>
             <sequence>30</sequence>
+            <synonyms/>
             <sys_created_by>AnnAal</sys_created_by>
             <sys_created_on>2019-12-16 10:47:16</sys_created_on>
             <sys_domain>global</sys_domain>

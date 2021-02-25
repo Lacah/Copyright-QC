@@ -15,6 +15,7 @@
         <name>Month</name>
         <reference_conditions/>
         <reference_table/>
+        <remove_all_option>false</remove_all_option>
         <source_field/>
         <source_table/>
         <sys_class_name>sys_ui_hp_publisher</sys_class_name>

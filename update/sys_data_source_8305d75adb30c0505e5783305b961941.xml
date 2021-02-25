@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_source">
     <sys_data_source action="INSERT_OR_UPDATE">
+        <batch_size>1000</batch_size>
         <category/>
         <connection_timeout>0</connection_timeout>
         <connection_url>attachment://sys_data_source:8305d75adb30c0505e5783305b961941/x_ipegh_copyright_qc_datefix.xlsx</connection_url>
@@ -11,8 +12,6 @@
 	// Add your code here to insert data to import_set_table
 
 })(import_set_table);]]></data_loader>
-        <data_stream_action/>
-        <data_stream_action_inputs/>
         <database_name/>
         <database_port/>
         <discard_arrays>true</discard_arrays>
@@ -69,10 +68,10 @@
         <sys_updated_on>2019-11-01 09:02:42</sys_updated_on>
         <table_name/>
         <type>File</type>
+        <use_batch_import>false</use_batch_import>
         <use_integrated_authentication>false</use_integrated_authentication>
         <use_last_run_datetime>false</use_last_run_datetime>
         <xpath_root_node/>
         <zipped>false</zipped>
     </sys_data_source>
-    <sys_variable_value action="delete_multiple" query="document_key=8305d75adb30c0505e5783305b961941"/>
 </record_update>

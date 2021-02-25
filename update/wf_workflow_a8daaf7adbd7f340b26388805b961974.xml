@@ -172,7 +172,7 @@
 //      return 'no';&#13;
 //   }&#13;
 </value>
-        <variable display_value="">c35e50810a0a0ba96248a709b450fc32</variable>
+        <variable display_value="Script">c35e50810a0a0ba96248a709b450fc32</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -186,7 +186,7 @@
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value>0</value>
-        <variable display_value="">493d2c1d0a6a803f3217a75738ea3289</variable>
+        <variable display_value="Advanced">493d2c1d0a6a803f3217a75738ea3289</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -200,7 +200,7 @@
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value>u_corrected=true^ORstate=8^ORstate=-1^EQ</value>
-        <variable display_value="">493cba6a0a6a803f07df24b118473551</variable>
+        <variable display_value="Condition">493cba6a0a6a803f07df24b118473551</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -214,7 +214,7 @@
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value>u_corrected=true^ORstate=8^ORstate=-1^EQ</value>
-        <variable display_value="">493cba6a0a6a803f07df24b118473551</variable>
+        <variable display_value="Condition">493cba6a0a6a803f07df24b118473551</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -228,7 +228,7 @@
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value>0</value>
-        <variable display_value="">493d2c1d0a6a803f3217a75738ea3289</variable>
+        <variable display_value="Advanced">493d2c1d0a6a803f3217a75738ea3289</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -254,7 +254,7 @@
 //      return 'no';&#13;
 //   }&#13;
 </value>
-        <variable display_value="">c35e50810a0a0ba96248a709b450fc32</variable>
+        <variable display_value="Script">c35e50810a0a0ba96248a709b450fc32</variable>
     </sys_variable_value>
     <wf_condition action="INSERT_OR_UPDATE">
         <activity display_value="Check for Corrected = true or State = Correct/To be checked">443b07fddb56c414f4db16d15b961964</activity>
@@ -339,7 +339,7 @@
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value>u_corrected=true^ORstate=8^ORstate=-1^EQ</value>
-        <variable display_value="">493cba6a0a6a803f07df24b118473551</variable>
+        <variable display_value="Condition">493cba6a0a6a803f07df24b118473551</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -365,7 +365,7 @@
 //      return 'no';&#13;
 //   }&#13;
 </value>
-        <variable display_value="">c35e50810a0a0ba96248a709b450fc32</variable>
+        <variable display_value="Script">c35e50810a0a0ba96248a709b450fc32</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -379,7 +379,7 @@
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value>0</value>
-        <variable display_value="">493d2c1d0a6a803f3217a75738ea3289</variable>
+        <variable display_value="Advanced">493d2c1d0a6a803f3217a75738ea3289</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -393,7 +393,7 @@
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value>u_corrected=true^ORstate=8^ORstate=-1^EQ</value>
-        <variable display_value="">493cba6a0a6a803f07df24b118473551</variable>
+        <variable display_value="Condition">493cba6a0a6a803f07df24b118473551</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -407,7 +407,7 @@
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value>0</value>
-        <variable display_value="">493d2c1d0a6a803f3217a75738ea3289</variable>
+        <variable display_value="Advanced">493d2c1d0a6a803f3217a75738ea3289</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -433,7 +433,7 @@
 //      return 'no';&#13;
 //   }&#13;
 </value>
-        <variable display_value="">c35e50810a0a0ba96248a709b450fc32</variable>
+        <variable display_value="Script">c35e50810a0a0ba96248a709b450fc32</variable>
     </sys_variable_value>
     <wf_condition action="INSERT_OR_UPDATE">
         <activity display_value="Check for Corrected = true or State = Correct/To be checked">8c3b07fddb56c414f4db16d15b961967</activity>
@@ -559,7 +559,7 @@
 	return current.user;&#13;
 	}&#13;
 }());</value>
-        <variable display_value="">c35dd0310a0a0ba96248a70936d276b3</variable>
+        <variable display_value="Parameter 1">c35dd0310a0a0ba96248a70936d276b3</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -573,7 +573,7 @@
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value>3261fb32db1bf340b26388805b961975</value>
-        <variable display_value="">c35dcc7a0a0a0ba96248a70926fa68b5</variable>
+        <variable display_value="Event name">c35dcc7a0a0a0ba96248a70926fa68b5</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -590,7 +590,7 @@
 	// return the value to use for Parameter 2&#13;
 	return "";&#13;
 }());</value>
-        <variable display_value="">c35dd3ef0a0a0ba96248a70947e35325</variable>
+        <variable display_value="Parameter 2">c35dd3ef0a0a0ba96248a70947e35325</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -604,7 +604,7 @@
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value>3261fb32db1bf340b26388805b961975</value>
-        <variable display_value="">c35dcc7a0a0a0ba96248a70926fa68b5</variable>
+        <variable display_value="Event name">c35dcc7a0a0a0ba96248a70926fa68b5</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -630,7 +630,7 @@
 	return current.user;&#13;
 	}&#13;
 }());</value>
-        <variable display_value="">c35dd0310a0a0ba96248a70936d276b3</variable>
+        <variable display_value="Parameter 1">c35dd0310a0a0ba96248a70936d276b3</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -647,7 +647,7 @@
 	// return the value to use for Parameter 2&#13;
 	return "";&#13;
 }());</value>
-        <variable display_value="">c35dd3ef0a0a0ba96248a70947e35325</variable>
+        <variable display_value="Parameter 2">c35dd3ef0a0a0ba96248a70947e35325</variable>
     </sys_variable_value>
     <wf_condition action="INSERT_OR_UPDATE">
         <activity display_value="Notify User">c83b07fddb56c414f4db16d15b961962</activity>
@@ -735,7 +735,7 @@ Error found at: ${u_error_found_at}&#13;
 ${mail_script:qc_record_link_button}&#13;
 &#13;
 Please do not reply to this email.</value>
-        <variable display_value="">c35db5a50a0a0ba96248a70938ae8de6</variable>
+        <variable display_value="Message">c35db5a50a0a0ba96248a70938ae8de6</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -761,7 +761,7 @@ Please do not reply to this email.</value>
 	}&#13;
 }());&#13;
 </value>
-        <variable display_value="">c35dae3d0a0a0ba96248a7098ed9b4aa</variable>
+        <variable display_value="To (script)">c35dae3d0a0a0ba96248a7098ed9b4aa</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -775,7 +775,7 @@ Please do not reply to this email.</value>
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value>1</value>
-        <variable display_value="">6d6816cd0a6a803f0853a8df38007572</variable>
+        <variable display_value="Advanced">6d6816cd0a6a803f0853a8df38007572</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -789,7 +789,7 @@ Please do not reply to this email.</value>
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value>${user},${assigned_to},${user.manager}</value>
-        <variable display_value="">c35daa890a0a0ba96248a709c32994d6</variable>
+        <variable display_value="To">c35daa890a0a0ba96248a709c32994d6</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -803,7 +803,7 @@ Please do not reply to this email.</value>
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value/>
-        <variable display_value="">ae2121c70a0a0b3459708c9a60cd7312</variable>
+        <variable display_value="To (groups)">ae2121c70a0a0b3459708c9a60cd7312</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -817,7 +817,7 @@ Please do not reply to this email.</value>
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value>Reminder to amend your QC error on ${number}</value>
-        <variable display_value="">c35db2180a0a0ba96248a709d1b6df20</variable>
+        <variable display_value="Subject">c35db2180a0a0ba96248a709d1b6df20</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -831,7 +831,7 @@ Please do not reply to this email.</value>
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value>${user},${assigned_to},${user.manager}</value>
-        <variable display_value="">c35daa890a0a0ba96248a709c32994d6</variable>
+        <variable display_value="To">c35daa890a0a0ba96248a709c32994d6</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -845,7 +845,7 @@ Please do not reply to this email.</value>
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value/>
-        <variable display_value="">ae2121c70a0a0b3459708c9a60cd7312</variable>
+        <variable display_value="To (groups)">ae2121c70a0a0b3459708c9a60cd7312</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -859,7 +859,7 @@ Please do not reply to this email.</value>
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value>Reminder to amend your QC error on ${number}</value>
-        <variable display_value="">c35db2180a0a0ba96248a709d1b6df20</variable>
+        <variable display_value="Subject">c35db2180a0a0ba96248a709d1b6df20</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -897,7 +897,7 @@ Error found at: ${u_error_found_at}&#13;
 ${mail_script:qc_record_link_button}&#13;
 &#13;
 Please do not reply to this email.</value>
-        <variable display_value="">c35db5a50a0a0ba96248a70938ae8de6</variable>
+        <variable display_value="Message">c35db5a50a0a0ba96248a70938ae8de6</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -911,7 +911,7 @@ Please do not reply to this email.</value>
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value>1</value>
-        <variable display_value="">6d6816cd0a6a803f0853a8df38007572</variable>
+        <variable display_value="Advanced">6d6816cd0a6a803f0853a8df38007572</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -937,7 +937,7 @@ Please do not reply to this email.</value>
 	}&#13;
 }());&#13;
 </value>
-        <variable display_value="">c35dae3d0a0a0ba96248a7098ed9b4aa</variable>
+        <variable display_value="To (script)">c35dae3d0a0a0ba96248a7098ed9b4aa</variable>
     </sys_variable_value>
     <wf_condition action="INSERT_OR_UPDATE">
         <activity display_value="Remind user, assignee &amp; user.mananger after 5 days">0c3b83fddb56c414f4db16d15b961986</activity>
@@ -1001,7 +1001,7 @@ Please do not reply to this email.</value>
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value>user_specified_schedule</value>
-        <variable display_value="">4cba34da0a0a0b5200798c86eafe1203</variable>
+        <variable display_value="Schedule based on">4cba34da0a0a0b5200798c86eafe1203</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1015,7 +1015,7 @@ Please do not reply to this email.</value>
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value/>
-        <variable display_value="">292b2f0e0a0a0b215aa2dd2cbc578dc5</variable>
+        <variable display_value="Percentage">292b2f0e0a0a0b215aa2dd2cbc578dc5</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1029,7 +1029,7 @@ Please do not reply to this email.</value>
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value/>
-        <variable display_value="">c35dc0df0a0a0ba96248a7098d737925</variable>
+        <variable display_value="Duration">c35dc0df0a0a0ba96248a7098d737925</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1043,7 +1043,7 @@ Please do not reply to this email.</value>
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value>after</value>
-        <variable display_value="">220dc5a40a0a0b2109fbd28b8c4b6213</variable>
+        <variable display_value="Wait">220dc5a40a0a0b2109fbd28b8c4b6213</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1057,7 +1057,7 @@ Please do not reply to this email.</value>
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value>field</value>
-        <variable display_value="">21f80cd00a0a0b2101fcd5b5defc0810</variable>
+        <variable display_value="Timer based on">21f80cd00a0a0b2101fcd5b5defc0810</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1072,7 +1072,7 @@ Please do not reply to this email.</value>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value>// Set 'answer' to the number of seconds this timer should wait&#13;
 answer = 0;</value>
-        <variable display_value="">293493710a0a0b2115e3e5b4fce1d12a</variable>
+        <variable display_value="Script">293493710a0a0b2115e3e5b4fce1d12a</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1086,7 +1086,7 @@ answer = 0;</value>
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value>1970-01-01 16:00:00</value>
-        <variable display_value="">292c91070a0a0b212543d91ffde5014c</variable>
+        <variable display_value="Time after">292c91070a0a0b212543d91ffde5014c</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1100,7 +1100,7 @@ answer = 0;</value>
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value>1970-01-01 16:00:00</value>
-        <variable display_value="">292bd15e0a0a0b215a040c701033e3c5</variable>
+        <variable display_value="Time before">292bd15e0a0a0b215a040c701033e3c5</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1114,7 +1114,7 @@ answer = 0;</value>
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value/>
-        <variable display_value="">4cc6788c0a0a0b5200e6743c94001b16</variable>
+        <variable display_value="Schedule field">4cc6788c0a0a0b5200e6743c94001b16</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1128,7 +1128,7 @@ answer = 0;</value>
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value>u_error_found_at</value>
-        <variable display_value="">21fd462c0a0a0b211c997276d7806c03</variable>
+        <variable display_value="Field">21fd462c0a0a0b211c997276d7806c03</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1142,7 +1142,7 @@ answer = 0;</value>
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value>user_specified_timezone</value>
-        <variable display_value="">4cbfe48a0a0a0b5200cf8b82cc6685f1</variable>
+        <variable display_value="Time zone based on">4cbfe48a0a0a0b5200cf8b82cc6685f1</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1156,7 +1156,7 @@ answer = 0;</value>
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value>fef684a3dbdf1b00b26388805b9619ec</value>
-        <variable display_value="">4cc4a4030a0a0b52007334f001376dc5</variable>
+        <variable display_value="Schedule">4cc4a4030a0a0b52007334f001376dc5</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1170,7 +1170,7 @@ answer = 0;</value>
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value>3bf802c20a0a0b52008e2859cd8abcf2</value>
-        <variable display_value="">220cd53d0a0a0b214103bdc2ec5c7ab4</variable>
+        <variable display_value="Relative duration">220cd53d0a0a0b214103bdc2ec5c7ab4</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1184,7 +1184,7 @@ answer = 0;</value>
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value/>
-        <variable display_value="">4cc836da0a0a0b520083ebc07da2f47c</variable>
+        <variable display_value="Time zone">4cc836da0a0a0b520083ebc07da2f47c</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1198,7 +1198,7 @@ answer = 0;</value>
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value/>
-        <variable display_value="">4cc740fe0a0a0b520025dcf8e2ff78e7</variable>
+        <variable display_value="Time zone field">4cc740fe0a0a0b520025dcf8e2ff78e7</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1212,7 +1212,7 @@ answer = 0;</value>
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value>field</value>
-        <variable display_value="">21f80cd00a0a0b2101fcd5b5defc0810</variable>
+        <variable display_value="Timer based on">21f80cd00a0a0b2101fcd5b5defc0810</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1226,7 +1226,7 @@ answer = 0;</value>
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value>user_specified_schedule</value>
-        <variable display_value="">4cba34da0a0a0b5200798c86eafe1203</variable>
+        <variable display_value="Schedule based on">4cba34da0a0a0b5200798c86eafe1203</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1240,7 +1240,7 @@ answer = 0;</value>
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value>user_specified_timezone</value>
-        <variable display_value="">4cbfe48a0a0a0b5200cf8b82cc6685f1</variable>
+        <variable display_value="Time zone based on">4cbfe48a0a0a0b5200cf8b82cc6685f1</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1254,7 +1254,7 @@ answer = 0;</value>
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value>after</value>
-        <variable display_value="">220dc5a40a0a0b2109fbd28b8c4b6213</variable>
+        <variable display_value="Wait">220dc5a40a0a0b2109fbd28b8c4b6213</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1268,7 +1268,7 @@ answer = 0;</value>
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value>3bf802c20a0a0b52008e2859cd8abcf2</value>
-        <variable display_value="">220cd53d0a0a0b214103bdc2ec5c7ab4</variable>
+        <variable display_value="Relative duration">220cd53d0a0a0b214103bdc2ec5c7ab4</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1282,7 +1282,7 @@ answer = 0;</value>
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value/>
-        <variable display_value="">c35dc0df0a0a0ba96248a7098d737925</variable>
+        <variable display_value="Duration">c35dc0df0a0a0ba96248a7098d737925</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1296,7 +1296,7 @@ answer = 0;</value>
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value>u_error_found_at</value>
-        <variable display_value="">21fd462c0a0a0b211c997276d7806c03</variable>
+        <variable display_value="Field">21fd462c0a0a0b211c997276d7806c03</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1310,7 +1310,7 @@ answer = 0;</value>
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value>fef684a3dbdf1b00b26388805b9619ec</value>
-        <variable display_value="">4cc4a4030a0a0b52007334f001376dc5</variable>
+        <variable display_value="Schedule">4cc4a4030a0a0b52007334f001376dc5</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1324,7 +1324,7 @@ answer = 0;</value>
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value/>
-        <variable display_value="">4cc6788c0a0a0b5200e6743c94001b16</variable>
+        <variable display_value="Schedule field">4cc6788c0a0a0b5200e6743c94001b16</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1338,7 +1338,7 @@ answer = 0;</value>
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value/>
-        <variable display_value="">4cc836da0a0a0b520083ebc07da2f47c</variable>
+        <variable display_value="Time zone">4cc836da0a0a0b520083ebc07da2f47c</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1352,7 +1352,7 @@ answer = 0;</value>
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value/>
-        <variable display_value="">4cc740fe0a0a0b520025dcf8e2ff78e7</variable>
+        <variable display_value="Time zone field">4cc740fe0a0a0b520025dcf8e2ff78e7</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1366,7 +1366,7 @@ answer = 0;</value>
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value>1970-01-01 16:00:00</value>
-        <variable display_value="">292c91070a0a0b212543d91ffde5014c</variable>
+        <variable display_value="Time after">292c91070a0a0b212543d91ffde5014c</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1380,7 +1380,7 @@ answer = 0;</value>
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value/>
-        <variable display_value="">292b2f0e0a0a0b215aa2dd2cbc578dc5</variable>
+        <variable display_value="Percentage">292b2f0e0a0a0b215aa2dd2cbc578dc5</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1394,7 +1394,7 @@ answer = 0;</value>
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value>1970-01-01 16:00:00</value>
-        <variable display_value="">292bd15e0a0a0b215a040c701033e3c5</variable>
+        <variable display_value="Time before">292bd15e0a0a0b215a040c701033e3c5</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1409,7 +1409,7 @@ answer = 0;</value>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value>// Set 'answer' to the number of seconds this timer should wait&#13;
 answer = 0;</value>
-        <variable display_value="">293493710a0a0b2115e3e5b4fce1d12a</variable>
+        <variable display_value="Script">293493710a0a0b2115e3e5b4fce1d12a</variable>
     </sys_variable_value>
     <wf_condition action="INSERT_OR_UPDATE">
         <activity display_value="Wait 2 working days after 'Error found at'">c43b83fddb56c414f4db16d15b96197e</activity>
@@ -1495,7 +1495,7 @@ answer = 0;</value>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value>// Set 'answer' to the number of seconds this timer should wait&#13;
 answer = 0;</value>
-        <variable display_value="">293493710a0a0b2115e3e5b4fce1d12a</variable>
+        <variable display_value="Script">293493710a0a0b2115e3e5b4fce1d12a</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1509,7 +1509,7 @@ answer = 0;</value>
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value>user_specified_schedule</value>
-        <variable display_value="">4cba34da0a0a0b5200798c86eafe1203</variable>
+        <variable display_value="Schedule based on">4cba34da0a0a0b5200798c86eafe1203</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1523,7 +1523,7 @@ answer = 0;</value>
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value>1970-01-02 16:00:00</value>
-        <variable display_value="">292c91070a0a0b212543d91ffde5014c</variable>
+        <variable display_value="Time after">292c91070a0a0b212543d91ffde5014c</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1537,7 +1537,7 @@ answer = 0;</value>
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value/>
-        <variable display_value="">292bd15e0a0a0b215a040c701033e3c5</variable>
+        <variable display_value="Time before">292bd15e0a0a0b215a040c701033e3c5</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1551,7 +1551,7 @@ answer = 0;</value>
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value/>
-        <variable display_value="">4cc6788c0a0a0b5200e6743c94001b16</variable>
+        <variable display_value="Schedule field">4cc6788c0a0a0b5200e6743c94001b16</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1565,7 +1565,7 @@ answer = 0;</value>
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value>u_error_found_at</value>
-        <variable display_value="">21fd462c0a0a0b211c997276d7806c03</variable>
+        <variable display_value="Field">21fd462c0a0a0b211c997276d7806c03</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1579,7 +1579,7 @@ answer = 0;</value>
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value>user_specified_timezone</value>
-        <variable display_value="">4cbfe48a0a0a0b5200cf8b82cc6685f1</variable>
+        <variable display_value="Time zone based on">4cbfe48a0a0a0b5200cf8b82cc6685f1</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1593,7 +1593,7 @@ answer = 0;</value>
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value>fef684a3dbdf1b00b26388805b9619ec</value>
-        <variable display_value="">4cc4a4030a0a0b52007334f001376dc5</variable>
+        <variable display_value="Schedule">4cc4a4030a0a0b52007334f001376dc5</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1607,7 +1607,7 @@ answer = 0;</value>
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value>3bf802c20a0a0b52008e2859cd8abcf2</value>
-        <variable display_value="">220cd53d0a0a0b214103bdc2ec5c7ab4</variable>
+        <variable display_value="Relative duration">220cd53d0a0a0b214103bdc2ec5c7ab4</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1621,7 +1621,7 @@ answer = 0;</value>
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value/>
-        <variable display_value="">4cc836da0a0a0b520083ebc07da2f47c</variable>
+        <variable display_value="Time zone">4cc836da0a0a0b520083ebc07da2f47c</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1635,7 +1635,7 @@ answer = 0;</value>
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value/>
-        <variable display_value="">4cc740fe0a0a0b520025dcf8e2ff78e7</variable>
+        <variable display_value="Time zone field">4cc740fe0a0a0b520025dcf8e2ff78e7</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1649,7 +1649,7 @@ answer = 0;</value>
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value/>
-        <variable display_value="">c35dc0df0a0a0ba96248a7098d737925</variable>
+        <variable display_value="Duration">c35dc0df0a0a0ba96248a7098d737925</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1663,7 +1663,7 @@ answer = 0;</value>
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value>after</value>
-        <variable display_value="">220dc5a40a0a0b2109fbd28b8c4b6213</variable>
+        <variable display_value="Wait">220dc5a40a0a0b2109fbd28b8c4b6213</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1677,7 +1677,7 @@ answer = 0;</value>
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value>field</value>
-        <variable display_value="">21f80cd00a0a0b2101fcd5b5defc0810</variable>
+        <variable display_value="Timer based on">21f80cd00a0a0b2101fcd5b5defc0810</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1691,7 +1691,7 @@ answer = 0;</value>
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value/>
-        <variable display_value="">292b2f0e0a0a0b215aa2dd2cbc578dc5</variable>
+        <variable display_value="Percentage">292b2f0e0a0a0b215aa2dd2cbc578dc5</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1705,7 +1705,7 @@ answer = 0;</value>
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value>field</value>
-        <variable display_value="">21f80cd00a0a0b2101fcd5b5defc0810</variable>
+        <variable display_value="Timer based on">21f80cd00a0a0b2101fcd5b5defc0810</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1719,7 +1719,7 @@ answer = 0;</value>
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value>user_specified_schedule</value>
-        <variable display_value="">4cba34da0a0a0b5200798c86eafe1203</variable>
+        <variable display_value="Schedule based on">4cba34da0a0a0b5200798c86eafe1203</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1733,7 +1733,7 @@ answer = 0;</value>
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value>user_specified_timezone</value>
-        <variable display_value="">4cbfe48a0a0a0b5200cf8b82cc6685f1</variable>
+        <variable display_value="Time zone based on">4cbfe48a0a0a0b5200cf8b82cc6685f1</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1747,7 +1747,7 @@ answer = 0;</value>
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value>after</value>
-        <variable display_value="">220dc5a40a0a0b2109fbd28b8c4b6213</variable>
+        <variable display_value="Wait">220dc5a40a0a0b2109fbd28b8c4b6213</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1761,7 +1761,7 @@ answer = 0;</value>
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value>u_error_found_at</value>
-        <variable display_value="">21fd462c0a0a0b211c997276d7806c03</variable>
+        <variable display_value="Field">21fd462c0a0a0b211c997276d7806c03</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1775,7 +1775,7 @@ answer = 0;</value>
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value>3bf802c20a0a0b52008e2859cd8abcf2</value>
-        <variable display_value="">220cd53d0a0a0b214103bdc2ec5c7ab4</variable>
+        <variable display_value="Relative duration">220cd53d0a0a0b214103bdc2ec5c7ab4</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1789,7 +1789,7 @@ answer = 0;</value>
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value/>
-        <variable display_value="">c35dc0df0a0a0ba96248a7098d737925</variable>
+        <variable display_value="Duration">c35dc0df0a0a0ba96248a7098d737925</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1803,7 +1803,7 @@ answer = 0;</value>
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value>fef684a3dbdf1b00b26388805b9619ec</value>
-        <variable display_value="">4cc4a4030a0a0b52007334f001376dc5</variable>
+        <variable display_value="Schedule">4cc4a4030a0a0b52007334f001376dc5</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1817,7 +1817,7 @@ answer = 0;</value>
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value/>
-        <variable display_value="">4cc6788c0a0a0b5200e6743c94001b16</variable>
+        <variable display_value="Schedule field">4cc6788c0a0a0b5200e6743c94001b16</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1831,7 +1831,7 @@ answer = 0;</value>
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value/>
-        <variable display_value="">4cc836da0a0a0b520083ebc07da2f47c</variable>
+        <variable display_value="Time zone">4cc836da0a0a0b520083ebc07da2f47c</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1845,7 +1845,7 @@ answer = 0;</value>
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value/>
-        <variable display_value="">4cc740fe0a0a0b520025dcf8e2ff78e7</variable>
+        <variable display_value="Time zone field">4cc740fe0a0a0b520025dcf8e2ff78e7</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1859,7 +1859,7 @@ answer = 0;</value>
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value/>
-        <variable display_value="">292b2f0e0a0a0b215aa2dd2cbc578dc5</variable>
+        <variable display_value="Percentage">292b2f0e0a0a0b215aa2dd2cbc578dc5</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1873,7 +1873,7 @@ answer = 0;</value>
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value/>
-        <variable display_value="">292bd15e0a0a0b215a040c701033e3c5</variable>
+        <variable display_value="Time before">292bd15e0a0a0b215a040c701033e3c5</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1887,7 +1887,7 @@ answer = 0;</value>
         <sys_updated_by>AnnAal</sys_updated_by>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value>1970-01-02 16:00:00</value>
-        <variable display_value="">292c91070a0a0b212543d91ffde5014c</variable>
+        <variable display_value="Time after">292c91070a0a0b212543d91ffde5014c</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1902,7 +1902,7 @@ answer = 0;</value>
         <sys_updated_on>2020-01-13 08:36:50</sys_updated_on>
         <value>// Set 'answer' to the number of seconds this timer should wait&#13;
 answer = 0;</value>
-        <variable display_value="">293493710a0a0b2115e3e5b4fce1d12a</variable>
+        <variable display_value="Script">293493710a0a0b2115e3e5b4fce1d12a</variable>
     </sys_variable_value>
     <wf_condition action="INSERT_OR_UPDATE">
         <activity display_value="Wait 5 working days after 'Error found at'">803b83fddb56c414f4db16d15b961983</activity>

@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_cubes">
     <pa_cubes action="INSERT_OR_UPDATE">
         <benchmarking>false</benchmarking>
+        <calendar>standard</calendar>
+        <calendar_freq/>
         <conditions table="x_ipegh_copyright_qc">state!=-1<item display_value="To be checked" endquery="false" field="state" goto="false" newquery="false" operator="!=" or="false" value="-1"/>
         </conditions>
         <description/>

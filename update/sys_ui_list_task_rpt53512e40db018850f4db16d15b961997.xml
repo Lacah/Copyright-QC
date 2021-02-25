@@ -3,7 +3,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>number</element>
-            <list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="531e92fbdbdce450a8088edf4b9619c5">21812280db018850f4db16d15b9619ee</list_id>
+            <list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="df512e40db018850f4db16d15b96199c">21812280db018850f4db16d15b9619ee</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
@@ -18,7 +18,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>opened_at</element>
-            <list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="531e92fbdbdce450a8088edf4b9619c5">21812280db018850f4db16d15b9619ee</list_id>
+            <list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="df512e40db018850f4db16d15b96199c">21812280db018850f4db16d15b9619ee</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
@@ -33,7 +33,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>short_description</element>
-            <list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="531e92fbdbdce450a8088edf4b9619c5">21812280db018850f4db16d15b9619ee</list_id>
+            <list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="df512e40db018850f4db16d15b96199c">21812280db018850f4db16d15b9619ee</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
@@ -48,7 +48,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>priority</element>
-            <list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="531e92fbdbdce450a8088edf4b9619c5">21812280db018850f4db16d15b9619ee</list_id>
+            <list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="df512e40db018850f4db16d15b96199c">21812280db018850f4db16d15b9619ee</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
@@ -63,7 +63,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>state</element>
-            <list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="531e92fbdbdce450a8088edf4b9619c5">21812280db018850f4db16d15b9619ee</list_id>
+            <list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="df512e40db018850f4db16d15b96199c">21812280db018850f4db16d15b9619ee</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
@@ -78,7 +78,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>u_product_category</element>
-            <list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="531e92fbdbdce450a8088edf4b9619c5">21812280db018850f4db16d15b9619ee</list_id>
+            <list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="df512e40db018850f4db16d15b96199c">21812280db018850f4db16d15b9619ee</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>5</position>
@@ -93,7 +93,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>assignment_group</element>
-            <list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="531e92fbdbdce450a8088edf4b9619c5">21812280db018850f4db16d15b9619ee</list_id>
+            <list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="df512e40db018850f4db16d15b96199c">21812280db018850f4db16d15b9619ee</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>6</position>
@@ -108,7 +108,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>assigned_to</element>
-            <list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="531e92fbdbdce450a8088edf4b9619c5">21812280db018850f4db16d15b9619ee</list_id>
+            <list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="df512e40db018850f4db16d15b96199c">21812280db018850f4db16d15b9619ee</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>7</position>
@@ -123,7 +123,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>sys_updated_on</element>
-            <list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="531e92fbdbdce450a8088edf4b9619c5">21812280db018850f4db16d15b9619ee</list_id>
+            <list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="df512e40db018850f4db16d15b96199c">21812280db018850f4db16d15b9619ee</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>8</position>
@@ -138,7 +138,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>u_sla_type</element>
-            <list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="531e92fbdbdce450a8088edf4b9619c5">21812280db018850f4db16d15b9619ee</list_id>
+            <list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="df512e40db018850f4db16d15b96199c">21812280db018850f4db16d15b9619ee</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>9</position>
@@ -175,7 +175,7 @@
             <sys_updated_by>LasBal</sys_updated_by>
             <sys_updated_on>2019-11-06 15:46:57</sys_updated_on>
             <sys_user/>
-            <view display_value="Rpt53512e40db018850f4db16d15b961997" name="RPT53512e40db018850f4db16d15b961997">531e92fbdbdce450a8088edf4b9619c5</view>
+            <view display_value="Rpt53512e40db018850f4db16d15b961997" name="RPT53512e40db018850f4db16d15b961997">df512e40db018850f4db16d15b96199c</view>
             <view_name/>
         </sys_ui_list>
     </sys_ui_list>
