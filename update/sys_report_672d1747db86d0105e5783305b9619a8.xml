@@ -2,9 +2,9 @@
     <sys_report action="INSERT_OR_UPDATE">
         <additional_groupby/>
         <aggregate>COUNT</aggregate>
-        <aggregation_source/>
+        <aggregation_source>no_override</aggregation_source>
         <allow_data_label_overlap>true</allow_data_label_overlap>
-        <apply_alias>true</apply_alias>
+        <apply_alias>false</apply_alias>
         <axis_max_color display_value="UI14 Blue Light">b0d449b3d7332100fa6c0c12ce610383</axis_max_color>
         <axis_min_color display_value="White">65b303c7a9fe3dba00629aff95ee3597</axis_min_color>
         <bar_unstack>true</bar_unstack>
@@ -47,9 +47,10 @@
         <exp_report_attrs>true</exp_report_attrs>
         <field>user</field>
         <field_list>number,opened_at,short_description,caller_id,caller_id.company,priority,state,u_product_category,assignment_group,assigned_to,sys_updated_on</field_list>
-        <filter table="x_ipegh_copyright_qc">user.managerDYNAMIC90d1921e5f510100a9ad2572f2b477fe^state=-4^user.company!=14828533db2bf740f4db16d15b961937<item endquery="false" field="user.manager" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
+        <filter table="x_ipegh_copyright_qc">user.managerDYNAMIC90d1921e5f510100a9ad2572f2b477fe^state=-4^user.company!=14828533db2bf740f4db16d15b961937^beginners_qc_case=false<item endquery="false" field="user.manager" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
             <item display_value="Minor internal" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="-4"/>
             <item display_table="core_company" display_value="OnMusic" endquery="false" field="user.company" goto="false" newquery="false" operator="!=" or="false" value="14828533db2bf740f4db16d15b961937"/>
+            <item endquery="false" field="beginners_qc_case" goto="false" newquery="false" operator="=" or="false" value="false"/>
         </filter>
         <formatting_configuration>{"table":"x_ipegh_copyright_qc","stringFormattingProperties":{},"durationFormattingProperties":{},"dateFormattingProperties":{},"numberFormattingProperties":{}}</formatting_configuration>
         <from/>
@@ -109,14 +110,14 @@
         <sys_created_by>AnnAal</sys_created_by>
         <sys_created_on>2020-07-21 17:03:19</sys_created_on>
         <sys_id>672d1747db86d0105e5783305b9619a8</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>Minor errors, my team</sys_name>
         <sys_package display_value="Copyright QC" source="x_ipegh_copyright">5cb9a113db8e3b00b26388805b9619f0</sys_package>
         <sys_policy/>
         <sys_scope display_value="Copyright QC">5cb9a113db8e3b00b26388805b9619f0</sys_scope>
         <sys_update_name>sys_report_672d1747db86d0105e5783305b9619a8</sys_update_name>
         <sys_updated_by>AnnAal</sys_updated_by>
-        <sys_updated_on>2020-07-21 17:29:15</sys_updated_on>
+        <sys_updated_on>2021-02-25 12:45:21</sys_updated_on>
         <table>x_ipegh_copyright_qc</table>
         <title>Minor errors, my team</title>
         <title_horizontal_alignment>center</title_horizontal_alignment>
